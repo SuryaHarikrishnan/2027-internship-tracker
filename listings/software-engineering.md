@@ -1,4 +1,4 @@
-# Software Engineering (408)
+# Software Engineering (407)
 
 [← back to index](../README.md)
 
@@ -42,7 +42,6 @@
 | [Palantir](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply) | Privacy and Civil Liberties Software Engineer Intern | NYC | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-06-29 | 3 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply) | Forward Deployed Software Engineer Intern - Commercial | NYC | Winter 2027, Spring 2028, Summer 2028 | 2026-06-29 | 3 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7787509003) | Software Engineer Intern | San Bruno, CA | Fall 2026 | 2026-06-27 | 5 | simplify-2026 |
-| [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Barrie/Application-Engineering-Intern_2026-21837) | Application Engineer Intern | Barrie, ON, Canada | Summer 2026 | 2026-06-26 | 6 | simplify-2026 |
 | [Outmarket AI](https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application) | AI Software Engineer Intern | Remote in India, Remote in USA | Summer 2026 | 2026-06-26 | 6 | simplify-2026 |
 | [Kabam](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) | Software Engineer Co-op - Gameplay | Vancouver, BC, Canada | Fall 2026 | 2026-06-26 | 6 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/73300/job?mobile=true&needsRedirect=false) | Software Engineer - Multiple Teams | Pittsfield, MA | N/A | 2026-06-26 | 6 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (201)
+# Hardware Engineering (200)
 
 [← back to index](../README.md)
 
@@ -47,7 +47,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273819) | Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 16 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273820) | Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 16 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273822) | Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 16 | simplify-2026 |
-| [Optiver](https://job-boards.greenhouse.io/optiverprivate/jobs/8592684002) | FPGA Engineer Intern | Chicago, IL | Summer 2027 | 2026-06-16 | 16 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Computer-Engineering-Science---US---2026-Start_R5031077-1) | Engineering Development Program - Engines - Computer Engineering/Science | Sharonville, OH, Saugus, MA | N/A | 2026-06-16 | 16 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply) | Embedded Software Engineer Intern | Toronto, ON, Canada | Fall 2025 | 2026-06-12 | 20 | simplify-2026 |
 | [NRG Energy](https://careers.nrgenergy.com/SMARTHOMES/job/Maumelle-Summer-Installation-Technician-Maumelle,-AR-AR-72113/1399149300/?ats=successfactors) | Installation Technician | Little Rock, AR | N/A | 2026-06-11 | 21 | simplify-2026 |
