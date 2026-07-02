@@ -20867,7 +20867,7 @@
     "company_name": "Tencent",
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "title": "Multimedia Development Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -25133,7 +25133,7 @@
     "company_name": "Fidelity Investments",
     "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
     "title": "Undergraduate Software Engineer - Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -26956,7 +26956,7 @@
     "company_name": "PNC Financial Services",
     "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
     "title": "Graduate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -331938,6 +331938,34 @@
   },
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Apple",
+    "id": "9720993c-ebdc-41b6-81e1-d589d6ab63ee",
+    "title": "SoC Performance Modeling Internship - Platform Architecture",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1763513880,
+    "date_posted": 1763513880,
+    "url": "https://jobs.apple.com/en-us/details/200629965",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "NVIDIA",
     "id": "08f79d46-4ec4-483c-9e30-a973e0dbeeca",
@@ -355020,54 +355048,6 @@
     "date_posted": 1762270175,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Apple",
-    "id": "9720993c-ebdc-41b6-81e1-d589d6ab63ee",
-    "title": "SoC Performance Modeling Internship - Platform Architecture",
-    "active": true,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762256612,
-    "date_posted": 1762256612,
-    "url": "https://jobs.apple.com/en-us/details/200629965",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Apple",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "7f293523-ce81-494e-9f56-04d855187676",
-    "title": "Undergraduate Placement Year 2025 \u2013 Product Quality Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762256080,
-    "date_posted": 1762256080,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000091539663",
-    "locations": [
-      "Stratford-upon-Avon, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

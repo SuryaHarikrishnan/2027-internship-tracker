@@ -198,6 +198,7 @@
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) | ASIC Design Engineer Intern | United States | Winter 2025 | 2025-11-27 | 217 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108) | Software Development Engineer Intern | United States | Winter 2025 | 2025-11-27 | 217 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200617616) | GPU Internship - Platform Architecture | London, UK, Cambridge, UK, Welwyn Garden City, UK | Winter 2025, Spring 2026, Summer 2026 | 2025-11-19 | 225 | simplify-2026 |
+| [Apple](https://jobs.apple.com/en-us/details/200629965) | SoC Performance Modeling Internship - Platform Architecture | London, UK | Summer 2026 | 2025-11-19 | 225 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | Design Verification Intern - RISCV CPU | Austin, TX, Santa Clara, CA | Fall 2026 | 2025-11-18 | 226 | simplify-2026 |
 | [Skyworks](https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/75987-en_US/) | IC Development (Software) | Austin, TX | Summer 2026 | 2025-11-18 | 226 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern - Winter 2026 | San Jose, CA | Winter 2026 | 2025-11-14 | 230 | simplify-2026 |
@@ -205,4 +206,3 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1) | Firmware Engineer Intern - Bachelor's Degree | Santa Clara, CA | Summer 2026 | 2025-11-12 | 232 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Chiplet Security Research Intern | Santa Clara, CA | Winter 2025 | 2025-11-06 | 238 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428) | Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree | Irvine, CA | Summer 2026 | 2025-11-05 | 239 | simplify-2026 |
-| [Apple](https://jobs.apple.com/en-us/details/200629965) | SoC Performance Modeling Internship - Platform Architecture | London, UK | Winter 2025 | 2025-11-04 | 240 | simplify-2026 |

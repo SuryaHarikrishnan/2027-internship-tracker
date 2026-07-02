@@ -1,4 +1,4 @@
-# Software Engineering (409)
+# Software Engineering (410)
 
 [← back to index](../README.md)
 
@@ -184,6 +184,7 @@
 | [Sherwin-Williams](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2613523) | R&D Product Engineering Co-op - Commercialization Engineering - Process Engineering | Seven Hills, OH | Winter 2027, Spring 2027, Summer 2027 | 2026-06-01 | 31 | simplify-2026 |
 | [Skyscanner](http://www.skyscanner.net/jobs/job/7956291?gh_jid=7956291) | Software Engineering Apprentice | Glasgow, UK | Summer 2026 | 2026-06-01 | 31 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | Junior Full Stack Developer Co-op | Oakville, ON, Canada | Summer 2026 | 2026-05-30 | 33 | simplify-2026 |
+| [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) | Undergraduate Software Engineer - Software Engineer | NYC | N/A | 2026-05-30 | 33 | simplify-2026 |
 | [pony.ai](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) | Software Engineer Intern | Fremont, CA | Summer 2026 | 2026-05-29 | 34 | simplify-2026 |
 | [Apogee Engineering](https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false) | Systems Architect Apprentice | Wright-Patterson AFB, OH | Summer 2026 | 2026-05-28 | 35 | simplify-2026 |
 | [Expedia Group](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Discovery-Program-2026---Software-Development---Seattle_R-106372) | Career Discovery Program - Software Development | Seattle, WA | N/A | 2026-05-28 | 35 | simplify-2026 |
