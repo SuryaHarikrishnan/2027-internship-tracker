@@ -32,8 +32,8 @@ jobs:
       - name: Commit and push if changed
         run: |
           if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config user.name "SuryaHarikrishnan"
+            git config user.email "snarayanan2208@gmail.com"
             git add -A
             git commit -m "Listings refresh $(date -u +%H:%M) UTC — ${{ steps.scrape.outputs.summary }}"
             git push
