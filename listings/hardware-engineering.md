@@ -1,4 +1,4 @@
-# Hardware Engineering (203)
+# Hardware Engineering (202)
 
 [← back to index](../README.md)
 
@@ -120,7 +120,6 @@
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | Fall 2026 | 2026-05-20 | 43 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36271) | Hardware Engineering Co-op | Sunnyvale, CA | Fall 2026, Winter 2026 | 2026-05-20 | 43 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) | ASIC Verification Intern | Ottawa, ON, Canada | Fall 2026 | 2026-05-20 | 43 | simplify-2026 |
-| [Nuro](https://nuro.ai/careersitem?gh_jid=7673849) | Vehicle Reliability Intern | San Jose, CA, Mountain View, CA | Summer 2026 | 2026-05-19 | 44 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply) | Subsystem Test Engineer Intern | Atlanta, GA | Fall 2026 | 2026-05-19 | 44 | simplify-2026 |
 | [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply) | Design Verification Intern | Burlingame, CA | Summer 2026 | 2026-05-19 | 44 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) | Hardware Development Engineer Co-op | Sunnyvale, CA | Fall 2026 | 2026-05-17 | 46 | simplify-2026 |
@@ -135,7 +134,6 @@
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | Assembly and Test Intern - Integration | SF | Fall 2026 | 2026-05-12 | 51 | simplify-2026 |
 | [Heron Power](http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application) | Hardware Test Engineering Intern | Santa Cruz, CA | Summer 2026 | 2026-05-11 | 52 | simplify-2026 |
 | [Apex](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application) | Software Engineering Intern - Embedded Systems | LA | Summer 2026 | 2026-05-11 | 52 | simplify-2026 |
-| [Advanced Energy](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors) | Electronics Service Intern | Fort Collins, CO | Summer 2026 | 2026-05-08 | 55 | simplify-2026 |
 | [Smiths Detection Group](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) | Depot Service Engineer Intern | Gunpowder, MD | N/A | 2026-05-07 | 56 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200647863) | Hardware Systems Engineering Intern | Austin, TX | N/A | 2026-05-06 | 57 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269819) | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-05-06 | 57 | simplify-2026 |
@@ -156,6 +154,7 @@
 | [Formlabs](https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874) | Test Engineering Intern | Cambridge, MA | Fall 2026 | 2026-04-13 | 80 | simplify-2026 |
 | [Etched](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application) | DFT Intern | San Jose, CA | Summer 2026 | 2026-04-13 | 80 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Design Verification Engineer Intern | Boston, MA | Winter 2026, Summer 2026, Fall 2026 | 2026-04-09 | 84 | simplify-2026 |
+| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330606) | Data Center Trainee | Stamford, TX | N/A | 2026-04-07 | 86 | simplify-2026 |
 | [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) | Radio Frequency Engineering Intern | El Segundo, CA | Fall 2026 | 2026-04-06 | 87 | simplify-2026 |
 | [SoloPulse](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | Systems Engineering Intern | Norcross, GA | Summer 2026 | 2026-04-02 | 91 | simplify-2026 |
 | [WindBorne Systems](https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application) | Firmware Intern | San Carlos, CA | Summer 2026 | 2026-04-01 | 92 | simplify-2026 |

@@ -1,9 +1,10 @@
-# Quantitative Finance (70)
+# Quantitative Finance (71)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819) | Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern | London, UK | Summer 2027 | 2026-07-02 | 0 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TRURO-Nova-Scotia-Canada/Relationship-Manager-Business-Markets-Intern_R-0000178538) | Relationship Manager Business Markets Intern | Dartmouth, NS, Canada, New Glasgow, NS, Canada | Fall 2026 | 2026-07-02 | 0 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | Relationship Manager Commercial Markets Intern | Madawaska County, NB, Canada | Summer 2026 | 2026-07-02 | 0 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRIDGEWATER-Nova-Scotia-Canada/Relationship-Manager-Business-Markets-Intern_R-0000178540-1) | Relationship Manager Business Markets Intern | Lunenburg, NS, Canada, Halifax Regional Municipality, NS, Canada | Fall 2026 | 2026-07-02 | 0 | simplify-2026 |

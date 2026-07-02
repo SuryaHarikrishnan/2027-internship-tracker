@@ -1,4 +1,4 @@
-# Product Management (17)
+# Product Management (16)
 
 [← back to index](../README.md)
 
@@ -8,7 +8,6 @@
 | [Kensington](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | Operations Intern - Ultraluxe Product | Toronto, ON, Canada | Summer 2026 | 2026-06-23 | 9 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 9 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | Product Operations Intern | Santa Clara, CA | Summer 2026 | 2026-06-17 | 15 | simplify-2026 |
-| [Picarro](https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5253032008) | Product Development Intern | Santa Clara, CA | Summer 2026 | 2026-06-09 | 23 | simplify-2026 |
 | [Primetals Technologies](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-(Internship)-FL-32809/1389987633/?ats=successfactors) | Product Line Management Associate Intern | Orlando, FL | Summer 2026 | 2026-05-16 | 47 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | Product Development Intern/Co-op | Ottawa, ON, Canada | Fall 2026 | 2026-04-16 | 77 | simplify-2026 |
 | [Instawork](https://job-boards.greenhouse.io/instawork/jobs/4588237006) | Product Operations Intern | Chicago, IL | Summer 2026 | 2026-03-21 | 103 | simplify-2026 |
