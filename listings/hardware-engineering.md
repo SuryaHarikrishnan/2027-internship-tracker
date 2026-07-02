@@ -1,4 +1,4 @@
-# Hardware Engineering (202)
+# Hardware Engineering (201)
 
 [← back to index](../README.md)
 
@@ -125,7 +125,6 @@
 | [Amazon](https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) | Hardware Development Engineer Co-op | Sunnyvale, CA | Fall 2026 | 2026-05-17 | 46 | simplify-2026 |
 | [Menasha Corporation](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Mentor-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Spring-2027-_R12878) | Custom Packaging Design Engineer Co-Op | Mentor, OH | Winter 2027, Spring 2027, Summer 2027 | 2026-05-16 | 47 | simplify-2026 |
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) | HITL Engineer Intern | Long Beach, CA | Fall 2026 | 2026-05-16 | 47 | simplify-2026 |
-| [Interstates](https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009) | Manufacturing Intern | Fort Collins, CO | Summer 2026 | 2026-05-15 | 48 | simplify-2026 |
 | [University of Arkansas](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815) | Student Research Assistant-2 | Pine Bluff, AR | N/A | 2026-05-15 | 48 | simplify-2026 |
 | [Technergetics](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | R&D Engineer Intern | Remote in USA | Summer 2026 | 2026-05-15 | 48 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oAz7zfwz?nl=1&nl=1&fr=false) | Onboard Fare Systems - Technology & Engineer Fellow | NYC | N/A | 2026-05-13 | 50 | simplify-2026 |

@@ -2,6 +2,32 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Bosch Home Comfort",
+    "id": "065e5761-d574-4c20-a590-6fd396d58e47",
+    "title": "Business Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783002781,
+    "date_posted": 1783001160,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810",
+    "locations": [
+      "Belmont, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Oracle",
     "id": "d55da702-839a-42a9-8c4d-a6356630c452",
     "title": "Customer Solutions Analyst Intern - Ovip",
@@ -806,7 +832,7 @@
     "company_name": "Rochester Regional Health",
     "id": "82b2aa29-b508-449f-940e-6811aada2561",
     "title": "Web Applications Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11021,7 +11047,7 @@
     "company_name": "mthree",
     "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
     "title": "Technology Talent Programme",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -15256,7 +15282,7 @@
     "company_name": "Kinaxis",
     "id": "1cc4772b-29e5-48ac-a3b6-5ecb7c83060f",
     "title": "Software Developer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -18577,7 +18603,7 @@
     "company_name": "SOTI",
     "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
     "title": "Web Producer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -39946,7 +39972,7 @@
     "company_name": "Interstates",
     "id": "e0159f6e-7578-47de-b54f-df4e0ef9d581",
     "title": "Manufacturing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -55772,7 +55798,7 @@
     "company_name": "Loblaw Companies",
     "id": "e78fc999-e787-4237-beb5-6e129705ecca",
     "title": "Analyst Co-op - Finance Insights and Technology Engagement",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -247273,7 +247299,7 @@
     "company_name": "Tencent",
     "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
     "title": "Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",

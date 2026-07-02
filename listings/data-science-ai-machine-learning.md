@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (441)
+# Data Science, AI & Machine Learning (444)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000135497810) | Business Intelligence Intern | Belmont, MA | Fall 2026 | 2026-07-02 | 0 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | Machine Learning Center of Excellence Intern - NLP | London, UK | Summer 2026 | 2026-07-02 | 0 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134542009) | Foreign Trade Data Analytics Intern | Western Springs, IL | Fall 2026 | 2026-07-02 | 0 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | A.1. Integration Intern | Columbia City, IN | Fall 2026 | 2026-07-02 | 0 | simplify-2026 |
@@ -250,6 +251,7 @@
 | [Meta](https://www.metacareers.com/jobs/24536664159369645) | Research Scientist Intern - Language & Multimodal Foundations | Seattle, WA, Menlo Park, CA, NYC | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-05-05 | 58 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35743) | Data Science Co-op - Test Automation - Big Data Analysis | Long Island City, Queens, NY | Fall 2026, Winter 2026 | 2026-05-05 | 58 | simplify-2026 |
 | [X Development](https://x.company/careers/8534828002?gh_jid=8534828002) | PhD Resident - AI for Chemistry - Early Stage Project | Mountain View, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-05-04 | 59 | simplify-2026 |
+| [Loblaw Companies](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Finance-Insights-and-Technology-Engagement---Co-op-Student_R2000658455-1) | Analyst Co-op - Finance Insights and Technology Engagement | Brampton, ON, Canada | Fall 2026, Winter 2027, Spring 2027 | 2026-05-04 | 59 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oKx4zfwE?nl=1&nl=1&fr=false) | Geographic Information Systems Fellow - Technology & Engineer | Queens, NY | N/A | 2026-05-01 | 62 | simplify-2026 |
 | [Cohere](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Research Internship | Montreal, QC, Canada, London, UK, Toronto, ON, Canada, SF | Fall 2026, Winter 2026 | 2026-05-01 | 62 | simplify-2026 |
 | [American Enterprise Institute](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Data Analysis & AI Policy Intern | Washington, DC | Fall 2026 | 2026-05-01 | 62 | simplify-2026 |
@@ -380,6 +382,7 @@
 | [Citadel](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | Machine Learning Researcher – PhD Intern - US | NYC | Summer 2026 | 2026-01-22 | 161 | simplify-2026 |
 | [Apogee Engineering](https://careers-apogeeusa.icims.com/jobs/1443/job?mobile=true&needsRedirect=false) | Technical Intelligence Analyst | Wright-Patterson AFB, OH | Summer 2026 | 2026-01-21 | 162 | simplify-2026 |
 | [True Manufacturing](https://officejobs-truemfg.icims.com/jobs/2671/job?mobile=true&needsRedirect=false) | AI Analyst Intern/Co-op | O'Fallon, MO | Summer 2026 | 2026-01-21 | 162 | simplify-2026 |
+| [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) | Research Intern | Bellevue, WA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-01-21 | 162 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7592001144580262197) | Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer | San Jose, CA | Summer 2026 | 2026-01-21 | 162 | simplify-2026 |
 | [Instacart](https://instacart.careers/job/?gh_jid=5917202) | Machine Learning Engineer Intern | Remote in USA | Spring 2026 | 2026-01-20 | 163 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7595346361319491893) | Machine Learning Engineer Intern - Commerce Ads - 2026 Summer | San Jose, CA | Summer 2026 | 2026-01-16 | 167 | simplify-2026 |
