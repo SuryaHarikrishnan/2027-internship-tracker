@@ -33,7 +33,7 @@ jobs:
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "SuryaHarikrishnan"
-            git config user.email "snarayanan2208@gmail.com"
+            git config user.email "suryanarayanan.harikrishnan@gmail.com"
             git add -A
             git commit -m "Listings refresh $(date -u +%H:%M) UTC — ${{ steps.scrape.outputs.summary }}"
             git push
