@@ -1,4 +1,4 @@
-# Hardware Engineering (200)
+# Hardware Engineering (199)
 
 [← back to index](../README.md)
 
@@ -78,7 +78,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/272601) | Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 25 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271866) | Software Integration Engineer Intern - Software Integration Engineer - Service Tooling | Fremont, CA | Fall 2026 | 2026-06-07 | 25 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/266999) | Embedded Software Engineer Intern - Embedded Software Engineer - Audio Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 25 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/266985) | Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms | Palo Alto, CA | Fall 2026 | 2026-06-07 | 25 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271539) | Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 26 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271544) | Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 26 | simplify-2026 |
 | [Zipline](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | Embedded Software Engineer Intern | San Bruno, CA | Fall 2026 | 2026-06-06 | 26 | simplify-2026 |

@@ -439,7 +439,7 @@
     "company_name": "Citi",
     "id": "91db4853-adf9-4087-93dc-8182d251fe06",
     "title": "Services Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -18075,7 +18075,7 @@
     "company_name": "Tesla",
     "id": "a664ddfa-e830-44fc-9689-32bd01c6a4cc",
     "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -24392,7 +24392,7 @@
     "company_name": "Cotiviti",
     "id": "9389e9ee-1fbf-425b-925b-9567f6113a1a",
     "title": "Generative AI Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -52089,7 +52089,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "44dc6bbf-bf67-45ed-bd4f-36102982e97a",
     "title": "Data Analyst \u2013 Emerging Talent Intern - Automatic Camera Enforcement - Ace",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -71590,7 +71590,7 @@
     "company_name": "Veeva Systems",
     "id": "14bb6e3b-26a8-4881-942d-d0d1d0924a68",
     "title": "Software Engineer in Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -91446,7 +91446,7 @@
     "company_name": "Verkada",
     "id": "68da8f52-9a43-4f21-8742-602f2b262808",
     "title": "Backend Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

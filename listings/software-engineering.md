@@ -1,4 +1,4 @@
-# Software Engineering (407)
+# Software Engineering (405)
 
 [← back to index](../README.md)
 
@@ -255,7 +255,6 @@
 | [ASM International](https://www.asm.com/open-vacancies/?gh_jid=4830113101) | Software Engineering Intern | Phoenix, AZ | Spring 2027 | 2026-04-22 | 71 | simplify-2026 |
 | [Blockhouse](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application) | Rust Developer Intern | Detroit, MI, NYC | Spring 2026 | 2026-04-21 | 72 | simplify-2026 |
 | [Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741) | AI Intern | Sunnyvale, CA | Summer 2026 | 2026-04-21 | 72 | simplify-2026 |
-| [Veeva Systems](https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c/apply) | Software Engineer in Test Intern | Toronto, ON, Canada | Summer 2026 | 2026-04-20 | 73 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7629500062003218741) | Software Engineer Project Intern - Recommendation Infrastructure | San Jose, CA | Summer 2026 | 2026-04-20 | 73 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply) | Modeling & Simulation Software Engineer Intern | LA | Fall 2026 | 2026-04-17 | 76 | simplify-2026 |
 | [Context](https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application) | Intern | SF | Summer 2026 | 2026-04-17 | 76 | simplify-2026 |
@@ -270,7 +269,6 @@
 | [Tessera Labs](https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application) | Software Engineering Intern - Frontend | San Jose, CA | Summer 2026 | 2026-04-08 | 85 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | Mobile iOS Developer Intern | NYC | Summer 2026 | 2026-04-07 | 86 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | Android Developer Intern | NYC | Summer 2026 | 2026-04-07 | 86 | simplify-2026 |
-| [Verkada](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | Backend Software Engineering Intern | San Mateo, CA | Fall 2026 | 2026-04-07 | 86 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application) | Software Engineer Intern | SF | Fall 2026 | 2026-04-07 | 86 | simplify-2026 |
 | [Omnis](https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753) | Software Engineering Internship/Co-Op | Venice, CA | Summer 2026 | 2026-04-06 | 87 | simplify-2026 |
 | [Veeva](https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/) | Intern Software Engineer | Pleasanton, CA | Summer 2026 | 2026-04-06 | 87 | simplify-2026 |
