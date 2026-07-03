@@ -1,4 +1,4 @@
-# Software Engineering (404)
+# Software Engineering (402)
 
 [← back to index](../README.md)
 
@@ -243,9 +243,7 @@
 | [Axiomatic AI](https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101) | Software Engineering Internship – Platform/DevOps | Boston, MA | Summer 2026 | 2026-05-01 | 63 | simplify-2026 |
 | [Axiomatic AI](https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101) | Software Engineering Internship – AI/Agentic Systems | Boston, MA | Summer 2026 | 2026-05-01 | 63 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) | IP R&D Lab Technologist Co-op/Intern | Kanata, Ottawa, ON, Canada | Fall 2026 | 2026-04-30 | 64 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611) | Web Developer Co-op/Intern | Ottawa, ON, Canada | Fall 2026 | 2026-04-30 | 64 | simplify-2026 |
 | [d-Matrix](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application) | Applied AI Engineering Intern | Santa Clara, CA | Summer 2026 | 2026-04-29 | 65 | simplify-2026 |
-| [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971) | Software Developer Intern | Mississauga, ON, Canada | Fall 2026 | 2026-04-28 | 66 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/655b44a2-1e23-453f-b708-07e412701507/apply) | Visiting Engineer: Research Coach Intern | Mountain View, CA | N/A | 2026-04-27 | 67 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/0b219991-32db-4827-b052-7207faac151d/apply) | Engineer in Residence: Enterprise Agent Infrastructure Intern | Mountain View, CA | N/A | 2026-04-27 | 67 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/7a921322-2215-483d-a28b-8da7a815b6cf/apply) | Visiting Engineer Gesture Based Mobile Games Intern | Mountain View, CA | N/A | 2026-04-27 | 67 | simplify-2026 |

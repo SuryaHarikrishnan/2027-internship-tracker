@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (460)
+# Data Science, AI & Machine Learning (458)
 
 [← back to index](../README.md)
 
@@ -384,7 +384,6 @@
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970) | LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems | Fairview, OR | Summer 2026 | 2026-02-04 | 149 | simplify-2026 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503669) | Quality and Reliability Intern | Allen, TX | Summer 2026 | 2026-02-04 | 149 | simplify-2026 |
 | [RESPEC](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | Student Engineering Intern - Data Science | Rapid City, SD | Summer 2026 | 2026-02-03 | 150 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7602395891774802181) | Data Science Intern - Advertisement Team - 2026 Start','PhD | San Jose, CA | Summer 2026 | 2026-02-03 | 150 | simplify-2026 |
 | [Medpace, Inc.](https://careers.medpace.com/jobs/12566?lang=en-us&icims=1) | Feasibility Informatics Intern/Co-op | Cincinnati, OH | Fall 2026 | 2026-02-03 | 150 | simplify-2026 |
 | [Cresta](https://job-boards.greenhouse.io/cresta/jobs/5106468008) | Forward Deployed Engineering Intern - AI Agent | Remote in Canada | Summer 2026 | 2026-02-03 | 150 | simplify-2026 |
 | [Sila Nanotechnologies](https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168) | Battery Simulation & Computational Scientist Intern | Alameda, CA | Summer 2026 | 2026-02-02 | 151 | simplify-2026 |
@@ -394,7 +393,6 @@
 | [Black Box](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523) | AI Intern USA | Plano, TX | Spring 2026 | 2026-01-27 | 157 | simplify-2026 |
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56635) | AI Engineer Intern - BCG X | London, UK | Spring 2026 | 2026-01-24 | 160 | simplify-2026 |
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56634) | Data Scientist Intern | London, UK | Spring 2026 | 2026-01-24 | 160 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7598068289244809525) | Data Science Intern - Advertisement Team - 2026 Summer | San Jose, CA | Summer 2026 | 2026-01-22 | 162 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | Machine Learning Researcher – PhD Intern - US | NYC | Summer 2026 | 2026-01-22 | 162 | simplify-2026 |
 | [Apogee Engineering](https://careers-apogeeusa.icims.com/jobs/1443/job?mobile=true&needsRedirect=false) | Technical Intelligence Analyst | Wright-Patterson AFB, OH | Summer 2026 | 2026-01-21 | 163 | simplify-2026 |
 | [True Manufacturing](https://officejobs-truemfg.icims.com/jobs/2671/job?mobile=true&needsRedirect=false) | AI Analyst Intern/Co-op | O'Fallon, MO | Summer 2026 | 2026-01-21 | 163 | simplify-2026 |

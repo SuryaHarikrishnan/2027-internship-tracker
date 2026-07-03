@@ -60322,7 +60322,7 @@
     "company_name": "Nokia",
     "id": "80c7c165-b50f-4379-9cc0-b2370c069c36",
     "title": "Web Developer Co-op/Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -62476,7 +62476,7 @@
     "company_name": "SOTI",
     "id": "532987f0-bfae-4a4f-a3fb-c33755ac93fa",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -208224,7 +208224,7 @@
     "company_name": "TikTok",
     "id": "34eaf4a3-d6ab-454f-a2df-d77c324524da",
     "title": "Product Strategist Project Intern - Global Monetization Product and Technology - 2026 Start",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -216582,7 +216582,7 @@
     "company_name": "TikTok",
     "id": "5be21c8e-1326-4ca1-9b44-d4839ecb5574",
     "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -242266,7 +242266,7 @@
     "company_name": "TikTok",
     "id": "f9741a17-06d3-4c2c-a2e5-75d3bcc10db9",
     "title": "Data Science Intern - Advertisement Team - 2026 Summer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -334302,32 +334302,6 @@
     "source": "angie-hue",
     "id": "48048ef3-965a-46d8-bb37-cd3dc8bc75b4",
     "date_posted": 1763483168,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763457815,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://apply.workable.com/valsoft-corp/j/6F0FDC6043/",
-    "company_name": "Valsoft",
-    "title": "Full Stack Developer Intern",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "unvibingcode",
-    "id": "2f12f3b6-8b50-4008-a600-188752672e98",
-    "date_posted": 1762370442,
     "company_url": "",
     "is_visible": true,
     "_sources": [
