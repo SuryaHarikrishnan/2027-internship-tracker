@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cerence",
+    "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
+    "title": "Student Worker",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783088461,
+    "date_posted": 1783087615,
+    "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerence",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Clio",
     "id": "7683e17b-9d90-4bd7-9b3f-eaa0568bfa2a",
@@ -365,7 +391,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2972,7 +2998,7 @@
     "company_name": "Rise8",
     "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
     "title": "Software Engineer Intern - Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5968,7 +5994,7 @@
     "company_name": "Sun Life",
     "id": "d752d3de-1880-4a55-86e3-f62e4c6ce7d0",
     "title": "Student Associate Front-End Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10252,7 +10278,7 @@
     "company_name": "Magna",
     "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
     "title": "Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -26171,7 +26197,7 @@
     "company_name": "Magna",
     "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
     "title": "Junior Full Stack Developer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -41189,7 +41215,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -80250,7 +80276,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],

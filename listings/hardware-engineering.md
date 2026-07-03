@@ -49,6 +49,7 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273820) | Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 17 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273822) | Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 17 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Computer-Engineering-Science---US---2026-Start_R5031077-1) | Engineering Development Program - Engines - Computer Engineering/Science | Sharonville, OH, Saugus, MA | N/A | 2026-06-16 | 17 | simplify-2026 |
+| [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414) | Systems Intern | Southfield, MI | Summer 2026 | 2026-06-13 | 20 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply) | Embedded Software Engineer Intern | Toronto, ON, Canada | Fall 2025 | 2026-06-12 | 21 | simplify-2026 |
 | [NRG Energy](https://careers.nrgenergy.com/SMARTHOMES/job/Maumelle-Summer-Installation-Technician-Maumelle,-AR-AR-72113/1399149300/?ats=successfactors) | Installation Technician | Little Rock, AR | N/A | 2026-06-11 | 22 | simplify-2026 |
 | [AMAROK Security](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Research and Development Intern | Columbia, SC | Summer 2026, Fall 2026 | 2026-06-11 | 22 | simplify-2026 |
@@ -124,7 +125,6 @@
 | [Amazon](https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) | Hardware Development Engineer Co-op | Sunnyvale, CA | Fall 2026 | 2026-05-17 | 47 | simplify-2026 |
 | [Menasha Corporation](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Mentor-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Spring-2027-_R12878) | Custom Packaging Design Engineer Co-Op | Mentor, OH | Winter 2027, Spring 2027, Summer 2027 | 2026-05-16 | 48 | simplify-2026 |
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) | HITL Engineer Intern | Long Beach, CA | Fall 2026 | 2026-05-16 | 48 | simplify-2026 |
-| [University of Arkansas](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815) | Student Research Assistant-2 | Pine Bluff, AR | N/A | 2026-05-15 | 49 | simplify-2026 |
 | [Technergetics](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | R&D Engineer Intern | Remote in USA | Summer 2026 | 2026-05-15 | 49 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oAz7zfwz?nl=1&nl=1&fr=false) | Onboard Fare Systems - Technology & Engineer Fellow | NYC | N/A | 2026-05-13 | 51 | simplify-2026 |
 | [Verkada](https://job-boards.greenhouse.io/verkada/jobs/4321159007) | Hardware Engineer Co-op | San Mateo, CA | Fall 2026 | 2026-05-13 | 51 | simplify-2026 |
