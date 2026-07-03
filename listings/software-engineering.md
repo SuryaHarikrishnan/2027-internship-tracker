@@ -1,9 +1,10 @@
-# Software Engineering (408)
+# Software Engineering (404)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | Website Development & Content Marketing Intern - AI & Automation | NYC | Summer 2026 | 2026-07-03 | 0 | simplify-2026 |
 | [Cerence](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973) | Student Worker | Remote in UK | N/A | 2026-07-03 | 0 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185) | Engineering Development Program Intern - Engineering Development Program | Sparks, MD, Hartford, CT, Atlanta, GA, St Paul, MN | Summer 2026 | 2026-07-03 | 0 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1) | Engineering Development Program - Engineering Development Program - Software Engineering | Sparks, MD, Hartford, CT, Atlanta, GA, St Paul, MN | N/A | 2026-07-03 | 0 | simplify-2026 |
@@ -36,6 +37,7 @@
 | [Palantir](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply) | Forward Deployed Software Engineer Intern - Commercial | Chicago, IL | Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028 | 2026-06-30 | 3 | simplify-2026 |
 | [KRAFTON](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) | Programming Intern | Montreal, QC, Canada | Fall 2026 | 2026-06-30 | 3 | simplify-2026 |
 | [Worcester Polytechnic Institute](https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515) | Research Software Engineer | Worcester, MA | N/A | 2026-06-30 | 3 | simplify-2026 |
+| [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | Software Engineer Intern - Software Engineer | Remote in USA | Fall 2026 | 2026-06-29 | 4 | simplify-2026 |
 | [Remarcable](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/application) | Full Stack Developer Co-op | Vancouver, BC, Canada | Summer 2026 | 2026-06-29 | 4 | simplify-2026 |
 | [T.D. Williamson](https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern_REQ-03578) | Engineering Intern | Tulsa, OK | Summer 2026 | 2026-06-29 | 4 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply) | Software Engineer Intern - Production Infrastructure | Seattle, WA | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 4 | simplify-2026 |
@@ -121,7 +123,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273810) | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-12 | 21 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/ot2fAfw4?nl=1&nl=1&fr=false) | Application Developer Level 1 - Geographic Information Systems | NYC | N/A | 2026-06-11 | 22 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI Software Engineer Intern | Phoenix, AZ | Summer 2026 | 2026-06-11 | 22 | simplify-2026 |
-| [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430868) | Student – School to Work-Engineering | Columbus, IN | N/A | 2026-06-11 | 22 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application) | Software Engineer Intern - Connected Systems | Palo Alto, CA, Irvine, CA | Fall 2026 | 2026-06-11 | 22 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada, Vancouver, BC, Canada | Fall 2026 | 2026-06-11 | 22 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application) | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Fall 2026 | 2026-06-11 | 22 | simplify-2026 |
@@ -407,8 +408,3 @@
 | [Palantir](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply) | Software Engineer Intern | NYC | Winter 2027, Spring 2027, Summer 2027 | 2025-11-07 | 238 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply) | Software Engineer Intern | Palo Alto, CA | Winter 2027, Spring 2027, Summer 2027 | 2025-11-07 | 238 | simplify-2026 |
 | [Seven Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | Core Developer Intern | NYC | Summer 2026 | 2025-11-07 | 238 | simplify-2026 |
-| [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026) | Software Engineering Intern, Summer 2026 | Fort Worth, TX | Summer 2026 | 2025-11-05 | 240 | simplify-2026 |
-| [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026) | Software Engineering Intern I, Summer 2026 | Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH | Summer 2026 | 2025-11-05 | 240 | simplify-2026 |
-| [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026) | Software Engineering Intern II, Summer 2026 | Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH | Summer 2026 | 2025-11-05 | 240 | simplify-2026 |
-| [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026) | Software Engineering Intern III, Summer 2026 | Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH | Summer 2026 | 2025-11-05 | 240 | simplify-2026 |
-| [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026) | Software Engineering Intern IV, Summer 2026 | Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH | Summer 2026 | 2025-11-05 | 240 | simplify-2026 |

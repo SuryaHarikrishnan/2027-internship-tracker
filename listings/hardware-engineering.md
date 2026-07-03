@@ -1,4 +1,4 @@
-# Hardware Engineering (199)
+# Hardware Engineering (197)
 
 [← back to index](../README.md)
 
@@ -43,7 +43,6 @@
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Optical Modem Hardware Intern | Ottawa, ON, Canada | Fall 2026 | 2026-06-17 | 16 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550) | Engineering Technician Intern | Dallas, TX, Tucson, AZ | Summer 2026 | 2026-06-17 | 16 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/274047) | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | Summer 2026, Fall 2026, Winter 2026 | 2026-06-16 | 17 | simplify-2026 |
-| [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607) | Silicon Architecture Graduate Intern | Austin, TX, Santa Clara, CA, Hillsboro, OR, Folsom, CA | Summer 2026 | 2026-06-16 | 17 | simplify-2026 |
 | [EOS IT Solutions](https://eosits.com/company/careers/?gh_jid=8594075002) | Data Centre Placement | Ohio | N/A | 2026-06-16 | 17 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273819) | Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 17 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273820) | Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 17 | simplify-2026 |
@@ -202,4 +201,3 @@
 | [REGENT](https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b) | Embedded Software Engineering Intern | North Kingstown, RI | Summer 2026 | 2025-11-14 | 231 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1) | Firmware Engineer Intern - Bachelor's Degree | Santa Clara, CA | Summer 2026 | 2025-11-12 | 233 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Chiplet Security Research Intern | Santa Clara, CA | Winter 2025 | 2025-11-06 | 239 | simplify-2026 |
-| [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428) | Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree | Irvine, CA | Summer 2026 | 2025-11-05 | 240 | simplify-2026 |

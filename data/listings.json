@@ -2,6 +2,32 @@
   {
     "source": "Simplify",
     "category": "Software",
+    "company_name": "Eulerity",
+    "id": "da2a97f8-9827-4fe9-a716-a33f244952bc",
+    "title": "Website Development & Content Marketing Intern - AI & Automation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783089227,
+    "date_posted": 1783088667,
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4694300006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Eulerity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
     "company_name": "Cerence",
     "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
     "title": "Student Worker",
@@ -391,7 +417,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -2998,7 +3024,7 @@
     "company_name": "Rise8",
     "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
     "title": "Software Engineer Intern - Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -9934,7 +9960,7 @@
     "company_name": "Intel",
     "id": "54658487-cbd9-481a-af00-ad1d73459d42",
     "title": "Silicon Architecture Graduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -13896,7 +13922,7 @@
     "company_name": "Cummins",
     "id": "5c420a56-27d6-498b-8244-a21b9df392ba",
     "title": "Student \u2013 School to Work-Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -300978,32 +301004,6 @@
     "sponsorship": "Other",
     "active": false,
     "degrees": [
-      "Master's"
-    ],
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Intern--GPU-optimization-_2532399-2",
-    "company_name": "KLA",
-    "title": "Software Intern (GPU Optimization)",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "d10414ba-8465-4d43-9357-96e2cce04374",
-    "date_posted": 1762359727,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765481140,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
       "Bachelor's"
     ],
     "url": "https://chartermfg.wd5.myworkdayjobs.com/en-US/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Data-Science-Intern---Year-Round_R07008",
@@ -307476,32 +307476,6 @@
     ]
   },
   {
-    "date_updated": 1765290234,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.lever.co/lumafield/705db272-3d0f-4876-a9e0-aeee3d45e6f1/",
-    "company_name": "Lumafield",
-    "title": "Product Intern, Software",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "0a1c5545-bd11-472b-94d0-1eca5bbe80e1",
-    "date_posted": 1762359758,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "date_updated": 1765287964,
     "sponsorship": "Offers Sponsorship",
     "active": false,
@@ -308996,32 +308970,6 @@
       "Bachelor's",
       "Master's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765195069,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830901007",
-    "company_name": "Anduril",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Washington, DC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "9646e3f3-f0a3-4fd7-837d-8c5140b3bb21",
-    "date_posted": 1762359833,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
@@ -344762,32 +344710,6 @@
     ]
   },
   {
-    "date_updated": 1762902653,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Intern--Artificial-Intelligence-CoE--Engineer--Pittsburgh--PA-_R85956",
-    "company_name": "Smith+Nephew",
-    "title": "Intern- Artificial Intelligence CoE Engineer",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "49961d9c-27dc-4666-8262-b02f058fa155",
-    "date_posted": 1762359820,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Ryan",
@@ -353502,6 +353424,54 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "b6ed89dd-e656-48b5-aa3b-2db01ce9e774",
+    "title": "2026 Statistics Intern - PhD",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1762385009,
+    "date_posted": 1762385009,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010198926",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "88822f86-79b9-4d64-96cd-05ff3c62837f",
+    "title": "2026 Statistics Intern - PhD",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1762385009,
+    "date_posted": 1762385009,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010198826",
+    "locations": [
+      "Waukegan, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Verisk",
     "id": "53eeab36-5afc-4800-a760-e2befba1dc10",
     "title": "Data Science \u2013 2026 Summer Internship Program",
@@ -353765,297 +353735,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AECOM",
-    "id": "cec23af5-203d-47f4-8213-3315c51ee4e4",
-    "title": "Digital Technology / Drone Pilot Apprentice",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762363937,
-    "date_posted": 1762363937,
-    "url": "https://jobs.smartrecruiters.com/AECOM2/744000091836045",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/AECOM",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "PA Consulting",
-    "id": "db1a9481-40dd-4b54-b1b2-7f3b655c0017",
-    "title": "2026 Summer Internship - Software & Controls Engineer - Cambridge",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762363691,
-    "date_posted": 1762363691,
-    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000091820105",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/PA-Consulting",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AbbVie",
-    "id": "89441b3e-bca9-40fd-8ed9-c5b7e4ead110",
-    "title": "2026 Statistics Intern - PhD",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762363291,
-    "date_posted": 1762363291,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010190256",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AbbVie",
-    "id": "c0594ae2-5a7a-4974-bed8-f18b100fee2d",
-    "title": "2026 Statistics Intern - PhD",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762363290,
-    "date_posted": 1762363290,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010190306",
-    "locations": [
-      "Waukegan, IL",
-      "California",
-      "Livingston, NJ",
-      "Irvine, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AbbVie",
-    "id": "2a679c07-d9a9-4ed4-bbb4-7888ed77ccf8",
-    "title": "2026 Statistics Intern - PhD",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762363289,
-    "date_posted": 1762363289,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010190426",
-    "locations": [
-      "Livingston, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762359795,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428",
-    "company_name": "Marvell",
-    "title": "Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware Engineering",
-    "source": "angie-hue",
-    "id": "ca2df15d-5889-4ea6-81a8-e118b0daed77",
-    "date_posted": 1762359795,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762359692,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026",
-    "company_name": "BAE Systems",
-    "title": "Software Engineering Intern, Summer 2026",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "b3e52a34-e086-462c-91c8-256e3c550922",
-    "date_posted": 1762359692,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762359659,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026",
-    "company_name": "BAE Systems",
-    "title": "Software Engineering Intern I, Summer 2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "8ca4b42d-fb99-4e08-b801-82269a5217c0",
-    "date_posted": 1762359659,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762359606,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026",
-    "company_name": "BAE Systems",
-    "title": "Software Engineering Intern II, Summer 2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "f63004ff-57a4-4c86-94d8-1f80db185047",
-    "date_posted": 1762359606,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762359570,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026",
-    "company_name": "BAE Systems",
-    "title": "Software Engineering Intern III, Summer 2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "eaaaa2a1-14fb-4a6c-9052-3c815acb5cf3",
-    "date_posted": 1762359570,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762359538,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026",
-    "company_name": "BAE Systems",
-    "title": "Software Engineering Intern IV, Summer 2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "bacc96af-0e15-4ea1-b47c-4ad97d58c67e",
-    "date_posted": 1762359538,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
