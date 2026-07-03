@@ -2,6 +2,33 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Clio",
+    "id": "7683e17b-9d90-4bd7-9b3f-eaa0568bfa2a",
+    "title": "Data Modeling Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783072371,
+    "date_posted": 1782338899,
+    "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Business-Operations-Co-op_REQ-5061",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Clio",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Travelers",
     "id": "68319bca-98b4-425e-a9f1-826f84185db6",
     "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
@@ -574,7 +601,7 @@
     "company_name": "Copart",
     "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
     "title": "Strategic Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -17666,7 +17693,7 @@
     "company_name": "Duke University",
     "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
     "title": "Administrative Intern - Sanford School of Public Policy",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -20580,7 +20607,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -28052,7 +28079,7 @@
     "company_name": "Boston Consulting Group",
     "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
     "title": "Working Student - BCG Vantage - Insurance",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -32183,7 +32210,7 @@
     "company_name": "ASM International",
     "id": "fa13bf02-a314-4b2e-8bc3-b2ac7835ed67",
     "title": "Simulation and Modeling Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -33306,7 +33333,7 @@
     "company_name": "Magna",
     "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
     "title": "Artificial Intelligence Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -43056,7 +43083,7 @@
     "company_name": "SOTI",
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
     "title": "Product Manager Intern - Sales Enablement Products",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -105351,7 +105378,7 @@
     "company_name": "Atomic Semi",
     "id": "8273dd4e-b31d-493a-9d57-963229920587",
     "title": "Packaging Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -354003,276 +354030,6 @@
     "date_posted": 1762359538,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Vanguard",
-    "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
-    "title": "Application Engineer Co-op",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1762334286,
-    "date_posted": 1762334286,
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-Spring-Summer-Application-Engineer-Co-op---PA_171551",
-    "locations": [
-      "Malvern, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Vanguard",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Datacor",
-    "id": "beafc757-13d6-4c05-8238-94710d040043",
-    "title": "Summer 2026 AI Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762333489,
-    "date_posted": 1762333489,
-    "url": "https://job-boards.greenhouse.io/datacor/jobs/4962021007",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Datacor",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Neuberger Berman",
-    "id": "60765b44-a9ad-40f7-8696-9e22d4ce6377",
-    "title": "Fixed Income 2026 Summer Quant Internship",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762333369,
-    "date_posted": 1762333369,
-    "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Chicago-IL/Fixed-Income-2026-Summer-Quant-Internship_R0011397",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Neuberger-Berman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Daimler Truck",
-    "id": "99dda0c7-dbad-4224-aedc-7bb09adfee04",
-    "title": "Vehicle Documentation Data Analytics Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762332914,
-    "date_posted": 1762332914,
-    "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Documentation-Data-Analytics-Intern_DT-15526",
-    "locations": [
-      "Portland, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Daimler-Truck",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Daimler Truck",
-    "id": "c01cb355-9d85-47f6-8e14-a281f3c6acd0",
-    "title": "Data Intelligence Hub Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762332913,
-    "date_posted": 1762332913,
-    "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Data-Intelligence-Hub-Intern_DT-15649",
-    "locations": [
-      "Portland, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Daimler-Truck",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Daimler Truck",
-    "id": "e36d9895-3e92-4a46-8d66-ba5cae4ca2f8",
-    "title": "Trade Programs Data Specialist Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762332911,
-    "date_posted": 1762332911,
-    "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Trade-Programs-Data-Specialist-Intern_DT-15650",
-    "locations": [
-      "Portland, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Daimler-Truck",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Saviynt",
-    "id": "51910658-333e-4c82-8899-29c3b4bdb64b",
-    "title": "Software Engineering R&D \u2013 Internship",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762332707,
-    "date_posted": 1762332707,
-    "url": "https://jobs.lever.co/saviynt/17118748-6a11-44e2-9bf9-58badadb6ac0/apply",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Saviynt",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Keysight Technologies",
-    "id": "0c69e3e2-2b25-4681-a257-1cce0ac4cf61",
-    "title": "Application Engineer Intern - Signal Processing",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1762332596,
-    "date_posted": 1762332596,
-    "url": "https://jobs.keysight.com/jobs/50038?lang=en-us&icims=1",
-    "locations": [
-      "Santa Rosa, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "4807522e-ff70-40a6-8a04-e95c48dd10cf",
-    "title": "Research Scientist Intern - Imaging Experiences Architecture - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1762332546,
-    "date_posted": 1762332546,
-    "url": "https://www.metacareers.com/jobs/1282305640331049",
-    "locations": [
-      "Redmond, WA",
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Suffolk County",
-    "id": "d8e83393-6130-444a-bf89-0b6b503bdba8",
-    "title": "Apprentice Data Technician",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762331873,
-    "date_posted": 1762331873,
-    "url": "https://eoce.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/20749",
-    "locations": [
-      "Ipswich, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Suffolk-County",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cloudflare",
-    "id": "c7e38f43-f5a5-4382-a5c5-5e74f9f75c72",
-    "title": "Data Engineer Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762331640,
-    "date_posted": 1762331640,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7374706",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Cloudflare",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
