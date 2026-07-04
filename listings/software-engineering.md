@@ -1,4 +1,4 @@
-# Software Engineering (395)
+# Software Engineering (394)
 
 [← back to index](../README.md)
 
@@ -126,7 +126,6 @@
 | [Field AI](https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d/apply) | Field Application Engineer Intern | Irvine, CA | Summer 2026 | 2026-06-11 | 23 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oz2fAfwa?nl=1&nl=1&fr=false) | Application Developer Level 1 - Information Technology | NYC | N/A | 2026-06-10 | 24 | simplify-2026 |
 | [Meshy](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application) | Fullstack Engineer Intern | California | Summer 2026 | 2026-06-10 | 24 | simplify-2026 |
-| [Zipline](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | Enterprise Systems Software Engineer Intern | San Bruno, CA | Fall 2026 | 2026-06-10 | 24 | simplify-2026 |
 | [1Password](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) | Developer Intern - Trust Platforms | Remote in USA, Remote in Canada | Fall 2026 | 2026-06-10 | 24 | simplify-2026 |
 | [TribalScale](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) | Agile Software Engineer Co-op | Toronto, ON, Canada | Summer 2026 | 2026-06-09 | 25 | simplify-2026 |
 | [Centerfield](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) | Software Engineer Intern | LA | Summer 2026 | 2026-06-09 | 25 | simplify-2026 |
