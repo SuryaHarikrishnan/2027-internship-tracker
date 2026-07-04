@@ -4,7 +4,6 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-Co-Op---Fall-2026_JR00040102) | Integrated Motor Drive Co-op | Greenville, SC | Fall 2026 | 2026-07-04 | 0 | simplify-2026 |
 | [X Development](https://x.company/careers/8616839002?gh_jid=8616839002) | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute | Mountain View, CA | Summer 2026, Fall 2026 | 2026-07-02 | 2 | simplify-2026 |
 | [Moment Energy](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Firmware Engineering Co-op | Surrey, BC, Canada | Fall 2026 | 2026-07-02 | 2 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200666594) | Hardware System Design Engineer - Apple Vision Pro | San Jose, CA | N/A | 2026-07-02 | 2 | simplify-2026 |
@@ -149,6 +148,7 @@
 | [WindBorne Systems](https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application) | Firmware Intern | San Carlos, CA | Summer 2026 | 2026-04-01 | 94 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application) | Automation Software Engineering Intern | SF | Fall 2026 | 2026-03-31 | 95 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application) | Embedded Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 96 | simplify-2026 |
+| [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application) | Packaging Engineering Intern | SF | Fall 2026 | 2026-03-30 | 96 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) | Co-op - Design Verification Engineer | Austin, TX | Fall 2026 | 2026-03-25 | 101 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33202) | Embedded C/C++ Software Developer Student | Ottawa, ON, Canada | N/A | 2026-03-24 | 102 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8403219002) | Software Engineering Intern/Co-op | Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, West Athens, CA, Sunnyvale, CA | Fall 2026 | 2026-03-16 | 110 | simplify-2026 |

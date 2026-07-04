@@ -1,4 +1,4 @@
-# Software Engineering (389)
+# Software Engineering (390)
 
 [← back to index](../README.md)
 
@@ -176,7 +176,7 @@
 | [Clerkie](http://getfiber.ai/careers?gh_jid=5152467007) | Software Engineer Intern | Remote in USA | Winter 2024, Spring 2024, Summer 2024, Fall 2024, Winter 2025, Spring 2025, Summer 2025 | 2026-06-02 | 32 | simplify-2026 |
 | [Apera AI](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007) | Software Developer Co-op - C++ | Vancouver, BC, Canada | Fall 2026 | 2026-06-01 | 33 | simplify-2026 |
 | [GenBio AI](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply) | Software Engineer Intern | Palo Alto, CA | Summer 2026 | 2026-06-01 | 33 | simplify-2026 |
-| [Skyscanner](http://www.skyscanner.net/jobs/job/7956291?gh_jid=7956291) | Software Engineering Apprentice | Glasgow, UK | Summer 2026 | 2026-06-01 | 33 | simplify-2026 |
+| [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | Junior Full Stack Developer Co-op | Oakville, ON, Canada | Summer 2026 | 2026-05-30 | 35 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) | Undergraduate Software Engineer - Software Engineer | NYC | N/A | 2026-05-30 | 35 | simplify-2026 |
 | [pony.ai](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) | Software Engineer Intern | Fremont, CA | Summer 2026 | 2026-05-29 | 36 | simplify-2026 |
 | [Apogee Engineering](https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false) | Systems Architect Apprentice | Wright-Patterson AFB, OH | Summer 2026 | 2026-05-28 | 37 | simplify-2026 |
@@ -219,6 +219,7 @@
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | Software Engineer-Backend Intern | SF | Fall 2026 | 2026-05-13 | 52 | simplify-2026 |
 | [Astera](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) | Software Engineer Intern - Distributed Simulation Systems | Oakland, CA | Summer 2026 | 2026-05-13 | 52 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/okkxxfws?nl=1&nl=1&fr=false) | Application Developer Analyst 1 - Power Apps | NYC | N/A | 2026-05-13 | 52 | simplify-2026 |
+| [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064) | Software Developer in Test Intern | Mississauga, ON, Canada | Fall 2026 | 2026-05-12 | 53 | simplify-2026 |
 | [Super](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c/application) | Payments Engineer Intern | Toronto, ON, Canada | Summer 2026 | 2026-05-11 | 54 | simplify-2026 |
 | [Super](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application) | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | Fall 2026 | 2026-05-11 | 54 | simplify-2026 |
 | [Magnet Forensics](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply) | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | Fall 2026 | 2026-05-06 | 59 | simplify-2026 |

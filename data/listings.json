@@ -1,11 +1,62 @@
 [
   {
     "source": "Simplify",
+    "category": "Product",
+    "company_name": "Lovable",
+    "id": "b36ca521-c0c7-4fb0-a50a-04c0f2c5302d",
+    "title": "Product Experience Specialist",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783157761,
+    "date_posted": 1774908551,
+    "url": "https://jobs.ashbyhq.com/lovable/1d226bc3-d26c-481f-8619-88b6cc9179d8/application",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lovable",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Output Biosciences",
+    "id": "366c2106-60ad-48af-b7c0-95537c275a17",
+    "title": "Research Intern - Machine Learning",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783156682,
+    "date_posted": 1783156182,
+    "url": "https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/OutputBio",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "ABB",
     "id": "44e2d8e0-1adf-4090-8543-87e3ee669f2f",
     "title": "Integrated Motor Drive Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -215,7 +266,7 @@
     "company_name": "Clio",
     "id": "7683e17b-9d90-4bd7-9b3f-eaa0568bfa2a",
     "title": "Data Modeling Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3385,7 +3436,7 @@
     "company_name": "thyssenkrupp",
     "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
     "title": "Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -13307,7 +13358,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -20817,7 +20868,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -26174,7 +26225,7 @@
     "company_name": "Skyscanner",
     "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
     "title": "Software Engineering Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -26381,7 +26432,7 @@
     "company_name": "Magna",
     "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
     "title": "Junior Full Stack Developer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -28289,7 +28340,7 @@
     "company_name": "Boston Consulting Group",
     "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
     "title": "Working Student - BCG Vantage - Insurance",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -31649,7 +31700,7 @@
     "company_name": "Grow Financial Federal Credit Union",
     "id": "a8bc42d0-6eff-43be-aa0e-0aefce608f22",
     "title": "Community Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -43319,7 +43370,7 @@
     "company_name": "SOTI",
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
     "title": "Product Manager Intern - Sales Enablement Products",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -45088,7 +45139,7 @@
     "company_name": "SOTI",
     "id": "b2108b78-20bb-4950-b769-4d3f0cfd7ebe",
     "title": "Software Developer in Test Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -105614,7 +105665,7 @@
     "company_name": "Atomic Semi",
     "id": "8273dd4e-b31d-493a-9d57-963229920587",
     "title": "Packaging Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -284095,7 +284146,7 @@
     "company_name": "Tencent",
     "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
     "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
