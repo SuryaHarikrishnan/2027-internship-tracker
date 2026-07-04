@@ -1,4 +1,4 @@
-# Quantitative Finance (68)
+# Quantitative Finance (69)
 
 [← back to index](../README.md)
 
@@ -33,6 +33,7 @@
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ112380) | Finance & Risk Intern - Multiple Teams | Houston, TX | Summer 2027 | 2026-06-16 | 18 | simplify-2026 |
 | [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6005845004) | Execution Research Fellow | NYC | N/A | 2026-06-16 | 18 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ112383) | Finance & Risk Intern - Supply - Trading | Chicago, IL | Summer 2027 | 2026-06-16 | 18 | simplify-2026 |
+| [MFS](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Quant-Research-Associate_MFS-231796) | Quantitative Research Associate | Boston, MA | N/A | 2026-06-16 | 18 | simplify-2026 |
 | [Brent Council](https://fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2987) | Trading Standards Officer Level 6 Apprentice | United Kingdom | Fall 2026 | 2026-06-10 | 24 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) | Volatility Trading Developer Intern | NYC | Summer 2027 | 2026-06-10 | 24 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Quantitative Developer Intern | Boston, MA | Summer 2027 | 2026-06-10 | 24 | simplify-2026 |

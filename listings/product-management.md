@@ -1,4 +1,4 @@
-# Product Management (22)
+# Product Management (23)
 
 [← back to index](../README.md)
 
@@ -15,6 +15,7 @@
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 11 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | Product Operations Intern | Santa Clara, CA | Summer 2026 | 2026-06-17 | 17 | simplify-2026 |
 | [Primetals Technologies](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-(Internship)-FL-32809/1389987633/?ats=successfactors) | Product Line Management Associate Intern | Orlando, FL | Summer 2026 | 2026-05-16 | 49 | simplify-2026 |
+| [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | Product Manager Intern - Sales Enablement Products | Mississauga, ON, Canada | Fall 2026 | 2026-05-14 | 51 | simplify-2026 |
 | [Sezzle](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Product Intern | Remote in Canada | Summer 2026 | 2026-05-13 | 52 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | Product Development Intern/Co-op | Ottawa, ON, Canada | Fall 2026 | 2026-04-16 | 79 | simplify-2026 |
 | [Lovable](https://jobs.ashbyhq.com/lovable/1d226bc3-d26c-481f-8619-88b6cc9179d8/application) | Product Experience Specialist | Boston, MA | N/A | 2026-03-30 | 96 | simplify-2026 |
