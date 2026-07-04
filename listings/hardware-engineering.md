@@ -1,9 +1,10 @@
-# Hardware Engineering (193)
+# Hardware Engineering (194)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Droyd Robotics](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) | Software Engineer Intern | SF | Fall 2026 | 2026-07-04 | 0 | simplify-2026 |
 | [X Development](https://x.company/careers/8616839002?gh_jid=8616839002) | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute | Mountain View, CA | Summer 2026, Fall 2026 | 2026-07-02 | 2 | simplify-2026 |
 | [Moment Energy](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Firmware Engineering Co-op | Surrey, BC, Canada | Fall 2026 | 2026-07-02 | 2 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200666594) | Hardware System Design Engineer - Apple Vision Pro | San Jose, CA | N/A | 2026-07-02 | 2 | simplify-2026 |

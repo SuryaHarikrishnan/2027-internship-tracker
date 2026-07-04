@@ -1,6 +1,110 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "CTGT",
+    "id": "8c8a1f21-e711-48d0-8cec-601018138920",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1783174416,
+    "date_posted": 1783174097,
+    "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/CTGT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Droyd Robotics",
+    "id": "457f1bf0-10ec-41b5-ab16-bc702e1a0fb4",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783174382,
+    "date_posted": 1783174061,
+    "url": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Droyd Robotics",
+    "id": "d423afb4-e4be-41f7-923e-d55ed5e3bddb",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783174145,
+    "date_posted": 1783174061,
+    "url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Verne Robotics",
+    "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783174145,
+    "date_posted": 1783174066,
+    "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verne-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Visa",
     "id": "b3481e39-bfac-4371-a229-3988483eefff",
@@ -274348,6 +274452,32 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Ramboll",
+    "id": "a61eadcb-8a6c-4550-be6e-9afa675d815f",
+    "title": "Intern \u2013 Air Quality",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1767656204,
+    "date_posted": 1767656204,
+    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000101724390",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Ramboll",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Otis Worldwide",
     "id": "57eda3be-49ec-4d91-974f-509d6965c5d2",
     "title": "Technical Product Data Management Intern",
@@ -319886,30 +320016,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Rambus",
-    "id": "9899b175-c337-497b-a181-b9ec44f46a36",
-    "title": "Design Verification Engineer",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764518791,
-    "date_posted": 1762439920,
-    "url": "https://careers-rambus.icims.com/jobs/22436/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Rambus",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "NBCUniversal",
     "id": "163ed35d-b8bc-4ced-bea7-7db8c98908ef",
@@ -352146,104 +352252,6 @@
       "Western Springs, IL"
     ],
     "company_url": "https://simplify.jobs/c/Ace-Hardware",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Electronic Arts",
-    "id": "a2d210d4-51b9-42f7-8334-c30dc527edac",
-    "title": "Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762446099,
-    "date_posted": 1762446099,
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/210884",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Electronic-Arts",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ramboll",
-    "id": "e92a667a-d41c-495c-b1f4-4ce7fe674197",
-    "title": "Intern \u2013 Air Quality",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762445534,
-    "date_posted": 1762445534,
-    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000092043117",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Ramboll",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "University Health Network",
-    "id": "87350e01-b183-4d50-9f99-ae9ee2cf541a",
-    "title": "AI in Biomedicine \u2013 Research Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762445283,
-    "date_posted": 1762445283,
-    "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000092072741",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/University-Health-Network",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Smith+Nephew",
-    "id": "04ecbf39-44a5-4cc0-a14a-e122b9e5d5ab",
-    "title": "Intern-Artificial Intelligence Coe Engineer - Pittsburgh - PA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762441595,
-    "date_posted": 1762441595,
-    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern--Artificial-Intelligence-CoE--Engineer--Pittsburgh--PA-_R85956",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Smith-Nephew",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

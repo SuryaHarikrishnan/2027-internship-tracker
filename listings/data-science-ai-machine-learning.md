@@ -1,9 +1,11 @@
-# Data Science, AI & Machine Learning (448)
+# Data Science, AI & Machine Learning (450)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Verne Robotics](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 | 0 | simplify-2026 |
+| [Droyd Robotics](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | Machine Learning Intern | SF | Fall 2026 | 2026-07-04 | 0 | simplify-2026 |
 | [Moss & Associates](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710) | Construction Technologies Intern | McKinney, TX, Tampa, FL, Fort Lauderdale, FL | Summer 2026, Fall 2026 | 2026-07-04 | 0 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Process-Technician--Yield-Enhancement---Failure-Analysis-_JR104101) | Assembly Process Technician Intern - Yield Enhancement / Failure Analysis | Leander, TX | Fall 2026 | 2026-07-04 | 0 | simplify-2026 |
 | [University of Maryland - College Park](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1) | Office of Career Services Intern - Technology Team | Hyattsville, MD | Summer 2026 | 2026-07-04 | 0 | simplify-2026 |

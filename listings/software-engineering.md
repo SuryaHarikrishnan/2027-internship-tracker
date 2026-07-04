@@ -1,9 +1,10 @@
-# Software Engineering (394)
+# Software Engineering (395)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [CTGT](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-04 | 0 | simplify-2026 |
 | [Sentra](https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application) | Engineer Intern | Toronto, ON, Canada, SF | Fall 2026 | 2026-07-03 | 1 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply) | Engineer Marketradar | Mountain View, CA | N/A | 2026-07-03 | 1 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | Website Development & Content Marketing Intern - AI & Automation | NYC | Summer 2026 | 2026-07-03 | 1 | simplify-2026 |
