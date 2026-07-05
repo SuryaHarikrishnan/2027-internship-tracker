@@ -1,11 +1,10 @@
-# Software Engineering (392)
+# Software Engineering (391)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [CTGT](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-04 | 1 | simplify-2026 |
-| [Sentra](https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application) | Engineer Intern | Toronto, ON, Canada, SF | Fall 2026 | 2026-07-03 | 2 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply) | Engineer Marketradar | Mountain View, CA | N/A | 2026-07-03 | 2 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | Website Development & Content Marketing Intern - AI & Automation | NYC | Summer 2026 | 2026-07-03 | 2 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185) | Engineering Development Program Intern - Engineering Development Program | Sparks, MD, Hartford, CT, Atlanta, GA, St Paul, MN | Summer 2026 | 2026-07-03 | 2 | simplify-2026 |
@@ -28,6 +27,7 @@
 | [Optiver](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) | Software Engineer Intern | Austin, TX | Summer 2027 | 2026-07-01 | 4 | simplify-2026 |
 | [Palo Alto Networks](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190) | Software Engineer Intern | Palo Alto, CA | Summer 2026 | 2026-07-01 | 4 | simplify-2026 |
 | [NOX METALS](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f/application) | Software Engineer Intern | Detroit, MI | Summer 2025 | 2026-07-01 | 4 | simplify-2026 |
+| [Seven Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | Core Developer Intern | NYC | Fall 2026 | 2026-07-01 | 4 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/274760) | Vehicle Software Intern - Torque Path & Chassis Controls | Palo Alto, CA | Summer 2026, Fall 2026, Winter 2026 | 2026-07-01 | 4 | simplify-2026 |
 | [Gumloop](https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application) | Design Engineer Intern | SF | Fall 2026 | 2026-07-01 | 4 | simplify-2026 |
 | [The Home Depot](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req185610) | Full Stack Software Developer Intern | Toronto, ON, Canada | Fall 2027 | 2026-06-30 | 5 | simplify-2026 |
@@ -171,10 +171,10 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7537161497627281682/detail) | Research Intern - SDN Traffic Intelligence & Control | San Jose, CA | Summer 2026 | 2026-06-03 | 32 | simplify-2026 |
 | [EUNA Solutions](https://euna.bamboohr.com/careers/652/) | Software Developer Co-op | Oakville, ON, Canada | Fall 2026 | 2026-06-02 | 33 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865) | Rendering Software Engineer Intern | Orlando, FL | Fall 2026 | 2026-06-02 | 33 | simplify-2026 |
-| [ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000129860849) | Futures Summit Intern | West Palm Beach, FL | N/A | 2026-06-02 | 33 | simplify-2026 |
 | [Clerkie](http://getfiber.ai/careers?gh_jid=5152467007) | Software Engineer Intern | Remote in USA | Winter 2024, Spring 2024, Summer 2024, Fall 2024, Winter 2025, Spring 2025, Summer 2025 | 2026-06-02 | 33 | simplify-2026 |
 | [Apera AI](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007) | Software Developer Co-op - C++ | Vancouver, BC, Canada | Fall 2026 | 2026-06-01 | 34 | simplify-2026 |
 | [GenBio AI](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply) | Software Engineer Intern | Palo Alto, CA | Summer 2026 | 2026-06-01 | 34 | simplify-2026 |
+| [ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000129555059) | Servicenow Futures Summit Intern | West Palm Beach, FL | N/A | 2026-06-01 | 34 | simplify-2026 |
 | [Skyscanner](http://www.skyscanner.net/jobs/job/7956291?gh_jid=7956291) | Software Engineering Apprentice | Glasgow, UK | Summer 2026 | 2026-06-01 | 34 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | Junior Full Stack Developer Co-op | Oakville, ON, Canada | Summer 2026 | 2026-05-30 | 36 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) | Undergraduate Software Engineer - Software Engineer | NYC | N/A | 2026-05-30 | 36 | simplify-2026 |
@@ -395,4 +395,3 @@
 | [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | Software Engineering Intern – Internal Tools 2026 (hybrid) | Cedar Rapids, IA | Summer 2026 | 2025-11-13 | 234 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply) | Software Engineer Intern | NYC | Winter 2027, Spring 2027, Summer 2027 | 2025-11-07 | 240 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply) | Software Engineer Intern | Palo Alto, CA | Winter 2027, Spring 2027, Summer 2027 | 2025-11-07 | 240 | simplify-2026 |
-| [Seven Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | Core Developer Intern | NYC | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |

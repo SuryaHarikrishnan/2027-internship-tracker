@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (446)
+# Data Science, AI & Machine Learning (443)
 
 [← back to index](../README.md)
 
@@ -149,7 +149,6 @@
 | [Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1) | AI and Governance Co-op - AI and Governance | Boston, MA | Summer 2026 | 2026-06-09 | 26 | simplify-2026 |
 | [iSpot.tv](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) | Data Science Intern | Bellevue, WA | Summer 2026 | 2026-06-09 | 26 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply) | Student Worker Automation & Behavioral Science Engineer | San Mateo, CA | N/A | 2026-06-09 | 26 | simplify-2026 |
-| [Zipline](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) | Computational Physics Intern | San Bruno, CA | Fall 2026 | 2026-06-08 | 27 | simplify-2026 |
 | [Ancestry](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378) | Machine Learning Engineer Co-op | Remote in USA | Summer 2026 | 2026-06-08 | 27 | simplify-2026 |
 | [Seaspan](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | Energy Management Intern | Vancouver, BC, Canada | Fall 2026, Winter 2027, Spring 2027 | 2026-06-08 | 27 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270511) | Energy Engineering Intern - Cost Reduction | Palo Alto, CA | Summer 2026 | 2026-06-07 | 28 | simplify-2026 |
@@ -237,6 +236,7 @@
 | [Paccar](https://jobs.paccar.com/job/Columbus-Facilities-MRO-Information-Systems-Fall-2026-Intern-MS-39701/1285884201/?ats=successfactors) | Facilities MRO Information Systems Intern | Columbus, MS | Fall 2026 | 2026-05-16 | 50 | simplify-2026 |
 | [GenScript](https://job-boards.greenhouse.io/genscript/jobs/5138842007) | AI Researcher Intern | Remote in USA | Summer 2026 | 2026-05-15 | 51 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2160167211413098) | Research Scientist Intern - Multimodal Contextual AI | Redmond, WA | Spring 2026, Summer 2026, Fall 2026 | 2026-05-15 | 51 | simplify-2026 |
+| [Docugami](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | Data Science PhD Intern | Kirkland, WA | Summer 2026 | 2026-05-15 | 51 | simplify-2026 |
 | [Medpace, Inc.](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | AI Engineer Intern | Cincinnati, OH | Fall 2026 | 2026-05-14 | 52 | simplify-2026 |
 | [Facility Solutions Group](https://careers-fsg.icims.com/jobs/2406/job?mobile=true&needsRedirect=false) | AI Automation Intern - Electrical Construction Operations | NYC | Summer 2026 | 2026-05-14 | 52 | simplify-2026 |
 | [ATCO](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20111) | Data Analytics Co-op | Edmonton, AB, Canada | Fall 2026 | 2026-05-14 | 52 | simplify-2026 |
@@ -447,6 +447,3 @@
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735) | ML Technology Intern, Graduate Students | Arlington, VA | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7562342433721862405) | Machine Learning Engineer Intern - Monetization Technology | San Jose, CA | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7534817408415861000) | Data Engineer - E-commerce - BS/MS | San Jose, CA | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |
-| [Mistral AI](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7/apply) | Applied Scientist / Research Engineer – Internship | London, UK, Paris, France | Winter 2025 | 2025-11-07 | 240 | simplify-2026 |
-| [Scale AI](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | Technical Advisor Specialist – Part-Time Intern | SF | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |
-| [Docugami](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | Data Science PhD Intern | Kirkland, WA | Winter 2025 | 2025-11-07 | 240 | simplify-2026 |
