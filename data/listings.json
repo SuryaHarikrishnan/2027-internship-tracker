@@ -109,7 +109,7 @@
     "company_name": "Visa",
     "id": "b3481e39-bfac-4371-a229-3988483eefff",
     "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1075,7 +1075,7 @@
     "company_name": "Copart",
     "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
     "title": "Strategic Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -4198,7 +4198,7 @@
     "company_name": "KLA",
     "id": "7107b7fd-b107-4478-9903-228a6f5ef3fa",
     "title": "Algorithm Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -9670,7 +9670,7 @@
     "company_name": "Sony",
     "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -12483,7 +12483,7 @@
     "company_name": "mthree",
     "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
     "title": "Technology Talent Programme",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -13571,7 +13571,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -18167,7 +18167,7 @@
     "company_name": "Duke University",
     "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
     "title": "Administrative Intern - Sanford School of Public Policy",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -18269,7 +18269,7 @@
     "company_name": "Generac",
     "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
     "title": "GPS Apprentice - Electrical",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -18348,7 +18348,7 @@
     "company_name": "Tesla",
     "id": "3f099127-5e46-4a19-bbda-3e62875498eb",
     "title": "Systems Integration Engineer Intern - Body Controls",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -26725,7 +26725,7 @@
     "company_name": "Boys Town",
     "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
     "title": "Artificial Intelligence & Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -28553,7 +28553,7 @@
     "company_name": "Boston Consulting Group",
     "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
     "title": "Working Student - BCG Vantage - Insurance",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -50896,7 +50896,7 @@
     "company_name": "Smiths Detection Group",
     "id": "0a319815-2604-4c98-94da-26b6a462a885",
     "title": "Depot Service Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -282364,7 +282364,7 @@
     "company_name": "thyssenkrupp",
     "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
     "title": "Sustainability Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],

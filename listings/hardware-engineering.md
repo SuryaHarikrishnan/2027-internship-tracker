@@ -1,4 +1,4 @@
-# Hardware Engineering (193)
+# Hardware Engineering (190)
 
 [← back to index](../README.md)
 
@@ -60,7 +60,6 @@
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | Design Verification Engineer Intern | Toronto, ON, Canada | Summer 2026 | 2026-06-08 | 27 | simplify-2026 |
 | [VSC Fire & Security](https://job-boards.greenhouse.io/vscfiresecurityinc/jobs/5250423008) | Integrated Systems Technician Trainee | Dallas, TX | N/A | 2026-06-08 | 27 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270509) | Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware | Palo Alto, CA | Fall 2026 | 2026-06-07 | 28 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/270617) | Systems Integration Engineer Intern - Body Controls | Palo Alto, CA | Fall 2026 | 2026-06-07 | 28 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270618) | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 28 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270778) | Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms | Palo Alto, CA | Fall 2026 | 2026-06-07 | 28 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271981) | Electronic Design Engineer Intern - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 28 | simplify-2026 |
@@ -80,7 +79,6 @@
 | [Base Power](https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application) | Hardware Reliability & Test Engineer Intern | Austin, TX | Summer 2026 | 2026-06-05 | 30 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) | Embedded Software Engineer Intern | Ottawa, ON, Canada | Summer 2026 | 2026-06-03 | 32 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer 2026 | 2026-06-03 | 32 | simplify-2026 |
-| [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Berlin-WI---USA/GPS-Student-Apprentice---Electrical_JR14694) | GPS Apprentice - Electrical | Wisconsin | Winter 2026, Spring 2026, Summer 2026 | 2026-06-03 | 32 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7761881003) | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | Summer 2026 | 2026-06-02 | 33 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | Research Intern - Virtual Network | San Jose, CA | Summer 2026 | 2026-06-02 | 33 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537163899668531474/detail) | Researcher Intern - Virtual Network | Seattle, WA | Summer 2026 | 2026-06-02 | 33 | simplify-2026 |
@@ -127,7 +125,6 @@
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | Assembly and Test Intern - Integration | SF | Fall 2026 | 2026-05-12 | 54 | simplify-2026 |
 | [Heron Power](http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application) | Hardware Test Engineering Intern | Santa Cruz, CA | Summer 2026 | 2026-05-11 | 55 | simplify-2026 |
 | [Apex](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application) | Software Engineering Intern - Embedded Systems | LA | Summer 2026 | 2026-05-11 | 55 | simplify-2026 |
-| [Smiths Detection Group](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) | Depot Service Engineer Intern | Gunpowder, MD | N/A | 2026-05-07 | 59 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200647863) | Hardware Systems Engineering Intern | Austin, TX | N/A | 2026-05-06 | 60 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269819) | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-05-06 | 60 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269445) | Software Engineer Intern - Integration Tools | Palo Alto, CA | Fall 2026 | 2026-05-06 | 60 | simplify-2026 |

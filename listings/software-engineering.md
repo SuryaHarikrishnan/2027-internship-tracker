@@ -1,4 +1,4 @@
-# Software Engineering (392)
+# Software Engineering (390)
 
 [← back to index](../README.md)
 
@@ -86,7 +86,6 @@
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431193) | Product Engineering Specialist | Leeds, UK | N/A | 2026-06-18 | 17 | simplify-2026 |
 | [iHerb](https://job-boards.greenhouse.io/iherb/jobs/7776154003) | Software Development Intern | Remote in USA | Summer 2026 | 2026-06-18 | 17 | simplify-2026 |
 | [Beyondsoft](https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false) | Software Engineer Intern | United States | Summer 2026 | 2026-06-17 | 18 | simplify-2026 |
-| [Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | Software Engineer Intern | San Diego, CA | Summer 2026 | 2026-06-17 | 18 | simplify-2026 |
 | [Viridien](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1) | Software Engineer Intern | Crawley, UK | Summer 2026 | 2026-06-17 | 18 | simplify-2026 |
 | [Accenture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Technology-Apprentice_R00336818) | Technology Apprentice | Ottawa, ON, Canada, Vancouver, BC, Canada | Summer 2026 | 2026-06-17 | 18 | simplify-2026 |
 | [Clio](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577) | Software Developer Co-op | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | Fall 2026, Winter 2026, Spring 2027 | 2026-06-16 | 19 | simplify-2026 |
@@ -107,7 +106,6 @@
 | [TikTok](https://lifeattiktok.com/search/7534536157456058632) | Software Engineer Intern - Capital Platform | San Jose, CA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
 | [Fife Council](https://ekmu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6009/job/23431) | Systems Developer Apprentice | Edinburgh, UK | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false) | Application Developer 1 - Peoplesoft - Tcu | NYC | N/A | 2026-06-14 | 21 | simplify-2026 |
-| [mthree](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006) | Technology Talent Programme | Letchworth Garden City, UK | N/A | 2026-06-14 | 21 | simplify-2026 |
 | [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Tech-Insight-Experience-for-Women---Engineering_R-00276059) | Tech Insight Experience for Women - Engineering | London, UK, Edinburgh, UK | N/A | 2026-06-13 | 22 | simplify-2026 |
 | [Illinois Tool Works](https://careers.itw.com/global/en/job/JR4585) | Software Engineer Intern | Appleton, WI | Summer 2026 | 2026-06-13 | 22 | simplify-2026 |
 | [OfferUp](https://job-boards.greenhouse.io/offerup/jobs/8004171) | Software Engineer Intern | Bellevue, WA | Summer 2026 | 2026-06-13 | 22 | simplify-2026 |
