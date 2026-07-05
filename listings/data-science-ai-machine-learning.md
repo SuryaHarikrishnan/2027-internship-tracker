@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (443)
+# Data Science, AI & Machine Learning (442)
 
 [← back to index](../README.md)
 
@@ -125,6 +125,7 @@
 | [TikTok](https://lifeattiktok.com/search/7527589557336869138) | Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM | San Jose, CA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7527585101065652498) | Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM | Seattle, WA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7527582397938223367) | Research Scientist Intern - Trust and Safety | San Jose, CA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7562342433721862405) | Machine Learning Engineer Intern - Monetization Technology | San Jose, CA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7532390182411405586) | Machine Learning Scientist Intern - Tiktok-Content Ecology-LLM application | San Jose, CA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7534855949620119815) | Machine Learning Engineer Intern | San Jose, CA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7527077153591675154) | Machine Learning Engineer Intern - Global E-Commerce Content Recommendation | Seattle, WA | Summer 2026 | 2026-06-15 | 20 | simplify-2026 |
@@ -445,5 +446,3 @@
 | [Major League Baseball](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5703204004) | Fellow Baseball Strategist | Baltimore, MD | N/A | 2025-11-08 | 239 | simplify-2026 |
 | [Berkshire Hathaway Energy](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877) | Intern – Engineer Operations & Analytics | Omaha, NE | Winter 2026, Spring 2026, Summer 2026 | 2025-11-08 | 239 | simplify-2026 |
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735) | ML Technology Intern, Graduate Students | Arlington, VA | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7562342433721862405) | Machine Learning Engineer Intern - Monetization Technology | San Jose, CA | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7534817408415861000) | Data Engineer - E-commerce - BS/MS | San Jose, CA | Summer 2026 | 2025-11-07 | 240 | simplify-2026 |

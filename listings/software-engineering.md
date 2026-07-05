@@ -1,4 +1,4 @@
-# Software Engineering (391)
+# Software Engineering (393)
 
 [← back to index](../README.md)
 
@@ -44,8 +44,12 @@
 | [Palantir](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply) | Software Engineer Intern - Production Infrastructure | NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply) | Software Engineer Intern - Production Infrastructure | Washington, DC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply) | Software Engineer Intern - Infrastructure | NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
+| [Palantir](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply) | Software Engineer Intern - Defense Tech | Palo Alto, CA | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply) | Software Engineer Intern | Washington, DC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
+| [Palantir](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply) | Software Engineer Intern | Palo Alto, CA | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply) | Software Engineer Intern | Denver, CO | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
+| [Palantir](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply) | Software Engineer Intern - Defense Tech | NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
+| [Palantir](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply) | Software Engineer Intern | NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply) | Privacy and Civil Liberties Software Engineer Intern | NYC | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-06-29 | 6 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply) | Forward Deployed Software Engineer Intern - Commercial | NYC | Winter 2027, Spring 2028, Summer 2028 | 2026-06-29 | 6 | simplify-2026 |
 | [Outmarket AI](https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application) | AI Software Engineer Intern | Remote in India, Remote in USA | Summer 2026 | 2026-06-26 | 9 | simplify-2026 |
@@ -393,5 +397,3 @@
 | [Tessera Labs](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | Software Engineering Intern, Frontend | Remote in USA | Winter 2026 | 2025-11-14 | 233 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7564516412456306997/detail) | 3D Graphics Engineer | San Jose, CA | Summer 2026 | 2025-11-14 | 233 | simplify-2026 |
 | [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | Software Engineering Intern – Internal Tools 2026 (hybrid) | Cedar Rapids, IA | Summer 2026 | 2025-11-13 | 234 | simplify-2026 |
-| [Palantir](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply) | Software Engineer Intern | NYC | Winter 2027, Spring 2027, Summer 2027 | 2025-11-07 | 240 | simplify-2026 |
-| [Palantir](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply) | Software Engineer Intern | Palo Alto, CA | Winter 2027, Spring 2027, Summer 2027 | 2025-11-07 | 240 | simplify-2026 |

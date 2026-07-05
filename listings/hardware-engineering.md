@@ -1,4 +1,4 @@
-# Hardware Engineering (191)
+# Hardware Engineering (190)
 
 [← back to index](../README.md)
 
@@ -91,7 +91,6 @@
 | [Diversified Automation](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply) | Hardware Engineering Co-op | Louisville, KY | Summer 2026 | 2026-05-28 | 38 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | Silicon Performance Validation and Characterization Intern | Phoenix, AZ | Summer 2026 | 2026-05-27 | 39 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36486) | Photonic Integrated Circuits Test Co-op | Sunnyvale, CA | Fall 2026, Winter 2026 | 2026-05-27 | 39 | simplify-2026 |
-| [Zipline](https://www.zipline.com/careers?gh_jid=7747248003#open-roles) | Hardware Test Intern | San Bruno, CA | Fall 2026 | 2026-05-26 | 40 | simplify-2026 |
 | [Periodic Labs](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a/application) | Nanofabrication Intern | Menlo Park, CA | Summer 2026 | 2026-05-26 | 40 | simplify-2026 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101) | Electrical Device Characterization Intern | San Jose, CA | Fall 2026 | 2026-05-26 | 40 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36616) | Optical Test Co-op | San Jose, CA | Fall 2026, Winter 2027, Spring 2027, Summer 2027 | 2026-05-26 | 40 | simplify-2026 |
