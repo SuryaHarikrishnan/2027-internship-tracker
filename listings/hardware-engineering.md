@@ -1,4 +1,4 @@
-# Hardware Engineering (188)
+# Hardware Engineering (187)
 
 [← back to index](../README.md)
 
@@ -145,7 +145,6 @@
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330606) | Data Center Trainee | Stamford, TX | N/A | 2026-04-07 | 90 | simplify-2026 |
 | [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) | Radio Frequency Engineering Intern | El Segundo, CA | Fall 2026 | 2026-04-06 | 91 | simplify-2026 |
 | [SoloPulse](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | Systems Engineering Intern | Norcross, GA | Summer 2026 | 2026-04-02 | 95 | simplify-2026 |
-| [WindBorne Systems](https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application) | Firmware Intern | San Carlos, CA | Summer 2026 | 2026-04-01 | 96 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application) | Automation Software Engineering Intern | SF | Fall 2026 | 2026-03-31 | 97 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application) | Embedded Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 98 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application) | Packaging Engineering Intern | SF | Fall 2026 | 2026-03-30 | 98 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (438)
+# Data Science, AI & Machine Learning (434)
 
 [← back to index](../README.md)
 
@@ -25,7 +25,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | Research Scientist Intern - AI Infrastructure | Seattle, WA | Fall 2026 | 2026-07-03 | 3 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | Research Scientist Intern - AI Infrastructure | San Jose, CA | Fall 2026 | 2026-07-03 | 3 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/6d8b31d2-6391-44b7-bf9f-93360172fae8/apply) | Student Worker - AI Validation and Benchmarking Engineer | San Mateo, CA | N/A | 2026-07-03 | 3 | simplify-2026 |
-| [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) | Data Engineer Intern | Austin, TX | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Two Six Technologies](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | China Subject Matter Expert Intern | Remote in USA | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Bot Auto](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Deep Learning Engineer Intern | Houston, TX | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [ConnectPrep](https://apply.workable.com/connectprep/j/C0CA13664F/apply) | Data Analyst Intern | Washington, DC, Remote in USA | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
@@ -73,7 +72,6 @@
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | Computing Graduate Student Intern | Livermore, CA | Fall 2026 | 2026-06-26 | 10 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | Computing Undergraduate Student Intern | Livermore, CA | Fall 2026 | 2026-06-26 | 10 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4287004009) | Automation Co-op | Cambridge, MA | Summer 2026 | 2026-06-25 | 11 | simplify-2026 |
-| [Point C](https://job-boards.greenhouse.io/pointc/jobs/5236086008) | Data Science AI Intern | Remote in USA | Summer 2026, Fall 2026 | 2026-06-25 | 11 | simplify-2026 |
 | [Hendrick Motorsports](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564) | Racing Performance Engineer Intern | Charlotte, NC | Fall 2026 | 2026-06-25 | 11 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/GRO-Program---AI_JR26061707) | GRO Program - AI | Toronto, ON, Canada, Kitchener, ON, Canada | N/A | 2026-06-25 | 11 | simplify-2026 |
 | [Climate Corps](https://job-boards.greenhouse.io/cc/jobs/5278533008) | Decarbonization Data Analyst | Sunnyvale, CA | N/A | 2026-06-25 | 11 | simplify-2026 |
@@ -440,5 +438,3 @@
 | [Toyota Research Institute](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | Human Interactive Driving Intern - World Models | Mountain View, CA | Summer 2026 | 2025-11-14 | 234 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8218030002/) | Data Analyst Intern | New York, NY | Summer 2026 | 2025-11-12 | 236 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352) | Computer Science/Data Science Intern - Bachelor's Degree | Santa Clara, CA | Summer 2026 | 2025-11-11 | 237 | simplify-2026 |
-| [Major League Baseball](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5703204004) | Fellow Baseball Strategist | Baltimore, MD | N/A | 2025-11-08 | 240 | simplify-2026 |
-| [Berkshire Hathaway Energy](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877) | Intern – Engineer Operations & Analytics | Omaha, NE | Winter 2026, Spring 2026, Summer 2026 | 2025-11-08 | 240 | simplify-2026 |

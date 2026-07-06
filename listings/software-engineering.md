@@ -1,4 +1,4 @@
-# Software Engineering (397)
+# Software Engineering (396)
 
 [← back to index](../README.md)
 
@@ -118,7 +118,6 @@
 | [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Tech-Insight-Experience-for-Women---Engineering_R-00276059) | Tech Insight Experience for Women - Engineering | London, UK, Edinburgh, UK | N/A | 2026-06-13 | 23 | simplify-2026 |
 | [Illinois Tool Works](https://careers.itw.com/global/en/job/JR4585) | Software Engineer Intern | Appleton, WI | Summer 2026 | 2026-06-13 | 23 | simplify-2026 |
 | [OfferUp](https://job-boards.greenhouse.io/offerup/jobs/8004171) | Software Engineer Intern | Bellevue, WA | Summer 2026 | 2026-06-13 | 23 | simplify-2026 |
-| [Arine](https://job-boards.greenhouse.io/arine/jobs/6026856004) | Full Stack Engineer Intern | Remote in USA | Summer 2026 | 2026-06-12 | 24 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273723) | Commercial UI Software Engineer Intern - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-12 | 24 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273810) | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-12 | 24 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/ot2fAfw4?nl=1&nl=1&fr=false) | Application Developer Level 1 - Geographic Information Systems | NYC | N/A | 2026-06-11 | 25 | simplify-2026 |
