@@ -1,9 +1,11 @@
-# Software Engineering (395)
+# Software Engineering (397)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8044395) | AI Builder Intern - Global Customer Engineering - Service Sales | London, UK | Fall 2026 | 2026-07-06 | 0 | simplify-2026 |
+| [Quest Global](https://careers.quest-global.com/global/en/job/P-120293) | Software Engineer | Wichita, KS | N/A | 2026-07-06 | 0 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Miami, FL, NYC | Fall 2026 | 2026-07-06 | 0 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-07-06 | 0 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/69894854-3d58-4efd-8b14-a006dbba48ca/apply) | Engineer in Residence Slidelang | Mountain View, CA | N/A | 2026-07-06 | 0 | simplify-2026 |

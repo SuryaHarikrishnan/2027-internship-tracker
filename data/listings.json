@@ -1,6 +1,140 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cloudflare",
+    "id": "823c7521-30db-4a2c-98a3-b7ec0dd88f1d",
+    "title": "AI Builder Intern - Global Customer Engineering - Service Sales",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783348201,
+    "date_posted": 1783347326,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Dynamics",
+    "id": "e429452e-d5a5-4ee1-99ce-5248b3ce962d",
+    "title": "Engineering Intern - Business Support",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783348074,
+    "date_posted": 1783346953,
+    "url": "https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Gadsden, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Capital One",
+    "id": "fd6664b1-b682-4a0c-a15c-193d9a9c67c5",
+    "title": "Product Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1783348063,
+    "date_posted": 1783346926,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1",
+    "locations": [
+      "Plano, TX",
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "fafb52bd-9836-425b-8b98-418d1bbf3712",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1783347664,
+    "date_posted": 1783346928,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2027_R244317-1",
+    "locations": [
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Quest Global",
+    "id": "71d9d436-8094-473a-8b79-b53c84ea4647",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783347631,
+    "date_posted": 1783347051,
+    "url": "https://careers.quest-global.com/global/en/job/P-120293",
+    "locations": [
+      "Wichita, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Quest-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Quant",
     "company_name": "Citadel Securities",
     "id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
@@ -1911,7 +2045,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "065e5761-d574-4c20-a590-6fd396d58e47",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
