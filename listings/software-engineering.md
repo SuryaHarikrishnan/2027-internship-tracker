@@ -1,4 +1,4 @@
-# Software Engineering (396)
+# Software Engineering (395)
 
 [← back to index](../README.md)
 
@@ -121,7 +121,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273723) | Commercial UI Software Engineer Intern - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-12 | 24 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273810) | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-12 | 24 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/ot2fAfw4?nl=1&nl=1&fr=false) | Application Developer Level 1 - Geographic Information Systems | NYC | N/A | 2026-06-11 | 25 | simplify-2026 |
-| [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI Software Engineer Intern | Phoenix, AZ | Summer 2026 | 2026-06-11 | 25 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application) | Software Engineer Intern - Connected Systems | Palo Alto, CA, Irvine, CA | Fall 2026 | 2026-06-11 | 25 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) | Software Engineer Intern Co-op - Applications | Toronto, ON, Canada, Vancouver, BC, Canada | Fall 2026 | 2026-06-11 | 25 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application) | Software Engineer Intern Co-op - Android Connectivity | Vancouver, BC, Canada | Fall 2026 | 2026-06-11 | 25 | simplify-2026 |

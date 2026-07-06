@@ -2688,7 +2688,7 @@
     "company_name": "Magna",
     "id": "3ddc1130-8b7c-449d-ae26-330f7dd9334b",
     "title": "Computer Vision Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -14782,7 +14782,7 @@
     "company_name": "Intel",
     "id": "438a49bd-1732-4815-b2b2-e048f205949f",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -73443,7 +73443,7 @@
     "company_name": "Toyota Research Institute",
     "id": "3a60f010-c46b-4eab-ab24-a2a2b005aaac",
     "title": "Human-Centered AI Intern: Human-Computer Interaction",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -103662,6 +103662,31 @@
     "degrees": [
       "Bachelor's"
     ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Hootsuite",
+    "id": "39539b3a-31e3-4cc3-985f-a7c77134c2e2",
+    "title": "Co-op/Intern - Product Management",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775004841,
+    "date_posted": 1774994950,
+    "url": "https://careers.hootsuite.com/job/?gh_jid=7769506",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Hootsuite",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
@@ -348362,273 +348387,6 @@
       "Remote in USA"
     ],
     "company_url": "https://simplify.jobs/c/ConnectPrep",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Zoox",
-    "id": "cddcce6f-7e6d-43d2-93ae-f14989d769e5",
-    "title": "Data Scientist Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627910,
-    "date_posted": 1762627910,
-    "url": "https://jobs.lever.co/zoox/ab805ec5-1d08-420c-9606-f91825e6a1f9/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Zoox",
-    "id": "bf82a24d-1b6b-49d1-b53a-831f1004df21",
-    "title": "Mapping Software Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627906,
-    "date_posted": 1762627906,
-    "url": "https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Hootsuite",
-    "id": "f330ac7c-2213-4f54-a1ae-7d87f7cb58b8",
-    "title": "Intern \u2013 Product Management",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1762627905,
-    "date_posted": 1762627905,
-    "url": "https://careers.hootsuite.com/job/?gh_jid=7384170",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Hootsuite",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Hootsuite",
-    "id": "19c0b59e-c37b-4aa3-9fa7-ced08dc3c451",
-    "title": "Co-op/Intern - Product Management",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Winter 2026"
-    ],
-    "date_updated": 1762627904,
-    "date_posted": 1762627904,
-    "url": "https://careers.hootsuite.com/job/?gh_jid=7382362",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Hootsuite",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bandwidth",
-    "id": "73c72c9b-097d-4be3-8ebc-4ede0626d13b",
-    "title": "Software Development Intern - Messaging - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627893,
-    "date_posted": 1762627893,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380729",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bandwidth",
-    "id": "ecb475a4-60e0-47b8-95e5-7c39fd2f317b",
-    "title": "Software Development Intern - Identity - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627891,
-    "date_posted": 1762627891,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380793",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bandwidth",
-    "id": "9fedfe0c-81ed-469d-8c60-7704bcfab480",
-    "title": "Software Development Intern - Numbers - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627890,
-    "date_posted": 1762627890,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380787",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Bandwidth",
-    "id": "60f76003-410d-42f0-907d-0318ca81e050",
-    "title": "Marketing Analytics Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627889,
-    "date_posted": 1762627889,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7367796",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bandwidth",
-    "id": "4ee17e18-d579-470f-992b-f624d72e324d",
-    "title": "Software Development Intern - Billing",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627889,
-    "date_posted": 1762627889,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380737",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bandwidth",
-    "id": "a5b90a84-c9eb-4b41-85ea-681fee3be61f",
-    "title": "Software Development Intern - Voice - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627888,
-    "date_posted": 1762627888,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380742",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bandwidth",
-    "id": "44336dba-81d0-4a74-b280-ab7e392ab716",
-    "title": "Software Development Intern - Emergency Services",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762627888,
-    "date_posted": 1762627888,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380723",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

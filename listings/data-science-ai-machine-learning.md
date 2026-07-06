@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (434)
+# Data Science, AI & Machine Learning (432)
 
 [← back to index](../README.md)
 
@@ -38,7 +38,6 @@
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134542009) | Foreign Trade Data Analytics Intern | Western Springs, IL | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | A.1. Integration Intern | Columbia City, IN | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | Applied Research Intern - NLP | Santa Clara, CA | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
-| [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460) | Computer Vision Engineering Co-op | Toronto, ON, Canada | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Valeo](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365) | Warranty Engineering Co-op | Troy, MI | Summer 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Pika](https://jobs.ashbyhq.com/pika/6c9ba89d-91f3-4cf1-a318-70783773323a/application) | Research Intern | Palo Alto, CA | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) | Autonomous SEM Co-op | Cambridge, MA | Fall 2026 | 2026-07-01 | 5 | simplify-2026 |
@@ -266,7 +265,6 @@
 | [Axway](https://careers-axway.icims.com/jobs/8663/job?mobile=true&needsRedirect=false) | Business Analytics Intern | Scottsdale, AZ | Summer 2026 | 2026-04-22 | 75 | simplify-2026 |
 | [RoboForce](https://job-boards.greenhouse.io/roboforce/jobs/5196164008) | AI Resident Intern | Milpitas, CA | N/A | 2026-04-22 | 75 | simplify-2026 |
 | [Pinterest](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | PhD Machine Learning Intern - Visual - Recommender Systems | Palo Alto, CA, Seattle, WA, SF, NYC | Fall 2026 | 2026-04-20 | 77 | simplify-2026 |
-| [Toyota Research Institute](https://jobs.lever.co/tri/000be2f3-b77c-4719-8476-0718c4c49a19/apply) | Human-Centered AI Intern: Human-Computer Interaction | Mountain View, CA | Summer 2026 | 2026-04-20 | 77 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7629187524074342709) | Research Scientist Intern - E-commerce Recommendation - LLM Applications | San Jose, CA | Summer 2026 | 2026-04-17 | 80 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7629250876813642037) | Research Scientist Intern - TikTok Search / Generative AI - LLM | San Jose, CA | Summer 2027 | 2026-04-17 | 80 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7629188397976586501) | Research Scientist Intern - E-commerce Recommendation - Multiple Teams | Seattle, WA | Summer 2026 | 2026-04-17 | 80 | simplify-2026 |
