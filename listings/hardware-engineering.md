@@ -1,11 +1,10 @@
-# Hardware Engineering (189)
+# Hardware Engineering (188)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Droyd Robotics](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) | Software Engineer Intern | SF | Fall 2026 | 2026-07-04 | 2 | simplify-2026 |
-| [American University](https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/DaBL-Lab-Technician--Student-_R4402) | Lab Technician - Student | Washington, DC | N/A | 2026-07-04 | 2 | simplify-2026 |
 | [X Development](https://x.company/careers/8616839002?gh_jid=8616839002) | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute | Mountain View, CA | Summer 2026, Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Moment Energy](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Firmware Engineering Co-op | Surrey, BC, Canada | Fall 2026 | 2026-07-02 | 4 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200666594) | Hardware System Design Engineer - Apple Vision Pro | San Jose, CA | N/A | 2026-07-02 | 4 | simplify-2026 |
@@ -45,6 +44,7 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273819) | Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 20 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273820) | Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 20 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273822) | Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 20 | simplify-2026 |
+| [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414) | Systems Intern | Southfield, MI | Summer 2026 | 2026-06-13 | 23 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply) | Embedded Software Engineer Intern | Toronto, ON, Canada | Fall 2025 | 2026-06-12 | 24 | simplify-2026 |
 | [NRG Energy](https://careers.nrgenergy.com/SMARTHOMES/job/Maumelle-Summer-Installation-Technician-Maumelle,-AR-AR-72113/1399149300/?ats=successfactors) | Installation Technician | Little Rock, AR | N/A | 2026-06-11 | 25 | simplify-2026 |
 | [AMAROK Security](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Research and Development Intern | Columbia, SC | Summer 2026, Fall 2026 | 2026-06-11 | 25 | simplify-2026 |
@@ -127,7 +127,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/269819) | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-05-06 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269445) | Software Engineer Intern - Integration Tools | Palo Alto, CA | Fall 2026 | 2026-05-06 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269809) | Software Integration Engineer Intern - Software Integration Engineer - Optimus | Palo Alto, CA | Fall 2026 | 2026-05-06 | 61 | simplify-2026 |
-| [Regal Rexnord](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156) | Lab Co-op | Vandalia, OH | Fall 2026 | 2026-05-05 | 62 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/omt5zfwd?nl=1&nl=1&fr=false) | Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle Location | NYC | Fall 2026 | 2026-05-05 | 62 | simplify-2026 |
 | [XPENG Motors](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | VLA Deployment AI Intern | Santa Clara, CA | Summer 2026 | 2026-05-05 | 62 | simplify-2026 |
 | [Stoke Space](https://stokespace.com/careers/current-openings?gh_jid=5987663004) | Software Intern - Software | Kent, WA | Spring 2027 | 2026-05-04 | 63 | simplify-2026 |

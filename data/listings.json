@@ -451,7 +451,7 @@
     "company_name": "American University",
     "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
     "title": "Lab Technician - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -579,7 +579,7 @@
     "company_name": "Visa",
     "id": "b3481e39-bfac-4371-a229-3988483eefff",
     "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -11334,7 +11334,7 @@
     "company_name": "Magna",
     "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
     "title": "Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -18828,7 +18828,7 @@
     "company_name": "Duke University",
     "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
     "title": "Administrative Intern - Sanford School of Public Policy",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -27661,7 +27661,7 @@
     "company_name": "60decibelsinc",
     "id": "886288f5-3a87-4305-9ad8-236ac9eb9153",
     "title": "Internship Senior Signal Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -29214,7 +29214,7 @@
     "company_name": "Boston Consulting Group",
     "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
     "title": "Working Student - BCG Vantage - Insurance",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -55029,7 +55029,7 @@
     "company_name": "Regal Rexnord",
     "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
     "title": "Lab Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
