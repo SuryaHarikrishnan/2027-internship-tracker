@@ -1,9 +1,10 @@
-# Software Engineering (396)
+# Software Engineering (395)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Hitachi Energy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1) | Software Analyst Intern | Burnaby, BC, Canada | Fall 2026 | 2026-07-07 | 0 | simplify-2026 |
 | [Charles River Analytics](https://cra.com/job-listings/job?gh_jid=8047653) | Software Engineer Intern | Cambridge, MA | Summer 2026 | 2026-07-07 | 0 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | Software Engineering Intern | NYC | N/A | 2026-07-06 | 1 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8599644002) | Software Engineer | NYC | N/A | 2026-07-06 | 1 | simplify-2026 |
@@ -11,7 +12,6 @@
 | [Everfox](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/Intern-Product-Engineeer_JR500721) | Product Engineer Intern | London, UK | Fall 2026 | 2026-07-06 | 1 | simplify-2026 |
 | [Everfox](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Product-Intern_JR500719) | Product Engineering Intern | London, UK | Fall 2026 | 2026-07-06 | 1 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8044395) | AI Builder Intern - Global Customer Engineering - Service Sales | London, UK | Fall 2026 | 2026-07-06 | 1 | simplify-2026 |
-| [Quest Global](https://careers.quest-global.com/global/en/job/P-120293) | Software Engineer | Wichita, KS | N/A | 2026-07-06 | 1 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Miami, FL, NYC | Fall 2026 | 2026-07-06 | 1 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-07-06 | 1 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/69894854-3d58-4efd-8b14-a006dbba48ca/apply) | Engineer in Residence Slidelang | Mountain View, CA | N/A | 2026-07-06 | 1 | simplify-2026 |
@@ -178,12 +178,10 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7537117266451171592/detail) | Network Software Development Engineer Intern - Network Switch | San Jose, CA | Summer 2026 | 2026-06-03 | 34 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537161497627281682/detail) | Research Intern - SDN Traffic Intelligence & Control | San Jose, CA | Summer 2026 | 2026-06-03 | 34 | simplify-2026 |
 | [EUNA Solutions](https://euna.bamboohr.com/careers/652/) | Software Developer Co-op | Oakville, ON, Canada | Fall 2026 | 2026-06-02 | 35 | simplify-2026 |
-| [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865) | Rendering Software Engineer Intern | Orlando, FL | Fall 2026 | 2026-06-02 | 35 | simplify-2026 |
 | [ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000129860849) | Futures Summit Intern | West Palm Beach, FL | N/A | 2026-06-02 | 35 | simplify-2026 |
 | [Clerkie](http://getfiber.ai/careers?gh_jid=5152467007) | Software Engineer Intern | Remote in USA | Winter 2024, Spring 2024, Summer 2024, Fall 2024, Winter 2025, Spring 2025, Summer 2025 | 2026-06-02 | 35 | simplify-2026 |
 | [Apera AI](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007) | Software Developer Co-op - C++ | Vancouver, BC, Canada | Fall 2026 | 2026-06-01 | 36 | simplify-2026 |
 | [GenBio AI](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply) | Software Engineer Intern | Palo Alto, CA | Summer 2026 | 2026-06-01 | 36 | simplify-2026 |
-| [Skyscanner](http://www.skyscanner.net/jobs/job/7956291?gh_jid=7956291) | Software Engineering Apprentice | Glasgow, UK | Summer 2026 | 2026-06-01 | 36 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | Junior Full Stack Developer Co-op | Oakville, ON, Canada | Summer 2026 | 2026-05-30 | 38 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) | Undergraduate Software Engineer - Software Engineer | NYC | N/A | 2026-05-30 | 38 | simplify-2026 |
 | [pony.ai](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) | Software Engineer Intern | Fremont, CA | Summer 2026 | 2026-05-29 | 39 | simplify-2026 |
@@ -219,6 +217,7 @@
 | [Akima](https://careers.akima.com/jobs/23147?lang=en-us&icims=1) | Unity Game Designer | Huntsville, AL | N/A | 2026-05-16 | 52 | simplify-2026 |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5469298003) | Software Engineer Intern - Infrastructure | Fremont, CA | Summer 2026 | 2026-05-16 | 52 | simplify-2026 |
 | [Docugami](https://job-boards.greenhouse.io/docugami/jobs/4014838003) | Software Engineer Intern | Kirkland, WA | Summer 2026 | 2026-05-15 | 53 | simplify-2026 |
+| [Lambda](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) | Security Engineer Intern | SF | Summer 2026 | 2026-05-14 | 54 | simplify-2026 |
 | [Akima](https://careers.akima.com/jobs/22581?lang=en-us&icims=1) | Unreal Game Designer | Huntsville, AL | N/A | 2026-05-14 | 54 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply) | Year at Palantir Intern - Forward Deployed Software Engineer - Commercial | NYC | Summer 2026 | 2026-05-14 | 54 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply) | Year at Palantir Intern - Forward Deployed Software Engineer | NYC | Summer 2026 | 2026-05-14 | 54 | simplify-2026 |

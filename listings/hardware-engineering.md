@@ -1,4 +1,4 @@
-# Hardware Engineering (188)
+# Hardware Engineering (186)
 
 [← back to index](../README.md)
 
@@ -38,7 +38,6 @@
 | [Formlabs](https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746) | Hardware R&D Engineer Intern | Cambridge, MA | Fall 2026 | 2026-06-18 | 19 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) | Firmware Engineering Intern | Reno, NV | Summer 2026 | 2026-06-18 | 19 | simplify-2026 |
 | [Ralliant](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465) | Software Engineer Intern - Mecop | Beaverton, OR | Summer 2026 | 2026-06-18 | 19 | simplify-2026 |
-| [Trexon](https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/5081859007) | Technician Apprentice | Aberdeen, UK | Summer 2026 | 2026-06-17 | 20 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706) | Design Verification Engineer Intern | Ottawa, ON, Canada | Fall 2026 | 2026-06-17 | 20 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Optical Modem Hardware Intern | Ottawa, ON, Canada | Fall 2026 | 2026-06-17 | 20 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550) | Engineering Technician Intern | Dallas, TX, Tucson, AZ | Summer 2026 | 2026-06-17 | 20 | simplify-2026 |
@@ -47,7 +46,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273819) | Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 21 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273820) | Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 21 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273822) | Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 21 | simplify-2026 |
-| [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414) | Systems Intern | Southfield, MI | Summer 2026 | 2026-06-13 | 24 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply) | Embedded Software Engineer Intern | Toronto, ON, Canada | Fall 2025 | 2026-06-12 | 25 | simplify-2026 |
 | [NRG Energy](https://careers.nrgenergy.com/SMARTHOMES/job/Maumelle-Summer-Installation-Technician-Maumelle,-AR-AR-72113/1399149300/?ats=successfactors) | Installation Technician | Little Rock, AR | N/A | 2026-06-11 | 26 | simplify-2026 |
 | [AMAROK Security](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Research and Development Intern | Columbia, SC | Summer 2026, Fall 2026 | 2026-06-11 | 26 | simplify-2026 |

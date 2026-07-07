@@ -1,6 +1,84 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Orennia",
+    "id": "3f040704-5c6c-4d37-b7d2-019837f8b910",
+    "title": "Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783418247,
+    "date_posted": 1783416111,
+    "url": "https://boards.greenhouse.io/orennia/jobs/5277706008",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Orennia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hitachi Energy",
+    "id": "7717c612-0855-40d4-8f2d-ceb5c5bc2d57",
+    "title": "Software Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783417861,
+    "date_posted": 1783417388,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SCOR",
+    "id": "8b269186-08b4-44b2-b837-dc52fe571905",
+    "title": "Exposure Management & Accumulations Trainee",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783416781,
+    "date_posted": 1782223536,
+    "url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5101",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SCOR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Charles River Analytics",
     "id": "26d82c3c-2d34-4225-b3e9-810a1b478679",
@@ -961,7 +1039,7 @@
     "company_name": "Quest Global",
     "id": "71d9d436-8094-473a-8b79-b53c84ea4647",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1562,7 +1640,7 @@
     "company_name": "Visa",
     "id": "b3481e39-bfac-4371-a229-3988483eefff",
     "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -11184,7 +11262,7 @@
     "company_name": "University of Texas at Austin",
     "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
     "title": "Course Support - Rhetoric",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -11287,7 +11365,7 @@
     "company_name": "Trexon",
     "id": "6104e4ee-d7df-4d66-a955-a31dd4b15f55",
     "title": "Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -12317,7 +12395,7 @@
     "company_name": "Magna",
     "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
     "title": "Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -22725,7 +22803,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -25542,7 +25620,7 @@
     "company_name": "Electronic Arts",
     "id": "5c520aff-46ae-4816-86db-f0e15f726997",
     "title": "Rendering Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -28082,7 +28160,7 @@
     "company_name": "Skyscanner",
     "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
     "title": "Software Engineering Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -30089,7 +30167,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -30197,7 +30275,7 @@
     "company_name": "Boston Consulting Group",
     "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
     "title": "Working Student - BCG Vantage - Insurance",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -35451,7 +35529,7 @@
     "company_name": "Magna",
     "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
     "title": "Artificial Intelligence Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -44556,7 +44634,7 @@
     "company_name": "Lambda",
     "id": "b4e9ca86-32bd-446b-9988-cf1cc0345014",
     "title": "Security Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -45708,7 +45786,7 @@
     "company_name": "NVIDIA",
     "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
     "title": "PhD Research Intern - Security and Privacy",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -239707,7 +239785,7 @@
     "company_name": "Boston Consulting Group",
     "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
