@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (452)
+# Data Science, AI & Machine Learning (449)
 
 [← back to index](../README.md)
 
@@ -83,7 +83,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/275316) | AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware | Palo Alto, CA | Fall 2026 | 2026-06-29 | 8 | simplify-2026 |
 | [Hendrick Motorsports](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Fall-2026-Internship_R-81645) | Project and Race Support Engineer Internship | Charlotte, NC | Fall 2026 | 2026-06-29 | 8 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Career-Success-Reporting-and-Insights-Graduate-Assistant_R_00046976) | Career Success Reporting and Insights Graduate Assistant | Austin, TX | N/A | 2026-06-29 | 8 | simplify-2026 |
-| [Crowdstrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Fall-2026--Remote-_R29214) | Intelligence Intern | Remote in USA | Fall 2026, Summer 2026 | 2026-06-27 | 10 | simplify-2026 |
 | [Blue Cross Blue Shield of Arizona](https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Analyst--Analytics-and-Data-Science-II-III--Remote-_R6054) | Analyst Analytics and Data Science 2-3 | Phoenix, AZ | N/A | 2026-06-26 | 11 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | Computing Graduate Student Intern | Livermore, CA | Fall 2026 | 2026-06-26 | 11 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | Computing Undergraduate Student Intern | Livermore, CA | Fall 2026 | 2026-06-26 | 11 | simplify-2026 |
@@ -282,7 +281,6 @@
 | [Integra FEC](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Data Analyst Intern | Austin, TX | Fall 2026 | 2026-04-28 | 70 | simplify-2026 |
 | [Integra FEC](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Data Scientist Intern - PhD | Austin, TX | Fall 2026 | 2026-04-28 | 70 | simplify-2026 |
 | [Netflix](https://explore.jobs.netflix.net/careers/job/790315673635) | Video Algorithms Intern - Video Coding - Gaussian Splatting | LA, Los Gatos, CA | Fall 2026 | 2026-04-28 | 70 | simplify-2026 |
-| [Axway](https://careers-axway.icims.com/jobs/8663/job?mobile=true&needsRedirect=false) | Business Analytics Intern | Scottsdale, AZ | Summer 2026 | 2026-04-22 | 76 | simplify-2026 |
 | [RoboForce](https://job-boards.greenhouse.io/roboforce/jobs/5196164008) | AI Resident Intern | Milpitas, CA | N/A | 2026-04-22 | 76 | simplify-2026 |
 | [Pinterest](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | PhD Machine Learning Intern - Visual - Recommender Systems | Palo Alto, CA, Seattle, WA, SF, NYC | Fall 2026 | 2026-04-20 | 78 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7629187524074342709) | Research Scientist Intern - E-commerce Recommendation - LLM Applications | San Jose, CA | Summer 2026 | 2026-04-17 | 81 | simplify-2026 |
@@ -324,7 +322,6 @@
 | [Gensyn](https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101) | Research Intern | Remote in UK | Summer 2026 | 2026-03-27 | 102 | simplify-2026 |
 | [Atria Group](https://jobs.smartrecruiters.com/AtriaGroupLLC/87561367) | Informatica Admin | Plainview, NY | N/A | 2026-03-27 | 102 | simplify-2026 |
 | [Kanshe Infotech](https://jobs.smartrecruiters.com/Learnkwikcom/744000072088905) | Generative AI Training | Colorado Springs, CO | N/A | 2026-03-27 | 102 | simplify-2026 |
-| [Ardian](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---July-2026---London_JR1001907) | Secondaries & Primaries Data Science Intern | London, UK | Summer 2026 | 2026-03-27 | 102 | simplify-2026 |
 | [VaynerMedia](https://vaynermedia.com/careers?gh_jid=7573040) | Resident – Data Analytics | Culver City, CA | N/A | 2026-03-26 | 103 | simplify-2026 |
 | [VaynerMedia](https://vaynermedia.com/careers?gh_jid=7573017) | Resident – Data Analytics | NYC | N/A | 2026-03-26 | 103 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137479974607) | Part Time Student - Data Engineering - Data and Analytics | Grimes, IA | N/A | 2026-03-25 | 104 | simplify-2026 |

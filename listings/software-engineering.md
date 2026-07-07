@@ -1,4 +1,4 @@
-# Software Engineering (395)
+# Software Engineering (394)
 
 [← back to index](../README.md)
 
@@ -280,7 +280,6 @@
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/947338ca-e135-4398-9aa3-79e131bc03d5/application) | Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 99 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application) | Rust Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 99 | simplify-2026 |
 | [10a Labs](https://job-boards.greenhouse.io/10alabs/jobs/4203095009) | Engineering Fellow | SF | N/A | 2026-03-27 | 102 | simplify-2026 |
-| [Zip](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application) | Software Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-03-27 | 102 | simplify-2026 |
 | [Kanshe Infotech](https://jobs.smartrecruiters.com/Learnkwikcom/744000065800616) | Python Fullstack Training | Newark, NJ | N/A | 2026-03-27 | 102 | simplify-2026 |
 | [Ellipsis Labs](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application) | Software Engineer | NYC | Summer 2027 | 2026-03-26 | 103 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7621299118434961669) | Software Engineer Project Intern - Content AI Infrastructure | San Jose, CA | Summer 2026 | 2026-03-26 | 103 | simplify-2026 |
