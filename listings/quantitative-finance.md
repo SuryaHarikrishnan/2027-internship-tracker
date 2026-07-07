@@ -1,4 +1,4 @@
-# Quantitative Finance (83)
+# Quantitative Finance (82)
 
 [← back to index](../README.md)
 
@@ -45,7 +45,6 @@
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10822/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern - PhD | Philadelphia, PA, NYC | Summer 2027 | 2026-06-29 | 8 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | Quantitative Research Intern - Quant Research - Undergrad | NYC | Summer 2027 | 2026-06-26 | 11 | simplify-2026 |
 | [Mackenzie Investments](https://careersen-mackenzieinvestments.icims.com/jobs/5846/job?mobile=true&needsRedirect=false) | Quantitative Research Intern - Investment Management - Multi-Asset Allocation | Ontario, Canada | Fall 2026, Winter 2027, Spring 2027 | 2026-06-25 | 12 | simplify-2026 |
-| [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ112380) | Finance & Risk Intern - Multiple Teams | Houston, TX | Summer 2027 | 2026-06-16 | 21 | simplify-2026 |
 | [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6005845004) | Execution Research Fellow | NYC | N/A | 2026-06-16 | 21 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ112383) | Finance & Risk Intern - Supply - Trading | Chicago, IL | Summer 2027 | 2026-06-16 | 21 | simplify-2026 |
 | [MFS](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Quant-Research-Associate_MFS-231796) | Quantitative Research Associate | Boston, MA | N/A | 2026-06-16 | 21 | simplify-2026 |

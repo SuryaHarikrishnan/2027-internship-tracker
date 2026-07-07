@@ -2,6 +2,287 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Kimley-Horn",
+    "id": "90f0f122-3e2a-49f2-a6c8-688ce3720044",
+    "title": "GIS Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783435141,
+    "date_posted": 1783433154,
+    "url": "https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Kimley-Horn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Marshall Wace",
+    "id": "5b7bded6-d742-4cff-9d9e-5b4c88e6b56d",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1783434424,
+    "date_posted": 1783432969,
+    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Marshall-Wace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KLA Corporation",
+    "id": "e4e553a8-fbb0-4a2e-ba7c-ee84eda6d40f",
+    "title": "AI Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783434421,
+    "date_posted": 1783433317,
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/AI-Summer-Intern_2638689",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Royal Bank of Canada",
+    "id": "795fc727-866d-4aee-b2f7-e8967b3e4d76",
+    "title": "Off Cycle Intern - Aiden Edge",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783433881,
+    "date_posted": 1783433637,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Off-Cycle-Intern---Aiden-Edge_R-0000179570",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Texas Instruments",
+    "id": "37d02104-2735-4e8e-bfa4-49c184a4f7ac",
+    "title": "Digital IC Design Engineer - Digital Design Engineer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783433756,
+    "date_posted": 1783433239,
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Texas-Instruments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1783427706,
+    "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "DE Shaw",
+    "title": "Software Developer Intern",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "d9afb286-3ab9-41bd-bea3-d54207ec3a07",
+    "date_posted": 1783427706,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1783427123,
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Aquatic",
+    "title": "Software Engineer Intern",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "0ebb6ea9-1466-4de6-851a-75ad92836912",
+    "date_posted": 1783427123,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1783425923,
+    "url": "https://www.imc.com/us/careers/jobs/4823924101",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "IMC",
+    "title": "Software Engineer Intern",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "80f8fd77-fdad-4f63-8533-00c6e2d3f9a2",
+    "date_posted": 1783425923,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1783425885,
+    "url": "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us",
+    "locations": [
+      "Bala Cynwyd, PA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Susquehanna Investment Group",
+    "title": "Quantitative Strategy Developer Intern",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "2cfe2e3b-2886-49fe-8dcb-868f6cf20150",
+    "date_posted": 1783425885,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1783425771,
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "locations": [
+      "New York, NY",
+      "Greenwich, CT",
+      "Miami, FL",
+      "Houston, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Citadel",
+    "title": "Software Engineer Intern",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "91af86ad-2961-4c31-8986-6bc57fe080d5",
+    "date_posted": 1783425771,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1783425735,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1",
+    "locations": [
+      "Mclean, VA",
+      "Plano, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Product Development Internship Program",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "64b46b75-5ba5-4745-91d5-5ccc1109e63e",
+    "date_posted": 1783425735,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1783425669,
+    "url": "https://tower-research.com/open-positions/?gh_jid=8044334",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Tower Research",
+    "title": "Quantitative Developer Intern",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "41ca28b6-8ea0-426d-913d-f69aa73ddc0c",
+    "date_posted": 1783425669,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Orennia",
     "id": "3f040704-5c6c-4d37-b7d2-019837f8b910",
     "title": "Analytics Intern",
@@ -396,7 +677,7 @@
     "company_name": "Everfox",
     "id": "8a6ae31a-c1a1-43a5-8ff4-74c51349664c",
     "title": "Product Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1030,7 +1311,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -2606,7 +2889,7 @@
     "company_name": "Copart",
     "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
     "title": "Strategic Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4392,7 +4675,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -6341,7 +6626,7 @@
     "company_name": "T.D. Williamson",
     "id": "5d524d61-6f4c-4222-9378-52e040ca1273",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -12289,7 +12574,7 @@
     "company_name": "BP",
     "id": "4d40b569-cf87-4b1f-a4ef-eae54c1efc94",
     "title": "Finance & Risk Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -51355,7 +51640,7 @@
     "company_name": "Trane Technologies",
     "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
     "title": "Collections Data Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -226669,7 +226954,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -299881,7 +300168,9 @@
     "sponsorship": "Other",
     "degrees": [],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {

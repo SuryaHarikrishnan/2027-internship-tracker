@@ -1,9 +1,16 @@
-# Other (111)
+# Other (118)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [DE Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | Software Developer Intern | New York, NY |  | 2026-07-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Aquatic](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | Software Engineer Intern | Chicago, IL |  | 2026-07-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [IMC](https://www.imc.com/us/careers/jobs/4823924101) | Software Engineer Intern | Chicago, IL |  | 2026-07-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Susquehanna Investment Group](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) | Quantitative Strategy Developer Intern | Bala Cynwyd, PA |  | 2026-07-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | New York, NY, Greenwich, CT, Miami, FL, Houston, TX |  | 2026-07-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1) | Product Development Internship Program | Mclean, VA, Plano, TX |  | 2026-07-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tower Research](https://tower-research.com/open-positions/?gh_jid=8044334) | Quantitative Developer Intern | Chicago, IL, New York, NY |  | 2026-07-07 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Cubist Systematic Strategies](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) | Quantitative Developer Intern | New York, NY |  | 2026-05-23 | 45 | vanshb03-2026, vanshb03-2027 |
 | [Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c) | Software Engineer Intern | Kent, WA |  | 2026-05-23 | 45 | vanshb03-2026, vanshb03-2027 |
 | [Aquatic Capital](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002) | Software Engineer Intern | Chicago, IL |  | 2026-05-23 | 45 | vanshb03-2026, vanshb03-2027 |
