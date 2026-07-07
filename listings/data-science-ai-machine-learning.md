@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (453)
+# Data Science, AI & Machine Learning (452)
 
 [← back to index](../README.md)
 
@@ -237,7 +237,6 @@
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) | Academy Performance Analyst Intern - Academy Performance Analysis | Cincinnati, OH | Winter 2027 | 2026-05-20 | 48 | simplify-2026 |
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | Fall 2026 | 2026-05-20 | 48 | simplify-2026 |
 | [BlueLabs Analytics](https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5142269007) | Reporting Fellow | Washington, DC | N/A | 2026-05-19 | 49 | simplify-2026 |
-| [ATCO](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20129) | Customer Connections Co-op | Edmonton, AB, Canada | Fall 2026 | 2026-05-19 | 49 | simplify-2026 |
 | [ATCO](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20124) | Forestry Planning Co-op | Edmonton, AB, Canada | Fall 2026 | 2026-05-19 | 49 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556867858) | Research Intern - Self-Improving AI | Cambridge, MA, NYC | Summer 2026 | 2026-05-19 | 49 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply) | Machine Learning Engineer Intern | Santa Clara, CA | Summer 2026 | 2026-05-19 | 49 | simplify-2026 |

@@ -5210,7 +5210,7 @@
     "company_name": "Citadel Securities",
     "id": "37f16f32-a0e4-4c42-91e4-f29624bff893",
     "title": "Quantitative Researcher PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -12856,7 +12856,7 @@
     "company_name": "BP",
     "id": "442e3d06-4417-4303-bd31-cbbef3634a88",
     "title": "Finance & Risk Intern - Supply - Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -32418,7 +32418,7 @@
     "company_name": "ATCO",
     "id": "cd37a9ed-984b-4df9-9072-bbe48e1dc9e3",
     "title": "Customer Connections Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -225834,7 +225834,7 @@
     "company_name": "MerQube",
     "id": "73c6902b-65cb-4ec5-bf72-12a4446aa85c",
     "title": "Quantitative Researcher",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],

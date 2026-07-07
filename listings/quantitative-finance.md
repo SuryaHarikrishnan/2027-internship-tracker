@@ -1,4 +1,4 @@
-# Quantitative Finance (82)
+# Quantitative Finance (79)
 
 [← back to index](../README.md)
 
@@ -36,7 +36,6 @@
 | [Citadel](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | Quantitative Researcher – PhD Intern | London, UK | Summer 2026 | 2026-07-01 | 6 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Quantitative Research Engineer Intern | Miami, FL, NYC | Summer 2026 | 2026-07-01 | 6 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/) | Quantitative Researcher PhD Intern | Miami, FL, NYC | Summer 2026 | 2026-07-01 | 6 | simplify-2026 |
-| [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/) | Quantitative Researcher PhD Intern | London, UK | Summer 2026 | 2026-07-01 | 6 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false) | Quantitative Trader Intern | NYC | Summer 2027 | 2026-06-30 | 7 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false) | Quantitative Trader Intern | Chicago, IL | Summer 2027 | 2026-06-30 | 7 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | Philadelphia, PA, NYC | Summer 2027 | 2026-06-29 | 8 | simplify-2026 |
@@ -46,7 +45,6 @@
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | Quantitative Research Intern - Quant Research - Undergrad | NYC | Summer 2027 | 2026-06-26 | 11 | simplify-2026 |
 | [Mackenzie Investments](https://careersen-mackenzieinvestments.icims.com/jobs/5846/job?mobile=true&needsRedirect=false) | Quantitative Research Intern - Investment Management - Multi-Asset Allocation | Ontario, Canada | Fall 2026, Winter 2027, Spring 2027 | 2026-06-25 | 12 | simplify-2026 |
 | [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6005845004) | Execution Research Fellow | NYC | N/A | 2026-06-16 | 21 | simplify-2026 |
-| [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ112383) | Finance & Risk Intern - Supply - Trading | Chicago, IL | Summer 2027 | 2026-06-16 | 21 | simplify-2026 |
 | [MFS](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Quant-Research-Associate_MFS-231796) | Quantitative Research Associate | Boston, MA | N/A | 2026-06-16 | 21 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) | Volatility Trading Developer Intern | NYC | Summer 2027 | 2026-06-10 | 27 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Quantitative Developer Intern | Boston, MA | Summer 2027 | 2026-06-10 | 27 | simplify-2026 |
@@ -78,7 +76,6 @@
 | [Fanatics](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | Collectibles Intern - Product - Physical Trading Cards | Coppell, TX | Summer 2026 | 2026-03-13 | 116 | simplify-2026 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/5575450004) | Quantitative Research Intern | NYC | Summer 2026, Winter 2026 | 2026-03-02 | 127 | simplify-2026 |
 | [Fanatics](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | Collectibles Intern - Product - Physical Trading Cards | NYC | Summer 2026 | 2026-02-12 | 145 | simplify-2026 |
-| [MerQube](https://job-boards.greenhouse.io/merqube/jobs/4649636006) | Quantitative Researcher | London, UK | Spring 2026 | 2026-01-30 | 158 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8389431002) | Fund Flow Quantitative Researcher | Stamford, CT, NYC | N/A | 2026-01-23 | 165 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | Markets Quantitative Analyst Summer Internship 2027 New York | New York, NY | Summer 2027 | 2025-12-02 | 217 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/7586061002) | Quantitative Researcher Intern | NYC | Fall 2025, Spring 2026, Summer 2026 | 2025-11-30 | 219 | simplify-2026 |
