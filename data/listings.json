@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "49ac286b-0d2a-44df-b39a-c6540778f26a",
+    "title": "Performance Engineer Intern - Systems Software",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783503120,
+    "date_posted": 1783375946,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "GE Healthcare",
     "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
@@ -686,7 +712,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "795fc727-866d-4aee-b2f7-e8967b3e4d76",
     "title": "Off Cycle Intern - Aiden Edge",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -3625,7 +3651,7 @@
     "company_name": "Kpler",
     "id": "38fae718-2ebc-4e97-af8f-e135cff957b4",
     "title": "Quantitative Data Scientist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -4608,7 +4634,7 @@
     "company_name": "Intermountain Healthcare",
     "id": "821df725-8277-4656-845f-df116ea22cc6",
     "title": "Investment Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

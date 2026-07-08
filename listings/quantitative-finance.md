@@ -1,4 +1,4 @@
-# Quantitative Finance (81)
+# Quantitative Finance (80)
 
 [← back to index](../README.md)
 
@@ -24,7 +24,6 @@
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819) | Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern | London, UK | Summer 2027 | 2026-07-02 | 6 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | Relationship Manager Commercial Markets Intern | Madawaska County, NB, Canada | Summer 2026 | 2026-07-02 | 6 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRANTFORD-Ontario-Canada/Relationship-Manager-Commercial-Markets-Intern--Agriculture_R-0000178814) | Relationship Manager Commercial Markets Intern - Agriculture | Oakland, ON, Canada | Summer 2026 | 2026-07-02 | 6 | simplify-2026 |
-| [Intermountain Healthcare](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Investment-Analyst-Intern_R174949) | Investment Analyst Intern | Salt Lake City, UT | Fall 2026 | 2026-07-02 | 6 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Quantitative Trader Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 7 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 7 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Quantitative Research Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-01 | 7 | simplify-2026 |
