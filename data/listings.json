@@ -5,7 +5,7 @@
     "company_name": "OLG",
     "id": "a92ef88c-0e72-4b45-ac7e-21d41ecd7fea",
     "title": "Customer Insights - Customer Insights - Analyst Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -136,7 +136,7 @@
     "company_name": "Banner Health",
     "id": "701f6c67-0790-44a2-98fb-8bcac02b2041",
     "title": "IT 2 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -378,7 +378,7 @@
     "company_name": "Schweitzer Engineering Laboratories",
     "id": "c397c573-0849-4481-968f-9dd2b5b1ab87",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -1389,7 +1389,7 @@
     "company_name": "CSL",
     "id": "e7812b17-fad6-4024-b51f-b3a6e1fb1ceb",
     "title": "Data Science/Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1774,7 +1774,7 @@
     "company_name": "CSL",
     "id": "bf2fded8-39e1-4742-bce3-d79e0d3c0674",
     "title": "Data Science / Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1823,7 +1823,7 @@
     "company_name": "CSL",
     "id": "92e89d05-7057-4f32-bcb4-571771bb67ae",
     "title": "AI Technology Product Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1849,7 +1849,7 @@
     "company_name": "CSL",
     "id": "50289bb2-c07c-4ad3-b05f-27e264769e70",
     "title": "Analytics Co-op - Strategic Forecasting & AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -21432,7 +21432,7 @@
     "company_name": "Tesla",
     "id": "abc9038a-92bb-4e7c-b016-49feb542cb56",
     "title": "Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026",
@@ -33331,7 +33331,7 @@
     "company_name": "Sila Nanotechnologies",
     "id": "2b4f1e37-5081-40ee-a2c4-0040a20556f8",
     "title": "Physics-Based Modeling Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -112648,7 +112648,7 @@
     "company_name": "VaynerMedia",
     "id": "2c90a7a6-5f26-4e50-a8e4-aa46cb2c01c7",
     "title": "Resident \u2013 Data Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],

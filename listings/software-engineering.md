@@ -1,10 +1,9 @@
-# Software Engineering (399)
+# Software Engineering (397)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720) | Software Engineering Intern | Round Rock, TX | Fall 2026, Winter 2027, Spring 2027, Summer 2027 | 2026-07-07 | 1 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Fall 2026 | 2026-07-07 | 1 | simplify-2026 |
 | [Horizon Industries](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5301639008) | Appian Intern | Washington, DC | Fall 2026 | 2026-07-07 | 1 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002) | Technology Intern | London, UK | Summer 2027 | 2026-07-07 | 1 | simplify-2026 |
@@ -144,7 +143,6 @@
 | [Seaspan](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) | Digital Ship Intern | Vancouver, BC, Canada | Fall 2026 | 2026-06-08 | 30 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270521) | Automated Diagnostics Intern - Software Engineer | Palo Alto, CA | Fall 2026 | 2026-06-07 | 31 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/257048) | Physics Engine Development Intern - Physics Engine Development Engineer - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 31 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/267767) | Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering | Palo Alto, CA, Fremont, CA, United States | Summer 2026, Fall 2026, Winter 2026 | 2026-06-07 | 31 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269829) | Software Engineer Intern - AI Data Infrastructure | Palo Alto, CA | Fall 2026 | 2026-06-07 | 31 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/260382) | Software Engineer Intern - Software Engineer - AI Hardware Infrastructure | Palo Alto, CA | Fall 2026, Summer 2026, Winter 2027, Spring 2027 | 2026-06-07 | 31 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/263211) | AI Inference Engineer Intern - Software Compiler Engineer - AI Inference | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 31 | simplify-2026 |

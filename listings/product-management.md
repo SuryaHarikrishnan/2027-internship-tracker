@@ -1,11 +1,10 @@
-# Product Management (28)
+# Product Management (27)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 1 | simplify-2026 |
-| [CSL](https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/AI-Technology-Product-Co-op_R-277204) | AI Technology Product Co-op | King of Prussia, PA | Fall 2026 | 2026-07-06 | 2 | simplify-2026 |
 | [Pinterest](https://www.pinterestcareers.com/jobs/?gh_jid=8016567) | Product Researcher Apprentice | SF, Remote in USA | Fall 2026 | 2026-07-06 | 2 | simplify-2026 |
 | [Pinterest](https://www.pinterestcareers.com/jobs/?gh_jid=8016532) | Product Manager Apprentice | SF, Remote in USA | Fall 2026 | 2026-07-06 | 2 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1) | Product Development Intern | Plano, TX, McLean, VA | Summer 2027 | 2026-07-06 | 2 | simplify-2026 |
