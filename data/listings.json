@@ -11731,7 +11731,7 @@
     "company_name": "Bugcrowd",
     "id": "5a68ce5f-816a-422c-99ab-76aaed1f7303",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -31899,7 +31899,7 @@
     "company_name": "thyssenkrupp",
     "id": "0c426432-5715-4711-a5c1-a627c0fd3b4a",
     "title": "Trader Trainee - Metals",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -40452,7 +40452,7 @@
     "company_name": "Nokia",
     "id": "3a98b62d-7278-49e8-b012-9c22e133db65",
     "title": "ASIC Verification Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -152281,7 +152281,7 @@
     "company_name": "Vertex Pharmaceuticals",
     "id": "49770307-3bc7-4198-b335-47ffbddda332",
     "title": "Lab Systems Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026",
@@ -350223,59 +350223,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AECOM",
-    "id": "1cdbfa40-e899-4412-be5f-495b9d12dbba",
-    "title": "Industrial Placement Student - London / St Albans - Summer 2026",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1762792288,
-    "date_posted": 1762792288,
-    "url": "https://jobs.smartrecruiters.com/AECOM2/744000092714940",
-    "locations": [
-      "London, UK",
-      "Welwyn Garden City, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/AECOM",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NBCUniversal",
-    "id": "55bc3286-7fe4-4eb5-b5eb-80426b3044da",
-    "title": "Telemundo Enterprises Programming & Research Internships - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762791311,
-    "date_posted": 1762791311,
-    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092729135",
-    "locations": [
-      "Miami, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/NBCUniversal",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
     "_sources": [
       "simplify-2026"
     ]

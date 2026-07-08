@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (461)
+# Data Science, AI & Machine Learning (460)
 
 [← back to index](../README.md)
 
@@ -353,7 +353,6 @@
 | [Tilde Research](https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508/application) | ML Researcher – Intern and Full-time | SF | Summer 2026 | 2026-03-06 | 124 | simplify-2026 |
 | [Tilde Research](https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef/application) | ML Engineer | SF | Summer 2026 | 2026-03-06 | 124 | simplify-2026 |
 | [The Information Lab](https://jobs.lever.co/theinformationlab/eaa64bb6-30b9-44bf-a490-3a2ea9754c13/apply) | The Data School - Data Analyst Consultant | NYC | N/A | 2026-03-06 | 124 | simplify-2026 |
-| [Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Lab-Systems-Engineering_REQ-28223-1) | Lab Systems Engineering Co-op | Boston, MA | Summer 2026, Fall 2026, Winter 2026 | 2026-03-05 | 125 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2916726525182155) | Research Scientist Intern - Monetization Generative AI - LLM | Seattle, WA, Menlo Park, CA, NYC, Bellevue, WA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 125 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1782902493113620) | Research Scientist Intern - AI Alignment | Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 125 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2022109075207025) | Research Scientist Intern - Photorealistic Telepresence | Sausalito, CA, Redmond, WA, Pittsburgh, PA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 125 | simplify-2026 |
