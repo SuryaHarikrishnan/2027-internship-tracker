@@ -24,6 +24,7 @@
 | [CTGT](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-04 | 4 | simplify-2026 |
 | [AI Fund](https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply) | Engineer Marketradar | Mountain View, CA | N/A | 2026-07-03 | 5 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | Website Development & Content Marketing Intern - AI & Automation | NYC | Summer 2026 | 2026-07-03 | 5 | simplify-2026 |
+| [Cerence](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973) | Student Worker | Remote in UK | N/A | 2026-07-03 | 5 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185) | Engineering Development Program Intern - Engineering Development Program | Sparks, MD, Hartford, CT, Atlanta, GA, St Paul, MN | Summer 2026 | 2026-07-03 | 5 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1) | Engineering Development Program - Engineering Development Program - Software Engineering | Sparks, MD, Hartford, CT, Atlanta, GA, St Paul, MN | N/A | 2026-07-03 | 5 | simplify-2026 |
 | [AtkinsRéalis](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Physics-Student---Fall_R-159111) | Physics Student | Mississauga, ON, Canada | N/A | 2026-07-03 | 5 | simplify-2026 |
@@ -52,7 +53,6 @@
 | [Palantir](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply) | Forward Deployed Software Engineer Intern - Commercial | Chicago, IL | Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028 | 2026-06-30 | 8 | simplify-2026 |
 | [KRAFTON](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) | Programming Intern | Montreal, QC, Canada | Fall 2026 | 2026-06-30 | 8 | simplify-2026 |
 | [Worcester Polytechnic Institute](https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515) | Research Software Engineer | Worcester, MA | N/A | 2026-06-30 | 8 | simplify-2026 |
-| [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | Software Engineer Intern - Software Engineer | Remote in USA | Fall 2026 | 2026-06-29 | 9 | simplify-2026 |
 | [Remarcable](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/application) | Full Stack Developer Co-op | Vancouver, BC, Canada | Summer 2026 | 2026-06-29 | 9 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply) | Software Engineer Intern - Production Infrastructure | Seattle, WA | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 9 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply) | Software Engineer Intern - Infrastructure | Palo Alto, CA | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 9 | simplify-2026 |

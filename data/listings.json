@@ -1,6 +1,191 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OLG",
+    "id": "a92ef88c-0e72-4b45-ac7e-21d41ecd7fea",
+    "title": "Customer Insights - Customer Insights - Analyst Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783521001,
+    "date_posted": 1783519649,
+    "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Customer-Insights--CI--Analyst-Student_R26_00441",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/OLG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OLG",
+    "id": "6ffa4911-a821-45a3-9d35-7e473db2ebb1",
+    "title": "Enterprise Analytics Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783521001,
+    "date_posted": 1783519650,
+    "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Enterprise-Analytics-Student_R26_00454",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Sault Ste. Marie, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/OLG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Innodata",
+    "id": "4c9bb250-a013-4acd-8de3-05b3d7c7f2b2",
+    "title": "Generative AI Associate",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783521001,
+    "date_posted": 1783520733,
+    "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307422009",
+    "locations": [
+      "Montana"
+    ],
+    "company_url": "https://simplify.jobs/c/Innodata",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OLG",
+    "id": "464d3bee-1f3b-477c-ac68-50ee629f3a9d",
+    "title": "Data Scientist Co-op",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783520597,
+    "date_posted": 1783519649,
+    "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Student_R26_00479",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/OLG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Thales",
+    "id": "f3f6a8a3-c6c4-4a90-9a82-692f247c33fa",
+    "title": "System Integration & Test Integration, Verification, Validation & Qualification Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783513900,
+    "date_posted": 1783513758,
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/SI-T-IVVQ-Intern_R0329325-1",
+    "locations": [
+      "Trafford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Thales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Banner Health",
+    "id": "701f6c67-0790-44a2-98fb-8bcac02b2041",
+    "title": "IT 2 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783512799,
+    "date_posted": 1783462554,
+    "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Intern-IT-II_R4447070",
+    "locations": [
+      "Arizona"
+    ],
+    "company_url": "https://simplify.jobs/c/Banner-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783508496,
+    "date_posted": 1783490748,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Certificate"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "NVIDIA",
     "id": "49ac286b-0d2a-44df-b39a-c6540778f26a",
@@ -635,7 +820,7 @@
     "company_name": "Kimley-Horn",
     "id": "90f0f122-3e2a-49f2-a6c8-688ce3720044",
     "title": "GIS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2897,7 +3082,7 @@
     "company_name": "Cerence",
     "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
     "title": "Student Worker",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -5483,7 +5668,7 @@
     "company_name": "Climate Corps",
     "id": "5b74ecb7-7875-4e7a-8482-2baf4c83f1fa",
     "title": "Sustainability Reporting Specialist Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -5920,7 +6105,7 @@
     "company_name": "Rise8",
     "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
     "title": "Software Engineer Intern - Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -31055,7 +31240,7 @@
     "company_name": "PNC Financial Services",
     "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
     "title": "Graduate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -31082,7 +31267,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -44326,7 +44511,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
