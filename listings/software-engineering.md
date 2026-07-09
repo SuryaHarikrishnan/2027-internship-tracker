@@ -1,4 +1,4 @@
-# Software Engineering (406)
+# Software Engineering (404)
 
 [← back to index](../README.md)
 
@@ -24,7 +24,6 @@
 | [Ada](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Software Engineer Intern | Remote in Canada | Fall 2026 | 2026-07-06 | 3 | simplify-2026 |
 | [Everfox](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/Intern-Product-Engineeer_JR500721) | Product Engineer Intern | London, UK | Fall 2026 | 2026-07-06 | 3 | simplify-2026 |
 | [Everfox](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Product-Intern_JR500719) | Product Engineering Intern | London, UK | Fall 2026 | 2026-07-06 | 3 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | Performance Engineer Intern - Systems Software | St. Louis, MO | Fall 2026 | 2026-07-06 | 3 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | Technology Intern | NYC | Summer 2027 | 2026-07-06 | 3 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8044395) | AI Builder Intern - Global Customer Engineering - Service Sales | London, UK | Fall 2026 | 2026-07-06 | 3 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Miami, FL, NYC | Fall 2026 | 2026-07-06 | 3 | simplify-2026 |
@@ -270,7 +269,6 @@
 | [Context](https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application) | Intern | SF | Summer 2026 | 2026-04-17 | 83 | simplify-2026 |
 | [Kognitos](https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5/application) | Software Engineer Intern - AI-Native | San Jose, CA | Summer 2026 | 2026-04-16 | 84 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/52439/job?mobile=true&needsRedirect=false) | IT Co-Op | Letchworth, AR | Summer 2026 | 2026-04-16 | 84 | simplify-2026 |
-| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1) | Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern | State College, PA | N/A | 2026-04-14 | 86 | simplify-2026 |
 | [Sandhills Global](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | Software Development Intern | Lincoln, NE | Summer 2026 | 2026-04-13 | 87 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7626502798363920693/detail) | Student Researcher - Seed Infra-Compiler - PhD | San Jose, CA | N/A | 2026-04-11 | 89 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7626504892836530485/detail) | Student Researcher - Seed Infra Compiler | San Jose, CA | N/A | 2026-04-11 | 89 | simplify-2026 |
