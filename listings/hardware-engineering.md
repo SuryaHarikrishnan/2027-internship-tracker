@@ -1,4 +1,4 @@
-# Hardware Engineering (196)
+# Hardware Engineering (195)
 
 [← back to index](../README.md)
 
@@ -147,7 +147,6 @@
 | [Regal Rexnord](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Summer-_R26_01164) | Application Engineering Co-Op | Fort Wayne, IN | Fall 2026 | 2026-04-22 | 78 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) | Hardware-In-the-Loop Software Engineering Intern - Fall 2026 | Atlanta, GA | Fall 2026 | 2026-04-17 | 83 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/0bb2dd41-e6a9-41a5-bafc-8a438f0a7cca/apply) | PT Student Worker-Robot Platform Validation Intern | San Mateo, CA | N/A | 2026-04-17 | 83 | simplify-2026 |
-| [Formlabs](https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874) | Test Engineering Intern | Cambridge, MA | Fall 2026 | 2026-04-13 | 87 | simplify-2026 |
 | [Etched](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application) | DFT Intern | San Jose, CA | Summer 2026 | 2026-04-13 | 87 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Design Verification Engineer Intern | Boston, MA | Winter 2026, Summer 2026, Fall 2026 | 2026-04-09 | 91 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330606) | Data Center Trainee | Stamford, TX | N/A | 2026-04-07 | 93 | simplify-2026 |
