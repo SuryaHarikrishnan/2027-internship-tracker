@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (467)
+# Data Science, AI & Machine Learning (463)
 
 [← back to index](../README.md)
 
@@ -10,7 +10,6 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8052351) | AI Research Engineer Intern - Research Automation | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8052338) | Campus AI Research Engineer Intern - Deep Learning | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
 | [Hone Health](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Data Engineering Intern | Remote in USA | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
-| [Loblaw Companies](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/AI-Engineering---Co-op-Student_R2000681500) | AI Engineering Co-op | Brampton, ON, Canada | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
 | [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | Associate/Undergraduate Intern | Remote in USA | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
 | [Ontic](https://jobs.ashbyhq.com/Ontic/20af94c6-329e-45f5-b02b-4be582b5dee3/application) | Data Migration Analyst Intern | Remote in USA | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
 | [ITT](https://careersenus-itt-inc.icims.com/jobs/15908/job?mobile=true&needsRedirect=false) | Supply Chain Data Analyst Co-op | Seneca Falls, NY | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
@@ -27,7 +26,6 @@
 | [1X](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application) | AI Residency Intern | San Carlos, CA | Fall 2026 | 2026-07-07 | 2 | simplify-2026 |
 | [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Laval/XMLNAME-2026-Fall-Intern---Business---Data-Analyst-Intern---Stagiaire-d-Automne-2026---Analyste-d-Affaires---de-Donnes_202606-116950) | Business Data Analyst Intern - Business / Data Analyst | Laval, QC, Canada | Fall 2026 | 2026-07-07 | 2 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/12845?icims=1) | Clinical Business Intelligence Intern | Cincinnati, OH | Spring 2026 | 2026-07-07 | 2 | simplify-2026 |
-| [OneMain Financial](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Analyst_R2607-51576) | Analytics Analyst | Wilmington, DE | N/A | 2026-07-07 | 2 | simplify-2026 |
 | [Caterpillar Inc.](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Part-time-Intern---AI-Developer_R0000376582) | Communications & AI Intern - AI Developer | Peoria, IL | Summer 2026 | 2026-07-07 | 2 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | Research Intern | Sunnyvale, CA | Fall 2026 | 2026-07-07 | 2 | simplify-2026 |
 | [University of British Columbia](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Utilities-Student-Worker---Water-Consumption-Project_JR25160) | Utilities Student Worker - Water Consumption Project | Vancouver, BC, Canada | N/A | 2026-07-07 | 2 | simplify-2026 |
@@ -122,7 +120,6 @@
 | [Nuro](https://nuro.ai/careersitem?gh_jid=7594577) | Data Scientist Intern | Mountain View, CA | Summer 2026 | 2026-06-24 | 15 | simplify-2026 |
 | [F. Schumacher & Co.](https://job-boards.greenhouse.io/fschumacherco/jobs/5279316008) | Product Data Strategy and Operations Intern | NYC | Summer 2026 | 2026-06-24 | 15 | simplify-2026 |
 | [Clio](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Business-Operations-Co-op_REQ-5061) | Data Modeling Co-op | Toronto, ON, Canada, Vancouver, BC, Canada | Fall 2026 | 2026-06-24 | 15 | simplify-2026 |
-| [Elanco](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/Special-Projects-Associate---Sustainability-Data-Monitoring_R0026251) | Special Projects Associate - Sustainability Data Monitoring | Remote in USA | N/A | 2026-06-24 | 15 | simplify-2026 |
 | [Hiverge](https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application) | Research Engineer Intern | Cambridge, UK | Summer 2026 | 2026-06-24 | 15 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2026-Marketing-Analytics-Analyst-Program---Cleveland_R-40522) | Marketing Analytics Analyst Program | Brooklyn, OH | N/A | 2026-06-24 | 15 | simplify-2026 |
 | [Delta Air Lines](https://delta.avature.net/en_US/careers/JobDetail?jobId=32774) | Intern, Innovation - AI Engineering | Atlanta, GA | Fall 2026 | 2026-06-24 | 15 | simplify-2026 |
@@ -470,4 +467,3 @@
 | [Perplexity AI](https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application) | Intern Program | London, UK | Summer 2025 | 2025-11-17 | 234 | simplify-2026 |
 | [Toyota Research Institute](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | Human Interactive Driving Intern - World Models | Mountain View, CA | Summer 2026 | 2025-11-14 | 237 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8218030002/) | Data Analyst Intern | New York, NY | Summer 2026 | 2025-11-12 | 239 | simplify-2026 |
-| [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352) | Computer Science/Data Science Intern - Bachelor's Degree | Santa Clara, CA | Summer 2026 | 2025-11-11 | 240 | simplify-2026 |

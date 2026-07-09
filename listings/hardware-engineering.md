@@ -1,4 +1,4 @@
-# Hardware Engineering (195)
+# Hardware Engineering (193)
 
 [← back to index](../README.md)
 
@@ -127,7 +127,6 @@
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) | HITL Engineer Intern | Long Beach, CA | Fall 2026 | 2026-05-16 | 54 | simplify-2026 |
 | [University of Arkansas](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815) | Student Research Assistant-2 | Pine Bluff, AR | N/A | 2026-05-15 | 55 | simplify-2026 |
 | [Technergetics](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | R&D Engineer Intern | Remote in USA | Summer 2026 | 2026-05-15 | 55 | simplify-2026 |
-| [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oAz7zfwz?nl=1&nl=1&fr=false) | Onboard Fare Systems - Technology & Engineer Fellow | NYC | N/A | 2026-05-13 | 57 | simplify-2026 |
 | [Verkada](https://job-boards.greenhouse.io/verkada/jobs/4321159007) | Hardware Engineer Co-op | San Mateo, CA | Fall 2026 | 2026-05-13 | 57 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4681155006) | CAD Engineer/Librarian Intern | SF | Fall 2026 | 2026-05-13 | 57 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | Assembly and Test Intern - Integration | SF | Fall 2026 | 2026-05-12 | 58 | simplify-2026 |
@@ -143,7 +142,6 @@
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4677338006) | FPGA Intern | SF | Fall 2026 | 2026-04-30 | 70 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4677337006) | FPGA Associate Intern | SF | Fall 2026 | 2026-04-30 | 70 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231) | Hardware Developer Engineer Co-op/Intern | Ottawa, ON, Canada | Fall 2026 | 2026-04-30 | 70 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34232) | Hardware Engineer Co-op/Intern | Ottawa, ON, Canada | Fall 2026 | 2026-04-30 | 70 | simplify-2026 |
 | [Regal Rexnord](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Summer-_R26_01164) | Application Engineering Co-Op | Fort Wayne, IN | Fall 2026 | 2026-04-22 | 78 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) | Hardware-In-the-Loop Software Engineering Intern - Fall 2026 | Atlanta, GA | Fall 2026 | 2026-04-17 | 83 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/0bb2dd41-e6a9-41a5-bafc-8a438f0a7cca/apply) | PT Student Worker-Robot Platform Validation Intern | San Mateo, CA | N/A | 2026-04-17 | 83 | simplify-2026 |

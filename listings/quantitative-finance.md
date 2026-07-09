@@ -1,4 +1,4 @@
-# Quantitative Finance (87)
+# Quantitative Finance (86)
 
 [← back to index](../README.md)
 
@@ -11,7 +11,6 @@
 | [Flow Traders](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | Quantitative Trading Intern | NYC | Summer 2027 | 2026-07-08 | 1 | simplify-2026 |
 | [Zurich Insurance](https://www.careers.zurich.com/job/Chichester-Digital-Trading-Trainee-Underwriter-GB-W/1366042957/?ats=successfactors) | Digital Trading Underwriter Trainee | Portsmouth, UK | N/A | 2026-07-08 | 1 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8621450002) | Trading Desk Operations Engineer | NYC | N/A | 2026-07-07 | 2 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | Quantitative Trader: Equity Quantitative Research Intern | NYC | Fall 2026 | 2026-07-07 | 2 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8347385002) | Sales and Trading | NYC | N/A | 2026-07-06 | 3 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8617344002) | Quantitative Trader | NYC | N/A | 2026-07-06 | 3 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) | Quantitative Researcher Intern | NYC | N/A | 2026-07-06 | 3 | simplify-2026 |

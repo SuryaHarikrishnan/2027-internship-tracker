@@ -1,4 +1,4 @@
-# Software Engineering (403)
+# Software Engineering (402)
 
 [← back to index](../README.md)
 
@@ -77,7 +77,6 @@
 | [Palantir](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply) | Software Engineer Intern | NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 10 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply) | Privacy and Civil Liberties Software Engineer Intern | NYC | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-06-29 | 10 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply) | Forward Deployed Software Engineer Intern - Commercial | NYC | Winter 2027, Spring 2028, Summer 2028 | 2026-06-29 | 10 | simplify-2026 |
-| [Outmarket AI](https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application) | AI Software Engineer Intern | Remote in India, Remote in USA | Summer 2026 | 2026-06-26 | 13 | simplify-2026 |
 | [Kabam](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) | Software Engineer Co-op - Gameplay | Vancouver, BC, Canada | Fall 2026 | 2026-06-26 | 13 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/73300/job?mobile=true&needsRedirect=false) | Software Engineer - Multiple Teams | Pittsfield, MA | N/A | 2026-06-26 | 13 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Dveloppeur-Microsoft-365---Stage-Automne-2026---4-mois_R031270) | Développeur Microsoft | Quebec City, QC, Canada | N/A | 2026-06-26 | 13 | simplify-2026 |

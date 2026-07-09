@@ -302,7 +302,7 @@
     "company_name": "Loblaw Companies",
     "id": "00bb6bac-77e5-4bdc-8de2-5007d1937338",
     "title": "AI Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1637,7 +1637,7 @@
     "company_name": "Citadel",
     "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
     "title": "Quantitative Trader: Equity Quantitative Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1716,7 +1716,7 @@
     "company_name": "OneMain Financial",
     "id": "7665d430-525e-4f75-9127-c9803c57367e",
     "title": "Analytics Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -9176,7 +9176,7 @@
     "company_name": "Outmarket AI",
     "id": "79204fa0-81f5-4295-96d3-0a63bb614715",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -10337,7 +10337,7 @@
     "company_name": "Elanco",
     "id": "6c4405d5-c008-48ab-bb63-5f8f77ba0777",
     "title": "Special Projects Associate - Sustainability Data Monitoring",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35317,7 +35317,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "3f5365b0-04a2-4345-acc3-08ca2f8703ab",
     "title": "Onboard Fare Systems - Technology & Engineer Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -64452,7 +64452,7 @@
     "company_name": "Nokia",
     "id": "ccebacf3-3a78-4dc6-8622-681d550955d1",
     "title": "Hardware Engineer Co-op/Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -345018,32 +345018,6 @@
     ]
   },
   {
-    "date_updated": 1763029174,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Aerospace-AI-ML-Intern_R-00169656",
-    "company_name": "Leidos",
-    "title": "Aerospace AI/ML Intern",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "e0c55eb7-9804-4ce3-b61c-94240c397297",
-    "date_posted": 1762875523,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "date_updated": 1763025846,
     "sponsorship": "Does Not Offer Sponsorship",
     "active": false,
@@ -347842,6 +347816,35 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marvell",
+    "id": "2ccf321b-8f17-4c7c-9853-a63c0307b8c6",
+    "title": "Computer Science/Data Science Intern - Bachelor's Degree",
+    "active": false,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "date_updated": 1762907597,
+    "date_posted": 1762907597,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Cirrus Logic",
     "id": "f766484a-1133-4b0e-9fc7-e940ccb4be6d",
@@ -348740,85 +348743,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ryan",
-    "id": "060e664d-8ce5-4f19-ac32-0a9f6c1db680",
-    "title": "Summer 2026 Intern - Product Management / Data Analysis",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762883424,
-    "date_posted": 1762883424,
-    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Charlotte/Summer-2026-Intern--Product-Management---Data-Analysis_R0018335-1",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Ryan",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762875719,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352",
-    "company_name": "Marvell",
-    "title": "Computer Science/Data Science Intern - Bachelor's Degree",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "0f6e6212-087f-40cf-afdb-cc7cb7fe0596",
-    "date_posted": 1762875719,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762875637,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://wing.com/careers/8237644002?gh_jid=8237644002",
-    "company_name": "Wing",
-    "title": "Perception Software Engineering Intern, Summer 2026",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "Simplify",
-    "id": "435d515c-0b1b-48a1-8fa7-b96b39fc5061",
-    "date_posted": 1762875637,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
