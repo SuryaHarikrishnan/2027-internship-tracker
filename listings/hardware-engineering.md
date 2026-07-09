@@ -1,9 +1,10 @@
-# Hardware Engineering (193)
+# Hardware Engineering (194)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Applications Engineering Intern | Roseville, CA | Fall 2026 | 2026-07-09 | 0 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 1 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599) | Microsystems Integration Co-op | Cambridge, MA | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |
 | [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/SI-T-IVVQ-Intern_R0329325-1) | System Integration & Test Integration, Verification, Validation & Qualification Intern | Trafford, UK | Fall 2026 | 2026-07-08 | 1 | simplify-2026 |

@@ -2,6 +2,85 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Brevium",
+    "id": "6de13808-7632-4d90-b7bb-993b55170ec7",
+    "title": "Data Analyst Assistant",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783636051,
+    "date_posted": 1783635954,
+    "url": "https://job-boards.greenhouse.io/brevium/jobs/4326783006",
+    "locations": [
+      "American Fork, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Brevium",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "6c97854c-c8cd-46cc-b26a-8a3f63aab585",
+    "title": "Applications Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783635788,
+    "date_posted": 1783555200,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Environmental Defense Fund",
+    "id": "17a2243a-f588-4ca1-887b-f97b5cf3acd3",
+    "title": "Climate & Health Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783635304,
+    "date_posted": 1783555200,
+    "url": "https://osv-edf.wd5.myworkdayjobs.com/en-US/Confidential/job/Remote---US-Home/Climate---Health-Intern_REQ-002561",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Eulerity",
     "id": "c5e8d6dd-ca17-4cde-89c3-e8da016a78e5",
     "title": "Digital Marketing Intern - Technical AI & Automation",
@@ -29,7 +108,7 @@
     "company_name": "General Motors",
     "id": "0d684ec2-3984-474f-89ab-9e7ae0809d1e",
     "title": "Materials Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1637,7 +1716,7 @@
     "company_name": "Citadel",
     "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
     "title": "Quantitative Trader: Equity Quantitative Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -4463,7 +4542,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5499,7 +5578,7 @@
     "company_name": "Citi",
     "id": "91db4853-adf9-4087-93dc-8182d251fe06",
     "title": "Services Analyst",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -16523,7 +16602,7 @@
     "company_name": "Harbinger Motors",
     "id": "5aa6e9bd-09c4-45fd-8a1b-4a72bb9684ab",
     "title": "Production Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -28609,7 +28688,7 @@
     "company_name": "American University",
     "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
     "title": "Graduate Event Data Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -31082,7 +31161,7 @@
     "company_name": "Salesforce",
     "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
     "title": "AI Builder - Emerging Talent",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -35473,7 +35552,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "ebd24102-2b39-4125-bfd8-6cd834cc5f49",
     "title": "Enterprise Architecture Fellow - Technology & Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -46729,7 +46808,7 @@
     "company_name": "Lambda",
     "id": "b4e9ca86-32bd-446b-9988-cf1cc0345014",
     "title": "Security Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -108555,7 +108634,7 @@
     "company_name": "True Manufacturing",
     "id": "8e39a25b-7f83-469c-a84e-63c374d0f3cf",
     "title": "AI Analyst Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -140706,7 +140785,7 @@
     "company_name": "Occidental Petroleum Corporation (Oxy)",
     "id": "482740e0-68a4-4908-a047-e4788e000945",
     "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

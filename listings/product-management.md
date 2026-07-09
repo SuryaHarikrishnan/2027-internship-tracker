@@ -1,4 +1,4 @@
-# Product Management (28)
+# Product Management (27)
 
 [← back to index](../README.md)
 
@@ -16,7 +16,6 @@
 | [TikTok](https://lifeattiktok.com/search/7657541997725288757) | Copyright Solution Product Manager Intern - Tiktok-Music | San Jose, CA | Fall 2026 | 2026-07-03 | 6 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657778928769534213) | Product Manager Intern - TikTok Product Content Ecosystem | San Jose, CA | Fall 2026 | 2026-07-03 | 6 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657640284071954741) | Product Solutions and Operations Project Intern - Commerce Ads | San Jose, CA | Summer 2026 | 2026-07-02 | 7 | simplify-2026 |
-| [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Skillbridge Intern - Product Manager | Remote in USA | Fall 2026 | 2026-06-29 | 10 | simplify-2026 |
 | [Kensington](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | Operations Intern - Ultraluxe Product | Toronto, ON, Canada | Summer 2026 | 2026-06-23 | 16 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 16 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | Product Operations Intern | Santa Clara, CA | Summer 2026 | 2026-06-17 | 22 | simplify-2026 |

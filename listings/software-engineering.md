@@ -225,9 +225,9 @@
 | [Melotech](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application) | Full-Stack Developer Intern - Music & Audio | London, UK, SF, LA, NYC, Berlin, Germany | Spring 2026 | 2026-05-19 | 51 | simplify-2026 |
 | [Podium](https://job-boards.greenhouse.io/podium81/jobs/7939921) | Software Engineer Intern | Lehi, UT | Summer 2026 | 2026-05-18 | 52 | simplify-2026 |
 | [Akima](https://careers.akima.com/jobs/23147?lang=en-us&icims=1) | Unity Game Designer | Huntsville, AL | N/A | 2026-05-16 | 54 | simplify-2026 |
+| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276) | AI Builder - Emerging Talent | SF, McLean, VA, Chicago, IL, NYC | N/A | 2026-05-16 | 54 | simplify-2026 |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5469298003) | Software Engineer Intern - Infrastructure | Fremont, CA | Summer 2026 | 2026-05-16 | 54 | simplify-2026 |
 | [Docugami](https://job-boards.greenhouse.io/docugami/jobs/4014838003) | Software Engineer Intern | Kirkland, WA | Summer 2026 | 2026-05-15 | 55 | simplify-2026 |
-| [Lambda](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) | Security Engineer Intern | SF | Summer 2026 | 2026-05-14 | 56 | simplify-2026 |
 | [Akima](https://careers.akima.com/jobs/22581?lang=en-us&icims=1) | Unreal Game Designer | Huntsville, AL | N/A | 2026-05-14 | 56 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply) | Year at Palantir Intern - Forward Deployed Software Engineer - Commercial | NYC | Summer 2026 | 2026-05-14 | 56 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply) | Year at Palantir Intern - Forward Deployed Software Engineer | NYC | Summer 2026 | 2026-05-14 | 56 | simplify-2026 |
