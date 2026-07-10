@@ -1689,7 +1689,7 @@
     "company_name": "ITT",
     "id": "252e949a-a495-490e-882c-b0c301195d36",
     "title": "Supply Chain Data Analyst Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7992,7 +7992,7 @@
     "company_name": "Generac",
     "id": "05aaf802-075e-467c-8e96-02dc1f9a1cd0",
     "title": "Manufacturing Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -31017,7 +31017,7 @@
     "company_name": "Skyscanner",
     "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
     "title": "Software Engineering Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -32349,7 +32349,7 @@
     "company_name": "Intel",
     "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
     "title": "Silicon Performance Validation and Characterization Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -41707,7 +41707,7 @@
     "company_name": "Nokia",
     "id": "480fe6a8-7da0-45a2-9cfb-7f2607367f33",
     "title": "Compliance Data Scientist Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -60448,7 +60448,7 @@
     "company_name": "X Development",
     "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
     "title": "PhD Resident - AI for Chemistry - Early Stage Project",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -270643,6 +270643,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "AbbVie",
+    "id": "f4e5b8a0-a720-4957-a8d2-12339c9a6aa3",
+    "title": "Business Technology Solutions Intern - Software Engineer",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1767977261,
+    "date_posted": 1767977261,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010999336",
+    "locations": [
+      "Waukegan, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "AstraZeneca",
     "id": "daa39393-3def-49c6-8fec-06f6fdc08de9",
@@ -332399,7 +332425,7 @@
     "company_name": "Solva",
     "id": "20e42ba9-f733-4af7-90db-2d2b6bf52da8",
     "title": "AI Engineer Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -337416,32 +337442,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "url": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/invitation-only/job/California-United-States-of-America/FTIS-Quantitative-Equity-Portfolio-Management-Intern_865341",
-    "company_name": "Franklin Templeton",
-    "title": "FTIS Quantitative Equity Portfolio Management Intern",
-    "locations": [
-      "California"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quantitative Finance",
-    "source": "angie-hue",
-    "id": "11f462f4-6945-4927-b869-2cc0668038b5",
-    "date_posted": 1762960700,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763624635,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
     "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925",
     "company_name": "DriveTime",
     "title": "Software Engineering Intern",
@@ -339488,32 +339488,6 @@
     "source": "angie-hue",
     "id": "48048ef3-965a-46d8-bb37-cd3dc8bc75b4",
     "date_posted": 1763483168,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763457815,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.smartrecruiters.com/Sandisk/a6add0bd-0181-4676-a960-ef616f652006?dcr_ci=Sandisk",
-    "company_name": "Sandisk",
-    "title": "GenAI & AI/ML Engineering Intern",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "f36b2fd2-c5c7-4ae0-a36d-9ee34b1d3085",
-    "date_posted": 1762960537,
     "company_url": "",
     "is_visible": true,
     "_sources": [
@@ -345796,32 +345770,6 @@
     ]
   },
   {
-    "date_updated": 1763025846,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://job-boards.greenhouse.io/radiant/jobs/4606582005",
-    "company_name": "Radiant",
-    "title": "Spring Internship - Software Engineering",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "315881aa-1f45-46b9-a382-bdfd07607dd7",
-    "date_posted": 1762960748,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "BorgWarner",
@@ -347828,6 +347776,30 @@
     ]
   },
   {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sandisk",
+    "id": "bc9fc38e-9b14-4c8a-8b20-ff9c66518308",
+    "title": "GenAI & AI/ML Engineering Intern",
+    "active": false,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1762989720,
+    "date_posted": 1762989720,
+    "url": "https://jobs.smartrecruiters.com/Sandisk/744000093026280",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sandisk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "date_updated": 1762978011,
     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4634686008",
     "locations": [
@@ -347894,134 +347866,6 @@
     "source": "Simplify",
     "id": "e12cfb4a-fe43-48f1-a311-26b623433aa5",
     "date_posted": 1762971307,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AECOM",
-    "id": "7fd15692-8277-45ab-86de-1a81741bd5c6",
-    "title": "Industrial Placement Student - London / St Albans - Summer 2026",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1762965376,
-    "date_posted": 1762965376,
-    "url": "https://jobs.smartrecruiters.com/AECOM2/744000093226583",
-    "locations": [
-      "Welwyn Garden City, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/AECOM",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "AbbVie",
-    "id": "0f6a582d-7f1c-44b7-80e4-5c1d2953aaea",
-    "title": "Business Technology Solutions Intern - Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762964197,
-    "date_posted": 1762964197,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010279276",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "AbbVie",
-    "id": "02a1f388-8e1a-47f3-bc7a-305320591356",
-    "title": "Business Technology Solutions Intern - Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762964194,
-    "date_posted": 1762964194,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010279234",
-    "locations": [
-      "Waukegan, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Visa",
-    "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027"
-    ],
-    "date_updated": 1762964043,
-    "date_posted": 1762964043,
-    "url": "https://jobs.smartrecruiters.com/Visa/744000093261367",
-    "locations": [
-      "Belfast, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Visa",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1762960795,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1",
-    "company_name": "Marvell",
-    "title": "Firmware Engineer Intern - Bachelor's Degree",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware Engineering",
-    "source": "angie-hue",
-    "id": "2371d956-f37b-4de2-af10-47e306aa3230",
-    "date_posted": 1762960795,
     "company_url": "",
     "is_visible": true,
     "_sources": [
