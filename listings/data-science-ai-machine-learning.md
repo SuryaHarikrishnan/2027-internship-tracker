@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (450)
+# Data Science, AI & Machine Learning (446)
 
 [← back to index](../README.md)
 
@@ -65,7 +65,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | Research Scientist Intern - AI Infrastructure | Seattle, WA | Fall 2026 | 2026-07-03 | 7 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | Research Scientist Intern - AI Infrastructure | San Jose, CA | Fall 2026 | 2026-07-03 | 7 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/6d8b31d2-6391-44b7-bf9f-93360172fae8/apply) | Student Worker - AI Validation and Benchmarking Engineer | San Mateo, CA | N/A | 2026-07-03 | 7 | simplify-2026 |
-| [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) | Data Engineer Intern | Austin, TX | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [Two Six Technologies](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | China Subject Matter Expert Intern | Remote in USA | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [Bot Auto](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Deep Learning Engineer Intern | Houston, TX | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [ConnectPrep](https://apply.workable.com/connectprep/j/C0CA13664F/apply) | Data Analyst Intern | Washington, DC, Remote in USA | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
@@ -78,7 +77,6 @@
 | [Citi](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Services--Full-Time-Analyst--New-York-City---US--2027_26975983) | Services Analyst | NYC | N/A | 2026-07-02 | 8 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | Applied Research Intern - NLP | Santa Clara, CA | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [Valeo](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365) | Warranty Engineering Co-op | Troy, MI | Summer 2026 | 2026-07-02 | 8 | simplify-2026 |
-| [Pika](https://jobs.ashbyhq.com/pika/6c9ba89d-91f3-4cf1-a318-70783773323a/application) | Research Intern | Palo Alto, CA | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) | Autonomous SEM Co-op | Cambridge, MA | Fall 2026 | 2026-07-01 | 9 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Machine Learning Research Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 9 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/275331) | Machine Learning Intern - AI Engineer - Tesla AI | Palo Alto, CA | Fall 2026 | 2026-07-01 | 9 | simplify-2026 |
@@ -176,7 +174,6 @@
 | [SHEIN](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA87554940) | Data Analysis Intern | United States | Summer 2026 | 2026-06-10 | 30 | simplify-2026 |
 | [Block](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | Applied Research Intern PhD / Graduate Co-op | Oakland, CA | Fall 2026, Winter 2027 | 2026-06-09 | 31 | simplify-2026 |
 | [Block](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Applied Research Intern Co-op | Toronto, ON, Canada | Fall 2026, Winter 2027 | 2026-06-09 | 31 | simplify-2026 |
-| [Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1) | AI and Governance Co-op - AI and Governance | Boston, MA | Summer 2026 | 2026-06-09 | 31 | simplify-2026 |
 | [iSpot.tv](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) | Data Science Intern | Bellevue, WA | Summer 2026 | 2026-06-09 | 31 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply) | Student Worker Automation & Behavioral Science Engineer | San Mateo, CA | N/A | 2026-06-09 | 31 | simplify-2026 |
 | [Ancestry](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378) | Machine Learning Engineer Co-op | Remote in USA | Summer 2026 | 2026-06-08 | 32 | simplify-2026 |
@@ -453,4 +450,3 @@
 | [Waymo](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132) | 2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL | Mountain View, CA | Summer 2026 | 2025-11-17 | 235 | simplify-2026 |
 | [Perplexity AI](https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application) | Intern Program | London, UK | Summer 2025 | 2025-11-17 | 235 | simplify-2026 |
 | [Toyota Research Institute](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | Human Interactive Driving Intern - World Models | Mountain View, CA | Summer 2026 | 2025-11-14 | 238 | simplify-2026 |
-| [Lyft](https://app.careerpuck.com/job-board/lyft/job/8218030002/) | Data Analyst Intern | New York, NY | Summer 2026 | 2025-11-12 | 240 | simplify-2026 |
