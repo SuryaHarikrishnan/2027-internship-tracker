@@ -1,4 +1,4 @@
-# Software Engineering (401)
+# Software Engineering (403)
 
 [← back to index](../README.md)
 
@@ -49,6 +49,7 @@
 | [Amentum](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---HLS-Fall-Intern_R0164860) | HLS Intern | Huntsville, AL | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [Aramark](https://aramarkcareers.com/UnitedStates/job/Bowling-Green-Java-City-Student-Barista-Western-Kentucky-Univ_-KY-42101/1405168100/?ats=successfactors) | Student Barista | Barren County, KY | N/A | 2026-07-02 | 8 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply) | Forward Deployed Software Engineer Intern - Intel | Washington, DC | Winter 2027, Spring 2028 | 2026-07-02 | 8 | simplify-2026 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) | PhD Research Intern - System Software and I/O Architecture | Urbana, IL, Remote in USA, Santa Clara, CA | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | Java Engineer Intern | Santa Clara, CA | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7654431844394322229) | Frontend Software Engineer Project Intern - Global CRM | San Jose, CA | Fall 2026 | 2026-07-02 | 8 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 9 | simplify-2026 |
@@ -175,6 +176,7 @@
 | [Tesla](https://www.tesla.com/careers/search/job/271382) | Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 33 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271630) | Service Engineering Intern - Product Support Engineer - Service Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 34 | simplify-2026 |
 | [Scale AI](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | AI Builder Intern | SF, NYC | Summer 2026 | 2026-06-06 | 34 | simplify-2026 |
+| [Rippling](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) | Full Stack Software Engineer Intern | Seattle, WA, SF, NYC | Winter 2027 | 2026-06-05 | 35 | simplify-2026 |
 | [Rippling](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | Software Engineer Intern - Backend Focused | Seattle, WA, SF, NYC | Winter 2027 | 2026-06-05 | 35 | simplify-2026 |
 | [Solink](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef/application) | Software Engineer Co-op | Ottawa, ON, Canada | Summer 2026 | 2026-06-05 | 35 | simplify-2026 |
 | [Solink](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/application) | Software Engineer Co-op - R&D- Data Integrations | Ottawa, ON, Canada | Summer 2026 | 2026-06-05 | 35 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (192)
+# Hardware Engineering (186)
 
 [← back to index](../README.md)
 
@@ -10,10 +10,8 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 2 | simplify-2026 |
 | [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/SI-T-IVVQ-Intern_R0329325-1) | System Integration & Test Integration, Verification, Validation & Qualification Intern | Trafford, UK | Fall 2026 | 2026-07-08 | 2 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1) | Field Engineer Apprentice | Chattanooga, TN | Fall 2026 | 2026-07-08 | 2 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1) | Field Engineer Apprentice | Salt Lake City, UT | Fall 2026 | 2026-07-08 | 2 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1) | Field Engineer Apprentice | California | Fall 2026 | 2026-07-08 | 2 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1) | Field Service Engineer Apprentice | Kansas City, MO | Fall 2026 | 2026-07-08 | 2 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992) | Field Engineer Apprentice | Little Rock, AR | Fall 2026 | 2026-07-08 | 2 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | Firmware Engineering Intern | Cambridge, ON, Canada | Fall 2026 | 2026-07-07 | 3 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638) | Digital IC Design Engineer - Digital Design Engineer | Tucson, AZ | N/A | 2026-07-07 | 3 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694883006) | Radiation Effects Associate Engineer | SF | N/A | 2026-07-07 | 3 | simplify-2026 |
@@ -94,15 +92,12 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | Research Intern - Virtual Network | San Jose, CA | Summer 2026 | 2026-06-02 | 38 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537163899668531474/detail) | Researcher Intern - Virtual Network | Seattle, WA | Summer 2026 | 2026-06-02 | 38 | simplify-2026 |
 | [Fluxergy](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply) | Firmware Engineer Intern | Irvine, CA | Summer 2026 | 2026-06-02 | 38 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36997) | Silicon Photonics Packaging Engineer Co-op | NYC, Sunnyvale, CA | Fall 2026 | 2026-06-02 | 38 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7395/job?mobile=true&needsRedirect=false) | Game Day Technician | State College, PA | N/A | 2026-06-02 | 38 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) | Firmware Engineer Intern | Vancouver, BC, Canada | Summer 2026 | 2026-06-02 | 38 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36934) | Software Development Co-op | Sunnyvale, CA | Fall 2026, Winter 2026 | 2026-06-01 | 39 | simplify-2026 |
 | [Diversified Automation](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply) | Hardware Engineering Co-op | Louisville, KY | Summer 2026 | 2026-05-28 | 43 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | Silicon Performance Validation and Characterization Intern | Phoenix, AZ | Summer 2026 | 2026-05-27 | 44 | simplify-2026 |
 | [Periodic Labs](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a/application) | Nanofabrication Intern | Menlo Park, CA | Summer 2026 | 2026-05-26 | 45 | simplify-2026 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101) | Electrical Device Characterization Intern | San Jose, CA | Fall 2026 | 2026-05-26 | 45 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36616) | Optical Test Co-op | San Jose, CA | Fall 2026, Winter 2027, Spring 2027, Summer 2027 | 2026-05-26 | 45 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | PhD Software Engineer Intern - Decision Intelligence | Santa Clara, CA | Fall 2026 | 2026-05-23 | 48 | simplify-2026 |
 | [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply) | AI Kernel Engineer Intern - Kernel Optimization | Burlingame, CA | Summer 2026 | 2026-05-22 | 49 | simplify-2026 |
 | [ MAG Aerospace](https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false) | Systems Analyst Apprentice | California | Summer 2026 | 2026-05-22 | 49 | simplify-2026 |
@@ -119,13 +114,11 @@
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | Autonomous Driving Applications Research Intern | Santa Clara, CA | Spring 2026 | 2026-05-21 | 50 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36548) | Software Development Co-op | Naperville, IL, Dallas, TX | Fall 2026, Winter 2026 | 2026-05-20 | 51 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | Fall 2026 | 2026-05-20 | 51 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36271) | Hardware Engineering Co-op | Sunnyvale, CA | Fall 2026, Winter 2026 | 2026-05-20 | 51 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply) | Subsystem Test Engineer Intern | Atlanta, GA | Fall 2026 | 2026-05-19 | 52 | simplify-2026 |
 | [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply) | Design Verification Intern | Burlingame, CA | Summer 2026 | 2026-05-19 | 52 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) | Hardware Development Engineer Co-op | Sunnyvale, CA | Fall 2026 | 2026-05-17 | 54 | simplify-2026 |
 | [Menasha Corporation](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Mentor-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Spring-2027-_R12878) | Custom Packaging Design Engineer Co-Op | Mentor, OH | Winter 2027, Spring 2027, Summer 2027 | 2026-05-16 | 55 | simplify-2026 |
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) | HITL Engineer Intern | Long Beach, CA | Fall 2026 | 2026-05-16 | 55 | simplify-2026 |
-| [University of Arkansas](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815) | Student Research Assistant-2 | Pine Bluff, AR | N/A | 2026-05-15 | 56 | simplify-2026 |
 | [Technergetics](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | R&D Engineer Intern | Remote in USA | Summer 2026 | 2026-05-15 | 56 | simplify-2026 |
 | [Verkada](https://job-boards.greenhouse.io/verkada/jobs/4321159007) | Hardware Engineer Co-op | San Mateo, CA | Fall 2026 | 2026-05-13 | 58 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4681155006) | CAD Engineer/Librarian Intern | SF | Fall 2026 | 2026-05-13 | 58 | simplify-2026 |
@@ -161,6 +154,7 @@
 | [Zoox](https://jobs.lever.co/zoox/14095fed-899c-4b33-a286-23d64f95c663/apply) | Part-time Student Worker | San Mateo, CA | N/A | 2026-03-11 | 121 | simplify-2026 |
 | [Monolithic Power Systems](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | Application Engineer Intern | San Jose, CA | Summer 2026 | 2026-03-11 | 121 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137465721076) | Part-Time Student - Multiple Teams | Davenport, IA | N/A | 2026-03-10 | 122 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) | Surgery Field Engineer Apprentice | California | Summer 2026 | 2026-03-09 | 123 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Flight Software Engineering Intern | Atlanta, GA | Summer 2026, Fall 2026 | 2026-03-06 | 126 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106) | Software Architecture Engineer Intern | United States | Summer 2026 | 2026-03-05 | 127 | simplify-2026 |
 | [Integrated Resources](https://jobs.smartrecruiters.com/IntegratedResourcesINC/104273121) | Testing Assistant | Hickory, NC | N/A | 2026-02-24 | 136 | simplify-2026 |
