@@ -1,6 +1,136 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hitachi Energy",
+    "id": "8d8f9605-6605-4474-9a61-7960df14b4a0",
+    "title": "Computer Vision Research & Development Engineer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783693155,
+    "date_posted": 1783641600,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "49d144b5-0812-45e0-b67c-5d07571de5e5",
+    "title": "Junior Software Development Engineer - Jr. Developer Program",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783693024,
+    "date_posted": 1783692472,
+    "url": "https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
+    "locations": [
+      "San Luis Obispo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Aptiv",
+    "id": "a62910e6-5d07-4c79-b9be-d6c633815782",
+    "title": "Working Student Interior Sensing ML",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783692362,
+    "date_posted": 1783641600,
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Wuppertal-Germany/Working-Student-Interior-Sensing-ML_J000700630",
+    "locations": [
+      "Neukirchen-Vluyn, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Aptiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ALFA LAVAL",
+    "id": "e52310c1-4967-4939-a114-b918546141cf",
+    "title": "Database Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783692362,
+    "date_posted": 1783641600,
+    "url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warminster-PA/Database-Analyst-Intern_JR0046726",
+    "locations": [
+      "Horsham, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/ALFA-LAVAL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sika",
+    "id": "5f57fcae-f9b7-4f88-abeb-bddc6e9457fa",
+    "title": "Product Management Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783692362,
+    "date_posted": 1783692303,
+    "url": "https://jobs.smartrecruiters.com/SikaAG/744000137117699",
+    "locations": [
+      "Welwyn Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sika",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Tesla",
     "id": "f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
@@ -1796,7 +1926,7 @@
     "company_name": "GE Healthcare",
     "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1825,7 +1955,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2477,7 +2607,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "795fc727-866d-4aee-b2f7-e8967b3e4d76",
     "title": "Off Cycle Intern - Aiden Edge",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -3635,7 +3765,7 @@
     "company_name": "General Dynamics",
     "id": "e429452e-d5a5-4ee1-99ce-5248b3ce962d",
     "title": "Engineering Intern - Business Support",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -3744,7 +3874,7 @@
     "company_name": "Citadel Securities",
     "id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
     "title": "Quantitative Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -3961,7 +4091,7 @@
     "company_name": "Citadel Securities",
     "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
     "title": "Quantitative Trader Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -7551,7 +7681,7 @@
     "company_name": "Citadel Securities",
     "id": "8f8172aa-6806-412b-b161-9e3f526a849c",
     "title": "Quantitative Researcher PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -13942,7 +14072,7 @@
     "company_name": "University of Texas at Austin",
     "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
     "title": "Course Support - Rhetoric",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -26757,7 +26887,7 @@
     "company_name": "Tencent",
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "title": "Multimedia Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -85272,7 +85402,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],

@@ -1,9 +1,12 @@
-# Data Science, AI & Machine Learning (452)
+# Data Science, AI & Machine Learning (454)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Hitachi Energy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079) | Computer Vision Research & Development Engineer | Remote in UK | N/A | 2026-07-10 | 0 | simplify-2026 |
+| [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Wuppertal-Germany/Working-Student-Interior-Sensing-ML_J000700630) | Working Student Interior Sensing ML | Neukirchen-Vluyn, Germany | N/A | 2026-07-10 | 0 | simplify-2026 |
+| [ALFA LAVAL](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warminster-PA/Database-Analyst-Intern_JR0046726) | Database Analyst Intern | Horsham, PA | Fall 2026 | 2026-07-10 | 0 | simplify-2026 |
 | [Brevium](https://job-boards.greenhouse.io/brevium/jobs/4326783006) | Data Analyst Assistant | American Fork, UT | N/A | 2026-07-09 | 1 | simplify-2026 |
 | [Cotiviti](https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false) | AI Engineer Intern | Remote in USA | Summer 2026 | 2026-07-09 | 1 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4695806006) | Digital Marketing Intern - Technical AI & Automation | NYC | Summer 2026 | 2026-07-09 | 1 | simplify-2026 |
@@ -45,7 +48,6 @@
 | [American Bureau of Shipping](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | AI Software Engineering Intern | St. John's, NL, Canada | Fall 2026 | 2026-07-06 | 4 | simplify-2026 |
 | [University of Nevada, Reno](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Data-Integrity-Specialist_R0152592) | Student Worker - Data Integrity Specialist | Reno, NV | N/A | 2026-07-06 | 4 | simplify-2026 |
 | [Duke University](https://careers.duke.edu/job/Durham-Data-Analytics-Fellow-NC-27710/1406032800/?ats=successfactors) | Data Analytics Fellow | Durham, NC | N/A | 2026-07-06 | 4 | simplify-2026 |
-| [General Dynamics](https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false) | Engineering Intern - Business Support | Gadsden, AL | Summer 2026 | 2026-07-06 | 4 | simplify-2026 |
 | [Celonis](https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003) | Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program | Raleigh, NC | N/A | 2026-07-06 | 4 | simplify-2026 |
 | [Verne Robotics](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 | 6 | simplify-2026 |
 | [Droyd Robotics](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | Machine Learning Intern | SF | Fall 2026 | 2026-07-04 | 6 | simplify-2026 |
@@ -139,6 +141,7 @@
 | [Consensus Cloud Solutions](https://consensus.com/careers/jobs/?gh_jid=4688215006) | Sales Strategy & Analytics Intern | Remote in USA | Summer 2026, Fall 2026 | 2026-06-17 | 23 | simplify-2026 |
 | [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148) | Data Specialist Co-op Intern - Claim Operations Management | Kitchener, ON, Canada | Fall 2026 | 2026-06-17 | 23 | simplify-2026 |
 | [Navaide](https://navaide.breezy.hr/p/3fe610df21d6/apply) | Technology & Innovation Intern | Arlington, VA, San Diego, CA | Summer 2026 | 2026-06-17 | 23 | simplify-2026 |
+| [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Course-Support---Rhetoric--Open-to-Work-Study-and-Non-Work-Study-_R_00046798) | Course Support - Rhetoric | Austin, TX | N/A | 2026-06-17 | 23 | simplify-2026 |
 | [EPRI](https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Knoxville-TN/AI-ML-for-Power-System-Analysis--Power-Flow--and-State-Estimation-Fall-Student-Engineer_REQ-4018) | AI/ML for Power System Analysis Intern - Power Flow - State Estimation | Knoxville, TN | N/A | 2026-06-17 | 23 | simplify-2026 |
 | [Adaption Labs](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Modelling Resident | Remote in USA | N/A | 2026-06-17 | 23 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/924149567345400) | Research Scientist Intern - Photorealistic Telepresence | London, UK | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-06-17 | 23 | simplify-2026 |
@@ -198,7 +201,6 @@
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) | Electricity + Natural Gas Analyst Intern | Ardmore, PA | Summer 2027 | 2026-06-04 | 36 | simplify-2026 |
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428693) | Data Scientist Apprentice | Leeds, UK | Summer 2026 | 2026-06-04 | 36 | simplify-2026 |
 | [Ancestry](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371) | Data Science Co-op - AI Document Understanding | Remote in USA | Fall 2026 | 2026-06-04 | 36 | simplify-2026 |
-| [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | Multimedia Development Intern | Palo Alto, CA | Summer 2026 | 2026-06-04 | 36 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7642450978503641397/detail) | Payment Partnership Project Intern - Global Payment | San Jose, CA | Summer 2026 | 2026-06-03 | 37 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7645070235035044101/detail) | Applied Research Intern - AI Safety Security - Global Tech Research Program | San Jose, CA | Summer 2026 | 2026-06-03 | 37 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7533045355162044690/detail) | Software Engineer Intern - Applied Machine Learning-Enterprise | San Jose, CA | Summer 2026 | 2026-06-03 | 37 | simplify-2026 |

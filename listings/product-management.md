@@ -1,9 +1,10 @@
-# Product Management (27)
+# Product Management (28)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Sika](https://jobs.smartrecruiters.com/SikaAG/744000137117699) | Product Management Apprentice | Welwyn Garden City, UK | Fall 2026 | 2026-07-10 | 0 | simplify-2026 |
 | [TelevisaUnivision](https://univision.wd1.myworkdayjobs.com/en-US/External/job/Miami-FL/Co-Op--Product-Manager---Personalization---New-Experiences-Temp_R020713) | Product Manager Co-op | Miami, FL | Fall 2026 | 2026-07-08 | 2 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Product Management Intern | Tampa, FL, NYC | Summer 2027 | 2026-07-08 | 2 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 3 | simplify-2026 |

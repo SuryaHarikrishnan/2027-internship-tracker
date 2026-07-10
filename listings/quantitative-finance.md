@@ -1,4 +1,4 @@
-# Quantitative Finance (84)
+# Quantitative Finance (81)
 
 [← back to index](../README.md)
 
@@ -16,10 +16,8 @@
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8617344002) | Quantitative Trader | NYC | N/A | 2026-07-06 | 4 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) | Quantitative Researcher Intern | NYC | N/A | 2026-07-06 | 4 | simplify-2026 |
 | [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Research-Methodology-Assistant--Student-_R4423) | Quantitative Research Methodology Assistant - Student | Washington, DC | N/A | 2026-07-06 | 4 | simplify-2026 |
-| [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) | Quantitative Research Analyst Intern | Miami, FL, NYC | Summer 2026 | 2026-07-06 | 4 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/) | Credit & Rates Rotational Trader Intern | NYC | Summer 2026 | 2026-07-06 | 4 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/) | Designated Market Maker Intern - Designated Market Maker - Trader | NYC | Summer 2026 | 2026-07-06 | 4 | simplify-2026 |
-| [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/) | Quantitative Trader Intern | Miami, FL, NYC | Summer 2026 | 2026-07-06 | 4 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | Quantitative Research Analyst Intern | Greenwich, CT, Miami, FL, NYC | Summer 2026 | 2026-07-06 | 4 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | Trader: Fixed Income & Macro Intern | Greenwich, CT, Miami, FL, NYC | Fall 2026 | 2026-07-06 | 4 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Philadelphia, PA | Summer 2027 | 2026-07-06 | 4 | simplify-2026 |
@@ -40,7 +38,6 @@
 | [Citadel](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Quantitative Research Engineer Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-07-01 | 9 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | Quantitative Researcher – PhD Intern | London, UK | Summer 2026 | 2026-07-01 | 9 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Quantitative Research Engineer Intern | Miami, FL, NYC | Summer 2026 | 2026-07-01 | 9 | simplify-2026 |
-| [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/) | Quantitative Researcher PhD Intern | Miami, FL, NYC | Summer 2026 | 2026-07-01 | 9 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/) | Quantitative Researcher PhD Intern | London, UK | Summer 2026 | 2026-07-01 | 9 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false) | Quantitative Trader Intern | NYC | Summer 2027 | 2026-06-30 | 10 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false) | Quantitative Trader Intern | Chicago, IL | Summer 2027 | 2026-06-30 | 10 | simplify-2026 |
