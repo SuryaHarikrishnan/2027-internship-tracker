@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (442)
+# Data Science, AI & Machine Learning (441)
 
 [← back to index](../README.md)
 
@@ -237,7 +237,6 @@
 | [Apple](https://jobs.apple.com/en-us/details/200664223) | Machine Learning and Artificial Intelligence PhD Intern | United States | Summer 2026 | 2026-05-22 | 50 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | PhD Data Generation and User Simulation Research Intern | Santa Clara, CA | Fall 2026 | 2026-05-21 | 51 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7642264645810292997) | Data Analyst Intern - TikTok Live | London, UK | Summer 2026 | 2026-05-21 | 51 | simplify-2026 |
-| [BrightAI](https://job-boards.greenhouse.io/brightai/jobs/6002012004) | Computer Vision Intern | Palo Alto, CA | Summer 2026 | 2026-05-21 | 51 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388) | Customer Solutions Analyst Intern - Ovip | United States | Fall 2026 | 2026-05-21 | 51 | simplify-2026 |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) | Academy Performance Analyst Intern - Academy Performance Analysis | Cincinnati, OH | Winter 2027 | 2026-05-20 | 52 | simplify-2026 |
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | Fall 2026 | 2026-05-20 | 52 | simplify-2026 |

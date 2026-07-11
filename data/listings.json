@@ -41608,7 +41608,7 @@
     "company_name": "BrightAI",
     "id": "88f5a6f1-62c1-4a91-bf47-30e41b086fde",
     "title": "Computer Vision Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -345737,102 +345737,6 @@
       "Waukegan, IL"
     ],
     "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "NVIDIA",
-    "id": "6b1002b2-2087-4b6d-8a0b-ace43c2fbd09",
-    "title": "VLSI CAD Timing Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763055734,
-    "date_posted": 1763055734,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern---Summer-2026_JR2006211",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "American Express",
-    "id": "f6115932-78df-40a2-bb46-291f12680f8a",
-    "title": "Campus Undergraduate Intern Program - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763055548,
-    "date_posted": 1763055548,
-    "url": "https://aexp.eightfold.ai/careers/job/38754789",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "American Express",
-    "id": "6941dd57-9911-45d0-aa75-c723d25fd316",
-    "title": "Campus Undergraduate Summer Internship Program - 2026 Product Management",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763055548,
-    "date_posted": 1763055548,
-    "url": "https://aexp.eightfold.ai/careers/job/38754794",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "American Express",
-    "id": "6e79c820-23e4-4267-8701-828d17c2a941",
-    "title": "Campus Undergraduate Summer Internship Program - 2026 Product Management",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763055539,
-    "date_posted": 1763055539,
-    "url": "https://aexp.eightfold.ai/careers/job/38754796",
-    "locations": [
-      "Plantation, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
