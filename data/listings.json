@@ -1951,7 +1951,7 @@
     "company_name": "Rakuten International",
     "id": "4dc5f31e-e744-4c5c-ac98-baeb6b6f17f3",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4863,7 +4863,7 @@
     "company_name": "CTGT",
     "id": "8c8a1f21-e711-48d0-8cec-601018138920",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -21204,7 +21204,7 @@
     "company_name": "Meshy",
     "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
     "title": "Fullstack Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -38281,7 +38281,7 @@
     "company_name": "Kinaxis",
     "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
     "title": "Software Development Co-op/Intern - C++",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -71240,7 +71240,7 @@
     "company_name": "NVIDIA",
     "id": "4d7b53f4-4839-4a21-9b3d-774c69c540bd",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -120926,7 +120926,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software \u2013 Intern - Python",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -148525,7 +148525,7 @@
     "company_name": "GE Healthcare",
     "id": "386d44f4-d2be-4d3e-b3cc-16177c263057",
     "title": "Surgery Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -337303,7 +337303,7 @@
     "company_name": "Cisco",
     "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
     "title": "Hardware Engineer 2",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025"
     ],

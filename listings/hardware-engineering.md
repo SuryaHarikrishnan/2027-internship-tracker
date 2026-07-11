@@ -1,4 +1,4 @@
-# Hardware Engineering (176)
+# Hardware Engineering (174)
 
 [← back to index](../README.md)
 
@@ -145,7 +145,6 @@
 | [Zoox](https://jobs.lever.co/zoox/14095fed-899c-4b33-a286-23d64f95c663/apply) | Part-time Student Worker | San Mateo, CA | N/A | 2026-03-11 | 122 | simplify-2026 |
 | [Monolithic Power Systems](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | Application Engineer Intern | San Jose, CA | Summer 2026 | 2026-03-11 | 122 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137465721076) | Part-Time Student - Multiple Teams | Davenport, IA | N/A | 2026-03-10 | 123 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) | Surgery Field Engineer Apprentice | California | Summer 2026 | 2026-03-09 | 124 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Flight Software Engineering Intern | Atlanta, GA | Summer 2026, Fall 2026 | 2026-03-06 | 127 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106) | Software Architecture Engineer Intern | United States | Summer 2026 | 2026-03-05 | 128 | simplify-2026 |
 | [Integrated Resources](https://jobs.smartrecruiters.com/IntegratedResourcesINC/104273121) | Testing Assistant | Hickory, NC | N/A | 2026-02-24 | 137 | simplify-2026 |
@@ -173,7 +172,6 @@
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | Verification Engineer Intern | United States | Winter 2025 | 2025-11-27 | 226 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) | ASIC Design Engineer Intern | United States | Winter 2025 | 2025-11-27 | 226 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108) | Software Development Engineer Intern | United States | Winter 2025 | 2025-11-27 | 226 | simplify-2026 |
-| [Cisco](https://careers.cisco.com/global/en/job/2000128) | Hardware Engineer 2 | Austin, TX, San Jose, CA, Research Triangle, Durham, NC | Winter 2025 | 2025-11-20 | 233 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200617616) | GPU Internship - Platform Architecture | London, UK, Cambridge, UK, Welwyn Garden City, UK | Winter 2025, Spring 2026, Summer 2026 | 2025-11-19 | 234 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200629965) | SoC Performance Modeling Internship - Platform Architecture | London, UK | Summer 2026 | 2025-11-19 | 234 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | Design Verification Intern - RISCV CPU | Austin, TX, Santa Clara, CA | Fall 2026 | 2025-11-18 | 235 | simplify-2026 |
