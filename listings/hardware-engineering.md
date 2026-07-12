@@ -9,8 +9,8 @@
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Applications Engineering Intern | Roseville, CA | Fall 2026 | 2026-07-09 | 3 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 4 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1) | Client Service Technician Apprentice | Plainview, NY | Fall 2026 | 2026-07-08 | 4 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1) | Field Engineer Apprentice | Salt Lake City, UT | Fall 2026 | 2026-07-08 | 4 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1) | Field Engineer Apprentice | California | Fall 2026 | 2026-07-08 | 4 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043180) | Field Service Apprentice | Houston, TX | Fall 2026 | 2026-07-08 | 4 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | Firmware Engineering Intern | Cambridge, ON, Canada | Fall 2026 | 2026-07-07 | 5 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638) | Digital IC Design Engineer - Digital Design Engineer | Tucson, AZ | N/A | 2026-07-07 | 5 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694883006) | Radiation Effects Associate Engineer | SF | N/A | 2026-07-07 | 5 | simplify-2026 |

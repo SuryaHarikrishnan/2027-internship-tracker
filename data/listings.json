@@ -3,6 +3,35 @@
     "source": "Simplify",
     "category": "Hardware",
     "company_name": "GE Healthcare",
+    "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
+    "title": "Field Service Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783853717,
+    "date_posted": 1783472744,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043180",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
     "active": true,
@@ -2474,7 +2503,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -27516,7 +27545,7 @@
     "company_name": "Tencent",
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "title": "Multimedia Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -86082,7 +86111,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -344365,30 +344394,6 @@
       "London, UK"
     ],
     "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cintas",
-    "id": "de3038d4-a341-4f41-9252-283a575961c5",
-    "title": "IT Intern \u2013 Software Engineer",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763114449,
-    "date_posted": 1763114449,
-    "url": "https://careers.cintas.com/job/Mason-IT-Intern-Software-Engineer-OH-45040/1342736900/?ats=successfactors",
-    "locations": [
-      "Mason, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Cintas",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
