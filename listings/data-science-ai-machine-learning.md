@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (439)
+# Data Science, AI & Machine Learning (438)
 
 [← back to index](../README.md)
 
@@ -42,7 +42,6 @@
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8611307002) | Machine Learning Engineer | NYC | N/A | 2026-07-06 | 6 | simplify-2026 |
 | [Blue River Technology](https://www.bluerivertechnology.com/job/?gh_jid=7947246) | Machine Learning Intern - Autonomy | Santa Clara, CA | Summer 2026 | 2026-07-06 | 6 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | Machine Learning Research Intern | London, UK | Summer 2027 | 2026-07-06 | 6 | simplify-2026 |
-| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | Research and Development Intern - Research & Development | Warren, MI | Fall 2026 | 2026-07-06 | 6 | simplify-2026 |
 | [American Bureau of Shipping](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | AI Software Engineering Intern | St. John's, NL, Canada | Fall 2026 | 2026-07-06 | 6 | simplify-2026 |
 | [University of Nevada, Reno](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Data-Integrity-Specialist_R0152592) | Student Worker - Data Integrity Specialist | Reno, NV | N/A | 2026-07-06 | 6 | simplify-2026 |
 | [Duke University](https://careers.duke.edu/job/Durham-Data-Analytics-Fellow-NC-27710/1406032800/?ats=successfactors) | Data Analytics Fellow | Durham, NC | N/A | 2026-07-06 | 6 | simplify-2026 |

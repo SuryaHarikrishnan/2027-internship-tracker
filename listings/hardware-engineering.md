@@ -1,4 +1,4 @@
-# Hardware Engineering (178)
+# Hardware Engineering (177)
 
 [← back to index](../README.md)
 
@@ -181,4 +181,3 @@
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | Design Verification Intern - RISCV CPU | Austin, TX, Santa Clara, CA | Fall 2026 | 2025-11-18 | 236 | simplify-2026 |
 | [Skyworks](https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/75987-en_US/) | IC Development (Software) | Austin, TX | Summer 2026 | 2025-11-18 | 236 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern - Winter 2026 | San Jose, CA | Winter 2026 | 2025-11-14 | 240 | simplify-2026 |
-| [REGENT](https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b) | Embedded Software Engineering Intern | North Kingstown, RI | Summer 2026 | 2025-11-14 | 240 | simplify-2026 |

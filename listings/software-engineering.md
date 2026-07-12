@@ -1,4 +1,4 @@
-# Software Engineering (402)
+# Software Engineering (400)
 
 [← back to index](../README.md)
 
@@ -404,5 +404,3 @@
 | [KBR](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | Software Application Developer Intern for GOES-R Series Satellites | Silver Spring, MD | Summer 2026 | 2025-11-20 | 234 | simplify-2026 |
 | [Reacher](https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe) | Software Engineering Intern | San Francisco, CA | Fall 2025, Fall 2026 | 2025-11-19 | 235 | simplify-2026 |
 | [Octaura](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | Intern Software Engineer | NYC | Summer 2026 | 2025-11-14 | 240 | simplify-2026 |
-| [Anima](https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0) | Intern/New Grad Software Engineer | Remote in USA | Summer 2026 | 2025-11-14 | 240 | simplify-2026 |
-| [Tessera Labs](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | Software Engineering Intern, Frontend | Remote in USA | Winter 2026 | 2025-11-14 | 240 | simplify-2026 |

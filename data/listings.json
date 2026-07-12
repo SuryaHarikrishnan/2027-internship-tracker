@@ -4267,7 +4267,7 @@
     "company_name": "General Motors",
     "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
     "title": "Research and Development Intern - Research & Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -278730,6 +278730,32 @@
   },
   {
     "date_updated": 1767712029,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://uscareers-docusign.icims.com/jobs/28330/software-engineer-intern/job",
+    "company_name": "Docusign",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1e5c3778-6565-46b2-898c-0c3a89783246",
+    "date_posted": 1765482539,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1767712029,
     "sponsorship": "Offers Sponsorship",
     "active": false,
     "degrees": [
@@ -298404,32 +298430,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765891441,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://uscareers-docusign.icims.com/jobs/28179/software-engineer-intern/job",
-    "company_name": "DocuSign",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "1034ce31-e8d6-4c24-8126-ce390942e99f",
-    "date_posted": 1763139090,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
@@ -318402,84 +318402,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://apply.workable.com/altom-transport/j/04A9461007/",
-    "company_name": "Altom Transport",
-    "title": "Summer 2026 Software Development Intern",
-    "locations": [
-      "Houston, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "249bb8c4-2ff8-4aa6-9eca-e196912d8524",
-    "date_posted": 1763138782,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://apply.workable.com/altom-transport/j/6C00FDED5C/",
-    "company_name": "Altom Transport",
-    "title": "Summer 2026 Software Development Intern",
-    "locations": [
-      "Hammond, IN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "043eb763-827e-496f-b9d1-79c1782a9db1",
-    "date_posted": 1763138827,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/ridealso/3451e5c5-342c-4b7c-855c-df8e3ac94065",
-    "company_name": "ALSO",
-    "title": "Software Engineering Intern, Firmware - Summer 2026",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "d2877334-c615-4784-ba59-bd7342024b2c",
-    "date_posted": 1763139194,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
@@ -344196,207 +344118,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763139141,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0",
-    "company_name": "Anima",
-    "title": "Intern/New Grad Software Engineer",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "51bded9f-eacd-40b1-aac6-c782f03da04b",
-    "date_posted": 1763139141,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763139032,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b",
-    "company_name": "REGENT",
-    "title": "Embedded Software Engineering Intern",
-    "locations": [
-      "North Kingstown, RI"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware Engineering",
-    "source": "angie-hue",
-    "id": "2472d572-8681-4572-837f-c1c6f4d76129",
-    "date_posted": 1763139032,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763138895,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd",
-    "company_name": "Tessera Labs",
-    "title": "Software Engineering Intern, Frontend",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Winter 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "55804513-4600-4ed2-98da-a5e607d5acdb",
-    "date_posted": 1763138895,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Veolia",
-    "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
-    "title": "Engineering/Instrumentation Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763136655,
-    "date_posted": 1763136655,
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966",
-    "locations": [
-      "Caddo Valley, AR"
-    ],
-    "company_url": "https://simplify.jobs/c/Veolia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "be031807-109a-4301-8096-7365f2339f10",
-    "title": "Research Scientist \u2013 Physical Modeling Intern - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763131586,
-    "date_posted": 1763131586,
-    "url": "https://www.metacareers.com/jobs/1371077641147770",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "100a542f-0c81-42ed-a340-96af5523da95",
-    "title": "Research Scientist Intern - Computational Photography - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1763131569,
-    "date_posted": 1763131569,
-    "url": "https://www.metacareers.com/jobs/1213006054221601",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Amazon",
-    "id": "e10204d1-1212-40a7-b523-0c30f7f6902f",
-    "title": "Digital Product Manager Apprentice",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763130582,
-    "date_posted": 1763130582,
-    "url": "https://amazon.jobs/en/jobs/3126649/digital-product-manager-apprentice-24-months-fixed-term-contract",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Amazon",
-    "id": "2edd84d8-f216-4722-8633-14dde0b27af4",
-    "title": "Software Development Engineer Apprentice - Month Fixed Term Contract",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1763130580,
-    "date_posted": 1763130580,
-    "url": "https://amazon.jobs/en/jobs/3126641/software-development-engineer-apprentice-42-month-fixed-term-contract",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
