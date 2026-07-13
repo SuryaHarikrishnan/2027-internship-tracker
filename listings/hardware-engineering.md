@@ -1,4 +1,4 @@
-# Hardware Engineering (181)
+# Hardware Engineering (178)
 
 [← back to index](../README.md)
 
@@ -38,7 +38,6 @@
 | [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/Middleton-WI/Automotive-ADAS-Calibration-Technician-Apprentice_R0220112) | Automotive ADAS Calibration Technician Apprentice | Oconomowoc, WI, Brookfield, WI, Middleton, WI, Wauwatosa, WI, Waukesha, WI | Summer 2026 | 2026-06-24 | 19 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7695577003) | System Architecture Intern | Palo Alto, CA, Bristol, UK, Remote in USA, Warrington, UK | Summer 2026 | 2026-06-23 | 20 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern | San Jose, CA | Fall 2026 | 2026-06-23 | 20 | simplify-2026 |
-| [Heron Power](http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | Electronics Design Engineer Intern | Santa Cruz, CA | Spring 2027 | 2026-06-23 | 20 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Montreal/Field-Service-Apprentice----QC_R4042209-1) | Field Service Apprentice | Montreal, QC, Canada | Summer 2026 | 2026-06-23 | 20 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice---ON_R4042737-1) | Field Service Apprentice | Mississauga, ON, Canada | Summer 2026 | 2026-06-23 | 20 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107) | Digital Verification Engineer Intern | Austin, TX | Fall 2026 | 2026-06-23 | 20 | simplify-2026 |
@@ -103,7 +102,6 @@
 | [ MAG Aerospace](https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false) | Systems Analyst Apprentice | California | Summer 2026 | 2026-05-22 | 52 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply) | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | Summer 2026 | 2026-05-22 | 52 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db/apply) | Software Engineer Intern - Robotics | Santa Clara, CA | Summer 2026 | 2026-05-22 | 52 | simplify-2026 |
-| [Persistent Systems](https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false) | Embedded Software Engineer Intern | NYC | Summer 2026 | 2026-05-22 | 52 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663968) | Undergrad Engineering Intern | United States | Summer 2026 | 2026-05-22 | 52 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663981) | Hardware Engineering Intern | United States | Summer 2026 | 2026-05-22 | 52 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664414) | Hardware Technologies PhD Intern | United States | Summer 2026 | 2026-05-22 | 52 | simplify-2026 |
@@ -158,7 +156,6 @@
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106) | Software Architecture Engineer Intern | United States | Summer 2026 | 2026-03-05 | 130 | simplify-2026 |
 | [Integrated Resources](https://jobs.smartrecruiters.com/IntegratedResourcesINC/104273121) | Testing Assistant | Hickory, NC | N/A | 2026-02-24 | 139 | simplify-2026 |
 | [Alertus Technologies](https://jobs.lever.co/alertus/fa66c3bc-1410-441b-ad01-73b2df83bbd7/apply) | Technical Product Specialist | Baltimore, MD | N/A | 2026-02-23 | 140 | simplify-2026 |
-| [Root Access](https://jobs.ashbyhq.com/root-access/ca7bc32d-5f10-49db-b569-2a7c94da484e/application) | Firmware / Embedded Engineer – Intern | NYC | Summer 2026 | 2026-02-11 | 152 | simplify-2026 |
 | [University of Wyoming](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260340) | Work Study Posn Student - UWIN Makerspace Tech - Academic Technology Services | Laramie, WY | N/A | 2026-02-10 | 153 | simplify-2026 |
 | [Etched.ai](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application) | Chipsim Intern | San Jose, CA | Summer 2026 | 2026-02-07 | 156 | simplify-2026 |
 | [Etched](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application) | PD Intern | San Jose, CA | Summer 2026, Fall 2026, Winter 2026 | 2026-02-07 | 156 | simplify-2026 |

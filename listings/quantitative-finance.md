@@ -1,4 +1,4 @@
-# Quantitative Finance (84)
+# Quantitative Finance (83)
 
 [← back to index](../README.md)
 
@@ -25,7 +25,6 @@
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/) | Credit & Rates Rotational Trader Intern | NYC | Summer 2026 | 2026-07-06 | 7 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/) | Designated Market Maker Intern - Designated Market Maker - Trader | NYC | Summer 2026 | 2026-07-06 | 7 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | Quantitative Research Analyst Intern | Greenwich, CT, Miami, FL, NYC | Summer 2026 | 2026-07-06 | 7 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | Trader: Fixed Income & Macro Intern | Greenwich, CT, Miami, FL, NYC | Fall 2026 | 2026-07-06 | 7 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Philadelphia, PA | Summer 2027 | 2026-07-06 | 7 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8024138) | Quantitative Trader Intern | NYC | Summer 2026 | 2026-07-05 | 8 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8024128) | Quantitative Trader Intern | Chicago, IL, NYC | Summer 2027 | 2026-07-05 | 8 | simplify-2026 |

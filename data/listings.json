@@ -2394,7 +2394,7 @@
     "company_name": "Ontic",
     "id": "f5f1dcf1-49eb-4ce8-9868-0a412ac7b641",
     "title": "Data Migration Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5156,7 +5156,7 @@
     "company_name": "Citadel",
     "id": "79ceb913-ca59-4a50-9fa9-18c378d86c3e",
     "title": "Trader: Fixed Income & Macro Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -12941,7 +12941,7 @@
     "company_name": "Heron Power",
     "id": "64a6f277-b6d0-4d32-9ffd-f2ee6028e599",
     "title": "Electronics Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -31767,7 +31767,7 @@
     "company_name": "SDSU Research Foundation",
     "id": "98302ccd-b1ba-426f-8b57-0f953beaa1f9",
     "title": "Graduate Student 1 - UAV/ Robotic Design - Development and Integration Project",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -40057,7 +40057,7 @@
     "company_name": "Persistent Systems",
     "id": "0d7b8d67-b0c6-42e4-8757-72009f66499e",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -83971,7 +83971,7 @@
     "company_name": "Kognitos",
     "id": "58077951-984f-4310-b0ce-55853074ed6e",
     "title": "Software Engineer Intern - AI-Native",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -205048,7 +205048,7 @@
     "company_name": "Root Access",
     "id": "1cb0cdad-76bf-4e0c-b914-903b0a2a48e9",
     "title": "Firmware / Embedded Engineer \u2013 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -280434,7 +280434,7 @@
     "company_name": "Major League Baseball",
     "id": "ae7d9774-2b20-4f28-929f-8b6081a24573",
     "title": "Data Scientist Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -342831,307 +342831,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "AGCO",
-    "id": "9e3d7f7e-6541-44d0-a1e0-f0010f737994",
-    "title": "Validation Engineering Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763233043,
-    "date_posted": 1763233043,
-    "url": "https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors",
-    "locations": [
-      "Newton, KS"
-    ],
-    "company_url": "https://simplify.jobs/c/AGCO",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "0284ea73-ecd8-4cea-9f61-1c441554f345",
-    "title": "Research Scientist - Edge Compute Architectures",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1763232889,
-    "date_posted": 1763232889,
-    "url": "https://www.metacareers.com/jobs/1387290326251445",
-    "locations": [
-      "Burlingame, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TREK",
-    "id": "67722433-5e97-4d22-a5d5-8672a1e7ed82",
-    "title": "AI Automation Initiatives Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763232260,
-    "date_posted": 1763232260,
-    "url": "https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478",
-    "locations": [
-      "Madison, WI"
-    ],
-    "company_url": "https://simplify.jobs/c/TREK",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TREK",
-    "id": "e5fdde6f-957e-4755-a875-55aa6638e8ac",
-    "title": "AI & Automation Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763232256,
-    "date_posted": 1763232256,
-    "url": "https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474",
-    "locations": [
-      "Madison, WI"
-    ],
-    "company_url": "https://simplify.jobs/c/TREK",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ExxonMobil",
-    "id": "a18c25c4-556c-4519-b0e8-8507746c5660",
-    "title": "Analytical Science: Optical Spectroscopist",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1763231879,
-    "date_posted": 1763231879,
-    "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-Analytical-Science-Optical-Spectroscopist-TX-77001/1332540700/?ats=successfactors",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/ExxonMobil",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Qorvo",
-    "id": "3904f1f8-4be1-4246-b7e6-7186beaca6cb",
-    "title": "Digital Strategy Marketing Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1763231769,
-    "date_posted": 1763231769,
-    "url": "https://careers.qorvo.com/job/Richardson-Digital-Strategy-Marketing-Intern-TX-75081/1333763900/?ats=successfactors",
-    "locations": [
-      "Richardson, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Qorvo",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Qorvo",
-    "id": "749efd6a-1600-47f5-99d5-1076ba44f627",
-    "title": "Filter Design Engineering",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1763231765,
-    "date_posted": 1763231765,
-    "url": "https://careers.qorvo.com/job/Apopka-Filter-Design-Engineering-Intern-FL-32703/1333752500/?ats=successfactors",
-    "locations": [
-      "Apopka, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Qorvo",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Qorvo",
-    "id": "0c6398a0-2cb5-4f82-81ca-ed1dbb7a407e",
-    "title": "Characterization Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1763231764,
-    "date_posted": 1763231764,
-    "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1323400700/?ats=successfactors",
-    "locations": [
-      "Greensboro, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Qorvo",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ExxonMobil",
-    "id": "9e870675-c6b0-4e03-9711-72ed2e609ab1",
-    "title": "Chromatography Scientist - GC & Hyphenated Techniques",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1763231764,
-    "date_posted": 1763231764,
-    "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-Chromatography-Scientist-(GC-&-Hyphenated-Techniques)-TX-77001/1332539100/?ats=successfactors",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/ExxonMobil",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Seagate Technology ",
-    "id": "df36ec91-d6b7-4a59-857a-c888b506b79d",
-    "title": "Reader Characterization Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763231700,
-    "date_posted": 1763231700,
-    "url": "https://seagatecareers.com/job/Bloomington-Reader-Characterization-Summer-Intern-MN/1341802500/?ats=successfactors",
-    "locations": [
-      "Bloomington, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Seagate-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Mohawk",
-    "id": "42edfae0-b798-4213-9e3b-f697888f0b0a",
-    "title": "Product Management Associate - Aspire Ldp",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1763231648,
-    "date_posted": 1763231648,
-    "url": "https://careers.mohawkind.com/job/Product-Management-Associate-ASPIRE-LDP-Geor/1326218500/?ats=successfactors",
-    "locations": [
-      "Georgia"
-    ],
-    "company_url": "https://simplify.jobs/c/Mohawk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Mohawk",
-    "id": "3713af19-b810-4009-afc1-b6237f10c509",
-    "title": "Product Development Associate - Aspire Ldp",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1763231599,
-    "date_posted": 1763231599,
-    "url": "https://careers.mohawkind.com/job/Calhoun-Product-Development-Associate-ASPIRE-LDP-Geor-30701/1336052300/?ats=successfactors",
-    "locations": [
-      "Calhoun, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Mohawk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
     "_sources": [
       "simplify-2026"
     ]

@@ -1,4 +1,4 @@
-# Software Engineering (400)
+# Software Engineering (399)
 
 [← back to index](../README.md)
 
@@ -267,7 +267,6 @@
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | Software Engineering Intern - PC Game Client Development | London, UK | Summer 2026 | 2026-04-18 | 86 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply) | Modeling & Simulation Software Engineer Intern | LA | Fall 2026 | 2026-04-17 | 87 | simplify-2026 |
 | [Context](https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application) | Intern | SF | Summer 2026 | 2026-04-17 | 87 | simplify-2026 |
-| [Kognitos](https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5/application) | Software Engineer Intern - AI-Native | San Jose, CA | Summer 2026 | 2026-04-16 | 88 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/52439/job?mobile=true&needsRedirect=false) | IT Co-Op | Letchworth, AR | Summer 2026 | 2026-04-16 | 88 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1) | Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern | State College, PA | N/A | 2026-04-14 | 90 | simplify-2026 |
 | [Sandhills Global](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | Software Development Intern | Lincoln, NE | Summer 2026 | 2026-04-13 | 91 | simplify-2026 |
