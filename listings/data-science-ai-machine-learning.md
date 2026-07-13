@@ -1,9 +1,13 @@
-# Data Science, AI & Machine Learning (438)
+# Data Science, AI & Machine Learning (442)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7977145) | Campus ML Research Engineer Intern | London, UK | Fall 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7975008) | Campus Data Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7976964) | Campus AI Researcher Intern | London, UK | Fall 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099) | Transformation numerique Intern - Digital Transformation | Longueuil, QC, Canada | Summer 2026, Fall 2026 | 2026-07-13 | 0 | simplify-2026 |
 | [World Surf League](https://boards.greenhouse.io/worldsurfleague/jobs/8629100002) | Partnerships Analytics & Reporting Intern | Inglewood, CA | Summer 2026 | 2026-07-11 | 2 | simplify-2026 |
 | [Pika](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Research Intern - BS/MS/PhD | Palo Alto, CA | Fall 2026 | 2026-07-10 | 3 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2281218542616482) | Research Scientist Intern - Monetization Computer Vision | Menlo Park, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-07-10 | 3 | simplify-2026 |
@@ -69,7 +73,6 @@
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) | Supply Chain Engineering and Analytics Intern | Surrey, BC, Canada | Fall 2026 | 2026-07-02 | 11 | simplify-2026 |
 | [Integrity](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | Research Intern | Minneapolis, MN | Fall 2026 | 2026-07-02 | 11 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | Machine Learning Center of Excellence Intern - NLP | London, UK | Summer 2026 | 2026-07-02 | 11 | simplify-2026 |
-| [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134542009) | Foreign Trade Data Analytics Intern | Western Springs, IL | Fall 2026 | 2026-07-02 | 11 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | A.1. Integration Intern | Columbia City, IN | Fall 2026 | 2026-07-02 | 11 | simplify-2026 |
 | [Citi](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Services--Full-Time-Analyst--New-York-City---US--2027_26975983) | Services Analyst | NYC | N/A | 2026-07-02 | 11 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | Applied Research Intern - NLP | Santa Clara, CA | Fall 2026 | 2026-07-02 | 11 | simplify-2026 |
@@ -183,6 +186,7 @@
 | [Rippling](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) | Machine Learning Software Engineer Intern | SF | Winter 2027 | 2026-06-05 | 38 | simplify-2026 |
 | [Peraton](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false) | Generative AI Engineer Intern | Remote in USA | Summer 2026 | 2026-06-05 | 38 | simplify-2026 |
 | [Sundt](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10300) | Support Group Intern - Artificial Intelligence | Tempe, AZ | Summer 2026 | 2026-06-05 | 38 | simplify-2026 |
+| [CHEP](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | FP&A Business Intelligence Intern | London, UK, Orlando, FL, Atlanta, GA | Summer 2026 | 2026-06-05 | 38 | simplify-2026 |
 | [Lucid Motors](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) | Finance Business Analytics Intern | Concord, NH | Summer 2026 | 2026-06-05 | 38 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7533027329703282951/detail) | Student Researcher - Seed Vision - Long-Range Video Generation | San Jose, CA | N/A | 2026-06-04 | 39 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7532653875506989320/detail) | Student Researcher - LLM Post Training - Agent & Reinforcement Learning | San Jose, CA | N/A | 2026-06-04 | 39 | simplify-2026 |

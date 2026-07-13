@@ -1,9 +1,10 @@
-# Product Management (24)
+# Product Management (25)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Huntsville-(DoW-SkillBridge),-Sr_-Specialist,-Product-Manager-AL-35806-2809/1408154000/?ats=successfactors) | SkillBridge Senior Specialist - Product Manager | Huntsville, AL | N/A | 2026-07-13 | 0 | simplify-2026 |
 | [Sika](https://jobs.smartrecruiters.com/SikaAG/744000137117699) | Product Management Apprentice | Welwyn Garden City, UK | Fall 2026 | 2026-07-10 | 3 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Product Management Intern | Tampa, FL, NYC | Summer 2027 | 2026-07-08 | 5 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 6 | simplify-2026 |

@@ -1,9 +1,12 @@
-# Software Engineering (401)
+# Software Engineering (404)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974943) | Campus UI Software Engineer Intern | London, UK | Fall 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7975026) | Campus Software Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [DRW](https://job-boards.greenhouse.io/drweng/jobs/7942281) | Software Developer Intern | London, UK | Summer 2026 | 2026-07-13 | 0 | simplify-2026 |
 | [M&T Bank](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051) | Technology Development Program | Buffalo, NY | N/A | 2026-07-13 | 0 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Summer-2027-Undergraduate-Internship---FidHacks--Westlake--TX-_2132098) | Undergraduate Intern | Westlake, TX | Summer 2027 | 2026-07-11 | 2 | simplify-2026 |
 | [Exowatt](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | Software Engineer Intern - Agent Platform - AI | Austin, TX | Fall 2026 | 2026-07-10 | 3 | simplify-2026 |
@@ -13,10 +16,10 @@
 | [Amazon](https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program) | Junior Software Development Engineer - Jr. Developer Program | San Luis Obispo, CA | N/A | 2026-07-10 | 3 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/276333) | Software Engineer Intern - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-10 | 3 | simplify-2026 |
 | [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-Apprentice_R115941-2) | Software Engineer Apprentice | London, UK | Fall 2026 | 2026-07-10 | 3 | simplify-2026 |
+| [RELX](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-Apprentice_R115941-3) | Software Engineer Apprentice | London, UK | Fall 2026 | 2026-07-10 | 3 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8621762002) | Software Development Co-op | Vancouver, BC, Canada | Summer 2026 | 2026-07-09 | 4 | simplify-2026 |
 | [Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application) | Software Engineer Intern | Carson, CA | Fall 2026 | 2026-07-09 | 4 | simplify-2026 |
 | [Pylon](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-09 | 4 | simplify-2026 |
-| [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740) | Software Engineer Intern | Annapolis Junction, MD | Fall 2026 | 2026-07-09 | 4 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006) | Codeshark | Needham, MA | N/A | 2026-07-08 | 5 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003019) | Campus UI Software Engineer Intern | Chicago, IL | Fall 2026 | 2026-07-08 | 5 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8002989) | Campus Software Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 5 | simplify-2026 |

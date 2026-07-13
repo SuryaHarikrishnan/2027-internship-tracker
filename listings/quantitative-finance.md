@@ -1,9 +1,14 @@
-# Quantitative Finance (80)
+# Quantitative Finance (84)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8050772) | Campus Quantitative Trader Intern | London, UK | Fall 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8059384) | Campus Quantitative Researcher M1/M2 Intern | London, UK | Fall 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8010307) | Campus Quantitative Researcher Intern | London, UK | Summer 2026 | 2026-07-13 | 0 | simplify-2026 |
+| [DRW](https://job-boards.greenhouse.io/drweng/jobs/7957756) | Quantitative Research Intern | London, UK | Summer 2028 | 2026-07-13 | 0 | simplify-2026 |
+| [DRW](https://job-boards.greenhouse.io/drweng/jobs/7957243) | Quantitative Trading Analyst Intern | London, UK | Summer 2027 | 2026-07-13 | 0 | simplify-2026 |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Quantitative Researcher Intern | Boston, MA | Summer 2027 | 2026-07-10 | 3 | simplify-2026 |
 | [Alberta Investment Management Corporation](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Economics---Investment-Research--Fall-2026-_JR100870) | Student Economics & Investment Research | Calgary, AB, Canada, Edmonton, AB, Canada | N/A | 2026-07-09 | 4 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7982648) | Campus Quantitative Researcher Intern | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 5 | simplify-2026 |
@@ -59,7 +64,6 @@
 | [William Blair](https://www.williamblair.com/Careers/job-description?gh_jid=5149327007) | Junior Equity Sales-Trading Analyst | SF | N/A | 2026-05-29 | 45 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | Quantitative Developer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 47 | simplify-2026 |
 | [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/New-Jersey-Remote/Trader-Trainee---Industrial-Minerals_JR104901) | Trader Trainee - Industrial Minerals | Jackson Township, NJ | N/A | 2026-05-16 | 58 | simplify-2026 |
-| [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1) | Graduate Intern - Multiple Teams | NYC | Winter 2026 | 2026-05-16 | 58 | simplify-2026 |
 | [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Houston-Texas-USA/Trader-Trainee---Steel-USA_JR105060) | Trader Trainee | Houston, TX | N/A | 2026-05-16 | 58 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | Summer 2027 | 2026-05-15 | 59 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8549734002) | Investment Analyst Program for Upcoming Graduates | London, UK | N/A | 2026-05-14 | 60 | simplify-2026 |

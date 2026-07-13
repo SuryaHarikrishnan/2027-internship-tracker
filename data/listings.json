@@ -1,6 +1,394 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "a7c171b9-3bae-433c-ba6d-a3f97c7b2008",
+    "title": "Campus AI Researcher Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783953477,
+    "date_posted": 1783952376,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7976964",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jump Trading",
+    "id": "43879ce6-c01d-4542-80e8-d3c1d9417f75",
+    "title": "Campus FPGA Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1783953466,
+    "date_posted": 1783952379,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7974391",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jump Trading",
+    "id": "16599843-64a4-4a5f-aae9-5c3b3ac8f441",
+    "title": "Campus UI Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783953210,
+    "date_posted": 1783952387,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7974943",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "0c2aa586-6aed-4f97-a1d4-e56e503f47a2",
+    "title": "Campus ML Research Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783953206,
+    "date_posted": 1783952380,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7977145",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jump Trading",
+    "id": "03fc254f-2b9e-4967-8b85-06408e320808",
+    "title": "Campus Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783953197,
+    "date_posted": 1783952384,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7975026",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Jump Trading",
+    "id": "1de8fe40-f91e-490d-9460-77065dcf122f",
+    "title": "Campus Quantitative Trader Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783953194,
+    "date_posted": 1783952383,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8050772",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Jump Trading",
+    "id": "6ebea6a5-6a3e-4838-a4c3-c99817331a2e",
+    "title": "Campus Quantitative Researcher Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783953191,
+    "date_posted": 1783952380,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8010307",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jump Trading",
+    "id": "300ea10e-7533-4da0-a0eb-023685450972",
+    "title": "Campus ASIC Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783953111,
+    "date_posted": 1783952376,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7974837",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "4add536b-2385-45cb-a5b4-45157793163e",
+    "title": "Transformation numerique Intern - Digital Transformation",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1783952889,
+    "date_posted": 1783900800,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "bac0e03e-8c62-41bc-acde-a3fa714f4a66",
+    "title": "Campus Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783952818,
+    "date_posted": 1783952378,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7975008",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Jump Trading",
+    "id": "f5ed05a7-6060-4e96-b382-c4c74b0268cd",
+    "title": "Campus Quantitative Researcher M1/M2 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783952814,
+    "date_posted": 1783952381,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8059384",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "L3Harris Technologies",
+    "id": "4b2e2f45-3126-41ce-9506-f526d2c82376",
+    "title": "SkillBridge Senior Specialist - Product Manager",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783952496,
+    "date_posted": 1783951521,
+    "url": "https://jobs.l3harris.com/job/Huntsville-(DoW-SkillBridge),-Sr_-Specialist,-Product-Manager-AL-35806-2809/1408154000/?ats=successfactors",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "c8d12bba-d657-4fe9-8c69-af2f801895a1",
+    "title": "Quantitative Trading Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1783952462,
+    "date_posted": 1783952104,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DRW",
+    "id": "210479d3-03b2-4a63-87ed-9c2f0d783379",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783952462,
+    "date_posted": 1783952107,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "136acc19-04d4-4587-ac2a-23f2cd4c8ba3",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2028"
+    ],
+    "date_updated": 1783952462,
+    "date_posted": 1783952105,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "John Lewis Partnership",
     "id": "19a249af-6862-43b3-bfbc-303536d99321",
@@ -265,7 +653,7 @@
     "company_name": "RELX",
     "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
     "title": "Software Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1477,7 +1865,7 @@
     "company_name": "CACI",
     "id": "1bfc9357-5590-4abc-b602-691403283106",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2579,7 +2967,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -6869,7 +7257,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "3e31bf3f-b681-4efa-8ddd-f5586886d019",
     "title": "Foreign Trade Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -26426,7 +26814,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -33811,7 +34199,7 @@
     "company_name": "PNC Financial Services",
     "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
     "title": "Graduate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
