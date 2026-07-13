@@ -1,4 +1,4 @@
-# Software Engineering (404)
+# Software Engineering (400)
 
 [← back to index](../README.md)
 
@@ -26,7 +26,6 @@
 | [NAV CANADA](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229) | Radar Systems Engineering Student Co-op | Ottawa, ON, Canada | Fall 2026, Winter 2027 | 2026-07-08 | 5 | simplify-2026 |
 | [OLG](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Front-End-Developer-Student_R26_00492) | Front End Developer | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | N/A | 2026-07-08 | 5 | simplify-2026 |
 | [Aramark](https://aramarkcareers.com/UnitedStates/job/Tempe-Student-IT-Associate-Application-Developer-ASU-C-Store-Markets-AZ-85281/1406888100/?ats=successfactors) | Student IT Associate - Application Developer - ASU-C-Store Markets | Tempe, AZ | N/A | 2026-07-08 | 5 | simplify-2026 |
-| [Datasite](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer | NYC | Fall 2026 | 2026-07-08 | 5 | simplify-2026 |
 | [John Lewis Partnership](https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Brooklands-Customer-Delivery-Hub-John-Lewis--Partners/Driver-Technician-Trainee-75t_R-206413-1) | Driver Technician Trainee 7.5t | Weybridge, UK | N/A | 2026-07-08 | 5 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Fall 2026 | 2026-07-07 | 6 | simplify-2026 |
 | [Horizon Industries](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5301639008) | Appian Intern | Washington, DC | Fall 2026 | 2026-07-07 | 6 | simplify-2026 |
@@ -38,7 +37,6 @@
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8599644002) | Software Engineer | NYC | N/A | 2026-07-06 | 7 | simplify-2026 |
 | [Ada](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Software Engineer Intern | Remote in Canada | Fall 2026 | 2026-07-06 | 7 | simplify-2026 |
 | [Everfox](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/Intern-Product-Engineeer_JR500721) | Product Engineer Intern | London, UK | Fall 2026 | 2026-07-06 | 7 | simplify-2026 |
-| [Everfox](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Product-Intern_JR500719) | Product Engineering Intern | London, UK | Fall 2026 | 2026-07-06 | 7 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | Technology Intern | NYC | Summer 2027 | 2026-07-06 | 7 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8044395) | AI Builder Intern - Global Customer Engineering - Service Sales | London, UK | Fall 2026 | 2026-07-06 | 7 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Miami, FL, NYC | Fall 2026 | 2026-07-06 | 7 | simplify-2026 |
@@ -230,7 +228,6 @@
 | [PlusAI](https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464/apply) | Simulation Engineer Intern | Santa Clara, CA | Summer 2026 | 2026-05-19 | 55 | simplify-2026 |
 | [Nuclear Promise X](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/application) | AI Developer Co-op | Canada | Summer 2026 | 2026-05-19 | 55 | simplify-2026 |
 | [Melotech](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application) | Full-Stack Developer Intern - Music & Audio | London, UK, SF, LA, NYC, Berlin, Germany | Spring 2026 | 2026-05-19 | 55 | simplify-2026 |
-| [Podium](https://job-boards.greenhouse.io/podium81/jobs/7939921) | Software Engineer Intern | Lehi, UT | Summer 2026 | 2026-05-18 | 56 | simplify-2026 |
 | [Akima](https://careers.akima.com/jobs/23147?lang=en-us&icims=1) | Unity Game Designer | Huntsville, AL | N/A | 2026-05-16 | 58 | simplify-2026 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276) | AI Builder - Emerging Talent | SF, McLean, VA, Chicago, IL, NYC | N/A | 2026-05-16 | 58 | simplify-2026 |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5469298003) | Software Engineer Intern - Infrastructure | Fremont, CA | Summer 2026 | 2026-05-16 | 58 | simplify-2026 |
@@ -277,7 +274,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7626502798363920693/detail) | Student Researcher - Seed Infra-Compiler - PhD | San Jose, CA | N/A | 2026-04-11 | 93 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7626504892836530485/detail) | Student Researcher - Seed Infra Compiler | San Jose, CA | N/A | 2026-04-11 | 93 | simplify-2026 |
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301721) | Tradeweb International Intern Program - JavaScript UI Developer - Technology Division | London, UK | Summer 2026 | 2026-04-09 | 95 | simplify-2026 |
-| [Amazon](https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada) | Software Development Engineer Intern | Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | Summer 2026, Fall 2026 | 2026-04-09 | 95 | simplify-2026 |
 | [Tessera Labs](https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application) | Software Engineering Intern - Frontend | San Jose, CA | Summer 2026 | 2026-04-08 | 96 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | Mobile iOS Developer Intern | NYC | Summer 2026 | 2026-04-07 | 97 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | Android Developer Intern | NYC | Summer 2026 | 2026-04-07 | 97 | simplify-2026 |

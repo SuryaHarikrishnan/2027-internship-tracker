@@ -2628,7 +2628,7 @@
     "company_name": "Datasite",
     "id": "268262ab-3056-48bd-a78d-3fe70d2fb886",
     "title": "AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4271,7 +4271,7 @@
     "company_name": "Everfox",
     "id": "6cb5903c-5bc9-4ea2-b00c-1bd9fddc9e35",
     "title": "Product Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9347,7 +9347,7 @@
     "company_name": "RTX",
     "id": "54f693b7-fa40-4fa3-a2ce-c1463b73ef57",
     "title": "Data Science and Advanced Analytics Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -22786,7 +22786,7 @@
     "company_name": "iSpot.tv",
     "id": "3fa70c31-5b5a-41e7-8aa4-3e415e17364f",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -45861,7 +45861,7 @@
     "company_name": "Podium",
     "id": "2d7e6351-1991-46ea-98cf-af4a5c9fa957",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -94595,7 +94595,7 @@
     "company_name": "Amazon",
     "id": "c895bb20-219c-416d-972e-21199a4af2c4",
     "title": "Software Development Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -137098,7 +137098,7 @@
     "company_name": "RTX",
     "id": "4a3fdf9b-d8cb-4c5a-9a47-60c3b9a7d8c4",
     "title": "Intern Operations Program Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

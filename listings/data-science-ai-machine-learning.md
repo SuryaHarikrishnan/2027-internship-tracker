@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (442)
+# Data Science, AI & Machine Learning (439)
 
 [← back to index](../README.md)
 
@@ -93,7 +93,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/275380) | Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software | Fremont, CA | Fall 2026 | 2026-06-30 | 13 | simplify-2026 |
 | [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) | Analytics Intern | Cleveland, OH | Summer 2026 | 2026-06-30 | 13 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11078/job?mobile=true&needsRedirect=false) | AI Co-op | Ardmore, PA | Summer 2026 | 2026-06-30 | 13 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Science-des-donnes-et-analytique-avance---Automne-2026_01836944-1) | Data Science and Advanced Analytics Internship | Longueuil, QC, Canada | N/A | 2026-06-30 | 13 | simplify-2026 |
 | [Truland Equipment](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007) | Power Platform Intern | Fort Wayne, IN | Spring 2026, Summer 2026, Fall 2026 | 2026-06-30 | 13 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272928) | Data Engineer Intern - Applications Engineering | Fremont, CA | Summer 2026, Fall 2026 | 2026-06-30 | 13 | simplify-2026 |
 | [Torc Robotics](https://job-boards.greenhouse.io/torcrobotics/jobs/8597138002) | System Triage Engineer Intern | Blacksburg, VA, Ann Arbor, MI, Fort Worth, TX | Summer 2026 | 2026-06-29 | 14 | simplify-2026 |
@@ -171,7 +170,6 @@
 | [SHEIN](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA87554940) | Data Analysis Intern | United States | Summer 2026 | 2026-06-10 | 33 | simplify-2026 |
 | [Block](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | Applied Research Intern PhD / Graduate Co-op | Oakland, CA | Fall 2026, Winter 2027 | 2026-06-09 | 34 | simplify-2026 |
 | [Block](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Applied Research Intern Co-op | Toronto, ON, Canada | Fall 2026, Winter 2027 | 2026-06-09 | 34 | simplify-2026 |
-| [iSpot.tv](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) | Data Science Intern | Bellevue, WA | Summer 2026 | 2026-06-09 | 34 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply) | Student Worker Automation & Behavioral Science Engineer | San Mateo, CA | N/A | 2026-06-09 | 34 | simplify-2026 |
 | [Ancestry](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378) | Machine Learning Engineer Co-op | Remote in USA | Summer 2026 | 2026-06-08 | 35 | simplify-2026 |
 | [Seaspan](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | Energy Management Intern | Vancouver, BC, Canada | Fall 2026, Winter 2027, Spring 2027 | 2026-06-08 | 35 | simplify-2026 |
@@ -328,7 +326,6 @@
 | [TikTok](https://lifeattiktok.com/search/7620775575152462085) | Data Analyst Project Intern - Data Science | London, UK | Summer 2026 | 2026-03-24 | 111 | simplify-2026 |
 | [K1](https://k1im.applytojob.com/apply/ISSTIdON0L/AI-Automation-Intern) | AI Automation Intern | Manhattan Beach, CA | Summer 2026 | 2026-03-17 | 118 | simplify-2026 |
 | [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23989) | Business Intelligence Apprentice | Thurrock, UK | Summer 2026 | 2026-03-16 | 119 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1) | Intern Operations Program Management | Longueuil, QC, Canada | Summer 2026 | 2026-03-14 | 121 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7616659899507591477) | Data Analyst Project Intern | London, UK | Summer 2026 | 2026-03-13 | 122 | simplify-2026 |
 | [Magna](https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Algorithm--R-D-Summer-2026_R00232837) | Robotics AI Algorithm- R&D | Troy, MI | Summer 2026 | 2026-03-11 | 124 | simplify-2026 |
 | [Magna](https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Software--R-D-Summer-2026_R00232838) | Robotics AI Software- R&D | Troy, MI | Summer 2026 | 2026-03-11 | 124 | simplify-2026 |
