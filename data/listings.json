@@ -1,6 +1,30 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "John Lewis Partnership",
+    "id": "19a249af-6862-43b3-bfbc-303536d99321",
+    "title": "Driver Technician Trainee 7.5t",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783932975,
+    "date_posted": 1783519778,
+    "url": "https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Brooklands-Customer-Delivery-Hub-John-Lewis--Partners/Driver-Technician-Trainee-75t_R-206413-1",
+    "locations": [
+      "Weybridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/John-Lewis-Partnership",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Tesla",
     "id": "0a544fc0-5a83-40b1-9e39-60f900f0406b",
@@ -57,7 +81,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -140,7 +164,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -241,7 +265,7 @@
     "company_name": "RELX",
     "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
     "title": "Software Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1535,7 +1559,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -18786,7 +18810,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -59746,7 +59770,7 @@
     "company_name": "Regal Rexnord",
     "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
     "title": "Lab Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -86269,7 +86293,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -233537,7 +233561,7 @@
     "company_name": "Wheely",
     "id": "6c648ad7-f6a2-48f0-b056-2315c6a1f377",
     "title": "Associate Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -342720,126 +342744,6 @@
       "Bachelor's",
       "Master's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "62a863c7-3993-4ae3-9fb0-b2a968c46069",
-    "title": "Campus Undergraduate Intern Program - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196227,
-    "date_posted": 1763196227,
-    "url": "https://aexp.eightfold.ai/careers/job/38835246",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "1ded2bd6-3391-46b1-922d-5a7457986101",
-    "title": "Campus Undergraduate Intern Program - Data Management - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196210,
-    "date_posted": 1763196210,
-    "url": "https://aexp.eightfold.ai/careers/job/38835288",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "daa3f03b-2c5d-4730-88bf-77518740a737",
-    "title": "Campus Graduate Intern Program - Data Management - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196203,
-    "date_posted": 1763196203,
-    "url": "https://aexp.eightfold.ai/careers/job/38835291",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "63ebae04-9b6c-4dbd-9c85-21679c799447",
-    "title": "Campus Graduate Intern Program - Data Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196178,
-    "date_posted": 1763196178,
-    "url": "https://aexp.eightfold.ai/careers/job/38835287",
-    "locations": [
-      "Plantation, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "94aa63df-183b-47a7-a462-0502fd761139",
-    "title": "Campus Undergraduate Intern Program - Management Information Systems & Analytics - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196159,
-    "date_posted": 1763196159,
-    "url": "https://aexp.eightfold.ai/careers/job/38835249",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
