@@ -1,4 +1,4 @@
-# Hardware Engineering (181)
+# Hardware Engineering (180)
 
 [← back to index](../README.md)
 
@@ -29,7 +29,6 @@
 | [Moment Energy](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Firmware Engineering Co-op | Surrey, BC, Canada | Fall 2026 | 2026-07-02 | 12 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200666594) | Hardware System Design Engineer - Apple Vision Pro | San Jose, CA | N/A | 2026-07-02 | 12 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) | Hardware Prototyping Intern - Data Center Rack | Sunnyvale, CA | Summer 2026 | 2026-07-02 | 12 | simplify-2026 |
-| [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Intern---Fall-2026_JR00038957) | Integrated Motor Drive SW Intern | Greenville, SC | Fall 2026 | 2026-07-02 | 12 | simplify-2026 |
 | [Eight Sleep](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application) | Prototype & Test Engineer Intern - New Product Development | SF | Fall 2026 | 2026-07-02 | 12 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Hardware Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 13 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/275689) | Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-01 | 13 | simplify-2026 |

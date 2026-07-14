@@ -1,4 +1,4 @@
-# Software Engineering (408)
+# Software Engineering (407)
 
 [← back to index](../README.md)
 
@@ -73,7 +73,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/275558) | Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-01 | 13 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8015230) | Systems Engineer – Data Residency Intern - Global Resource Management | Austin, TX | Fall 2026 | 2026-07-01 | 13 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) | Software Engineer Intern | Austin, TX | Summer 2027 | 2026-07-01 | 13 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [NOX METALS](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f/application) | Software Engineer Intern | Detroit, MI | Summer 2025 | 2026-07-01 | 13 | simplify-2026 |
 | [Seven Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | Core Developer Intern | NYC | Fall 2026 | 2026-07-01 | 13 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/274760) | Vehicle Software Intern - Torque Path & Chassis Controls | Palo Alto, CA | Summer 2026, Fall 2026, Winter 2026 | 2026-07-01 | 13 | simplify-2026 |
 | [Gumloop](https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application) | Design Engineer Intern | SF | Fall 2026 | 2026-07-01 | 13 | simplify-2026 |
