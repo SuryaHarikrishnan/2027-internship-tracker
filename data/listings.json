@@ -1,6 +1,162 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Levi Strauss & Co.",
+    "id": "4edfe0d1-ad5d-4255-8e5f-66a744cb423d",
+    "title": "Global Retail Strategy and Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784039120,
+    "date_posted": 1783987200,
+    "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Global-Retail-Strategy-and-Analytics-Intern_R-0154103",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Levi-Strauss-And-Co",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cooper Companies",
+    "id": "e5397189-689a-4937-a8b1-69dbafad6b22",
+    "title": "GPS Data Insights Specialist Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784038901,
+    "date_posted": 1784037774,
+    "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11901",
+    "locations": [
+      "Whiteley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cooper-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+    "id": "0565c6b8-b9c6-41d7-bb06-a8c9ff81ba74",
+    "title": "Student 2 - Software Engineering",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784038890,
+    "date_posted": 1783987200,
+    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223357",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Orbital Industries",
+    "id": "698fe2c1-8146-44d2-ad0e-8b4bcb8a9cbb",
+    "title": "AI Residency Programme",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784038861,
+    "date_posted": 1784038197,
+    "url": "https://jobs.ashbyhq.com/orbitalindustries/837b7e29-b89a-4ea4-b90d-48d8782f48b8/application",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Orbital-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PartnerRe",
+    "id": "1321df93-f6e4-4e90-a109-4823e8c107a3",
+    "title": "Business Data Analyst Co-op",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784038698,
+    "date_posted": 1784038122,
+    "url": "https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/PartnerRe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "QuantCo",
+    "id": "da17d790-4a1d-4cc5-830f-91dcb97ae8ed",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784024424,
+    "date_posted": 1774573747,
+    "url": "https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply",
+    "locations": [
+      "London, UK",
+      "Bellheim, Germany",
+      "Wenden, Germany",
+      "Berlin, Germany",
+      "Munich, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/QuantCo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Amazon",
     "id": "4762de7d-d90a-4004-bf12-486138c11efc",
@@ -1789,7 +1945,7 @@
     "company_name": "M&T Bank",
     "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
     "title": "Technology Development Program",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1975,7 +2131,7 @@
     "company_name": "Jane Street",
     "id": "d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
     "title": "Hardware Engineer - FPGA/Asic",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -5643,7 +5799,7 @@
     "company_name": "Everfox",
     "id": "8a6ae31a-c1a1-43a5-8ff4-74c51349664c",
     "title": "Product Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5721,7 +5877,7 @@
     "company_name": "Jane Street",
     "id": "767f1b1b-9676-407d-99db-e3582821b87a",
     "title": "Quantitative Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -5771,7 +5927,7 @@
     "company_name": "Jane Street",
     "id": "4770a4e3-28be-40d7-b5a2-700c0307960d",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -5875,7 +6031,7 @@
     "company_name": "Jane Street",
     "id": "33b81d4d-2080-4016-b2af-33d8a690356f",
     "title": "Quantitative Trader",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -6053,7 +6209,7 @@
     "company_name": "American University",
     "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
     "title": "Quantitative Research Methodology Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -7619,7 +7775,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -7828,7 +7984,7 @@
     "company_name": "X Development",
     "id": "22924009-36ef-406f-a964-9076c39fa889",
     "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -10459,7 +10615,7 @@
     "company_name": "thyssenkrupp",
     "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
     "title": "Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -11113,7 +11269,7 @@
     "company_name": "American Heart Association",
     "id": "aadfa331-b75a-48b1-9e48-08cc6cfda19a",
     "title": "Data Science Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -12045,7 +12201,7 @@
     "company_name": "Liberty University",
     "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
     "title": "Business Analyst Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -20622,7 +20778,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -21607,7 +21763,7 @@
     "company_name": "Nokia",
     "id": "aef8e1d7-1422-403a-ba01-d5800f15dfcf",
     "title": "IT Network Software/AI Development Co-op/Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -27721,7 +27877,7 @@
     "company_name": "Solink",
     "id": "45798e16-2cea-4d21-91df-f4c604c2e02b",
     "title": "Software Engineer Co-op - R&D- Data Integrations",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -40310,7 +40466,7 @@
     "company_name": "Kinaxis",
     "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
     "title": "Software Development Co-op/Intern - C++",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -50789,7 +50945,7 @@
     "company_name": "SOTI",
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
     "title": "Product Manager Intern - Sales Enablement Products",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -61504,7 +61660,7 @@
     "company_name": "Regal Rexnord",
     "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
     "title": "Lab Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -88027,7 +88183,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -124477,7 +124633,7 @@
     "company_name": "Rivian",
     "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "title": "UIUC Research Park Intern - Validation",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -245443,7 +245599,7 @@
     "company_name": "Boston Consulting Group",
     "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
     "title": "AI Engineer Intern - BCG X",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -256427,7 +256583,7 @@
     "company_name": "Tencent",
     "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
     "title": "Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -339431,7 +339587,7 @@
     "company_name": "Cisco",
     "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
     "title": "Hardware Engineer 2",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2025"
     ],
