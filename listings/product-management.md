@@ -1,4 +1,4 @@
-# Product Management (26)
+# Product Management (25)
 
 [← back to index](../README.md)
 
@@ -27,6 +27,5 @@
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | Summer 2026 | 2026-03-04 | 132 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7611679957136574773) | Product Manager Intern - TikTok Product Content Ecosystem - BS/MS | San Jose, CA | Summer 2026 | 2026-03-02 | 134 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646448006) | Fall 2026: Product Development Co-op - Shark - July to December | Needham, MA | Fall 2026 | 2026-01-21 | 174 | simplify-2026 |
-| [Schroders](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1046) | 2026 Product Development Apprenticeship Programme | London, UK | Fall 2026 | 2026-01-16 | 179 | simplify-2026 |
 | [AccuWeather](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | Product Analyst Intern | State College, PA, Remote in USA | Spring 2026, Summer 2026 | 2025-12-08 | 218 | simplify-2026 |
 | [Leggett & Platt](https://careers.leggett.com/job/Conover-Product-Manager-Trainee-NC/1345826500/?ats=successfactors) | Product Manager Intern | Hickory, NC | N/A | 2025-11-27 | 229 | simplify-2026 |

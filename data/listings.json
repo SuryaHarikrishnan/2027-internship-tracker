@@ -2,6 +2,32 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+    "id": "ff8f09d6-f3c9-4203-b9c6-e0a36e4deabe",
+    "title": "Student 2 - AI/ML Governance",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784041638,
+    "date_posted": 1783987200,
+    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---AI-ML-Governance_JR223360",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Levi Strauss & Co.",
     "id": "4edfe0d1-ad5d-4255-8e5f-66a744cb423d",
     "title": "Global Retail Strategy and Analytics Intern",
@@ -677,7 +703,7 @@
     "company_name": "Pennsylvania State University",
     "id": "02652f5c-1ceb-45fc-8191-d87378a09761",
     "title": "Undergraduate Researcher in Multi-Agent Reinforcement Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -2131,7 +2157,7 @@
     "company_name": "Jane Street",
     "id": "d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
     "title": "Hardware Engineer - FPGA/Asic",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -5877,7 +5903,7 @@
     "company_name": "Jane Street",
     "id": "767f1b1b-9676-407d-99db-e3582821b87a",
     "title": "Quantitative Researcher Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -5927,7 +5953,7 @@
     "company_name": "Jane Street",
     "id": "4770a4e3-28be-40d7-b5a2-700c0307960d",
     "title": "Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -6031,7 +6057,7 @@
     "company_name": "Jane Street",
     "id": "33b81d4d-2080-4016-b2af-33d8a690356f",
     "title": "Quantitative Trader",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -61687,7 +61713,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "5a584c30-3ce0-47db-9704-8a23896e8742",
     "title": "Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle Location",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -98276,7 +98302,7 @@
     "company_name": "Tessera Labs",
     "id": "5023b582-d7cc-49cf-9ae0-49dca04f35b1",
     "title": "Software Engineering Intern - Frontend",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -123212,7 +123238,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software \u2013 Intern - Python",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -261214,7 +261240,7 @@
     "company_name": "Schroders",
     "id": "5c4d47ee-f4a9-4601-a061-d7b6d7cfac50",
     "title": "2026 Product Development Apprenticeship Programme",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

@@ -12,6 +12,7 @@
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Digital Physical Design Intern - P&R | Chandler, AZ | Fall 2026 | 2026-07-13 | 1 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1) | Engineer Intern | Dayton, OH, Hamilton, NY, St. George, UT, Beavercreek, OH, Jacksonville, FL | Spring 2027 | 2026-07-13 | 1 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1) | Unison Engineer Intern | Dayton, OH, Hamilton, NY, St. George, UT, Beavercreek, OH, Jacksonville, FL | Fall 2027 | 2026-07-13 | 1 | simplify-2026 |
+| [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 4 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) | Field Engineer Apprentice | Columbus, OH | Fall 2026 | 2026-07-10 | 4 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Applications Engineering Intern | Roseville, CA | Fall 2026 | 2026-07-09 | 5 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 6 | simplify-2026 |
@@ -130,7 +131,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/269819) | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-05-06 | 69 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269445) | Software Engineer Intern - Integration Tools | Palo Alto, CA | Fall 2026 | 2026-05-06 | 69 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269809) | Software Integration Engineer Intern - Software Integration Engineer - Optimus | Palo Alto, CA | Fall 2026 | 2026-05-06 | 69 | simplify-2026 |
-| [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/omt5zfwd?nl=1&nl=1&fr=false) | Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle Location | NYC | Fall 2026 | 2026-05-05 | 70 | simplify-2026 |
 | [XPENG Motors](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | VLA Deployment AI Intern | Santa Clara, CA | Summer 2026 | 2026-05-05 | 70 | simplify-2026 |
 | [Stoke Space](https://stokespace.com/careers/current-openings?gh_jid=5987663004) | Software Intern - Software | Kent, WA | Spring 2027 | 2026-05-04 | 71 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4677973006) | Reliability Test Intern | SF | Fall 2026 | 2026-05-04 | 71 | simplify-2026 |
