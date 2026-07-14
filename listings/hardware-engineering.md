@@ -1,4 +1,4 @@
-# Hardware Engineering (182)
+# Hardware Engineering (180)
 
 [← back to index](../README.md)
 
@@ -13,18 +13,18 @@
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1) | Engineer Intern | Dayton, OH, Hamilton, NY, St. George, UT, Beavercreek, OH, Jacksonville, FL | Spring 2027 | 2026-07-13 | 1 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1) | Unison Engineer Intern | Dayton, OH, Hamilton, NY, St. George, UT, Beavercreek, OH, Jacksonville, FL | Fall 2027 | 2026-07-13 | 1 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 4 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) | Field Engineer Apprentice | Columbus, OH | Fall 2026 | 2026-07-10 | 4 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Applications Engineering Intern | Roseville, CA | Fall 2026 | 2026-07-09 | 5 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 6 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1) | Client Service Technician Apprentice | Plainview, NY | Fall 2026 | 2026-07-08 | 6 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1) | Field Service Apprentice | Minneapolis, MN | Winter 2025, Spring 2025, Summer 2025, Fall 2025 | 2026-07-08 | 6 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1) | Field Engineer Apprentice | Salt Lake City, UT | Fall 2026 | 2026-07-08 | 6 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1) | Field Engineer Apprentice | California | Fall 2026 | 2026-07-08 | 6 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992) | Field Engineer Apprentice | Little Rock, AR | Fall 2026 | 2026-07-08 | 6 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | Firmware Engineering Intern | Cambridge, ON, Canada | Fall 2026 | 2026-07-07 | 7 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638) | Digital IC Design Engineer - Digital Design Engineer | Tucson, AZ | N/A | 2026-07-07 | 7 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694883006) | Radiation Effects Associate Engineer | SF | N/A | 2026-07-07 | 7 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694853006) | Radiation Effects Engineer Intern | SF | Fall 2026 | 2026-07-06 | 8 | simplify-2026 |
 | [Droyd Robotics](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) | Software Engineer Intern | SF | Fall 2026 | 2026-07-04 | 10 | simplify-2026 |
-| [X Development](https://x.company/careers/8616839002?gh_jid=8616839002) | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute | Mountain View, CA | Summer 2026, Fall 2026 | 2026-07-02 | 12 | simplify-2026 |
 | [Moment Energy](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Firmware Engineering Co-op | Surrey, BC, Canada | Fall 2026 | 2026-07-02 | 12 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200666594) | Hardware System Design Engineer - Apple Vision Pro | San Jose, CA | N/A | 2026-07-02 | 12 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) | Hardware Prototyping Intern - Data Center Rack | Sunnyvale, CA | Summer 2026 | 2026-07-02 | 12 | simplify-2026 |
@@ -148,7 +148,6 @@
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application) | Embedded Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 106 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application) | Packaging Engineering Intern | SF | Fall 2026 | 2026-03-30 | 106 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) | Co-op - Design Verification Engineer | Austin, TX | Fall 2026 | 2026-03-25 | 111 | simplify-2026 |
-| [Rivian](https://careers.rivian.com/jobs/29771?lang=en-us&icims=1) | UIUC Research Park Intern - Validation | Urbana, IL | Summer 2026 | 2026-03-23 | 113 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8403219002) | Software Engineering Intern/Co-op | Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, West Athens, CA, Sunnyvale, CA | Fall 2026 | 2026-03-16 | 120 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095) | Radio Frequency Engineering Intern | Dulles, VA | Summer 2026 | 2026-03-12 | 124 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Intern Technician - Electronics | Carlisle, PA | Summer 2026 | 2026-03-11 | 125 | simplify-2026 |
@@ -181,7 +180,6 @@
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | Verification Engineer Intern | United States | Winter 2025 | 2025-11-27 | 229 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) | ASIC Design Engineer Intern | United States | Winter 2025 | 2025-11-27 | 229 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108) | Software Development Engineer Intern | United States | Winter 2025 | 2025-11-27 | 229 | simplify-2026 |
-| [Cisco](https://careers.cisco.com/global/en/job/2000128) | Hardware Engineer 2 | Austin, TX, San Jose, CA, Research Triangle, Durham, NC | Winter 2025 | 2025-11-20 | 236 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200617616) | GPU Internship - Platform Architecture | London, UK, Cambridge, UK, Welwyn Garden City, UK | Winter 2025, Spring 2026, Summer 2026 | 2025-11-19 | 237 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200629965) | SoC Performance Modeling Internship - Platform Architecture | London, UK | Summer 2026 | 2025-11-19 | 237 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | Design Verification Intern - RISCV CPU | Austin, TX, Santa Clara, CA | Fall 2026 | 2025-11-18 | 238 | simplify-2026 |

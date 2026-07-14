@@ -1,6 +1,35 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "4762de7d-d90a-4004-bf12-486138c11efc",
+    "title": "Software Development Engineer Apprentice - Military Veterans",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784020141,
+    "date_posted": 1784020124,
+    "url": "https://amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans",
+    "locations": [
+      "Arlington, VA",
+      "Bellevue, WA",
+      "Cupertino, CA",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Jane Street",
     "id": "fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca",
@@ -383,7 +412,7 @@
     "company_name": "Finning",
     "id": "02caee82-02f2-45fb-9aa4-afc0dc827f5b",
     "title": "Data Quality Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1710,7 +1739,7 @@
     "company_name": "John Lewis Partnership",
     "id": "19a249af-6862-43b3-bfbc-303536d99321",
     "title": "Driver Technician Trainee 7.5t",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1815,7 +1844,7 @@
     "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1843,7 +1872,7 @@
     "company_name": "Fidelity Investments",
     "id": "03e2c12e-866f-454c-b240-466b9ae8ed18",
     "title": "Undergraduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -2235,7 +2264,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -3264,7 +3293,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6024,7 +6053,7 @@
     "company_name": "American University",
     "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
     "title": "Quantitative Research Methodology Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -7590,7 +7619,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7799,7 +7828,7 @@
     "company_name": "X Development",
     "id": "22924009-36ef-406f-a964-9076c39fa889",
     "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -10430,7 +10459,7 @@
     "company_name": "thyssenkrupp",
     "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
     "title": "Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -11084,7 +11113,7 @@
     "company_name": "American Heart Association",
     "id": "aadfa331-b75a-48b1-9e48-08cc6cfda19a",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -20515,7 +20544,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -20593,7 +20622,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -27692,7 +27721,7 @@
     "company_name": "Solink",
     "id": "45798e16-2cea-4d21-91df-f4c604c2e02b",
     "title": "Software Engineer Co-op - R&D- Data Integrations",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -28131,7 +28160,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -40281,7 +40310,7 @@
     "company_name": "Kinaxis",
     "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
     "title": "Software Development Co-op/Intern - C++",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -50760,7 +50789,7 @@
     "company_name": "SOTI",
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
     "title": "Product Manager Intern - Sales Enablement Products",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -60425,7 +60454,7 @@
     "company_name": "Apple",
     "id": "1d6bc24e-7367-4dfd-9b3f-53a17c97a567",
     "title": "Privacy-Preserving Machine Learning Privacy Engineering Rotation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -123027,7 +123056,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software \u2013 Intern - Python",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -124448,7 +124477,7 @@
     "company_name": "Rivian",
     "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "title": "UIUC Research Park Intern - Validation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -245414,7 +245443,7 @@
     "company_name": "Boston Consulting Group",
     "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
     "title": "AI Engineer Intern - BCG X",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -256398,7 +256427,7 @@
     "company_name": "Tencent",
     "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -339402,7 +339431,7 @@
     "company_name": "Cisco",
     "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
     "title": "Hardware Engineer 2",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025"
     ],

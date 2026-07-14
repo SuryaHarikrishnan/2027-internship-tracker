@@ -1,4 +1,4 @@
-# Quantitative Finance (94)
+# Quantitative Finance (93)
 
 [← back to index](../README.md)
 
@@ -29,7 +29,6 @@
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8347385002) | Sales and Trading | NYC | N/A | 2026-07-06 | 8 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8617344002) | Quantitative Trader | NYC | N/A | 2026-07-06 | 8 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) | Quantitative Researcher Intern | NYC | N/A | 2026-07-06 | 8 | simplify-2026 |
-| [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Research-Methodology-Assistant--Student-_R4423) | Quantitative Research Methodology Assistant - Student | Washington, DC | N/A | 2026-07-06 | 8 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Quantitative Research Analyst Bachelor's or master's degree Intern | London, UK, Paris, France | Summer 2026 | 2026-07-06 | 8 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/) | Credit & Rates Rotational Trader Intern | NYC | Summer 2026 | 2026-07-06 | 8 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/) | Designated Market Maker Intern - Designated Market Maker - Trader | NYC | Summer 2026 | 2026-07-06 | 8 | simplify-2026 |
