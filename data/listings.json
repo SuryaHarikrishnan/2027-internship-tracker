@@ -1,6 +1,210 @@
 [
   {
     "source": "Simplify",
+    "category": "Product",
+    "company_name": "BlackRock",
+    "id": "28de39fe-563f-4b16-93f7-5d3bbbb04340",
+    "title": "Global Product Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784125690,
+    "date_posted": 1784073600,
+    "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackRock",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Constellation Space",
+    "id": "7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
+    "title": "Graduate Researcher Intern - Machine Learning",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784125599,
+    "date_posted": 1784124748,
+    "url": "https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Constellation-Space",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "46ee0ac1-9aaa-4794-95fc-c0efe6680bd6",
+    "title": "Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784125560,
+    "date_posted": 1784073600,
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/Developer--Fall-2026-Co-op--8-months-_R-0000174353",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "8afc4bdd-99a6-4f56-8bfa-ee0235a88b2c",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784125549,
+    "date_posted": 1784124398,
+    "url": "https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Beacon Software",
+    "id": "7d13d689-657d-404d-9463-284ccb89bd44",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784125261,
+    "date_posted": 1784124718,
+    "url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Beacon-Software",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rainmaker",
+    "id": "1b9a36a2-6f07-4938-983a-19a711787c74",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784125154,
+    "date_posted": 1784124612,
+    "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rainmaker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RAVL",
+    "id": "d0338c65-e371-4fc3-835e-5bee408cbc6b",
+    "title": "Associate Engineer Apprentice - Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784124627,
+    "date_posted": 1784124283,
+    "url": "https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RAVL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Evonik",
+    "id": "339b4eca-44a7-4023-a1be-33591d928b3c",
+    "title": "Life Cycle Management Intern - Sustainability & Life Cycle Management",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784124594,
+    "date_posted": 1784073600,
+    "url": "https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Hanau/Praktikant--m-w-d--Sustainability---Life-Cycle-Management_R49998-2",
+    "locations": [
+      "Neukirchen-Vluyn, Germany",
+      "Frankfurt, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Evonik",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Circleback",
     "id": "75892e9b-bebc-4e60-9e4b-a763af8e0759",
@@ -417,7 +621,7 @@
     "company_name": "Bank of Montreal",
     "id": "8edff004-dd29-490c-a8e3-1556428ebd30",
     "title": "AI Engineer Co-op/Intern - 4 months",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1040,7 +1244,7 @@
     "company_name": "Levi Strauss & Co.",
     "id": "4edfe0d1-ad5d-4255-8e5f-66a744cb423d",
     "title": "Global Retail Strategy and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -1577,7 +1781,7 @@
     "company_name": "Accenture",
     "id": "8b5a3466-7c18-4d0d-8bd5-93107823d12e",
     "title": "Technology Apprentice Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1686,7 +1890,7 @@
     "company_name": "Revvity",
     "id": "8ff1f957-4841-4dc5-86e1-49f601a7e8d5",
     "title": "AI Developer Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2175,7 +2379,7 @@
     "company_name": "Procter & Gamble (P&G)",
     "id": "70567d14-93a2-4b6f-b4bd-a9e981c14af4",
     "title": "R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2028",
       "Spring 2028",
@@ -2381,7 +2585,7 @@
     "company_name": "Akuna Capital University",
     "id": "d6690f5c-9890-48da-a03e-38cc3e89d071",
     "title": "Quantitative Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -3006,7 +3210,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -3142,7 +3346,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
     "title": "Software Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -4115,7 +4319,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -5587,7 +5791,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -6808,7 +7012,7 @@
     "company_name": "Everfox",
     "id": "6cb5903c-5bc9-4ea2-b00c-1bd9fddc9e35",
     "title": "Product Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -8165,7 +8369,7 @@
     "company_name": "University of Maryland - College Park",
     "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
     "title": "Office of Career Services Intern - Technology Team",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -13737,7 +13941,7 @@
     "company_name": "Cummins",
     "id": "276b6815-7fb8-46f1-b5aa-156dd9ac093d",
     "title": "Repower Program: Product Engineering Specialist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -17155,7 +17359,7 @@
     "company_name": "Cummins",
     "id": "46f6f069-21ab-4c7b-871b-f43b2f13caf4",
     "title": "Product Engineering Specialist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -17730,7 +17934,7 @@
     "company_name": "University of Texas at Austin",
     "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
     "title": "Course Support - Rhetoric",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -19547,6 +19751,33 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Perplexity AI",
+    "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
+    "title": "AI Inference Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781643165,
+    "date_posted": 1770938486,
+    "url": "https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application?embed=true",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/PerplexityAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
     ],
     "_sources": [
       "simplify-2026"
@@ -28888,7 +29119,7 @@
     "company_name": "Solink",
     "id": "17d9db99-a20c-4b11-b8d4-c4f90a8148cb",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -41632,7 +41863,7 @@
     "company_name": "NVIDIA",
     "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
     "title": "PhD Software Engineer Intern - Decision Intelligence",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -42125,7 +42356,7 @@
     "company_name": "Magna",
     "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
     "title": "Artificial Intelligence Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -44183,7 +44414,7 @@
     "company_name": "Great Question",
     "id": "b0dddbd1-f4e1-4c85-8399-7c54e668fbd8",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -208787,7 +209018,7 @@
     "company_name": "Savannah River National Laboratory",
     "id": "16874a81-71ed-42cc-a4b7-d088120c8549",
     "title": "Advanced Manufacturing & Design ASPIRE Post Graduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -345146,81 +345377,6 @@
     "date_posted": 1763392672,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Perplexity AI",
-    "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
-    "title": "Intern Program",
-    "active": true,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1763380856,
-    "date_posted": 1763380856,
-    "url": "https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/PerplexityAI",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "RTX",
-    "id": "ad677767-79c7-4302-941c-af062424763c",
-    "title": "2026 Intern \u2013 Software Engineering Intern - CA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763378597,
-    "date_posted": 1763378597,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Intern---Software-Engineering-Intern---Onsite--CA-_01806456",
-    "locations": [
-      "Anaheim, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "RTX",
-    "id": "2baf7458-1971-4f43-8bc9-2293ba189b08",
-    "title": "2026 Intern \u2013 Software Engineer Intern - CA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763378595,
-    "date_posted": 1763378595,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA806-8650-Balboa-Avenue-San-Diego-8650-Balboa-Avenue-San-Antonio-Building-San-Diego-CA-92123-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CA-_01806360",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

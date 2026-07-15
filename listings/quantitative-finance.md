@@ -1,9 +1,10 @@
-# Quantitative Finance (98)
+# Quantitative Finance (100)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-07-15 | 0 | simplify-2026 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-07-14 | 1 | simplify-2026 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | Quantitative Trader Intern - Quantitative Trader | NYC | Summer 2027 | 2026-07-14 | 1 | simplify-2026 |
 | [General Atlantic](https://job-boards.greenhouse.io/generalatlantic/jobs/6115031004) | Investment Analyst | NYC | N/A | 2026-07-14 | 1 | simplify-2026 |
@@ -16,6 +17,7 @@
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | Rates Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | Investment & Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Quantitative Research Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 2 | simplify-2026 |
+| [Akuna Capital University](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-13 | 2 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8050772) | Campus Quantitative Trader Intern | London, UK | Fall 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8059384) | Campus Quantitative Researcher M1/M2 Intern | London, UK | Fall 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8010307) | Campus Quantitative Researcher Intern | London, UK | Summer 2026 | 2026-07-13 | 2 | simplify-2026 |

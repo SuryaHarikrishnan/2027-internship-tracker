@@ -1,9 +1,10 @@
-# Product Management (27)
+# Product Management (28)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | Global Product Intern | NYC | Fall 2026 | 2026-07-15 | 0 | simplify-2026 |
 | [CalAmp](https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false) | Product Management Intern | Carlsbad, CA | Summer 2026 | 2026-07-14 | 1 | simplify-2026 |
 | [Global Relay](https://www.globalrelay.com/careers/jobs?gh_jid=6112647004) | Product Management Co-op | Vancouver, BC, Canada | Fall 2026 | 2026-07-14 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7660641959426132277) | Global Product Operations Manager Intern - Global Business Solutions | San Jose, CA | Fall 2026 | 2026-07-13 | 2 | simplify-2026 |
