@@ -1,4 +1,4 @@
-# Hardware Engineering (181)
+# Hardware Engineering (180)
 
 [← back to index](../README.md)
 
@@ -10,7 +10,6 @@
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960/apply) | Analog Design Engineer Co-op - Analog Design Engineer | Greensboro, NC | Fall 2026 | 2026-07-14 | 1 | simplify-2026 |
 | [Duracell](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | Electronics Tech Intern | Atlanta, GA | Fall 2026 | 2026-07-14 | 1 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician_2026888) | Optical Verification Technician | Ottawa, ON, Canada | N/A | 2026-07-14 | 1 | simplify-2026 |
-| [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Ontario-Waterdown-2-Medicorum-Place/Technical-Field-Service-Co-op_R568460) | Technical Field Service Co-op | Hamilton, ON, Canada | Fall 2026 | 2026-07-14 | 1 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8038923) | FPGA Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Hardware Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-13 | 2 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974391) | Campus FPGA Engineer Intern | London, UK | Winter 2026, Spring 2026, Fall 2026 | 2026-07-13 | 2 | simplify-2026 |

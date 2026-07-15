@@ -1,4 +1,4 @@
-# Software Engineering (416)
+# Software Engineering (415)
 
 [← back to index](../README.md)
 
@@ -38,7 +38,6 @@
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7942281) | Software Developer Intern | London, UK | Summer 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Accenture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036) | Technology Apprentice Intern | Montreal, QC, Canada | Fall 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036) | Engineering Engineer Intern | Huntsville, AL | Summer 2026 | 2026-07-13 | 2 | simplify-2026 |
-| [Revvity](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Front-End-AI-Co-op-Marketing---REMOTE--Fall-2026-_JR-044469) | Front-End AI Marketing Co-op | Kitchener, ON, Canada | Fall 2026, Winter 2027 | 2026-07-13 | 2 | simplify-2026 |
 | [U.S. Bank](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Mainframe-Software-Engineering-Apprentice-2_2026-0020641) | Mainframe Software Engineering Apprentice 2 | Hopkins, MN | Fall 2026 | 2026-07-13 | 2 | simplify-2026 |
 | [Exowatt](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | Software Engineer Intern - Agent Platform - AI | Austin, TX | Fall 2026 | 2026-07-10 | 5 | simplify-2026 |
 | [Xsolla](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | AI-First Engineer Intern | Raleigh, NC | Fall 2026 | 2026-07-10 | 5 | simplify-2026 |

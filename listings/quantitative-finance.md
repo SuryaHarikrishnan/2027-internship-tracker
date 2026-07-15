@@ -1,10 +1,12 @@
-# Quantitative Finance (100)
+# Quantitative Finance (102)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | Quantitative Trading Internship | London, UK | Summer 2027 | 2026-07-15 | 0 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-07-15 | 0 | simplify-2026 |
+| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | London, UK | Summer 2027 | 2026-07-15 | 0 | simplify-2026 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-07-14 | 1 | simplify-2026 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | Quantitative Trader Intern - Quantitative Trader | NYC | Summer 2027 | 2026-07-14 | 1 | simplify-2026 |
 | [General Atlantic](https://job-boards.greenhouse.io/generalatlantic/jobs/6115031004) | Investment Analyst | NYC | N/A | 2026-07-14 | 1 | simplify-2026 |
