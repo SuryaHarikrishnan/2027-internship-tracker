@@ -1,4 +1,4 @@
-# Product Management (28)
+# Product Management (27)
 
 [← back to index](../README.md)
 
@@ -25,7 +25,6 @@
 | [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | Product Manager Intern - Sales Enablement Products | Mississauga, ON, Canada | Fall 2026 | 2026-05-14 | 62 | simplify-2026 |
 | [Sezzle](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Product Intern | Remote in Canada | Summer 2026 | 2026-05-13 | 63 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | Product Development Intern/Co-op | Ottawa, ON, Canada | Fall 2026 | 2026-04-16 | 90 | simplify-2026 |
-| [Lovable](https://jobs.ashbyhq.com/lovable/1d226bc3-d26c-481f-8619-88b6cc9179d8/application) | Product Experience Specialist | Boston, MA | N/A | 2026-03-30 | 107 | simplify-2026 |
 | [Instawork](https://job-boards.greenhouse.io/instawork/jobs/4588237006) | Product Operations Intern | Chicago, IL | Summer 2026 | 2026-03-21 | 116 | simplify-2026 |
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | Summer 2026 | 2026-03-04 | 133 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7611679957136574773) | Product Manager Intern - TikTok Product Content Ecosystem - BS/MS | San Jose, CA | Summer 2026 | 2026-03-02 | 135 | simplify-2026 |

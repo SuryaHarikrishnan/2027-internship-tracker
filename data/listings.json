@@ -910,7 +910,7 @@
     "company_name": "Kulicke & Soffa",
     "id": "5a64923f-55d5-4d98-bf50-5764675ebb54",
     "title": "BB Process Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2100,7 +2100,7 @@
     "company_name": "Citadel Securities",
     "id": "979abbcb-5ba2-49ed-be0f-bc9955d8531d",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2128,7 +2128,7 @@
     "company_name": "Leidos",
     "id": "51614fe5-c79b-42d9-997f-c9a22d17645c",
     "title": "Engineering Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -8470,7 +8470,7 @@
     "company_name": "Lovable",
     "id": "b36ca521-c0c7-4fb0-a50a-04c0f2c5302d",
     "title": "Product Experience Specialist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -9433,7 +9433,7 @@
     "company_name": "Nestle",
     "id": "ff74b8b6-7a9e-4cdb-bca1-bf6a841120c9",
     "title": "R&D Sustainability Intern - Nestl\u00e9 Health Science",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -10127,7 +10127,7 @@
     "company_name": "Citi",
     "id": "91db4853-adf9-4087-93dc-8182d251fe06",
     "title": "Services Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -49368,7 +49368,7 @@
     "company_name": "Amazon",
     "id": "c1f58442-964a-4334-9d28-82bacb99f5a5",
     "title": "Hardware Development Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -125976,7 +125976,7 @@
     "company_name": "Rivian",
     "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "title": "UIUC Research Park Intern - Validation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -222564,7 +222564,7 @@
     "company_name": "onsemi",
     "id": "d97c64d0-6e04-4b0b-955f-3408ff00476e",
     "title": "Quality and Reliability Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
