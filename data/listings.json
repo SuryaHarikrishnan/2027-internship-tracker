@@ -1,6 +1,103 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Circleback",
+    "id": "75892e9b-bebc-4e60-9e4b-a763af8e0759",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784107887,
+    "date_posted": 1784106695,
+    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Circleback",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Magna",
+    "id": "2f90e215-8e95-40b5-9d86-deff1dbd0598",
+    "title": "Weld Technician",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784106962,
+    "date_posted": 1783519990,
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/St-Thomas--Formet-Ontario-CA/Weld-Technician-Student_R00251144",
+    "locations": [
+      "London, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Magna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Smiths Detection Group",
+    "id": "6a302c32-fd9d-41ee-bd40-b9da850830a1",
+    "title": "Test Engineering Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784106541,
+    "date_posted": 1784106156,
+    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000137822980",
+    "locations": [
+      "Slough, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Scopely",
+    "id": "38e62fdf-3f5f-4a01-892f-511d295e868f",
+    "title": "Data Scientist - Marketing",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784105282,
+    "date_posted": 1779834114,
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5208115008?gh_jid=5208115008",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Scopely",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Chevron Corporation",
     "id": "0753b1d0-7af4-4aa8-b9b9-96efa8cde209",
@@ -1480,7 +1577,7 @@
     "company_name": "Accenture",
     "id": "8b5a3466-7c18-4d0d-8bd5-93107823d12e",
     "title": "Technology Apprentice Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2284,7 +2381,7 @@
     "company_name": "Akuna Capital University",
     "id": "d6690f5c-9890-48da-a03e-38cc3e89d071",
     "title": "Quantitative Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -2857,7 +2954,7 @@
     "company_name": "Tesla",
     "id": "0a544fc0-5a83-40b1-9e39-60f900f0406b",
     "title": "Low Voltage Power Systems Integration Engineer Intern - Vehicle Firmware",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2938,7 +3035,7 @@
     "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3045,7 +3142,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
     "title": "Software Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3358,7 +3455,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4018,7 +4115,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4416,7 +4513,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -5407,7 +5504,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6017,7 +6114,7 @@
     "company_name": "University of British Columbia",
     "id": "032da4e6-d497-4bfd-90b4-b4845b3bf2e7",
     "title": "Utilities Student Worker - Water Consumption Project",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8068,7 +8165,7 @@
     "company_name": "University of Maryland - College Park",
     "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
     "title": "Office of Career Services Intern - Technology Team",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -21638,7 +21735,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -41535,7 +41632,7 @@
     "company_name": "NVIDIA",
     "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
     "title": "PhD Software Engineer Intern - Decision Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -42028,7 +42125,7 @@
     "company_name": "Magna",
     "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
     "title": "Artificial Intelligence Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -345121,102 +345218,6 @@
       "San Diego, CA"
     ],
     "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "271b6d3f-76b2-4d91-b3eb-38462b3d6c4b",
-    "title": "Intern - AI Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365063,
-    "date_posted": 1763365063,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---AI-Software-Engineer--Memphis--TN-_R0010291",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "53ade756-4246-41d4-ae05-0e07e5df5d3c",
-    "title": "Intern - Web Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365059,
-    "date_posted": 1763365059,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Web-Software-Engineer--Memphis--TN-_R0010294",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "d209773a-07f4-478b-b8f5-e17e6cd63776",
-    "title": "Summer Intern - IT",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365054,
-    "date_posted": 1763365054,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---IT_R0010295",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "415e6a8f-fef7-4b33-b9a1-71f82210f5f2",
-    "title": "Summer 2026 Intern - Donor Data Management - Memphis, TN",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365051,
-    "date_posted": 1763365051,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Donor-Data-Management--Memphis--TN-_R0010323-1",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
