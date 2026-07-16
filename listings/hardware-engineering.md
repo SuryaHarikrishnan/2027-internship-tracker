@@ -1,9 +1,10 @@
-# Hardware Engineering (178)
+# Hardware Engineering (177)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Amentum](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | Spaceflight Hardware Intern | Houston, TX | Fall 2026 | 2026-07-16 | 0 | simplify-2026 |
 | [Smiths Detection Group](https://jobs.smartrecruiters.com/SmithsGroup2/744000137822980) | Test Engineering Apprentice | Slough, UK | Fall 2026 | 2026-07-15 | 1 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14268) | Engineering Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-15 | 1 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/285c6096-5bc0-438e-abc6-b9768891167d/apply) | Digital Design Engineer Co-op - Digital Design Engineer | Greensboro, NC | Fall 2026 | 2026-07-14 | 2 | simplify-2026 |
@@ -177,8 +178,6 @@
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | Verification Engineer Intern | United States | Winter 2025 | 2025-11-27 | 231 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) | ASIC Design Engineer Intern | United States | Winter 2025 | 2025-11-27 | 231 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108) | Software Development Engineer Intern | United States | Winter 2025 | 2025-11-27 | 231 | simplify-2026 |
-| [Cisco](https://careers.cisco.com/global/en/job/2000128) | Hardware Engineer 2 | Austin, TX, San Jose, CA, Research Triangle, Durham, NC | Winter 2025 | 2025-11-20 | 238 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200617616) | GPU Internship - Platform Architecture | London, UK, Cambridge, UK, Welwyn Garden City, UK | Winter 2025, Spring 2026, Summer 2026 | 2025-11-19 | 239 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200629965) | SoC Performance Modeling Internship - Platform Architecture | London, UK | Summer 2026 | 2025-11-19 | 239 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | Design Verification Intern - RISCV CPU | Austin, TX, Santa Clara, CA | Fall 2026 | 2025-11-18 | 240 | simplify-2026 |
-| [Skyworks](https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/75987-en_US/) | IC Development (Software) | Austin, TX | Summer 2026 | 2025-11-18 | 240 | simplify-2026 |

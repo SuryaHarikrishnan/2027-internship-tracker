@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (441)
+# Data Science, AI & Machine Learning (443)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593) | Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns… | London, UK | Summer 2026 | 2026-07-16 | 0 | simplify-2026 |
 | [Sparksoft](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5187532007) | Data Development Intern | Columbia, MD | Fall 2026 | 2026-07-15 | 1 | simplify-2026 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) | AI & Data Analytics Intern | Scottsdale, AZ | Fall 2026 | 2026-07-15 | 1 | simplify-2026 |
 | [Constellation Space](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | Graduate Researcher Intern - Machine Learning | Seattle, WA | Fall 2026 | 2026-07-15 | 1 | simplify-2026 |
@@ -172,6 +173,7 @@
 | [Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5157759007) | Research Intern - Inference | SF | Fall 2026 | 2026-06-12 | 34 | simplify-2026 |
 | [Institute of Foundation Models](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply) | AI Research Intern | Sunnyvale, CA | Summer 2026 | 2026-06-12 | 34 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) | Systems Engineer Intern | Southfield, MI | Summer 2026 | 2026-06-12 | 34 | simplify-2026 |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | Research and Development Intern - Research & Development: AI/ML | Mountain View, CA, Warren, MI | Fall 2026 | 2026-06-12 | 34 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) | Data Extraction Co-op | Cambridge, MA | Summer 2026 | 2026-06-11 | 35 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009) | Machine Learning for Digital Twins Co-op | Cambridge, MA | Summer 2026 | 2026-06-11 | 35 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | Data Engineering Intern - AI & Analytics | Palo Alto, CA | Fall 2026 | 2026-06-11 | 35 | simplify-2026 |

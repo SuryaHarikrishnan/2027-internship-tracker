@@ -1,4 +1,4 @@
-# Software Engineering (420)
+# Software Engineering (419)
 
 [← back to index](../README.md)
 
@@ -155,7 +155,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273933) | Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization | Palo Alto, CA | Fall 2026 | 2026-06-16 | 30 | simplify-2026 |
 | [The Campbell's Company](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015) | Agentic AI Engineer Co-op | Remote in USA | Summer 2026 | 2026-06-16 | 30 | simplify-2026 |
 | [SoloPulse](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply) | Software Engineer Intern/Co-op | Norcross, GA | Fall 2026 | 2026-06-16 | 30 | simplify-2026 |
-| [UL Solutions](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9366) | Software Development Intern | Fremont, CA | Summer 2026 | 2026-06-16 | 30 | simplify-2026 |
 | [Synchrony Financial](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | Technology Intern - Technology | Stamford, CT | Summer 2026 | 2026-06-16 | 30 | simplify-2026 |
 | [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1) | Software Engineer Apprentice | Southampton, UK | Summer 2026 | 2026-06-16 | 30 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply) | Forward Deployed Software Engineer Intern - Defense Tech | Washington, DC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-16 | 30 | simplify-2026 |
