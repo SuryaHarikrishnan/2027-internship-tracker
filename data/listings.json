@@ -1,6 +1,59 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Solar Turbines",
+    "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
+    "title": "Gas Turbine Products Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784209221,
+    "date_posted": 1784160000,
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Solar-Turbines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arcadis",
+    "id": "98537212-dc48-4242-be21-0c9794ff159f",
+    "title": "Disaster and Climate Resilience Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784197622,
+    "date_posted": 1784066894,
+    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42479",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcadis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Prime Intellect",
     "id": "a8f12fe0-48d1-413b-8917-7a8890b19e5f",
@@ -142,7 +195,7 @@
     "company_name": "Cybernetic Labs",
     "id": "d939c49f-1d93-4ba9-aa2f-32e4e7398633",
     "title": "Forward Deployed Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -172,7 +225,7 @@
     "company_name": "Cybernetic Labs",
     "id": "fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
     "title": "Full-Stack Software Engineer Intern - Product",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -1329,7 +1382,7 @@
     "company_name": "McKesson",
     "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
     "title": "AI & Strategic Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1847,7 +1900,7 @@
     "company_name": "NextGen Federal Systems",
     "id": "d557630f-831a-471f-a70b-deeebe4ca3a6",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3683,7 +3736,7 @@
     "company_name": "RTX",
     "id": "4add536b-2385-45cb-a5b4-45157793163e",
     "title": "Transformation numerique Intern - Digital Transformation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -3945,7 +3998,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4231,7 +4284,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5054,7 +5107,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -6497,7 +6550,7 @@
     "company_name": "GE Healthcare",
     "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6526,7 +6579,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -17606,7 +17659,7 @@
     "company_name": "Baker Hughes",
     "id": "fb992b23-820c-466a-a892-242e64f92f4a",
     "title": "Mechanical Production Engineering Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -18746,7 +18799,7 @@
     "company_name": "Sony",
     "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -20792,7 +20845,7 @@
     "company_name": "MFS",
     "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
     "title": "Quantitative Research Associate",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -22779,7 +22832,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -30737,7 +30790,7 @@
     "company_name": "thyssenkrupp",
     "id": "5830852c-614b-4f98-b679-c96b5f7474be",
     "title": "Trader Trainee - Steel",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35983,7 +36036,7 @@
     "company_name": "Agilent Technologies",
     "id": "c3131935-5162-4622-90e5-cca444331d6f",
     "title": "Predictive Sales Prospecting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -37811,7 +37864,7 @@
     "company_name": "thyssenkrupp",
     "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
     "title": "Trader Trainee - Industrial Minerals",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -53401,7 +53454,7 @@
     "company_name": "NVIDIA",
     "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
     "title": "PhD Research Intern - Security and Privacy",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
