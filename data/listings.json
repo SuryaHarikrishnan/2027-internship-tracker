@@ -1979,7 +1979,7 @@
     "company_name": "NextGen Federal Systems",
     "id": "9e6bfed5-144f-4120-94d0-868f2cb83d3a",
     "title": "Data Science & Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -2137,7 +2137,7 @@
     "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
     "id": "0565c6b8-b9c6-41d7-bb06-a8c9ff81ba74",
     "title": "Student 2 - Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -7853,7 +7853,7 @@
     "company_name": "Everfox",
     "id": "6cb5903c-5bc9-4ea2-b00c-1bd9fddc9e35",
     "title": "Product Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10407,7 +10407,7 @@
     "company_name": "Traackr",
     "id": "8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
     "title": "Software Engineer Intern - Internal Tooling",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -12516,7 +12516,7 @@
     "company_name": "Gumloop",
     "id": "0e4a6769-a2f0-44f5-9fdb-0857121fd22c",
     "title": "Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13376,7 +13376,7 @@
     "company_name": "William Blair",
     "id": "502d7467-50c2-4c44-a18b-f2c32cca99f3",
     "title": "Junior Equity Sales-Trading Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -25469,7 +25469,7 @@
     "company_name": "Meshy",
     "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
     "title": "Fullstack Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -70610,7 +70610,7 @@
     "company_name": "d-Matrix",
     "id": "35066ac0-1560-4dd8-af1e-43c56f13ef8c",
     "title": "Applied AI Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -148307,7 +148307,7 @@
     "company_name": "Zoox",
     "id": "f1fefd25-01c5-445f-a372-ed85ad2a2bb4",
     "title": "Part-time Student Worker",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
