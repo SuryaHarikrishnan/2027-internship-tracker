@@ -1,4 +1,4 @@
-# Hardware Engineering (179)
+# Hardware Engineering (180)
 
 [← back to index](../README.md)
 
@@ -21,6 +21,9 @@
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 6 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Applications Engineering Intern | Roseville, CA | Fall 2026 | 2026-07-09 | 7 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 8 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) | Client Service Technician Apprentice | Charleston, WV | Fall 2026 | 2026-07-08 | 8 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1) | Field Service Apprentice | Minneapolis, MN | Winter 2025, Spring 2025, Summer 2025, Fall 2025 | 2026-07-08 | 8 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1) | Field Engineer Apprentice | Chattanooga, TN | Fall 2026 | 2026-07-08 | 8 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1) | Field Engineer Apprentice | California | Fall 2026 | 2026-07-08 | 8 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1) | Field Service Engineer Apprentice | Kansas City, MO | Fall 2026 | 2026-07-08 | 8 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043180) | Field Service Apprentice | Houston, TX | Fall 2026 | 2026-07-08 | 8 | simplify-2026 |
@@ -83,13 +86,11 @@
 | [Tesla](https://www.tesla.com/careers/search/job/270778) | Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271981) | Electronic Design Engineer Intern - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/267750) | Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/272290) | Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272462) | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CA, Austin, TX | Summer 2026, Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272581) | Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/262946) | Applied AI Engineer Intern - AI Hardware | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270067) | Embedded Software Engineer Intern - Keys & Authentication | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270354) | Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/270351) | Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272601) | Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271866) | Software Integration Engineer Intern - Software Integration Engineer - Service Tooling | Fremont, CA | Fall 2026 | 2026-06-07 | 39 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271539) | Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 40 | simplify-2026 |
