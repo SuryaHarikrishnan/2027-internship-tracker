@@ -1,9 +1,10 @@
-# Software Engineering (419)
+# Software Engineering (417)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Formlabs](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) | Supply Chain Operations Software Intern | Cambridge, MA | Fall 2026 | 2026-07-17 | 0 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10477224/software-dev-engineer-temp) | Software Development Engineer - Temp | Tennessee, Chennai, Tamil Nadu, India, Indiana | N/A | 2026-07-17 | 0 | simplify-2026 |
 | [Composio](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true) | Full-stack Intern | SF | Fall 2026 | 2026-07-17 | 0 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) | Algorithms Software Intern | Cambridge, MA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
@@ -70,7 +71,6 @@
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Fall 2026 | 2026-07-07 | 10 | simplify-2026 |
 | [Horizon Industries](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5301639008) | Appian Intern | Washington, DC | Fall 2026 | 2026-07-07 | 10 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002) | Technology Intern | London, UK | Summer 2027 | 2026-07-07 | 10 | simplify-2026 |
-| [Hitachi Energy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1) | Software Analyst Intern | Burnaby, BC, Canada | Fall 2026 | 2026-07-07 | 10 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | Software Engineering Intern | NYC | N/A | 2026-07-06 | 11 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8599644002) | Software Engineer | NYC | N/A | 2026-07-06 | 11 | simplify-2026 |
 | [Ada](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Software Engineer Intern | Remote in Canada | Fall 2026 | 2026-07-06 | 11 | simplify-2026 |
@@ -244,7 +244,6 @@
 | [Menasha Corporation](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999) | Application Engineer Intern | Troy, MI | Summer 2026 | 2026-05-21 | 57 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325) | Software Engineer Intern | Seattle, WA, Santa Clara, CA | Summer 2026 | 2026-05-21 | 57 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) | Software Engineer Intern - Ovip | Nashville, TN, Austin, TX, United States | Summer 2026 | 2026-05-21 | 57 | simplify-2026 |
-| [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern_R107276-2) | Agent Development Intern | London, UK | Summer 2026 | 2026-05-20 | 58 | simplify-2026 |
 | [Medpace, Inc.](https://careers.medpace.com/jobs/12766?lang=en-us&icims=1) | Software Development Co-op | Cincinnati, OH | Fall 2026 | 2026-05-19 | 59 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/ocUhzfwG?nl=1&nl=1&fr=false) | Application Developer Level 1 - iOS | NYC | N/A | 2026-05-19 | 59 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4/apply) | Software Engineer Intern - Data | Santa Clara, CA | Summer 2026 | 2026-05-19 | 59 | simplify-2026 |
@@ -305,7 +304,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7623550778255165701/detail) | Research Scientist in AI Foundation Model Infrastructure – Graduates | Seattle, WA | N/A | 2026-04-01 | 107 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply) | Human Machine Interface – Software Engineering Intern - Human Machine Interface | Atlanta, GA | Fall 2026 | 2026-04-01 | 107 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7540823148805032210) | Software Engineer Intern - AI Model Optimization | Seattle, WA | Summer 2026 | 2026-03-31 | 108 | simplify-2026 |
-| [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/947338ca-e135-4398-9aa3-79e131bc03d5/application) | Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 109 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application) | Rust Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 109 | simplify-2026 |
 | [10a Labs](https://job-boards.greenhouse.io/10alabs/jobs/4203095009) | Engineering Fellow | SF | N/A | 2026-03-27 | 112 | simplify-2026 |
 | [QuantCo](https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply) | Software Engineer Intern | London, UK, Bellheim, Germany, Wenden, Germany, Berlin, Germany, Munich, Germany | Summer 2026 | 2026-03-27 | 112 | simplify-2026 |

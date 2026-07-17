@@ -1,6 +1,142 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Magna",
+    "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
+    "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784290069,
+    "date_posted": 1784160000,
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Magna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "f7eb1ce6-bd5a-46b6-844d-5b28bcebc3a1",
+    "title": "Client Service Technician Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784288793,
+    "date_posted": 1783641600,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043521-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Certificate"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784287528,
+    "date_posted": 1783987200,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Job-Posting-Title-Field-Engineer-Apprentice_R4043559",
+    "locations": [
+      "Dayton, OH",
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "972e03ef-c056-4f91-b82e-b8a7547ba855",
+    "title": "Digital Project Engineer Intern - Digital Project Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784283527,
+    "date_posted": 1784067386,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Formlabs",
+    "id": "6d7eaee5-c397-4318-a363-1aca5bdb6bde",
+    "title": "Supply Chain Operations Software Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784283304,
+    "date_posted": 1784280488,
+    "url": "https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Rehlko",
     "id": "c54f531b-4624-4f68-82cb-e5b58e94e872",
@@ -689,7 +825,7 @@
     "company_name": "GE Healthcare",
     "id": "4483e436-40a3-47b2-b54d-3bb6048b787d",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4341,7 +4477,7 @@
     "company_name": "RTX",
     "id": "4add536b-2385-45cb-a5b4-45157793163e",
     "title": "Transformation numerique Intern - Digital Transformation",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -4889,7 +5025,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6891,7 +7027,7 @@
     "company_name": "Zoox",
     "id": "b4979a01-4110-4ef8-a1a3-cf9c33776e5a",
     "title": "Student Worker - Manufacturing Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -7155,7 +7291,7 @@
     "company_name": "GE Healthcare",
     "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -7184,7 +7320,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -8066,7 +8202,7 @@
     "company_name": "Hitachi Energy",
     "id": "7717c612-0855-40d4-8f2d-ceb5c5bc2d57",
     "title": "Software Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10407,7 +10543,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -19327,7 +19463,7 @@
     "company_name": "University of Texas at Austin",
     "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
     "title": "Course Support - Rhetoric",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -19377,7 +19513,7 @@
     "company_name": "EPRI",
     "id": "12e9f7c4-96a3-4dae-b41b-f911eb8d3eff",
     "title": "AI/ML for Power System Analysis Intern - Power Flow - State Estimation",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -23437,7 +23573,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -47438,7 +47574,7 @@
     "company_name": "Tencent",
     "id": "7e8ff4d2-c3b9-4fea-99ac-a23c791654a1",
     "title": "Agent Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -54059,7 +54195,7 @@
     "company_name": "NVIDIA",
     "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
     "title": "PhD Research Intern - Security and Privacy",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -59584,7 +59720,7 @@
     "company_name": "Trane Technologies",
     "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
     "title": "Collections Data Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -64319,7 +64455,7 @@
     "company_name": "Regal Rexnord",
     "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
     "title": "Lab Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -115766,7 +115902,7 @@
     "company_name": "Atomic Semi",
     "id": "577380e9-9967-4e82-bd6f-7e700a92f224",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -116132,7 +116268,7 @@
     "company_name": "Atomic Semi",
     "id": "8273dd4e-b31d-493a-9d57-963229920587",
     "title": "Packaging Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -144348,7 +144484,7 @@
     "company_name": "TikTok",
     "id": "df86468a-0723-4315-bf56-0803134d3889",
     "title": "Data Analyst Project Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
