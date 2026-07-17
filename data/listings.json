@@ -165,7 +165,7 @@
     "company_name": "RTX",
     "id": "972e03ef-c056-4f91-b82e-b8a7547ba855",
     "title": "Digital Project Engineer Intern - Digital Project Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -719,7 +719,7 @@
     "company_name": "GeoComply",
     "id": "1d0df9c8-c66c-43a4-a73a-ee0c92dc7fc6",
     "title": "Full Stack Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -34370,7 +34370,7 @@
     "company_name": "ByteDance",
     "id": "d68e8d08-2c09-4761-bfd9-aab4c29a46fa",
     "title": "Research Intern - Video Data Compression and Application",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

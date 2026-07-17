@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (446)
+# Data Science, AI & Machine Learning (444)
 
 [← back to index](../README.md)
 
@@ -29,7 +29,6 @@
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---AI-Enablement_JR26070823) | Technology Strategy & AI Enablement Co-op - AI Enablement | Toronto, ON, Canada | Fall 2026 | 2026-07-15 | 2 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752) | Research Intern - Video World Models - Research & ML Systems | Palo Alto, CA | Fall 2026 | 2026-07-15 | 2 | simplify-2026 |
 | [Evonik](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Hanau/Praktikant--m-w-d--Sustainability---Life-Cycle-Management_R49998-2) | Life Cycle Management Intern - Sustainability & Life Cycle Management | Neukirchen-Vluyn, Germany, Frankfurt, Germany | Fall 2026 | 2026-07-15 | 2 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1) | Digital Project Engineer Intern - Digital Project Engineering | Mississauga, ON, Canada | Fall 2026 | 2026-07-14 | 3 | simplify-2026 |
 | [NewsBreak](https://job-boards.greenhouse.io/newsbreak/jobs/4697070006) | Growth Engineer Intern - Growth Engineering | Mountain View, CA | Fall 2026 | 2026-07-14 | 3 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/29851?icims=1) | Machine Learning Compiler Intern - Machine Learning Compiler | Urbana, IL | Fall 2026 | 2026-07-14 | 3 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/30289) | Year Round Intern - Business Intelligence Analyst | Winchester, VA, Vienna, VA | Fall 2026 | 2026-07-14 | 3 | simplify-2026 |
@@ -221,7 +220,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7539697151993268488/detail) | Research Scientist Intern - Applied Machine Learning-Enterprise | San Jose, CA | Summer 2026 | 2026-06-03 | 44 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7535953226975054098/detail) | Machine Learning Engineer Intern - Global E-commerce Risk Control | Seattle, WA | Summer 2026 | 2026-06-03 | 44 | simplify-2026 |
 | [QuEra Computing](https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008) | Photonics Data Engineer Intern - Data Management | Boston, MA | Summer 2026 | 2026-06-02 | 45 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7538674634397813010/detail) | Research Intern - Video Data Compression and Application | San Diego, CA | Summer 2026 | 2026-06-02 | 45 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7539992380817639687/detail) | Research Intern - AI/LLM Network | Seattle, WA | Summer 2026 | 2026-06-02 | 45 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7539991964504017170/detail) | Research Intern - AI/LLM Network | San Jose, CA | Summer 2026 | 2026-06-02 | 45 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990013424486) | Machine Learning Physics Graduate Student Intern | Livermore, CA | N/A | 2026-06-02 | 45 | simplify-2026 |

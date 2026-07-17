@@ -1,4 +1,4 @@
-# Software Engineering (416)
+# Software Engineering (415)
 
 [← back to index](../README.md)
 
@@ -10,7 +10,6 @@
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Nittany-AI-Innovator_REQ_0000080373-1) | Nittany AI Intern | State College, PA | N/A | 2026-07-17 | 0 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) | Algorithms Software Intern | Cambridge, MA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) | AI Software Intern | Cambridge, MA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
-| [GeoComply](https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply) | Full Stack Developer Intern | Vancouver, BC, Canada | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | Software Engineering Co-op | Rochester, MN | Winter 2027 | 2026-07-16 | 1 | simplify-2026 |
 | [Cybernetic Labs](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | Software Engineer Intern - Agent Platform | SF | Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027 | 2026-07-16 | 1 | simplify-2026 |
 | [Cybernetic Labs](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | Full-Stack Software Engineer Intern - Product | SF | Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027 | 2026-07-16 | 1 | simplify-2026 |
