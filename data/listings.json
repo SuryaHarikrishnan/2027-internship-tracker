@@ -1,6 +1,61 @@
 [
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rehlko",
+    "id": "c54f531b-4624-4f68-82cb-e5b58e94e872",
+    "title": "Field Service Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1784282022,
+    "date_posted": 1784281230,
+    "url": "https://rehlko.wd12.myworkdayjobs.com/Reh/job/Hook/Apprentice_R03577",
+    "locations": [
+      "Hook, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Rehlko",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "ccc73b10-cb10-4dfc-a0c1-9b8be2b8320d",
+    "title": "Software Development Engineer - Temp",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784279313,
+    "date_posted": 1784279124,
+    "url": "https://amazon.jobs/en/jobs/10477224/software-dev-engineer-temp",
+    "locations": [
+      "Tennessee",
+      "Chennai, Tamil Nadu, India",
+      "Indiana"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Analytical Mechanics Associates",
     "id": "a578b3d4-fbcb-45d5-903b-c000ea606e26",
@@ -4834,7 +4889,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -5997,7 +6052,7 @@
     "company_name": "GE Healthcare",
     "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6026,7 +6081,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -6055,7 +6110,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -6836,7 +6891,7 @@
     "company_name": "Zoox",
     "id": "b4979a01-4110-4ef8-a1a3-cf9c33776e5a",
     "title": "Student Worker - Manufacturing Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10352,7 +10407,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13846,7 +13901,7 @@
     "company_name": "American Heart Association",
     "id": "aadfa331-b75a-48b1-9e48-08cc6cfda19a",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23304,7 +23359,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -23382,7 +23437,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -28006,7 +28061,7 @@
     "company_name": "Duke University",
     "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
     "title": "Administrative Intern - Sanford School of Public Policy",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -58983,7 +59038,7 @@
     "company_name": "Acceldata",
     "id": "8c643851-d7eb-41d5-9c08-aa99ae659141",
     "title": "Software Engineering Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -59529,7 +59584,7 @@
     "company_name": "Trane Technologies",
     "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
     "title": "Collections Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -343213,102 +343268,6 @@
       "LA"
     ],
     "company_url": "https://simplify.jobs/c/Riot-Games",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "JP Morgan Chase",
-    "id": "38ccac18-f459-4463-a36e-34a2b359be07",
-    "title": "Applied AI/ML Associate Program \u2013 Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763541266,
-    "date_posted": 1763541266,
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210687417",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Zoox",
-    "id": "78f46ca7-c4b6-4c9f-9740-f5298240a200",
-    "title": "Machine Learning Engineer Intern - Perception",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763538144,
-    "date_posted": 1763538144,
-    "url": "https://jobs.lever.co/zoox/9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Zoox",
-    "id": "06f78d1d-600f-499a-813d-53080d69eb66",
-    "title": "Machine Learning Engineer Intern - Simulation",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763538141,
-    "date_posted": 1763538141,
-    "url": "https://jobs.lever.co/zoox/f24a2d0c-bda7-48ff-9c83-9a96900128b7/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Zoox",
-    "id": "a2e37ceb-7776-4bfa-9a11-8c167a2002e2",
-    "title": "Machine Learning Engineer Intern - Autonomy Behavior",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763538140,
-    "date_posted": 1763538140,
-    "url": "https://jobs.lever.co/zoox/74ef6bb8-ec8a-4c6c-8618-544717f40e2d/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Rehlko](https://rehlko.wd12.myworkdayjobs.com/Reh/job/Hook/Apprentice_R03577) | Field Service Engineer Apprentice | Hook, UK | Summer 2026, Fall 2026 | 2026-07-17 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/276987) | Energy Battery Firmware Intern - Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8070392) | FPGA Intern | London, UK | Summer 2028 | 2026-07-16 | 1 | simplify-2026 |
 | [Amentum](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | Spaceflight Hardware Intern | Houston, TX | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
@@ -25,8 +26,7 @@
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Applications Engineering Intern | Roseville, CA | Fall 2026 | 2026-07-09 | 8 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 9 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) | Client Service Technician Apprentice | Charleston, WV | Fall 2026 | 2026-07-08 | 9 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1) | Field Service Apprentice | Minneapolis, MN | Winter 2025, Spring 2025, Summer 2025, Fall 2025 | 2026-07-08 | 9 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1) | Field Engineer Apprentice | Chattanooga, TN | Fall 2026 | 2026-07-08 | 9 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992) | Field Engineer Apprentice | Little Rock, AR | Fall 2026 | 2026-07-08 | 9 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | Firmware Engineering Intern | Cambridge, ON, Canada | Fall 2026 | 2026-07-07 | 10 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638) | Digital IC Design Engineer - Digital Design Engineer | Tucson, AZ | N/A | 2026-07-07 | 10 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694883006) | Radiation Effects Associate Engineer | SF | N/A | 2026-07-07 | 10 | simplify-2026 |

@@ -1,9 +1,10 @@
-# Software Engineering (417)
+# Software Engineering (419)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Amazon](https://amazon.jobs/en/jobs/10477224/software-dev-engineer-temp) | Software Development Engineer - Temp | Tennessee, Chennai, Tamil Nadu, India, Indiana | N/A | 2026-07-17 | 0 | simplify-2026 |
 | [Composio](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true) | Full-stack Intern | SF | Fall 2026 | 2026-07-17 | 0 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) | Algorithms Software Intern | Cambridge, MA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) | AI Software Intern | Cambridge, MA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
@@ -263,6 +264,7 @@
 | [Astera](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) | Software Engineer Intern - Distributed Simulation Systems | Oakland, CA | Summer 2026 | 2026-05-13 | 65 | simplify-2026 |
 | [Super](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c/application) | Payments Engineer Intern | Toronto, ON, Canada | Summer 2026 | 2026-05-11 | 67 | simplify-2026 |
 | [Super](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application) | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | Fall 2026 | 2026-05-11 | 67 | simplify-2026 |
+| [Acceldata](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply) | Software Engineering Co-op | Kitchener, ON, Canada | Summer 2026 | 2026-05-09 | 69 | simplify-2026 |
 | [Magnet Forensics](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply) | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | Fall 2026 | 2026-05-06 | 72 | simplify-2026 |
 | [Magnet Forensics](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply) | Software Developer Co-op | Canada, Ottawa, ON, Canada, Kitchener, ON, Canada | Fall 2026 | 2026-05-06 | 72 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269812) | Machine Learning Platform Intern - Multiple Teams | Palo Alto, CA | Fall 2026 | 2026-05-06 | 72 | simplify-2026 |
