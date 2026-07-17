@@ -4,6 +4,8 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [City of Charlotte](https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1) | Management Analyst Intern - Research and Planning Division | Charlotte, NC | Summer 2026 | 2026-07-17 | 0 | simplify-2026 |
+| [Cincinnati Children’s Hospital and Medical Center](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management_JR223363) | Student 2 - Data Management | Remote in USA | N/A | 2026-07-17 | 0 | simplify-2026 |
 | [CuspAI](https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true) | Chemistry Intern - MLFF Distillation & GCMC Integration | London, UK, Cambridge, UK | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [Mackenzie Investments](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) | Data Science and AI Specialist Intern - Investment Management - Fundamental Equity | Greater Toronto Area, ON, Canada | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [ITT](https://careersenus-itt-inc.icims.com/jobs/17182/job?mobile=true&needsRedirect=false) | Trade & Supply Chain Data Analytics Co-op | Boston, NY | Fall 2026, Spring 2027 | 2026-07-16 | 1 | simplify-2026 |
@@ -48,11 +50,11 @@
 | [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400) | Energy Data Analysis Intern | Golden, CO | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-07-13 | 4 | simplify-2026 |
 | [City of Aurora](https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Water-GIS-Intern_JR109039) | Water GIS Intern | Aurora, CO | Fall 2026 | 2026-07-13 | 4 | simplify-2026 |
 | [BDO Canada](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580) | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada, Markham, ON, Canada, Oakville, ON, Canada | Fall 2026 | 2026-07-13 | 4 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099) | Transformation numerique Intern - Digital Transformation | Longueuil, QC, Canada | Summer 2026, Fall 2026 | 2026-07-13 | 4 | simplify-2026 |
 | [World Surf League](https://boards.greenhouse.io/worldsurfleague/jobs/8629100002) | Partnerships Analytics & Reporting Intern | Inglewood, CA | Summer 2026 | 2026-07-11 | 6 | simplify-2026 |
 | [Pika](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Research Intern - BS/MS/PhD | Palo Alto, CA | Fall 2026 | 2026-07-10 | 7 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2281218542616482) | Research Scientist Intern - Monetization Computer Vision | Menlo Park, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-07-10 | 7 | simplify-2026 |
 | [Great Gray](https://jobs.lever.co/great-gray-group/1b6aeb9b-b5c0-4e74-a23c-d89560e38eb3/apply) | Legal & Compliance Extern | Boston, MA, Wilmington, DE | N/A | 2026-07-10 | 7 | simplify-2026 |
+| [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Editorial Data Reporting Intern | Remote in USA | Fall 2026 | 2026-07-10 | 7 | simplify-2026 |
 | [Chevron Corporation](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) | Previous Intern - Earth Scientist | Houston, TX | Fall 2026 | 2026-07-10 | 7 | simplify-2026 |
 | [Brevium](https://job-boards.greenhouse.io/brevium/jobs/4326783006) | Data Analyst Assistant | American Fork, UT | N/A | 2026-07-09 | 8 | simplify-2026 |
 | [Cotiviti](https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false) | AI Engineer Intern | Remote in USA | Summer 2026 | 2026-07-09 | 8 | simplify-2026 |
@@ -222,7 +224,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7538674634397813010/detail) | Research Intern - Video Data Compression and Application | San Diego, CA | Summer 2026 | 2026-06-02 | 45 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7539992380817639687/detail) | Research Intern - AI/LLM Network | Seattle, WA | Summer 2026 | 2026-06-02 | 45 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7539991964504017170/detail) | Research Intern - AI/LLM Network | San Jose, CA | Summer 2026 | 2026-06-02 | 45 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7538291329349699848/detail) | Student Researcher - Multimedia Streaming | San Diego, CA | N/A | 2026-06-02 | 45 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990013424486) | Machine Learning Physics Graduate Student Intern | Livermore, CA | N/A | 2026-06-02 | 45 | simplify-2026 |
 | [Lambda](https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application) | AI Research Marketing Intern | SF | Summer 2026 | 2026-06-01 | 46 | simplify-2026 |
 | [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326) | Graduate Event Data Assistant - Student | Washington, DC | N/A | 2026-06-01 | 46 | simplify-2026 |
@@ -449,4 +450,3 @@
 | [TikTok](https://lifeattiktok.com/search/7535623435700766984) | Research Scientist Intern - Monetization GenAI - 2026 Start | San Jose, CA | Winter 2025 | 2025-11-26 | 233 | simplify-2026 |
 | [Advantmed](https://apply.workable.com/advantmed/j/45F5E3C394/) | AI Automation Intern | Remote in USA | Summer 2026 | 2025-11-21 | 238 | simplify-2026 |
 | [Truveta](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | ML PhD Intern - LLMs & Generative AI | Seattle, WA | Summer 2026 | 2025-11-20 | 239 | simplify-2026 |
-| [KLA](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515-1) | AI & Process Automation Intern | Ann Arbor, MI | Summer 2026 | 2025-11-19 | 240 | simplify-2026 |

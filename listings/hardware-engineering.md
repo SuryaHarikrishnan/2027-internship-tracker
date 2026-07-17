@@ -1,4 +1,4 @@
-# Hardware Engineering (177)
+# Hardware Engineering (175)
 
 [← back to index](../README.md)
 
@@ -146,8 +146,6 @@
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330606) | Data Center Trainee | Stamford, TX | N/A | 2026-04-07 | 101 | simplify-2026 |
 | [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) | Radio Frequency Engineering Intern | El Segundo, CA | Fall 2026 | 2026-04-06 | 102 | simplify-2026 |
 | [SoloPulse](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | Systems Engineering Intern | Norcross, GA | Summer 2026 | 2026-04-02 | 106 | simplify-2026 |
-| [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application) | Automation Software Engineering Intern | SF | Fall 2026 | 2026-03-31 | 108 | simplify-2026 |
-| [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application) | Embedded Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 109 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) | Co-op - Design Verification Engineer | Austin, TX | Fall 2026 | 2026-03-25 | 114 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8403219002) | Software Engineering Intern/Co-op | Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, West Athens, CA, Sunnyvale, CA | Fall 2026 | 2026-03-16 | 123 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095) | Radio Frequency Engineering Intern | Dulles, VA | Summer 2026 | 2026-03-12 | 127 | simplify-2026 |

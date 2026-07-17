@@ -1,4 +1,4 @@
-# Quantitative Finance (101)
+# Quantitative Finance (100)
 
 [← back to index](../README.md)
 
@@ -18,7 +18,6 @@
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7818540) | Quantitative Research Intern | Chicago, IL, NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-07-13 | 4 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7668776) | Quantitative Trading Analyst Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 4 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) | Quantitative Trading Intern | London, UK, Paris, France | Summer 2026 | 2026-07-13 | 4 | simplify-2026 |
-| [Citadel Securities](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | Rates Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 4 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | Investment & Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 4 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Quantitative Research Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 4 | simplify-2026 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-13 | 4 | simplify-2026 |

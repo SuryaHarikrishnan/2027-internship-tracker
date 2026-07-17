@@ -2,6 +2,82 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "City of Charlotte",
+    "id": "a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36",
+    "title": "Management Analyst Intern - Research and Planning Division",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784298181,
+    "date_posted": 1784246400,
+    "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+    "id": "94928190-a01b-4ff0-8068-4fad65af019c",
+    "title": "Student 2 - Data Management",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784298019,
+    "date_posted": 1784246400,
+    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management_JR223363",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pennsylvania State University",
+    "id": "e3832dea-fb21-489b-b1cb-1dd91cd40a1e",
+    "title": "Nittany AI Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784297734,
+    "date_posted": 1784246400,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Nittany-AI-Innovator_REQ_0000080373-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
@@ -3717,7 +3793,7 @@
     "company_name": "Citadel Securities",
     "id": "18b48766-5e2c-436d-9735-13746605df79",
     "title": "Rates Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4477,7 +4553,7 @@
     "company_name": "RTX",
     "id": "4add536b-2385-45cb-a5b4-45157793163e",
     "title": "Transformation numerique Intern - Digital Transformation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -5025,7 +5101,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -34398,7 +34474,7 @@
     "company_name": "ByteDance",
     "id": "67caa4bb-cdd2-4f62-a0c2-556820fed452",
     "title": "Student Researcher - Multimedia Streaming",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -113709,7 +113785,7 @@
     "company_name": "Atomic Semi",
     "id": "02602c1c-2cd3-4d65-9cd0-b63fb8599b97",
     "title": "Automation Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -116161,7 +116237,7 @@
     "company_name": "Atomic Semi",
     "id": "f67f6221-52d3-4905-91fe-1edaf42ed08c",
     "title": "Rust Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -116216,7 +116292,7 @@
     "company_name": "Atomic Semi",
     "id": "a3fc7a58-e89b-45d9-b974-7bb42ada9d3f",
     "title": "Embedded Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -330546,6 +330622,30 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KLA",
+    "id": "6a02c762-3116-4f61-8cbf-6ad117b93ca1",
+    "title": "AI & Process Automation Intern",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1764502525,
+    "date_posted": 1764502525,
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Tencent",
     "id": "bd104055-1b8d-4c45-bcd8-d047e7c64feb",
@@ -335401,32 +335501,6 @@
     ]
   },
   {
-    "date_updated": 1764067891,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Biological-Research---AI-Development_202511-129629",
-    "company_name": "Roche",
-    "title": "2026 Summer Intern - Biological Research - AI Development",
-    "locations": [
-      "South San Francisco, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "e9009a57-26c7-406b-8773-4ccb3654f722",
-    "date_posted": 1763569630,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "S&C Electric Company",
@@ -339680,32 +339754,6 @@
   },
   {
     "date_updated": 1763711006,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Summer-2026_10135702",
-    "company_name": "The Walt Disney Company",
-    "title": "Software Engineering Intern, Summer 2026",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "7e8d3fc0-36f9-4c83-8170-3f9bbe56f4fb",
-    "date_posted": 1763569689,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763711006,
     "sponsorship": "Other",
     "active": false,
     "degrees": [
@@ -343327,83 +343375,6 @@
       "San Mateo, CA"
     ],
     "company_url": "https://simplify.jobs/c/IXL-Learning",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763569750,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe",
-    "company_name": "Reacher",
-    "title": "Software Engineering Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Fall 2025",
-      "Fall 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "7268da41-7d8d-4639-8007-09b1e8a2aeb9",
-    "date_posted": 1763569750,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763569512,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515-1",
-    "company_name": "KLA",
-    "title": "AI & Process Automation Intern",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "4401a54c-67ae-4c00-b345-06a085c8844b",
-    "date_posted": 1763569512,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Riot Games",
-    "id": "0d02ea20-fd2b-407d-9710-7f868058d568",
-    "title": "Research Scientist Intern - Next-Gen Gameplay",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763568258,
-    "date_posted": 1763568258,
-    "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/7347923",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Riot-Games",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

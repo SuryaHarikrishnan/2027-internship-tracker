@@ -1,4 +1,4 @@
-# Software Engineering (417)
+# Software Engineering (416)
 
 [← back to index](../README.md)
 
@@ -7,6 +7,7 @@
 | [Formlabs](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) | Supply Chain Operations Software Intern | Cambridge, MA | Fall 2026 | 2026-07-17 | 0 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10477224/software-dev-engineer-temp) | Software Development Engineer - Temp | Tennessee, Chennai, Tamil Nadu, India, Indiana | N/A | 2026-07-17 | 0 | simplify-2026 |
 | [Composio](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true) | Full-stack Intern | SF | Fall 2026 | 2026-07-17 | 0 | simplify-2026 |
+| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Nittany-AI-Innovator_REQ_0000080373-1) | Nittany AI Intern | State College, PA | N/A | 2026-07-17 | 0 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) | Algorithms Software Intern | Cambridge, MA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) | AI Software Intern | Cambridge, MA | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
 | [GeoComply](https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply) | Full Stack Developer Intern | Vancouver, BC, Canada | Fall 2026 | 2026-07-16 | 1 | simplify-2026 |
@@ -304,7 +305,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7623550778255165701/detail) | Research Scientist in AI Foundation Model Infrastructure – Graduates | Seattle, WA | N/A | 2026-04-01 | 107 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply) | Human Machine Interface – Software Engineering Intern - Human Machine Interface | Atlanta, GA | Fall 2026 | 2026-04-01 | 107 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7540823148805032210) | Software Engineer Intern - AI Model Optimization | Seattle, WA | Summer 2026 | 2026-03-31 | 108 | simplify-2026 |
-| [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application) | Rust Software Engineering Intern | SF | Fall 2026 | 2026-03-30 | 109 | simplify-2026 |
 | [10a Labs](https://job-boards.greenhouse.io/10alabs/jobs/4203095009) | Engineering Fellow | SF | N/A | 2026-03-27 | 112 | simplify-2026 |
 | [QuantCo](https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply) | Software Engineer Intern | London, UK, Bellheim, Germany, Wenden, Germany, Berlin, Germany, Munich, Germany | Summer 2026 | 2026-03-27 | 112 | simplify-2026 |
 | [Kanshe Infotech](https://jobs.smartrecruiters.com/Learnkwikcom/744000065800616) | Python Fullstack Training | Newark, NJ | N/A | 2026-03-27 | 112 | simplify-2026 |
@@ -420,4 +420,3 @@
 | [Stevens Capital Management](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) | Developer Internship | Villanova, PA | Winter 2025 | 2025-11-21 | 238 | simplify-2026 |
 | [Aechelon Technology](https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008) | Rtk Internship - Junior Software Engineer | Farmers Branch, TX | Summer 2026 | 2025-11-20 | 239 | simplify-2026 |
 | [KBR](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | Software Application Developer Intern for GOES-R Series Satellites | Silver Spring, MD | Summer 2026 | 2025-11-20 | 239 | simplify-2026 |
-| [Reacher](https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe) | Software Engineering Intern | San Francisco, CA | Fall 2025, Fall 2026 | 2025-11-19 | 240 | simplify-2026 |
