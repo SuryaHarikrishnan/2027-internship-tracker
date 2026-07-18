@@ -1,4 +1,4 @@
-# Product Management (30)
+# Product Management (29)
 
 [← back to index](../README.md)
 
@@ -8,7 +8,6 @@
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 2 | simplify-2026 |
 | [GeoComply](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply) | Product Operations Intern | Vancouver, BC, Canada | Fall 2026 | 2026-07-16 | 2 | simplify-2026 |
 | [Signify](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521) | Product Management Intern | Menlo Park, CA | Fall 2026 | 2026-07-16 | 2 | simplify-2026 |
-| [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | Global Product Intern | NYC | Fall 2026 | 2026-07-15 | 3 | simplify-2026 |
 | [CalAmp](https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false) | Product Management Intern | Carlsbad, CA | Summer 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [Global Relay](https://www.globalrelay.com/careers/jobs?gh_jid=6112647004) | Product Management Co-op | Vancouver, BC, Canada | Fall 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7660641959426132277) | Global Product Operations Manager Intern - Global Business Solutions | San Jose, CA | Fall 2026 | 2026-07-13 | 5 | simplify-2026 |
