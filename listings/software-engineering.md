@@ -1,4 +1,4 @@
-# Software Engineering (394)
+# Software Engineering (395)
 
 [← back to index](../README.md)
 
@@ -44,6 +44,7 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974943) | Campus UI Software Engineer Intern | London, UK | Fall 2026 | 2026-07-13 | 5 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7975026) | Campus Software Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 5 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7942281) | Software Developer Intern | London, UK | Summer 2026 | 2026-07-13 | 5 | simplify-2026 |
+| [M&T Bank](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051) | Technology Development Program | Buffalo, NY | N/A | 2026-07-13 | 5 | simplify-2026 |
 | [Exowatt](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | Software Engineer Intern - Agent Platform - AI | Austin, TX | Fall 2026 | 2026-07-10 | 8 | simplify-2026 |
 | [Xsolla](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | AI-First Engineer Intern | Raleigh, NC | Fall 2026 | 2026-07-10 | 8 | simplify-2026 |
 | [Xsolla](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | AI-First Engineer Intern | LA | Fall 2026 | 2026-07-10 | 8 | simplify-2026 |
@@ -59,6 +60,7 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003019) | Campus UI Software Engineer Intern | Chicago, IL | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8002989) | Campus Software Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 10 | simplify-2026 |
 | [Aramark](https://aramarkcareers.com/UnitedStates/job/Tempe-Student-IT-Associate-Application-Developer-ASU-C-Store-Markets-AZ-85281/1406888100/?ats=successfactors) | Student IT Associate - Application Developer - ASU-C-Store Markets | Tempe, AZ | N/A | 2026-07-08 | 10 | simplify-2026 |
+| [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Fall 2026 | 2026-07-07 | 11 | simplify-2026 |
 | [Horizon Industries](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5301639008) | Appian Intern | Washington, DC | Fall 2026 | 2026-07-07 | 11 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002) | Technology Intern | London, UK | Summer 2027 | 2026-07-07 | 11 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | Software Engineering Intern | NYC | N/A | 2026-07-06 | 12 | simplify-2026 |
@@ -397,4 +399,3 @@
 | [Walrus](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) | Full Stack Developer Intern | New York, NY | Summer 2026 | 2025-11-24 | 236 | simplify-2026 |
 | [Stevens Capital Management](https://job-boards.greenhouse.io/scminternships/jobs/1146391) | Developer Intern | Villanova, PA | Winter 2025 | 2025-11-21 | 239 | simplify-2026 |
 | [Stevens Capital Management](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) | Developer Internship | Villanova, PA | Winter 2025 | 2025-11-21 | 239 | simplify-2026 |
-| [Aechelon Technology](https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008) | Rtk Internship - Junior Software Engineer | Farmers Branch, TX | Summer 2026 | 2025-11-20 | 240 | simplify-2026 |

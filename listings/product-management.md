@@ -1,4 +1,4 @@
-# Product Management (29)
+# Product Management (32)
 
 [← back to index](../README.md)
 
@@ -8,11 +8,14 @@
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 2 | simplify-2026 |
 | [GeoComply](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply) | Product Operations Intern | Vancouver, BC, Canada | Fall 2026 | 2026-07-16 | 2 | simplify-2026 |
 | [Signify](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521) | Product Management Intern | Menlo Park, CA | Fall 2026 | 2026-07-16 | 2 | simplify-2026 |
+| [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) | Global Product Intern | Wilmington, DE | Fall 2026 | 2026-07-15 | 3 | simplify-2026 |
+| [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | Global Product Intern | NYC | Fall 2026 | 2026-07-15 | 3 | simplify-2026 |
 | [CalAmp](https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false) | Product Management Intern | Carlsbad, CA | Summer 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [Global Relay](https://www.globalrelay.com/careers/jobs?gh_jid=6112647004) | Product Management Co-op | Vancouver, BC, Canada | Fall 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7660641959426132277) | Global Product Operations Manager Intern - Global Business Solutions | San Jose, CA | Fall 2026 | 2026-07-13 | 5 | simplify-2026 |
 | [Adaptive Security](https://jobs.ashbyhq.com/adaptivesecurity/a941849b-bc2b-421d-b58c-bd76cfa31b1b/application) | AI Product Operations Intern | NYC | Summer 2026 | 2026-07-13 | 5 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Huntsville-(DoW-SkillBridge),-Sr_-Specialist,-Product-Manager-AL-35806-2809/1408154000/?ats=successfactors) | SkillBridge Senior Specialist - Product Manager | Huntsville, AL | N/A | 2026-07-13 | 5 | simplify-2026 |
+| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | Associate Product Manager Intern - Associate Product Manager | SF | Summer 2027 | 2026-07-13 | 5 | simplify-2026 |
 | [Sika](https://jobs.smartrecruiters.com/SikaAG/744000137117699) | Product Management Apprentice | Welwyn Garden City, UK | Fall 2026 | 2026-07-10 | 8 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Product Management Intern | Tampa, FL, NYC | Summer 2027 | 2026-07-08 | 10 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 11 | simplify-2026 |

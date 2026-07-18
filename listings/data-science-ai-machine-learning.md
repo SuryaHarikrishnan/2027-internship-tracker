@@ -24,6 +24,7 @@
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) | AI & Data Analytics Intern | Scottsdale, AZ | Fall 2026 | 2026-07-15 | 3 | simplify-2026 |
 | [Constellation Space](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | Graduate Researcher Intern - Machine Learning | Seattle, WA | Fall 2026 | 2026-07-15 | 3 | simplify-2026 |
 | [Zurich Insurance](https://www.careers.zurich.com/job/Anoka-Bachelor's-Apprenticeship-Data-Analytics-Anoka,-MN-MN/1366724757/?ats=successfactors) | Bachelor's Apprentice - Data Analytics | Andover, MN | Winter 2027 | 2026-07-15 | 3 | simplify-2026 |
+| [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752) | Research Intern - Video World Models - Research & ML Systems | Palo Alto, CA | Fall 2026 | 2026-07-15 | 3 | simplify-2026 |
 | [Evonik](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Hanau/Praktikant--m-w-d--Sustainability---Life-Cycle-Management_R49998-2) | Life Cycle Management Intern - Sustainability & Life Cycle Management | Neukirchen-Vluyn, Germany, Frankfurt, Germany | Fall 2026 | 2026-07-15 | 3 | simplify-2026 |
 | [NewsBreak](https://job-boards.greenhouse.io/newsbreak/jobs/4697070006) | Growth Engineer Intern - Growth Engineering | Mountain View, CA | Fall 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/29851?icims=1) | Machine Learning Compiler Intern - Machine Learning Compiler | Urbana, IL | Fall 2026 | 2026-07-14 | 4 | simplify-2026 |
@@ -425,4 +426,3 @@
 | [TikTok](https://lifeattiktok.com/search/7568546589788227893) | Data Engineer Intern | San Jose, CA | Summer 2026 | 2025-11-26 | 234 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7535623435700766984) | Research Scientist Intern - Monetization GenAI - 2026 Start | San Jose, CA | Winter 2025 | 2025-11-26 | 234 | simplify-2026 |
 | [Advantmed](https://apply.workable.com/advantmed/j/45F5E3C394/) | AI Automation Intern | Remote in USA | Summer 2026 | 2025-11-21 | 239 | simplify-2026 |
-| [Truveta](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | ML PhD Intern - LLMs & Generative AI | Seattle, WA | Summer 2026 | 2025-11-20 | 240 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (147)
+# Hardware Engineering (155)
 
 [← back to index](../README.md)
 
@@ -12,15 +12,23 @@
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38077) | Regression Lab Co-op | Westford, MA | Fall 2026, Winter 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960/apply) | Analog Design Engineer Co-op - Analog Design Engineer | Greensboro, NC | Fall 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [Duracell](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | Electronics Tech Intern | Atlanta, GA | Fall 2026 | 2026-07-14 | 4 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Job-Posting-Title-Field-Engineer-Apprentice_R4043559) | Field Engineer Apprentice | Dayton, OH, Columbus, OH | Fall 2026 | 2026-07-14 | 4 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8038923) | FPGA Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 5 | simplify-2026 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Hardware Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-13 | 5 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974391) | Campus FPGA Engineer Intern | London, UK | Winter 2026, Spring 2026, Fall 2026 | 2026-07-13 | 5 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974837) | Campus ASIC Engineer Intern | Bristol, UK | Fall 2026 | 2026-07-13 | 5 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1) | Unison Engineer Intern | Dayton, OH, Hamilton, NY, St. George, UT, Beavercreek, OH, Jacksonville, FL | Fall 2027 | 2026-07-13 | 5 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 8 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) | Field Engineer Apprentice | Columbus, OH | Fall 2026 | 2026-07-10 | 8 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 10 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) | Client Service Technician Apprentice | Charleston, WV | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1) | Client Service Technician Apprentice | Plainview, NY | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1) | Field Service Apprentice | Minneapolis, MN | Winter 2025, Spring 2025, Summer 2025, Fall 2025 | 2026-07-08 | 10 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1) | Field Engineer Apprentice | Chattanooga, TN | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1) | Field Engineer Apprentice | Salt Lake City, UT | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1) | Field Engineer Apprentice | California | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043180) | Field Service Apprentice | Houston, TX | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992) | Field Engineer Apprentice | Little Rock, AR | Fall 2026 | 2026-07-08 | 10 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638) | Digital IC Design Engineer - Digital Design Engineer | Tucson, AZ | N/A | 2026-07-07 | 11 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694883006) | Radiation Effects Associate Engineer | SF | N/A | 2026-07-07 | 11 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694853006) | Radiation Effects Engineer Intern | SF | Fall 2026 | 2026-07-06 | 12 | simplify-2026 |
