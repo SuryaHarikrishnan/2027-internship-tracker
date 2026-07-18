@@ -1,6 +1,30 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Leidos",
+    "id": "4d8b8076-1e94-416c-a4ff-e9ead56b5694",
+    "title": "Targeting Officer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784370482,
+    "date_posted": 1780956691,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Targeting-Officer_R-00184971",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Product",
     "company_name": "Solid Power",
     "id": "c35892b2-9f39-466f-87da-4e2f4f621ebd",
@@ -1041,7 +1065,7 @@
     "company_name": "CuspAI",
     "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
     "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1333,7 +1357,7 @@
     "company_name": "GE Healthcare",
     "id": "4483e436-40a3-47b2-b54d-3bb6048b787d",
     "title": "Client Service Technician Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -5431,7 +5455,7 @@
     "company_name": "RELX",
     "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
     "title": "Software Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -7745,7 +7769,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -9485,7 +9509,7 @@
     "company_name": "American University",
     "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
     "title": "Quantitative Research Methodology Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -9509,7 +9533,7 @@
     "company_name": "General Motors",
     "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
     "title": "Research and Development Intern - Research & Development",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -11523,7 +11547,7 @@
     "company_name": "Fidelity Investments",
     "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
     "title": "Leap Systems Analyst",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -24445,7 +24469,7 @@
     "company_name": "Intel",
     "id": "438a49bd-1732-4815-b2b2-e048f205949f",
     "title": "AI Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -31074,7 +31098,7 @@
     "company_name": "Rippling",
     "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
     "title": "Software Engineer Intern - Backend Focused",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -35378,7 +35402,7 @@
     "company_name": "American University",
     "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
     "title": "Graduate Event Data Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -37231,7 +37255,7 @@
     "company_name": "Magna",
     "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
     "title": "Junior Full Stack Developer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -55993,7 +56017,7 @@
     "company_name": "SOTI",
     "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -126600,7 +126624,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software \u2013 Intern - Python",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -151409,7 +151433,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -188959,7 +188983,7 @@
     "company_name": "Corpay",
     "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
     "title": "Software Developer \u2013 Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -221593,7 +221617,7 @@
     "company_name": "University of Texas - Austin",
     "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
     "title": "Resa 1 - Texus",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -260153,7 +260177,7 @@
     "company_name": "Tencent",
     "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
     "title": "Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -343564,54 +343588,6 @@
       "London, UK"
     ],
     "company_url": "https://simplify.jobs/c/ServiceNow",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Red Bull",
-    "id": "34f4e390-fe61-4b1c-9868-30c0c5cdf602",
-    "title": "On Premise Apprentice FTC Months",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763640839,
-    "date_posted": 1763640839,
-    "url": "https://jobs.smartrecruiters.com/RedBull/744000094387754",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Red-Bull",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Western Digital",
-    "id": "5b921ece-9395-4990-af0f-6c4eaec08841",
-    "title": "Intern - System Testing - MS Only",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763639960,
-    "date_posted": 1763639960,
-    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000094477331",
-    "locations": [
-      "Roseville, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
