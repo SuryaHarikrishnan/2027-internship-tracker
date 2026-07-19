@@ -8060,7 +8060,7 @@
     "company_name": "Bank of Montreal",
     "id": "951ea1eb-5dba-4124-a68e-3b001ca355d9",
     "title": "Data Scientist Co-op/Internship - Months",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9634,7 +9634,7 @@
     "company_name": "General Motors",
     "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
     "title": "Research and Development Intern - Research & Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -24206,7 +24206,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -55620,6 +55620,32 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Robert Bosch Venture Capital",
+    "id": "f74f5f6d-bdcb-41d4-81e3-16b4871b2d1c",
+    "title": "Engineering Technician Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1778710157,
+    "date_posted": 1778709996,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126331461",
+    "locations": [
+      "Plymouth, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ],
     "_sources": [
       "simplify-2026"
     ]
@@ -339562,6 +339588,30 @@
     ]
   },
   {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intuitive Surgical",
+    "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
+    "title": "AI Research Intern",
+    "active": false,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1763744641,
+    "date_posted": 1763744641,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000094876248",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "date_updated": 1763741534,
     "sponsorship": "Other",
     "active": true,
@@ -340526,130 +340576,6 @@
       "Washington, DC"
     ],
     "company_url": "https://simplify.jobs/c/Washpost",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Northrop Grumman",
-    "id": "da4ebfc6-10fc-4482-bce3-a58db0d23a4e",
-    "title": "Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763699919,
-    "date_posted": 1763699919,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Mesa/XMLNAME-2026-Engineering-Intern---Mesa-AZ_R10215191",
-    "locations": [
-      "Mesa, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intuitive Surgical",
-    "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1763691278,
-    "date_posted": 1763691278,
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000094742485",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "c75ce643-3c69-4428-b2e5-33b4437f433c",
-    "title": "Engineering Technician Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025"
-    ],
-    "date_updated": 1763682869,
-    "date_posted": 1763682869,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000094694586",
-    "locations": [
-      "Plymouth, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "a9ef6600-5544-4b4f-81a7-a2939aa937ee",
-    "title": "Data Analyst Intern - Tiktok Shop",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1763679472,
-    "date_posted": 1763679472,
-    "url": "https://lifeattiktok.com/search/7574308640640878853",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TJX",
-    "id": "a46f75ea-a36b-41f6-bcc4-0c6b5effd357",
-    "title": "Merchandise Operations Analyst Co-op",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763679293,
-    "date_posted": 1763679293,
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Mississauga-ON-L5R-0G1/Merchandise-Operations-Analyst-Co-op---Winter-Term_REQ62110",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TJX",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
