@@ -23,9 +23,9 @@ python scripts/track.py render  # regenerates APPLICATIONS.md
 
 A script runs 5× per day, pulls the latest active listings from the source repos, merges and deduplicates them by company + role + location, and updates: this index, the per-category files in [`listings/`](listings/), and a daily diff in [`digests/`](digests/) showing what's new and what closed. See [ATTRIBUTION.md](ATTRIBUTION.md) for source credits and [CONTRIBUTING.md](CONTRIBUTING.md) to add new sources.
 
-Last refreshed: **2026-07-19 14:20 UTC**. Sources: simplify-2026, vanshb03-2026, vanshb03-2027.
+Last refreshed: **2026-07-19 17:59 UTC**. Sources: simplify-2026, vanshb03-2026, vanshb03-2027.
 
-**Active listings: 1219** (of 13104 total seen across all sources)
+**Active listings: 1219** (of 13098 total seen across all sources)
 
 See [APPLICATIONS.md](APPLICATIONS.md) for personal application tracking.
 

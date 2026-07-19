@@ -5658,7 +5658,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -304335,84 +304335,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "url": "https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa",
-    "company_name": "Root Access",
-    "title": "Machine Learning Engineer Intern",
-    "locations": [
-      "New York City, NY"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "dfe8eaa9-3989-4402-9c73-c86d06daaca1",
-    "date_posted": 1763741365,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765891441,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564",
-    "company_name": "Root Access",
-    "title": "Firmware Engineer Intern",
-    "locations": [
-      "New York City, NY"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Hardware Engineering",
-    "source": "angie-hue",
-    "id": "4cb019a0-8963-40ae-aec2-7bd7af89d309",
-    "date_posted": 1763741433,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765891441,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68",
-    "company_name": "Root Access",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "New York City, NY"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "e50a34a0-5323-43b6-880e-764cf737620c",
-    "date_posted": 1763741473,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765891441,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
     "url": "https://www.tesla.com/careers/search/job/257414",
     "company_name": "Tesla",
     "title": "Internship, Embedded Software Engineer, Firmware Platforms",
@@ -320718,32 +320640,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Nashville-Office/Software-Engineer-Internship--10-15-hrs-week-_JR-023680",
-    "company_name": "Western Governors University",
-    "title": "Software Engineer Internship (10-15 hrs/week)",
-    "locations": [
-      "Nashville, TN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "9a0372f4-8b42-47f6-9cbe-c67528bd904a",
-    "date_posted": 1763741705,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765195069,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
     "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-36419",
     "company_name": "KeyBank",
     "title": "2026 Summer Analytics and Quantitative Modeling Internship - Cleveland",
@@ -334861,6 +334757,31 @@
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Intuitive Surgical",
+    "id": "20a37d3d-06fb-4c9a-bc5f-5f752733d95b",
+    "title": "AI Research Intern",
+    "active": false,
+    "terms": [
+      "Fall 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1764141251,
+    "date_posted": 1764141251,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000095572186",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intuitive Surgical",
     "id": "ede54e84-6c38-4b23-82f9-e4a5835ac2c6",
     "title": "Supply Chain Risk & Analytics",
     "active": false,
@@ -335317,6 +335238,30 @@
       "Shakopee, MN"
     ],
     "company_url": "https://simplify.jobs/c/Seagate-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Advantmed",
+    "id": "5319db05-a9a1-4e32-b8ac-a40c4253ae28",
+    "title": "AI Automation Intern",
+    "active": false,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1764123456,
+    "date_posted": 1764123456,
+    "url": "https://apply.workable.com/advantmed/j/45F5E3C394/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Advantmed",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
@@ -337613,58 +337558,6 @@
     ]
   },
   {
-    "date_updated": 1763989877,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955",
-    "company_name": "The Walt Disney Company",
-    "title": "Software Engineering Intern",
-    "locations": [
-      "Lake Buena Vista, FL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "d96eb095-d36c-4be3-a3c0-2df40d5b5180",
-    "date_posted": 1763741594,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763989877,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856",
-    "company_name": "Walmart",
-    "title": "2026 Summer Intern: Software Engineering II (Bentonville)",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "a805ca4f-0bb5-4cff-8221-bcc6daf2fd5b",
-    "date_posted": 1763741662,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Red Bull",
@@ -339581,56 +339474,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intuitive Surgical",
-    "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1763744641,
-    "date_posted": 1763744641,
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000094876248",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763741534,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://apply.workable.com/advantmed/j/45F5E3C394/",
-    "company_name": "Advantmed",
-    "title": "AI Automation Intern",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "e5045382-ee6d-4bcb-a35a-9d5d2d395276",
-    "date_posted": 1763741534,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]

@@ -44,6 +44,7 @@
 | [Pika](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Research Intern - BS/MS/PhD | Palo Alto, CA | Fall 2026 | 2026-07-10 | 9 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2281218542616482) | Research Scientist Intern - Monetization Computer Vision | Menlo Park, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-07-10 | 9 | simplify-2026 |
 | [Great Gray](https://jobs.lever.co/great-gray-group/1b6aeb9b-b5c0-4e74-a23c-d89560e38eb3/apply) | Legal & Compliance Extern | Boston, MA, Wilmington, DE | N/A | 2026-07-10 | 9 | simplify-2026 |
+| [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Editorial Data Reporting Intern | Remote in USA | Fall 2026 | 2026-07-10 | 9 | simplify-2026 |
 | [Brevium](https://job-boards.greenhouse.io/brevium/jobs/4326783006) | Data Analyst Assistant | American Fork, UT | N/A | 2026-07-09 | 10 | simplify-2026 |
 | [Cotiviti](https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false) | AI Engineer Intern | Remote in USA | Summer 2026 | 2026-07-09 | 10 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4695806006) | Digital Marketing Intern - Technical AI & Automation | NYC | Summer 2026 | 2026-07-09 | 10 | simplify-2026 |
@@ -421,4 +422,3 @@
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD) | Mountain View, CA, Sunnyvale, CA | Summer 2026 | 2025-11-27 | 234 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7568546589788227893) | Data Engineer Intern | San Jose, CA | Summer 2026 | 2025-11-26 | 235 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7535623435700766984) | Research Scientist Intern - Monetization GenAI - 2026 Start | San Jose, CA | Winter 2025 | 2025-11-26 | 235 | simplify-2026 |
-| [Advantmed](https://apply.workable.com/advantmed/j/45F5E3C394/) | AI Automation Intern | Remote in USA | Summer 2026 | 2025-11-21 | 240 | simplify-2026 |
