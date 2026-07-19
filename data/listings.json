@@ -271638,6 +271638,32 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Visa",
+    "id": "6dda7d50-5a5f-4933-b0a9-3ef99d47b5ff",
+    "title": "Software Engineer \u2013 Intern - Summer 2026 - Foster City",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1768321081,
+    "date_posted": 1768321081,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000103272855",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
     "id": "4aed9488-f753-4346-8fe1-186aac75607e",
     "title": "Software Engineer",
     "active": false,
@@ -339399,78 +339425,6 @@
       "Austin, TX"
     ],
     "company_url": "https://simplify.jobs/c/Findhelp-A-Public-Benefit-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Visa",
-    "id": "4d41084a-6a62-4c00-a3b6-e56847922030",
-    "title": "Software Engineer \u2013 Intern - Summer 2026 - Foster City",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763751938,
-    "date_posted": 1763751938,
-    "url": "https://jobs.smartrecruiters.com/Visa/744000094848481",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Visa",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Visa",
-    "id": "d93eaa77-7df9-4ade-9338-8ae6df781af5",
-    "title": "Software Engineer - Intern - Summer 2026 Ashburn - VA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763751931,
-    "date_posted": 1763751931,
-    "url": "https://jobs.smartrecruiters.com/Visa/744000094853665",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/Visa",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Visa",
-    "id": "4ea4b8b9-9812-484b-9763-e9675424ee80",
-    "title": "Systems Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763746458,
-    "date_posted": 1763746458,
-    "url": "https://jobs.smartrecruiters.com/Visa/744000094856846",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Visa",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
