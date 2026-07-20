@@ -1,4 +1,4 @@
-# Hardware Engineering (154)
+# Hardware Engineering (153)
 
 [← back to index](../README.md)
 
@@ -46,7 +46,6 @@
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7695577003) | System Architecture Intern | Palo Alto, CA, Bristol, UK, Remote in USA, Warrington, UK | Summer 2026 | 2026-06-23 | 27 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern | San Jose, CA | Fall 2026 | 2026-06-23 | 27 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice---ON_R4042737-1) | Field Service Apprentice | Mississauga, ON, Canada | Summer 2026 | 2026-06-23 | 27 | simplify-2026 |
-| [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107) | Digital Verification Engineer Intern | Austin, TX | Fall 2026 | 2026-06-23 | 27 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047) | Digital Verification Engineer Intern | Kanata, Ottawa, ON, Canada | Summer 2026 | 2026-06-23 | 27 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515/apply) | Embedded Software AI Intern Co-op | Austin, TX | Fall 2026 | 2026-06-23 | 27 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | 28 | simplify-2026 |

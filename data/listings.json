@@ -2,6 +2,33 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "GE Healthcare",
+    "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
+    "title": "Engineering Development Program Intern - Software",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784559831,
+    "date_posted": 1784505600,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
+    "locations": [
+      "Waukesha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Capital One",
     "id": "c630373c-97e1-47cf-a4b8-5348a77da451",
     "title": "Data Science Intern",
@@ -12167,7 +12194,7 @@
     "company_name": "McKesson",
     "id": "1274597e-7eae-4cdf-9743-7cc810bd3531",
     "title": "Supply Chain Engineering and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -18204,7 +18231,7 @@
     "company_name": "NXP Semiconductors",
     "id": "335d47b1-5a15-4ba4-8d65-94a8b563ff34",
     "title": "Digital Verification Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -22684,7 +22711,7 @@
     "company_name": "MFS",
     "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
     "title": "Quantitative Research Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -34916,7 +34943,7 @@
     "company_name": "QuEra Computing",
     "id": "317d57d2-a3a8-464a-83f5-2030397de656",
     "title": "Photonics Data Engineer Intern - Data Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
