@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (417)
+# Data Science, AI & Machine Learning (415)
 
 [← back to index](../README.md)
 
@@ -43,7 +43,6 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7977145) | Campus ML Research Engineer Intern | London, UK | Fall 2026 | 2026-07-13 | 7 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7975008) | Campus Data Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 7 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7976964) | Campus AI Researcher Intern | London, UK | Fall 2026 | 2026-07-13 | 7 | simplify-2026 |
-| [Southern New Hampshire University](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student---Online-Data-Analytics-Eco-Rep_R0014463) | Student Online Data Analytics Eco Rep | Remote in USA | N/A | 2026-07-13 | 7 | simplify-2026 |
 | [World Surf League](https://boards.greenhouse.io/worldsurfleague/jobs/8629100002) | Partnerships Analytics & Reporting Intern | Inglewood, CA | Summer 2026 | 2026-07-11 | 9 | simplify-2026 |
 | [Pika](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Research Intern - BS/MS/PhD | Palo Alto, CA | Fall 2026 | 2026-07-10 | 10 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2281218542616482) | Research Scientist Intern - Monetization Computer Vision | Menlo Park, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-07-10 | 10 | simplify-2026 |
@@ -206,7 +205,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7539992380817639687/detail) | Research Intern - AI/LLM Network | Seattle, WA | Summer 2026 | 2026-06-02 | 48 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7539991964504017170/detail) | Research Intern - AI/LLM Network | San Jose, CA | Summer 2026 | 2026-06-02 | 48 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990013424486) | Machine Learning Physics Graduate Student Intern | Livermore, CA | N/A | 2026-06-02 | 48 | simplify-2026 |
-| [Lambda](https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application) | AI Research Marketing Intern | SF | Summer 2026 | 2026-06-01 | 49 | simplify-2026 |
 | [Agilent Technologies](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) | Predictive Sales Prospecting Intern | Wilmington, DE | Summer 2026 | 2026-05-30 | 51 | simplify-2026 |
 | [Boys Town](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1) | Artificial Intelligence & Machine Learning Intern | Omaha, NE | Summer 2026 | 2026-05-30 | 51 | simplify-2026 |
 | [pony.ai](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | Research Intern - Deep Learning | Fremont, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-05-29 | 52 | simplify-2026 |

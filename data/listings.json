@@ -4185,7 +4185,7 @@
     "company_name": "Southern New Hampshire University",
     "id": "090d8e00-5eb8-4424-bb40-6f344da58666",
     "title": "Student Online Data Analytics Eco Rep",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -36956,7 +36956,7 @@
     "company_name": "Lambda",
     "id": "1b7066da-041d-431b-baa4-b81d2cfb4ea0",
     "title": "AI Research Marketing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
