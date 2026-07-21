@@ -1,4 +1,4 @@
-# Product Management (31)
+# Product Management (33)
 
 [← back to index](../README.md)
 
@@ -20,10 +20,12 @@
 | [Sika](https://jobs.smartrecruiters.com/SikaAG/744000137117699) | Product Management Apprentice | Welwyn Garden City, UK | Fall 2026 | 2026-07-10 | 11 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Product Management Intern | Tampa, FL, NYC | Summer 2027 | 2026-07-08 | 13 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 14 | simplify-2026 |
+| [Altasciences](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | Process Innovation Product Management Intern | Laval, QC, Canada, Overland Park, KS | Fall 2026 | 2026-07-04 | 17 | simplify-2026 |
 | [McMaster-Carr](https://job-boards.greenhouse.io/mcmastercarr/jobs/4226729009) | Management Track | Cleveland, OH, Fort Worth, TX, Atlanta, GA | N/A | 2026-07-03 | 18 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657541997725288757) | Copyright Solution Product Manager Intern - Tiktok-Music | San Jose, CA | Fall 2026 | 2026-07-03 | 18 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657778928769534213) | Product Manager Intern - TikTok Product Content Ecosystem | San Jose, CA | Fall 2026 | 2026-07-03 | 18 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657640284071954741) | Product Solutions and Operations Project Intern - Commerce Ads | San Jose, CA | Summer 2026 | 2026-07-02 | 19 | simplify-2026 |
+| [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Skillbridge Intern - Product Manager | Remote in USA | Fall 2026 | 2026-06-29 | 22 | simplify-2026 |
 | [Kensington](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | Operations Intern - Ultraluxe Product | Toronto, ON, Canada | Summer 2026 | 2026-06-23 | 28 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 28 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | Product Operations Intern | Santa Clara, CA | Summer 2026 | 2026-06-17 | 34 | simplify-2026 |

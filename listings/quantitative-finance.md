@@ -1,4 +1,4 @@
-# Quantitative Finance (112)
+# Quantitative Finance (108)
 
 [← back to index](../README.md)
 
@@ -80,7 +80,6 @@
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | Philadelphia, PA, NYC | Summer 2027 | 2026-06-29 | 22 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | Philadelphia, PA, NYC | Summer 2027 | 2026-06-29 | 22 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10822/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern - PhD | Philadelphia, PA, NYC | Summer 2027 | 2026-06-29 | 22 | simplify-2026 |
-| [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | Quantitative Research Intern - Quant Research - Undergrad | NYC | Summer 2027 | 2026-06-26 | 25 | simplify-2026 |
 | [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6005845004) | Execution Research Fellow | NYC | N/A | 2026-06-16 | 35 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) | Volatility Trading Developer Intern | NYC | Summer 2027 | 2026-06-10 | 41 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Quantitative Developer Intern | Boston, MA | Summer 2027 | 2026-06-10 | 41 | simplify-2026 |
@@ -93,9 +92,6 @@
 | [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | Quantitative Researcher Intern | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-05-29 | 53 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | Quantitative Developer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 55 | simplify-2026 |
 | [Northwestern Mutual](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524) | Investment Analyst - Private Debt & Equity | Milwaukee, WI | N/A | 2026-05-16 | 66 | simplify-2026 |
-| [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/New-Jersey-Remote/Trader-Trainee---Industrial-Minerals_JR104901) | Trader Trainee - Industrial Minerals | Jackson Township, NJ | N/A | 2026-05-16 | 66 | simplify-2026 |
-| [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1) | Graduate Intern - Multiple Teams | NYC | Winter 2026 | 2026-05-16 | 66 | simplify-2026 |
-| [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Houston-Texas-USA/Trader-Trainee---Steel-USA_JR105060) | Trader Trainee | Houston, TX | N/A | 2026-05-16 | 66 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | Summer 2027 | 2026-05-15 | 67 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8549734002) | Investment Analyst Program for Upcoming Graduates | London, UK | N/A | 2026-05-14 | 68 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8541241002) | Point72 Academy Investment Analyst Program for Upcoming Graduates Intern | SF, Florida, Chicago, IL, NYC | N/A | 2026-05-08 | 74 | simplify-2026 |
