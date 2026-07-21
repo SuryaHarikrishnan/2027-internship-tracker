@@ -1,10 +1,11 @@
-# Product Management (33)
+# Product Management (36)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [k-ID](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | Product Intern | United States | Fall 2026 | 2026-07-21 | 0 | simplify-2026 |
+| [Pendulum Intelligence](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Product Manager Intern | Remote in USA | Fall 2026 | 2026-07-21 | 0 | simplify-2026 |
 | [Hubs.is](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Product Intern | Remote in USA | Fall 2026 | 2026-07-21 | 0 | simplify-2026 |
 | [Vega Investment Technologies](https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-07-20 | 1 | simplify-2026 |
 | [Solid Power](https://job-boards.greenhouse.io/solidpower/jobs/6118972004) | Product Development Intern | Thornton, CO | Summer 2026, Fall 2026 | 2026-07-17 | 4 | simplify-2026 |
@@ -17,7 +18,9 @@
 | [TikTok](https://lifeattiktok.com/search/7660641959426132277) | Global Product Operations Manager Intern - Global Business Solutions | San Jose, CA | Fall 2026 | 2026-07-13 | 8 | simplify-2026 |
 | [Adaptive Security](https://jobs.ashbyhq.com/adaptivesecurity/a941849b-bc2b-421d-b58c-bd76cfa31b1b/application) | AI Product Operations Intern | NYC | Summer 2026 | 2026-07-13 | 8 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Huntsville-(DoW-SkillBridge),-Sr_-Specialist,-Product-Manager-AL-35806-2809/1408154000/?ats=successfactors) | SkillBridge Senior Specialist - Product Manager | Huntsville, AL | N/A | 2026-07-13 | 8 | simplify-2026 |
+| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | Associate Product Manager Intern - Associate Product Manager | SF | Summer 2027 | 2026-07-13 | 8 | simplify-2026 |
 | [Sika](https://jobs.smartrecruiters.com/SikaAG/744000137117699) | Product Management Apprentice | Welwyn Garden City, UK | Fall 2026 | 2026-07-10 | 11 | simplify-2026 |
+| [TelevisaUnivision](https://univision.wd1.myworkdayjobs.com/en-US/External/job/Miami-FL/Co-Op--Product-Manager---Personalization---New-Experiences-Temp_R020713) | Product Manager Co-op | Miami, FL | Fall 2026 | 2026-07-08 | 13 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Product Management Intern | Tampa, FL, NYC | Summer 2027 | 2026-07-08 | 13 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 14 | simplify-2026 |
 | [Altasciences](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | Process Innovation Product Management Intern | Laval, QC, Canada, Overland Park, KS | Fall 2026 | 2026-07-04 | 17 | simplify-2026 |

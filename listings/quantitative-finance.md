@@ -1,9 +1,10 @@
-# Quantitative Finance (108)
+# Quantitative Finance (112)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [BlackEdge Capital](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) | Quantitative Trader Intern | Chicago, IL | Winter 2028, Spring 2028, Summer 2028 | 2026-07-21 | 0 | simplify-2026 |
 | [Kirin](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a/application?embed=true) | Quantitative Research Intern - Prediction Markets | SF, NYC | Fall 2026 | 2026-07-21 | 0 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Quant Trading Intern | Chicago, IL | Summer 2027 | 2026-07-20 | 1 | simplify-2026 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086) | Expression of Interest: Trading Sneak Peek Weeks | Chicago, IL | N/A | 2026-07-20 | 1 | simplify-2026 |
@@ -42,6 +43,7 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8010307) | Campus Quantitative Researcher Intern | London, UK | Summer 2026 | 2026-07-13 | 8 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7957756) | Quantitative Research Intern | London, UK | Summer 2028 | 2026-07-13 | 8 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7957243) | Quantitative Trading Analyst Intern | London, UK | Summer 2027 | 2026-07-13 | 8 | simplify-2026 |
+| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Quantitative Developer Intern | Boston, MA | Summer 2027 | 2026-07-10 | 11 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7982648) | Campus Quantitative Researcher Intern | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 13 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8049938) | Campus Quantitative Researcher Intern - PhD | Chicago, IL, NYC | Summer 2027 | 2026-07-08 | 13 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7848371) | Campus Quantitative Trader Intern | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 13 | simplify-2026 |
@@ -61,6 +63,7 @@
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8024138) | Quantitative Trader Intern | NYC | Summer 2026 | 2026-07-05 | 16 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8024128) | Quantitative Trader Intern | Chicago, IL, NYC | Summer 2027 | 2026-07-05 | 16 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Quantitative Developer Intern | Chicago, IL, NYC | Summer 2027 | 2026-07-05 | 16 | simplify-2026 |
+| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819) | Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern | London, UK | Summer 2027 | 2026-07-02 | 19 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Quantitative Trader Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 20 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 20 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Quantitative Research Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-01 | 20 | simplify-2026 |
@@ -92,6 +95,7 @@
 | [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | Quantitative Researcher Intern | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-05-29 | 53 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | Quantitative Developer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 55 | simplify-2026 |
 | [Northwestern Mutual](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524) | Investment Analyst - Private Debt & Equity | Milwaukee, WI | N/A | 2026-05-16 | 66 | simplify-2026 |
+| [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1) | Graduate Intern - Multiple Teams | NYC | Winter 2026 | 2026-05-16 | 66 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | Summer 2027 | 2026-05-15 | 67 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8549734002) | Investment Analyst Program for Upcoming Graduates | London, UK | N/A | 2026-05-14 | 68 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8541241002) | Point72 Academy Investment Analyst Program for Upcoming Graduates Intern | SF, Florida, Chicago, IL, NYC | N/A | 2026-05-08 | 74 | simplify-2026 |
