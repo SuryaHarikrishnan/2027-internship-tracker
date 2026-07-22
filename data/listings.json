@@ -1,6 +1,89 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rivian",
+    "id": "c2ae75ae-db63-4c6a-8c96-45db53afbd4c",
+    "title": "Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784730947,
+    "date_posted": 1784729576,
+    "url": "https://careers.rivian.com/jobs/32355?icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rivian",
+    "id": "ad36c275-69d8-4f8a-a543-c15d377852e5",
+    "title": "Research Park Intern - Embedded Software",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784730915,
+    "date_posted": 1784729570,
+    "url": "https://careers.rivian.com/jobs/32354?icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rivian",
+    "id": "86d85a8b-7db1-47cc-98e9-ba9b7d14ba7a",
+    "title": "UIUC Research Park Intern - Computational Methods Development",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784730798,
+    "date_posted": 1784729572,
+    "url": "https://careers.rivian.com/jobs/32340?icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "SS&C",
     "id": "c6d3e347-aaa3-4ae3-a5fc-9feec76b9f77",
@@ -5908,7 +5991,7 @@
     "company_name": "Formlabs",
     "id": "6d7eaee5-c397-4318-a363-1aca5bdb6bde",
     "title": "Supply Chain Operations Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -8259,7 +8342,7 @@
     "company_name": "Global Relay",
     "id": "5b4bdca8-c130-4adb-ad23-910e23b9a733",
     "title": "Product Management Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -8307,7 +8390,7 @@
     "company_name": "Global Relay",
     "id": "2eb42c21-154f-4c1b-b177-f1152c4750c2",
     "title": "Frontend Software Developer Co-op - Information Archiving",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13791,7 +13874,7 @@
     "company_name": "Texas Instruments",
     "id": "37d02104-2735-4e8e-bfa4-49c184a4f7ac",
     "title": "Digital IC Design Engineer - Digital Design Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -29055,7 +29138,7 @@
     "company_name": "Kepler Communications",
     "id": "d06a7a40-bbf3-4ea3-b87d-2f3e7ce67249",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2025"
     ],
@@ -30866,7 +30949,7 @@
     "company_name": "Lightmatter",
     "id": "081fc217-0e85-4f74-9126-c3ee48aeeb03",
     "title": "Laser Characterization Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -174084,7 +174167,7 @@
     "company_name": "TikTok",
     "id": "2202e642-993c-409e-9a28-010a98bbeafc",
     "title": "Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -238372,7 +238455,7 @@
     "company_name": "JP Morgan Chase",
     "id": "0ce368f3-691a-439c-98bc-3e4a3a32f91a",
     "title": "Emerging Talent Software Engineer \u2013 City College of Tech Apprenticeship - Emerging Talent",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -266651,7 +266734,7 @@
     "company_name": "Instacart",
     "id": "48ff7eb4-8a0f-4256-862e-23765f3e29b2",
     "title": "Machine Learning Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -275992,7 +276075,7 @@
     "company_name": "Instacart",
     "id": "2d2b17a5-a5a2-45ca-8c32-a5a207c63a81",
     "title": "Machine Learning PhD Intern - Economics",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -300790,32 +300873,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1766399119,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d",
-    "company_name": "Syntax",
-    "title": "Data Analyst Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quantitative Finance",
-    "source": "angie-hue",
-    "id": "7e767ef8-99b8-49e8-afea-46106c9342db",
-    "date_posted": 1763999714,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
@@ -325900,32 +325957,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-36419",
-    "company_name": "KeyBank",
-    "title": "2026 Summer Analytics and Quantitative Modeling Internship - Cleveland",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quantitative Finance",
-    "source": "angie-hue",
-    "id": "49424262-401a-4429-b335-9c1465ed9e16",
-    "date_posted": 1763999771,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765195069,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
     "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA/Firmware---Embedded-Software-Co-Op---Summer_30193045",
     "company_name": "Carrier Global",
     "title": "Firmware & Embedded Software Co-Op - Summer",
@@ -342406,6 +342437,30 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "NBCUniversal",
+    "id": "d1c47923-8368-4fcf-b862-edcca3a7f4d8",
+    "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1764027708,
+    "date_posted": 1764027708,
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000095178280",
+    "locations": [
+      "North Hollywood, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/NBCUniversal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Cisco",
     "id": "4051f66f-3c1d-49b1-9130-3e552b68920e",
     "title": "Data Analyst 1",
@@ -342665,130 +342720,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Red Bull",
-    "id": "d42e646d-2105-480c-b742-dee2bdb28ab9",
-    "title": "Insights Apprentice",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764003730,
-    "date_posted": 1764003730,
-    "url": "https://jobs.smartrecruiters.com/RedBull/744000095157603",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Red-Bull",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NBCUniversal",
-    "id": "619672e2-80ad-477c-b8a2-61af9041315c",
-    "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764003644,
-    "date_posted": 1764003644,
-    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000095152466",
-    "locations": [
-      "North Hollywood, LA"
-    ],
-    "company_url": "https://simplify.jobs/c/NBCUniversal",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Veolia",
-    "id": "a2dd8509-bdcc-4c2e-8776-96b2d35306a1",
-    "title": "Engineering Instrumentation Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764001968,
-    "date_posted": 1764001968,
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000095130105",
-    "locations": [
-      "Caddo Valley, AR"
-    ],
-    "company_url": "https://simplify.jobs/c/Veolia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763999898,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304",
-    "company_name": "TENEX.AI",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "570c98b9-af9a-4beb-8de0-1c1f8c577ccf",
-    "date_posted": 1763999898,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1763999845,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54",
-    "company_name": "Walrus",
-    "title": "Full Stack Developer Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "ea4a1ec2-be57-42a0-b019-7e37d08513b1",
-    "date_posted": 1763999845,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
