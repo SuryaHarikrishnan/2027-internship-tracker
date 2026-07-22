@@ -1,4 +1,4 @@
-# Hardware Engineering (190)
+# Hardware Engineering (188)
 
 [← back to index](../README.md)
 
@@ -70,9 +70,7 @@
 | [Persistent Systems](https://careers-persistentsystems.icims.com/jobs/2270/job?mobile=true&needsRedirect=false) | Hardware Engineer Intern | NYC | Fall 2026 | 2026-06-22 | 30 | simplify-2026 |
 | [Teledyne](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119) | Computer Engineer Intern | Lincoln, NE | Spring 2026 | 2026-06-20 | 32 | simplify-2026 |
 | [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830) | Mechanical Production Engineering Apprentice | Bristol, UK | Summer 2026 | 2026-06-19 | 33 | simplify-2026 |
-| [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) | Firmware Engineering Intern | Reno, NV | Summer 2026 | 2026-06-18 | 34 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858) | Digital Logic + Design Verification Co-op | Santa Clara, CA | Fall 2026 | 2026-06-18 | 34 | simplify-2026 |
-| [Ralliant](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465) | Software Engineer Intern - Mecop | Beaverton, OR | Summer 2026 | 2026-06-18 | 34 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Optical Modem Hardware Intern | Ottawa, ON, Canada | Fall 2026 | 2026-06-17 | 35 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550) | Engineering Technician Intern | Dallas, TX, Tucson, AZ | Summer 2026 | 2026-06-17 | 35 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/274047) | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | Summer 2026, Fall 2026, Winter 2026 | 2026-06-16 | 36 | simplify-2026 |
