@@ -1,4 +1,4 @@
-# Product Management (43)
+# Product Management (39)
 
 [← back to index](../README.md)
 
@@ -13,9 +13,6 @@
 | [Vega Investment Technologies](https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-07-20 | 2 | simplify-2026 |
 | [Solid Power](https://job-boards.greenhouse.io/solidpower/jobs/6118972004) | Product Development Intern | Thornton, CO | Summer 2026, Fall 2026 | 2026-07-17 | 5 | simplify-2026 |
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 6 | simplify-2026 |
-| [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-10651) | Motor Winder Apprentice | Charlotte, NC | Fall 2026 | 2026-07-16 | 6 | simplify-2026 |
-| [GeoComply](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply) | Product Operations Intern | Vancouver, BC, Canada | Fall 2026 | 2026-07-16 | 6 | simplify-2026 |
-| [Signify](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521) | Product Management Intern | Menlo Park, CA | Fall 2026 | 2026-07-16 | 6 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) | Global Product Intern | Wilmington, DE | Fall 2026 | 2026-07-15 | 7 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | Global Product Intern | NYC | Fall 2026 | 2026-07-15 | 7 | simplify-2026 |
 | [CalAmp](https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false) | Product Management Intern | Carlsbad, CA | Summer 2026 | 2026-07-14 | 8 | simplify-2026 |
@@ -32,7 +29,6 @@
 | [McMaster-Carr](https://job-boards.greenhouse.io/mcmastercarr/jobs/4226729009) | Management Track | Cleveland, OH, Fort Worth, TX, Atlanta, GA | N/A | 2026-07-03 | 19 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657541997725288757) | Copyright Solution Product Manager Intern - Tiktok-Music | San Jose, CA | Fall 2026 | 2026-07-03 | 19 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657778928769534213) | Product Manager Intern - TikTok Product Content Ecosystem | San Jose, CA | Fall 2026 | 2026-07-03 | 19 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7657640284071954741) | Product Solutions and Operations Project Intern - Commerce Ads | San Jose, CA | Summer 2026 | 2026-07-02 | 20 | simplify-2026 |
 | [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Skillbridge Intern - Product Manager | Remote in USA | Fall 2026 | 2026-06-29 | 23 | simplify-2026 |
 | [Kensington](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | Operations Intern - Ultraluxe Product | Toronto, ON, Canada | Summer 2026 | 2026-06-23 | 29 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 29 | simplify-2026 |
