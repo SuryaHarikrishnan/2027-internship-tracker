@@ -2039,7 +2039,7 @@
     "company_name": "Hitachi Energy",
     "id": "ddb70cb2-7fcb-4a14-815e-7c1756538921",
     "title": "Engineering Knowledge Management Intern - 8 months",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2066,7 +2066,7 @@
     "company_name": "Northrop Grumman",
     "id": "a13cbb72-8a90-4b24-83d8-1896547d8948",
     "title": "Associate Simulation Software Engineer / Simulation Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -4144,7 +4144,7 @@
     "company_name": "Quadrillion",
     "id": "5ea98056-c56b-4b75-bc44-d64a3c6c73a3",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -14367,7 +14367,7 @@
     "company_name": "Schweitzer Engineering Laboratories",
     "id": "c397c573-0849-4481-968f-9dd2b5b1ab87",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -20247,7 +20247,7 @@
     "company_name": "BSE Global",
     "id": "3b42c248-89b6-4e59-94bc-3d92930dbd27",
     "title": "Ticket Strategy & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -30851,7 +30851,7 @@
     "company_name": "Intel",
     "id": "438a49bd-1732-4815-b2b2-e048f205949f",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -31107,7 +31107,7 @@
     "company_name": "AMAROK Security",
     "id": "cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
     "title": "Research and Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -37736,7 +37736,7 @@
     "company_name": "Sundt",
     "id": "e2da7772-56e6-49e6-9976-101b2e84a191",
     "title": "Support Group Intern - Artificial Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -43743,7 +43743,7 @@
     "company_name": "Boys Town",
     "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
     "title": "Artificial Intelligence & Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -57553,7 +57553,7 @@
     "company_name": "Sezzle",
     "id": "136bc4e8-f085-4b75-989c-c73b7f7de779",
     "title": "Product Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -309586,7 +309586,7 @@
     "company_name": "Symmetry Systems",
     "id": "292136b3-bb82-4394-a209-1c2782549340",
     "title": "Full Stack Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

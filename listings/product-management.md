@@ -1,4 +1,4 @@
-# Product Management (34)
+# Product Management (33)
 
 [← back to index](../README.md)
 
@@ -30,7 +30,6 @@
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | AI Product Manager Intern | London, UK | Fall 2026 | 2026-06-19 | 34 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | Product Operations Intern | Santa Clara, CA | Summer 2026 | 2026-06-17 | 36 | simplify-2026 |
 | [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | Product Manager Intern - Sales Enablement Products | Mississauga, ON, Canada | Fall 2026 | 2026-05-14 | 70 | simplify-2026 |
-| [Sezzle](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Product Intern | Remote in Canada | Summer 2026 | 2026-05-13 | 71 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | Product Development Intern/Co-op | Ottawa, ON, Canada | Fall 2026 | 2026-04-16 | 98 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3) | GE Vernova Grid Automation Product Management Intern | Rochester, NY | Fall 2026 | 2026-04-07 | 107 | simplify-2026 |
 | [Instawork](https://job-boards.greenhouse.io/instawork/jobs/4588237006) | Product Operations Intern | Chicago, IL | Summer 2026 | 2026-03-21 | 124 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (185)
+# Hardware Engineering (184)
 
 [← back to index](../README.md)
 
@@ -83,7 +83,6 @@
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration--All-Levels-All-Shifts-_R60817) | Technician - Assembly & Integration | Florida | N/A | 2026-06-13 | 40 | simplify-2026 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998) | Characterization and Support Intern | San Jose, CA | Summer 2026 | 2026-06-12 | 41 | simplify-2026 |
 | [NRG Energy](https://careers.nrgenergy.com/SMARTHOMES/job/Maumelle-Summer-Installation-Technician-Maumelle,-AR-AR-72113/1399149300/?ats=successfactors) | Installation Technician | Little Rock, AR | N/A | 2026-06-11 | 42 | simplify-2026 |
-| [AMAROK Security](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Research and Development Intern | Columbia, SC | Summer 2026, Fall 2026 | 2026-06-11 | 42 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application) | Software Engineer Intern Co-op - Systems Engineering | Vancouver, BC, Canada | Fall 2026 | 2026-06-11 | 42 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application) | Software Engineer Intern - Embedded Platforms | Palo Alto, CA, Irvine, CA | Fall 2026 | 2026-06-11 | 42 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application) | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON, Canada, Vancouver, BC, Canada | Fall 2026 | 2026-06-11 | 42 | simplify-2026 |
