@@ -1,4 +1,4 @@
-# Product Management (38)
+# Product Management (35)
 
 [← back to index](../README.md)
 
@@ -8,7 +8,6 @@
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/New-York/Tax-Technology-Associate---Fall-2027_JR120318) | Tax Technology Associate | NYC | Fall 2027 | 2026-07-22 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7663349357178620165) | Product Manager Intern - Tiktok-Product-Search | San Jose, CA | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
 | [k-ID](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | Product Intern | United States | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
-| [Pendulum Intelligence](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Product Manager Intern | Remote in USA | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
 | [LightGuide, Inc.](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) | Product Innovation Co-op | Wixom, MI | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
 | [Hubs.is](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Product Intern | Remote in USA | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
 | [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) | Product Management Intern | Chicago, IL | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
@@ -16,8 +15,6 @@
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 7 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) | Global Product Intern | Wilmington, DE | Fall 2026 | 2026-07-15 | 8 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | Global Product Intern | NYC | Fall 2026 | 2026-07-15 | 8 | simplify-2026 |
-| [CalAmp](https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false) | Product Management Intern | Carlsbad, CA | Summer 2026 | 2026-07-14 | 9 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7660641959426132277) | Global Product Operations Manager Intern - Global Business Solutions | San Jose, CA | Fall 2026 | 2026-07-13 | 10 | simplify-2026 |
 | [Adaptive Security](https://jobs.ashbyhq.com/adaptivesecurity/a941849b-bc2b-421d-b58c-bd76cfa31b1b/application) | AI Product Operations Intern | NYC | Summer 2026 | 2026-07-13 | 10 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Huntsville-(DoW-SkillBridge),-Sr_-Specialist,-Product-Manager-AL-35806-2809/1408154000/?ats=successfactors) | SkillBridge Senior Specialist - Product Manager | Huntsville, AL | N/A | 2026-07-13 | 10 | simplify-2026 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | Associate Product Manager Intern - Associate Product Manager | SF | Summer 2027 | 2026-07-13 | 10 | simplify-2026 |

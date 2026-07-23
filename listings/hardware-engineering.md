@@ -1,4 +1,4 @@
-# Hardware Engineering (189)
+# Hardware Engineering (186)
 
 [← back to index](../README.md)
 
@@ -10,8 +10,7 @@
 | [Rivian](https://careers.rivian.com/jobs/32354?icims=1) | Research Park Intern - Embedded Software | Urbana, IL | Fall 2026 | 2026-07-22 | 1 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10/application?embed=true) | Rust Software Engineer Intern - Chip Design Tools | SF | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | FPGA Engineer Intern | Austin, TX | Summer 2027 | 2026-07-21 | 2 | simplify-2026 |
-| [Exploration Technology Corp.](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | Engineer Intern | SF | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
-| [Blue Robotics](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7) | Electronics Design Co-op | Victoria, BC, Canada | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
+| [Columbia Helicopters](https://ats.rippling.com/colheli/jobs/a4feeeb1-e7b2-41b5-8f33-b1a012e28b18) | NDT Technician Trainee | Woodburn, OR | N/A | 2026-07-21 | 2 | simplify-2026 |
 | [Revise Robotics](https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true) | Engineer Intern | NYC | Summer 2026, Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
 | [Terranova](https://jobs.ashbyhq.com/terranova/578d418d-42f8-404a-9b82-a5cbd67086d8/application?embed=true) | Drop Out Engineer | Berkeley, CA | N/A | 2026-07-21 | 2 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/4497473d-0ce0-4e83-88c3-2afedceac622/application?embed=true) | Packaging Engineer Intern | SF, Austin, TX | Fall 2026 | 2026-07-21 | 2 | simplify-2026 |
@@ -20,7 +19,6 @@
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Junior-Layout-Design-Engineer--Trainee-_R263726) | Junior Layout Design Engineer - Trainee | Chandler, AZ | N/A | 2026-07-21 | 2 | simplify-2026 |
 | [Telesat](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/apply) | User Terminal Engineering Co-op | Ottawa, ON, Canada | Fall 2026 | 2026-07-20 | 3 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Engineering Development Program Intern - Hardware | Twinsburg, OH, Waukesha, WI | Summer 2027 | 2026-07-20 | 3 | simplify-2026 |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/7808233003) | R&D Materials Engineer Intern | San Bruno, CA | Fall 2026 | 2026-07-17 | 6 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/276987) | Energy Battery Firmware Intern - Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-16 | 7 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8070392) | FPGA Intern | London, UK | Summer 2028 | 2026-07-16 | 7 | simplify-2026 |
 | [Amentum](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | Spaceflight Hardware Intern | Houston, TX | Fall 2026 | 2026-07-16 | 7 | simplify-2026 |
@@ -35,7 +33,6 @@
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Job-Posting-Title-Field-Engineer-Apprentice_R4043559) | Field Engineer Apprentice | Dayton, OH, Columbus, OH | Fall 2026 | 2026-07-14 | 9 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician_2026888) | Optical Verification Technician | Ottawa, ON, Canada | N/A | 2026-07-14 | 9 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8038923) | FPGA Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 10 | simplify-2026 |
-| [Akuna Capital University](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Hardware Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-13 | 10 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974391) | Campus FPGA Engineer Intern | London, UK | Winter 2026, Spring 2026, Fall 2026 | 2026-07-13 | 10 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974837) | Campus ASIC Engineer Intern | Bristol, UK | Fall 2026 | 2026-07-13 | 10 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) | Equipment Engineering Technician Intern - Metrology | Fairview, OR | Summer 2026 | 2026-07-13 | 10 | simplify-2026 |
@@ -48,6 +45,7 @@
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1) | Field Engineer Apprentice | California | Fall 2026 | 2026-07-08 | 15 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1) | Field Service Engineer Apprentice | Kansas City, MO | Fall 2026 | 2026-07-08 | 15 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043180) | Field Service Apprentice | Houston, TX | Fall 2026 | 2026-07-08 | 15 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992) | Field Engineer Apprentice | Little Rock, AR | Fall 2026 | 2026-07-08 | 15 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | Firmware Engineering Intern | Cambridge, ON, Canada | Fall 2026 | 2026-07-07 | 16 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694883006) | Radiation Effects Associate Engineer | SF | N/A | 2026-07-07 | 16 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694853006) | Radiation Effects Engineer Intern | SF | Fall 2026 | 2026-07-06 | 17 | simplify-2026 |
@@ -91,7 +89,6 @@
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application) | Software Engineer Intern - Embedded Platforms | Palo Alto, CA, Irvine, CA | Fall 2026 | 2026-06-11 | 42 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application) | Software Engineer Intern Co-op - Vehicle Controls | Toronto, ON, Canada, Vancouver, BC, Canada | Fall 2026 | 2026-06-11 | 42 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application) | Software Engineer Intern - Vehicle Controls | Palo Alto, CA, Irvine, CA | Fall 2026 | 2026-06-11 | 42 | simplify-2026 |
-| [Mach Industries](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application) | Engineering Co-op | Huntington Beach, CA | Fall 2026 | 2026-06-09 | 44 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273272) | Embedded Software Intern - Embedded Software Engineer - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-09 | 44 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | Hardware & Embedded Research Intern | Sunnyvale, CA | Fall 2026 | 2026-06-09 | 44 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | CPU/AI Workload Analysis Intern | Santa Clara, CA | Summer 2026, Fall 2026, Winter 2027 | 2026-06-08 | 45 | simplify-2026 |
