@@ -2,6 +2,112 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "G-Research",
+    "id": "e0f7c410-495b-4e54-8274-9a6d2f191e10",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784822996,
+    "date_posted": 1784764800,
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/G-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Optiver",
+    "id": "9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
+    "title": "Institutional Trader Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784822582,
+    "date_posted": 1784816353,
+    "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brandeis University",
+    "id": "a3cd9446-cca0-47a9-9291-5dc3acdb2622",
+    "title": "Research Assistant - School of Business and Economics",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784820458,
+    "date_posted": 1784764800,
+    "url": "https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Temporary-Research-Assistant---School-of-Business-and-Economics--2026_R0013392-1",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Brandeis-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "G-Research",
+    "id": "7b2e0135-b620-4edc-9812-0722d67b163f",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784819032,
+    "date_posted": 1784764800,
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/G-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Becton Dickinson",
     "id": "44c0f8ab-bc09-4802-ad77-110dc6c77373",
     "title": "Edge Program Associate - Technology & Global Services - Tgs",
@@ -6623,7 +6729,7 @@
     "company_name": "Ensemble Health Partners",
     "id": "fe4a0f8c-3de2-411c-8959-9b9893900a52",
     "title": "Engineering Excellence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7106,7 +7212,7 @@
     "company_name": "CAE",
     "id": "5896e523-7da8-4367-a4fd-6569940ba09a",
     "title": "AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -11833,7 +11939,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -14730,7 +14836,7 @@
     "company_name": "Marshall Wace",
     "id": "5b7bded6-d742-4cff-9d9e-5b4c88e6b56d",
     "title": "Technology Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -17351,7 +17457,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -45774,7 +45880,7 @@
     "company_name": "Leidos",
     "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
     "title": "Reports Officer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -337724,7 +337830,7 @@
     "company_name": "Marsh",
     "id": "61c905e5-2281-4abd-afcc-83089ab79869",
     "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -342215,32 +342321,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764088142,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026",
-    "company_name": "BAE Systems",
-    "title": "Software Intern, Summer 2026",
-    "locations": [
-      "Totowa, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "e0a1771c-1c61-4ac4-8b5f-a0228b75180b",
-    "date_posted": 1764088142,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]

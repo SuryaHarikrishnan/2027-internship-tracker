@@ -1,9 +1,11 @@
-# Quantitative Finance (99)
+# Quantitative Finance (101)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Optiver](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) | Institutional Trader Intern | Chicago, IL | Summer 2027 | 2026-07-23 | 0 | simplify-2026 |
+| [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | Quantitative Research Internship | London, UK | Summer 2027 | 2026-07-23 | 0 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | Quantitative Researcher Internship | NYC | Summer 2027 | 2026-07-22 | 1 | simplify-2026 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Infrastructure-Partners-Investment-Analyst_44143) | Blackstone Infrastructure Partners Investment Analyst | NYC | N/A | 2026-07-22 | 1 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-21 | 2 | simplify-2026 |

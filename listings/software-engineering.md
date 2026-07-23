@@ -78,6 +78,7 @@
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720) | Software Engineering Intern | Round Rock, TX | Fall 2026, Winter 2027, Spring 2027, Summer 2027 | 2026-07-07 | 16 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | Fall 2026 | 2026-07-07 | 16 | simplify-2026 |
 | [Horizon Industries](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5301639008) | Appian Intern | Washington, DC | Fall 2026 | 2026-07-07 | 16 | simplify-2026 |
+| [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002) | Technology Intern | London, UK | Summer 2027 | 2026-07-07 | 16 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | Software Engineering Intern | NYC | N/A | 2026-07-06 | 17 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8599644002) | Software Engineer | NYC | N/A | 2026-07-06 | 17 | simplify-2026 |
 | [Ada](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Software Engineer Intern | Remote in Canada | Fall 2026 | 2026-07-06 | 17 | simplify-2026 |
@@ -415,4 +416,3 @@
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6594422003) | Software Engineer Intern - BCI Applications | Fremont, CA | Winter 2025 | 2025-11-30 | 235 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7533369475380070663/detail) | Software Engineer Intern - Payment Network - Global Payment | Seattle, WA | Summer 2026 | 2025-11-28 | 237 | simplify-2026 |
 | [Dandy](https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f) | Software Engineer, Intern | New York, NY | Summer 2026 | 2025-11-27 | 238 | simplify-2026 |
-| [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | Software Intern, Summer 2026 | Totowa, NJ | Summer 2026 | 2025-11-25 | 240 | simplify-2026 |

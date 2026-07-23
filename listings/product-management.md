@@ -1,4 +1,4 @@
-# Product Management (33)
+# Product Management (34)
 
 [← back to index](../README.md)
 
@@ -24,6 +24,7 @@
 | [McMaster-Carr](https://job-boards.greenhouse.io/mcmastercarr/jobs/4226729009) | Management Track | Cleveland, OH, Fort Worth, TX, Atlanta, GA | N/A | 2026-07-03 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657541997725288757) | Copyright Solution Product Manager Intern - Tiktok-Music | San Jose, CA | Fall 2026 | 2026-07-03 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657778928769534213) | Product Manager Intern - TikTok Product Content Ecosystem | San Jose, CA | Fall 2026 | 2026-07-03 | 20 | simplify-2026 |
+| [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Skillbridge Intern - Product Manager | Remote in USA | Fall 2026 | 2026-06-29 | 24 | simplify-2026 |
 | [Kensington](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | Operations Intern - Ultraluxe Product | Toronto, ON, Canada | Summer 2026 | 2026-06-23 | 30 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 30 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | AI Product Manager Intern | London, UK | Fall 2026 | 2026-06-19 | 34 | simplify-2026 |
