@@ -1,11 +1,9 @@
-# Quantitative Finance (104)
+# Quantitative Finance (99)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) | Quantitative Equity Investing Intern | Baltimore, MD | Fall 2026 | 2026-07-23 | 0 | simplify-2026 |
-| [T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) | Global Trading Intern | Baltimore, MD | Summer 2027 | 2026-07-23 | 0 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | Quantitative Researcher Internship | NYC | Summer 2027 | 2026-07-22 | 1 | simplify-2026 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Infrastructure-Partners-Investment-Analyst_44143) | Blackstone Infrastructure Partners Investment Analyst | NYC | N/A | 2026-07-22 | 1 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-21 | 2 | simplify-2026 |
@@ -17,10 +15,6 @@
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1) | Commodities Trading Analyst Intern | London, UK | Summer 2027 | 2026-07-21 | 2 | simplify-2026 |
 | [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Trading-Product-Control-Associate--12-months-_R-00277394-1) | Trading Product Control Associate - Months | Edinburgh, UK | N/A | 2026-07-20 | 3 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Investment-Analyst-Program_R-124631) | Real Estate - Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | N/A | 2026-07-19 | 4 | simplify-2026 |
-| [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634) | Real Estate Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-07-19 | 4 | simplify-2026 |
-| [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634-2) | Real Estate Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-07-19 | 4 | simplify-2026 |
-| [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/3901-N-Fairfax-Drive/PGIM--2027-Real-Estate--Agency-Summer-Investment-Analyst-Program_R-124636-2) | Real Estate – Agency Investment Analyst Program | Chicago, IL, Arlington, VA | Summer 2027 | 2026-07-19 | 4 | simplify-2026 |
-| [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649-1) | Private Credit – Investment Analyst Program | SF, LA, Dallas, TX, Newark, NJ, Chicago, IL, NYC, Minneapolis, MN, Atlanta, GA | Summer 2027 | 2026-07-17 | 6 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | Quantitative Research Analyst Intern | London, UK | Summer 2026 | 2026-07-15 | 8 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | Quantitative Trading Internship | London, UK | Summer 2027 | 2026-07-15 | 8 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-07-15 | 8 | simplify-2026 |
@@ -83,6 +77,7 @@
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006) | Quantic – Quantitative Researcher Intern | Boston, MA | Summer 2027 | 2026-06-10 | 43 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006) | Central Equity Quant Research Intern - Ceqr | NYC | Summer 2027 | 2026-06-10 | 43 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Equity Volatility Quant Researcher Intern | Miami, FL | Summer 2027 | 2026-06-10 | 43 | simplify-2026 |
+| [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Concord-Ontario-CAN/Trader-Trainee---Steel-Canada_JR105059) | Trader Trainee - Steel | Toronto, ON, Canada | N/A | 2026-06-04 | 49 | simplify-2026 |
 | [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Quantitative Trader Intern | Chicago, IL | Winter 2026, Spring 2027, Summer 2027 | 2026-06-02 | 51 | simplify-2026 |
 | [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | Quantitative Researcher Intern | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-05-29 | 55 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | Quantitative Developer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 57 | simplify-2026 |
