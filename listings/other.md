@@ -1,9 +1,54 @@
-# Other (144)
+# Other (179)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [IMC](https://www.imc.com/us/careers/jobs/4823945101) | Hardware Engineer Intern | Chicago, IL |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [IMC](https://www.imc.com/us/careers/jobs/4907399101) | Quantitative Research Intern | Chicago, IL |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [IMC](https://www.imc.com/us/careers/jobs/4907400101) | Quantitative Research Intern (PHD) | Chicago |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) | DevOps/SRE Intern | Chicago, IL |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Akuna Capital](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Quantitative Research Intern | Chicago |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Akuna Capital](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Quantitative Development & Strategy Intern | Chicago |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) | Investment Data Science Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) | Technology Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) | Risk Technology Analyst Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | Software Engineer Intern, Production Infrastructure | Seattle, WA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) | Software Engineer Intern, Production Infrastructure | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) | Software Engineer Intern, Infrastructure | Palo Alto, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | Software Engineer Intern, Infrastructure | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) | Software Engineer Intern, Defense Tech | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) | Software Engineer Intern, Defense Tech | Palo Alto, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) | Software Engineer Intern, Defense Tech | Washington, D.C. |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) | Software Engineer Intern | Denver, CO |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) | Software Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) | Software Engineer Intern | Washington, D.C. |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | Software Engineer Intern | Palo Alto, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | Forward Deployed Software Engineer Intern | Washington, D.C. |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | Forward Deployed Software Engineer Intern | Chicago, IL |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | Forward Deployed Software Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Forward Deployed Infrastructure Engineer Intern | Palo Alto, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | Forward Deployed Infrastructure Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir Technologies](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Forward Deployed Infrastructure Engineer Intern | Washington, D.C. |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8419303002/) | Software Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8628843002/) | Windows Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8621450002/) | Trading Desk Operations Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/5869205002/) | Tools and Compilers Research and Development Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8347385002/) | Sales and Trading Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8620793002/) | Network Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8626260002/) | Linux Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8624440002/) | Hardware Engineer (FPGA/ASIC) Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8347286002/) | Fundamental Research Analyst Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8631973002/) | Data Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8632723002/) | Cybersecurity Analyst Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8384490002/) | Machine Learning Researcher Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8611307002/) | Machine Learning Engineer Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8498547002/) | Quantitative Researcher Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/8617344002/) | Quantitative Trader Intern | New York, NY |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Deepgram](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | Software Engineering Intern | Remote, US |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Radix Trading](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) | Quantitative Technologist Intern, C++ | Chicago, IL |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Netic](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true) | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Netic](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true) | Full-Stack Software Engineer Intern | San Francisco, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [fab2](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true) | Software Engineering Intern | San Francisco, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Phonely](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5?embed=true) | Software Engineer Intern | San Francisco, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NeoSigma](https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | Member of Technical Staff Intern | San Francisco, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -27,21 +72,17 @@
 | [Google](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) | Software Engineering Intern | Mountain View, CA, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Bellevue, WA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Portland, OR, Pittsburgh, PA, Raleigh, NC, Durham, NC, Reston, VA, Redmond, WA, Redwood City, CA, San Diego, CA, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Santa Cruz, CA, South San Francisco, CA, Sunnyvale, CA |  | 2026-07-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://www.jumptrading.com/hr/job?gh_jid=8007788) | Campus Systems Engineer Intern | Chicago, IL |  | 2026-07-10 | 14 | vanshb03-2026, vanshb03-2027 |
 | [VITAL LYFE](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | Software Engineering Intern | Los Angeles, CA |  | 2026-07-10 | 14 | vanshb03-2026, vanshb03-2027 |
-| [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740) | Software Engineering Intern | Jessup, MD |  | 2026-07-10 | 14 | vanshb03-2026, vanshb03-2027 |
 | [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999) | Application Engineering Intern | Alpharetta, GA, Lombard, IL |  | 2026-07-10 | 14 | vanshb03-2026, vanshb03-2027 |
-| [Datasite](https://datasite.wd1.myworkdayjobs.com/en-GB/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | Forward Deployed Engineer Intern | New York, NY |  | 2026-07-10 | 14 | vanshb03-2026, vanshb03-2027 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Software Engineer Intern | Burnaby, Canada |  | 2026-07-10 | 14 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | Performance Engineer Intern, Systems Software | St. Louis, MO |  | 2026-07-09 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading Group](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Campus UI Software Engineer Intern | Chicago, IL |  | 2026-07-09 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Software Engineer Intern | Chicago, IL |  | 2026-07-09 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://www.jumptrading.com/hr/job?gh_jid=7848371) | Quantitative Trader Intern | Chicago, IL, New York, NY |  | 2026-07-09 | 15 | vanshb03-2026, vanshb03-2027 |
-| [Rakuten International](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171) | Software Engineer Intern | San Mateo, California |  | 2026-07-09 | 15 | vanshb03-2026, vanshb03-2027 |
 | [DE Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | Software Developer Intern | New York, NY |  | 2026-07-07 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Aquatic](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | Software Engineer Intern | Chicago, IL |  | 2026-07-07 | 17 | vanshb03-2026, vanshb03-2027 |
 | [IMC](https://www.imc.com/us/careers/jobs/4823924101) | Software Engineer Intern | Chicago, IL |  | 2026-07-07 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Susquehanna Investment Group](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) | Quantitative Strategy Developer Intern | Bala Cynwyd, PA |  | 2026-07-07 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | New York, NY, Greenwich, CT, Miami, FL, Houston, TX |  | 2026-07-07 | 17 | vanshb03-2026, vanshb03-2027 |
-| [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1) | Product Development Internship Program | Mclean, VA, Plano, TX |  | 2026-07-07 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Tower Research](https://tower-research.com/open-positions/?gh_jid=8044334) | Quantitative Developer Intern | Chicago, IL, New York, NY |  | 2026-07-07 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Cubist Systematic Strategies](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) | Quantitative Developer Intern | New York, NY |  | 2026-05-23 | 62 | vanshb03-2026, vanshb03-2027 |
 | [Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c) | Software Engineer Intern | Kent, WA |  | 2026-05-23 | 62 | vanshb03-2026, vanshb03-2027 |
@@ -49,19 +90,15 @@
 | [Voloridge Investment Management](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) | Quantitative Developer Intern | Jupiter, FL |  | 2026-05-23 | 62 | vanshb03-2026, vanshb03-2027 |
 | [Apple](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) | Software Engineer Intern, Undergrad | United States |  | 2026-05-22 | 63 | vanshb03-2026, vanshb03-2027 |
 | [Apple](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) | Software Engineering Intern, Masters | United States |  | 2026-05-22 | 63 | vanshb03-2026, vanshb03-2027 |
-| [Kudu Dynamics](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | Software Engineer Intern | Chantilly, VA |  | 2026-05-22 | 63 | vanshb03-2026, vanshb03-2027 |
-| [LiveRamp](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) | Software Engineer Intern, Pixel Serving | New York, NY |  | 2026-05-22 | 63 | vanshb03-2026, vanshb03-2027 |
 | [Etched](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) | Inference Intern, Architecture | San Jose, CA |  | 2026-05-22 | 63 | vanshb03-2026, vanshb03-2027 |
 | [Etched](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | Infrastructure Intern | San Jose, CA |  | 2026-05-22 | 63 | vanshb03-2026, vanshb03-2027 |
 | [Susquehanna](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) | Trading System Engineering Intern | Bala Cynwyd, PA |  | 2026-05-22 | 63 | vanshb03-2026, vanshb03-2027 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | Quantum Research Scientist Intern | Santa Clara, CA |  | 2026-05-19 | 66 | vanshb03-2026, vanshb03-2027 |
 | [Nash](https://www.workatastartup.com/jobs/94993) | Full Stack Engineering Intern | San Francisco, CA |  | 2026-05-19 | 66 | vanshb03-2026, vanshb03-2027 |
 | [StarSling](https://www.workatastartup.com/jobs/95003) | Software Engineer Intern | San Mateo, CA |  | 2026-05-19 | 66 | vanshb03-2026, vanshb03-2027 |
 | [Naïve](https://www.workatastartup.com/jobs/94647) | Software Engineer Intern | San Francisco, CA, Remote |  | 2026-05-14 | 71 | vanshb03-2026, vanshb03-2027 |
 | [Abundant](https://www.workatastartup.com/jobs/94634) | Software Engineering Intern, Research Focused | San Francisco, CA |  | 2026-05-14 | 71 | vanshb03-2026, vanshb03-2027 |
 | [Terranox AI](https://www.workatastartup.com/jobs/94631) | Summer Intern - AI/ML Engineering | San Francisco, CA |  | 2026-05-14 | 71 | vanshb03-2026, vanshb03-2027 |
 | [Trata](https://www.workatastartup.com/jobs/94620) | Research Scientist Intern | San Francisco, CA, New York, NY |  | 2026-05-14 | 71 | vanshb03-2026, vanshb03-2027 |
-| [BMO](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372) | Machine Learning Intern | Chicago, IL |  | 2026-05-12 | 73 | vanshb03-2026, vanshb03-2027 |
 | [Apex Technology, Inc.](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) | Software Engineering Intern, Embedded Systems | Los Angeles |  | 2026-05-11 | 74 | vanshb03-2026, vanshb03-2027 |
 | [Paragon](https://www.workatastartup.com/jobs/93642) | Forward Deployed Engineer (FDE) Intern | San Francisco, CA |  | 2026-05-09 | 76 | vanshb03-2026, vanshb03-2027 |
 | [General Astronautics](https://www.workatastartup.com/jobs/94206) | Engineering Intern | San Francisco, CA |  | 2026-05-09 | 76 | vanshb03-2026, vanshb03-2027 |
@@ -79,10 +116,8 @@
 | [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026) | Software Engineer Intern (Core Engineering) | Menlo Park, CA, Bellevue, WA |  | 2026-05-09 | 76 | vanshb03-2026, vanshb03-2027 |
 | [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026) | Software Engineer Intern, Infrastructure Automation | Menlo Park, CA, Bellevue, WA |  | 2026-05-09 | 76 | vanshb03-2026, vanshb03-2027 |
 | [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026) | Software Engineer Intern, Database Engineering | Menlo Park, CA |  | 2026-05-09 | 76 | vanshb03-2026, vanshb03-2027 |
-| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Software Engineer Intern(Futureforce Summer 2027) | San Francisco, CA, Palo Alto, CA, New York, NY, Seattle, WA, Burlington, MA |  | 2026-05-09 | 76 | vanshb03-2026, vanshb03-2027 |
 | [Homebase](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | Forward Deployed Engineering Intern, AI-Native | Houston, TX, San Francisco, CA |  | 2026-04-28 | 87 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://lifeattiktok.com/search/7631599293708126517) | LLM Post-training Engineer Intern, Research & Product | San Jose, CA |  | 2026-04-25 | 90 | vanshb03-2026, vanshb03-2027 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Software Engineering Intern, JAX | Santa Clara, CA |  | 2026-04-25 | 90 | vanshb03-2026, vanshb03-2027 |
 | [Al Warren Oil Company](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) | Software Developer Intern | Bensenville, IL |  | 2026-04-24 | 91 | vanshb03-2026, vanshb03-2027 |
 | [H&CO](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) | Software Development Intern | Coral Gables, FL |  | 2026-04-23 | 92 | vanshb03-2026, vanshb03-2027 |
 | [Ether.fi](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) | GTM Engineer Intern | Cayman, Denver, New York |  | 2026-04-23 | 92 | vanshb03-2026, vanshb03-2027 |
