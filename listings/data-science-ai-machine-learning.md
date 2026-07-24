@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (496)
+# Data Science, AI & Machine Learning (493)
 
 [← back to index](../README.md)
 
@@ -6,7 +6,6 @@
 |---|---|---|---|---|---|---|
 | [Golden Pet Brands](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | Data Analytics Intern | Remote in USA | Fall 2026 | 2026-07-23 | 1 | simplify-2026 |
 | [Primetals Technologies](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors) | Data Science Internship - Governance | Lake Mary, FL | Summer 2026 | 2026-07-23 | 1 | simplify-2026 |
-| [Axogen](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002) | AI/ML Engineer Intern | Tampa, FL | Fall 2026 | 2026-07-23 | 1 | simplify-2026 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering | San Jose, CA | Fall 2026 | 2026-07-23 | 1 | simplify-2026 |
 | [Bee Sweet Citrus](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern) | Data Processing Intern - Multiple Teams | Fresno, CA | N/A | 2026-07-23 | 1 | simplify-2026 |
 | [SPHERIX GLOBAL INSIGHTS US INC](https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship) | Market Research Insights Intern | Exton, PA | N/A | 2026-07-23 | 1 | simplify-2026 |
@@ -319,7 +318,6 @@
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6594261003) | Machine Learning Engineer Intern | Fremont, CA | Summer 2026 | 2026-05-12 | 73 | simplify-2026 |
 | [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | Data Scientist Intern | Mississauga, ON, Canada | Fall 2026 | 2026-05-12 | 73 | simplify-2026 |
 | [Eluvio](https://apply.workable.com/eluvio/j/F70F3473E7/apply) | AI Machine Learning Intern - Gen AI - Multimodal | Berkeley, CA | Summer 2026 | 2026-05-09 | 76 | simplify-2026 |
-| [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-4222) | Collections Data Analyst Intern | Winona, MN | Summer 2026 | 2026-05-08 | 77 | simplify-2026 |
 | [Samsung Research America](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) | ML/NLP Research Intern | Mountain View, CA | Fall 2026, Winter 2026 | 2026-05-08 | 77 | simplify-2026 |
 | [Cresta](https://job-boards.greenhouse.io/cresta/jobs/5213417008) | Data Science Intern - Customer Success | Remote in USA | Summer 2026 | 2026-05-07 | 78 | simplify-2026 |
 | [Cole Engineering Services](https://jobs-cesi.icims.com/jobs/10965/ai-intern/job) | AI Intern | Hanover, MD | Summer 2026 | 2026-05-07 | 78 | simplify-2026 |
@@ -382,7 +380,6 @@
 | [Atria Group](https://jobs.smartrecruiters.com/AtriaGroupLLC/87561367) | Informatica Admin | Plainview, NY | N/A | 2026-03-27 | 119 | simplify-2026 |
 | [Kanshe Infotech](https://jobs.smartrecruiters.com/Learnkwikcom/744000072088905) | Generative AI Training | Colorado Springs, CO | N/A | 2026-03-27 | 119 | simplify-2026 |
 | [Centific](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning_JR106882) | Research Intern - Applied Reinforcement Learning | Remote in USA | Summer 2026 | 2026-03-26 | 120 | simplify-2026 |
-| [VaynerMedia](https://vaynermedia.com/careers?gh_jid=7573040) | Resident – Data Analytics | Culver City, CA | N/A | 2026-03-26 | 120 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | Intern - Physics & AI modeling Engineering | Santa Clara, CA | Summer 2026 | 2026-03-26 | 120 | simplify-2026 |
 | [SCOR](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4840) | Databricks & Palantir Analytics Graduate Trainee | London, UK | N/A | 2026-03-24 | 122 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7620775575152462085) | Data Analyst Project Intern - Data Science | London, UK | Summer 2026 | 2026-03-24 | 122 | simplify-2026 |

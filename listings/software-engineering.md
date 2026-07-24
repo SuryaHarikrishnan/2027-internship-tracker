@@ -1,4 +1,4 @@
-# Software Engineering (413)
+# Software Engineering (410)
 
 [← back to index](../README.md)
 
@@ -13,7 +13,6 @@
 | [TAP Engineering](https://tapengineering.applytojob.com/apply/IK0hxrQaiv/Software-Engineer-Level-1) | Software Engineer Level 1 | Laurel, MD | N/A | 2026-07-23 | 1 | simplify-2026 |
 | [CloudFit Software](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027) | CloudFit Software Internship - Company name withheld | Lynchburg, VA | N/A | 2026-07-23 | 1 | simplify-2026 |
 | [Compassion International](https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264) | Software Developer Fellow | Remote in USA | N/A | 2026-07-23 | 1 | simplify-2026 |
-| [Guidehouse](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Technical-Associate---Platforms--Technology---Campus-2026--San-Antonio-_42401) | Technical Associate - Platforms - Technology | San Antonio, TX | N/A | 2026-07-23 | 1 | simplify-2026 |
 | [T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752) | Software Engineer Associate | Owings Mills, MD, Baltimore, MD | N/A | 2026-07-23 | 1 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Fall-2026-Hire/360282) | Software Engineering Analyst - Government & Public Services - Software Engineering | Arlington, VA | N/A | 2026-07-22 | 2 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8643138002) | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Fall 2026 | 2026-07-22 | 2 | simplify-2026 |
@@ -146,7 +145,6 @@
 | [Mindsmith](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) | Software Engineering Intern | Lehi, UT | Summer 2026, Fall 2026 | 2026-06-24 | 30 | simplify-2026 |
 | [Sandhills Global](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern) | Software Development Intern | Scottsdale, AZ | Summer 2026, Spring 2026, Fall 2026 | 2026-06-24 | 30 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | Software Engineering Intern - Vehicle Controls | Irvine, CA, Palo Alto, CA | Fall 2026 | 2026-06-24 | 30 | simplify-2026 |
-| [Formlabs](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) | Manufacturing Test Software Intern | Cambridge, MA | Fall 2026 | 2026-06-23 | 31 | simplify-2026 |
 | [AG Technologies](https://jobs.smartrecruiters.com/AGTechnologies1/102308948) | Java Training and Placement | Dallas, TX | N/A | 2026-06-23 | 31 | simplify-2026 |
 | [Xsolla](https://jobs.lever.co/xsolla/384e323c-5b67-4846-8943-a8e7a03fe237/apply) | Xsolla School - Engineering | LA | N/A | 2026-06-23 | 31 | simplify-2026 |
 | [SimonComputing](https://simoncomputing.applicantpro.com/jobs/4115690) | Software Development Internship | Alexandria, VA | Summer 2027 | 2026-06-23 | 31 | simplify-2026 |
@@ -161,7 +159,6 @@
 | [iHerb](https://job-boards.greenhouse.io/iherb/jobs/7776154003) | Software Development Intern | Remote in USA | Summer 2026 | 2026-06-18 | 36 | simplify-2026 |
 | [Beyondsoft](https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false) | Software Engineer Intern | United States | Summer 2026 | 2026-06-17 | 37 | simplify-2026 |
 | [Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | Software Engineer Intern | San Diego, CA | Summer 2026 | 2026-06-17 | 37 | simplify-2026 |
-| [Zoox](https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply) | Software Engineer | San Mateo, CA | N/A | 2026-06-17 | 37 | simplify-2026 |
 | [Viridien](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1) | Software Engineer Intern | Crawley, UK | Summer 2026 | 2026-06-17 | 37 | simplify-2026 |
 | [RELX](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-2) | Software Engineer Apprentice | Southampton, UK | Summer 2026 | 2026-06-16 | 38 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273927) | Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 38 | simplify-2026 |

@@ -1937,7 +1937,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -2050,7 +2052,7 @@
     "company_name": "Axogen",
     "id": "04df6f78-d556-4fc7-964d-e85ebb3a67ff",
     "title": "AI/ML Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2236,7 +2238,7 @@
     "company_name": "Guidehouse",
     "id": "e6d7765d-e77d-4662-a2fe-0007dad9f27a",
     "title": "Technical Associate - Platforms - Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8113,7 +8115,7 @@
     "company_name": "GE Healthcare",
     "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
     "title": "Engineering Development Program Intern - Hardware",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26397,7 +26399,7 @@
     "company_name": "Formlabs",
     "id": "e45157b9-46dc-4611-a3d0-94318359142c",
     "title": "Manufacturing Test Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -28341,7 +28343,7 @@
     "company_name": "Zoox",
     "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -36299,7 +36301,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
     "title": "Hardware & Embedded Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -68763,7 +68765,7 @@
     "company_name": "Trane Technologies",
     "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
     "title": "Collections Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -101279,7 +101281,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -123838,7 +123842,7 @@
     "company_name": "Eurofins",
     "id": "e5716292-b894-459b-87fd-e4c3f4077547",
     "title": "Engineering Intern - Test Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -123864,7 +123868,7 @@
     "company_name": "Eurofins",
     "id": "4cebd7e3-5455-4983-b475-3512278305c2",
     "title": "Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -129135,7 +129139,7 @@
     "company_name": "VaynerMedia",
     "id": "df37c32b-12d7-4b02-bb97-25e70402bd49",
     "title": "Resident \u2013 Data Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -332463,58 +332467,6 @@
   },
   {
     "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Sunnyvale-_R-2354882",
-    "company_name": "Walmart",
-    "title": "2026 Summer Intern: Software Engineering II",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "2a1dc5be-b1df-472d-8d50-9497c05b1278",
-    "date_posted": 1764174236,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Totowa-NJ/VC---Software-Developer-Intern_2532831",
-    "company_name": "KLA",
-    "title": "VC++ Software Developer Intern",
-    "locations": [
-      "Totowa, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "69f5c8fa-a8f9-4d44-95b6-cfc2c676a252",
-    "date_posted": 1764174295,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
     "sponsorship": "Does Not Offer Sponsorship",
     "active": false,
     "degrees": [
@@ -338156,32 +338108,6 @@
     ]
   },
   {
-    "date_updated": 1764596339,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-Spring-AI-ML-Co-op-BS-MS--Gloucester--MA-_R2518937",
-    "company_name": "Applied Materials",
-    "title": "2026 Spring AI ML Co-op BS/MS",
-    "locations": [
-      "Gloucester, MA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "5934b2ba-e396-466a-b6b2-4320fed27238",
-    "date_posted": 1764174191,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "KBR",
@@ -342652,30 +342578,6 @@
       "San Jose, CA"
     ],
     "company_url": "https://simplify.jobs/c/SK-Hynix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "479ffd19-d761-4b6c-9bfc-48d2304e9e89",
-    "title": "Reinforcement Learning for ADAS \u2013 Research and Engineering Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764174745,
-    "date_posted": 1764174745,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000095699173",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

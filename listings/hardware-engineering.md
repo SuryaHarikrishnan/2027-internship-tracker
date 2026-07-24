@@ -1,4 +1,4 @@
-# Hardware Engineering (179)
+# Hardware Engineering (175)
 
 [← back to index](../README.md)
 
@@ -19,7 +19,6 @@
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | Software Engineer Intern | Edinburgh, UK | Summer 2027 | 2026-07-21 | 3 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Junior-Layout-Design-Engineer--Trainee-_R263726) | Junior Layout Design Engineer - Trainee | Chandler, AZ | N/A | 2026-07-21 | 3 | simplify-2026 |
 | [Telesat](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/apply) | User Terminal Engineering Co-op | Ottawa, ON, Canada | Fall 2026 | 2026-07-20 | 4 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Engineering Development Program Intern - Hardware | Twinsburg, OH, Waukesha, WI | Summer 2027 | 2026-07-20 | 4 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/276987) | Energy Battery Firmware Intern - Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-16 | 8 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8070392) | FPGA Intern | London, UK | Summer 2028 | 2026-07-16 | 8 | simplify-2026 |
 | [Amentum](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | Spaceflight Hardware Intern | Houston, TX | Fall 2026 | 2026-07-16 | 8 | simplify-2026 |
@@ -87,7 +86,6 @@
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application) | Software Engineer Intern - Vehicle Controls | Palo Alto, CA, Irvine, CA | Fall 2026 | 2026-06-11 | 43 | simplify-2026 |
 | [Mach Industries](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application) | Engineering Co-op | Huntington Beach, CA | Fall 2026 | 2026-06-09 | 45 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273272) | Embedded Software Intern - Embedded Software Engineer - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-09 | 45 | simplify-2026 |
-| [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | Hardware & Embedded Research Intern | Sunnyvale, CA | Fall 2026 | 2026-06-09 | 45 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | CPU/AI Workload Analysis Intern | Santa Clara, CA | Summer 2026, Fall 2026, Winter 2027 | 2026-06-08 | 46 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | Design Verification Engineer Intern | Toronto, ON, Canada | Summer 2026 | 2026-06-08 | 46 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270618) | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 47 | simplify-2026 |
@@ -169,8 +167,6 @@
 | [Midmark ](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Firmware Engineering Intern/Co-op | Vandalia, OH | Spring 2027 | 2026-02-05 | 169 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007) | Formal Verification Intern | Austin, TX | Summer 2026 | 2026-01-16 | 189 | simplify-2026 |
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Military-Fellowship-Program--Configuration-Analyst_R0029011) | Military Fellowship Program: Configuration Analyst | Dayton, OH | N/A | 2026-01-12 | 193 | simplify-2026 |
-| [Eurofins](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | Engineering Intern - Test Engineer | Santa Clara, CA | Summer 2026 | 2026-01-09 | 196 | simplify-2026 |
-| [Eurofins](https://jobs.smartrecruiters.com/Eurofins/744000102593098) | Intern | Hayward, CA | Summer 2026 | 2026-01-09 | 196 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | Embedded Software Developer – Network/Payload Software Intern | SF | Fall 2026 | 2025-12-31 | 205 | simplify-2026 |
 | [Capella](https://www.capellaspace.com/company/apply?gh_jid=5737184004) | Flight Software Engineering Intern | Louisville, CO | Summer 2026 | 2025-12-16 | 220 | simplify-2026 |
 | [Capella](https://www.capellaspace.com/company/apply?gh_jid=5735295004) | Flight Software Engineering Intern | San Francisco, CA | Summer 2026 | 2025-12-15 | 221 | simplify-2026 |
