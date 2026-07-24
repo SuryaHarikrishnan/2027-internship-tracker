@@ -7654,7 +7654,7 @@
     "company_name": "NXP Semiconductors",
     "id": "9ed0d36f-ac09-4b6a-9e11-cc94757ed49a",
     "title": "AI / Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7709,7 +7709,7 @@
     "company_name": "Deloitte",
     "id": "694ca9d6-abb6-4b8a-8fbb-743c035e90dd",
     "title": "Audit & Assurance - Assistant - Data & Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8055,7 +8055,7 @@
     "company_name": "GE Healthcare",
     "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
     "title": "Engineering Development Program Intern - Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -29336,7 +29336,7 @@
     "company_name": "Tesla",
     "id": "27b0ff71-9c47-4670-a917-7c371d53f755",
     "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026",
@@ -309012,7 +309012,7 @@
     "company_name": "Samsung Research America",
     "id": "311bab17-1a4e-44b2-83ec-8effa88827de",
     "title": "Health AI Scholar",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
