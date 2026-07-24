@@ -1,4 +1,4 @@
-# Quantitative Finance (105)
+# Quantitative Finance (107)
 
 [← back to index](../README.md)
 
@@ -21,6 +21,8 @@
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1) | Commodities Trading Analyst Intern | London, UK | Summer 2027 | 2026-07-21 | 3 | simplify-2026 |
 | [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Trading-Product-Control-Associate--12-months-_R-00277394-1) | Trading Product Control Associate - Months | Edinburgh, UK | N/A | 2026-07-20 | 4 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Investment-Analyst-Program_R-124631) | Real Estate - Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | N/A | 2026-07-19 | 5 | simplify-2026 |
+| [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634) | Real Estate Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-07-19 | 5 | simplify-2026 |
+| [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634-2) | Real Estate Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-07-19 | 5 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | Quantitative Research Analyst Intern | London, UK | Summer 2026 | 2026-07-15 | 9 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | Quantitative Trading Internship | London, UK | Summer 2027 | 2026-07-15 | 9 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-07-15 | 9 | simplify-2026 |
