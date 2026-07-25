@@ -332040,7 +332040,9 @@
     "sponsorship": "Other",
     "degrees": [],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -342207,30 +342209,6 @@
       "NYC"
     ],
     "company_url": "https://simplify.jobs/c/SummitTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "8db96167-1218-4668-a3b3-f05bd712c27d",
-    "title": "Product Marketing Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764265779,
-    "date_posted": 1764265779,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000095943320",
-    "locations": [
-      "Suffolk, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
