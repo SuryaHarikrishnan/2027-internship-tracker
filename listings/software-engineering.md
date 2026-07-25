@@ -1,4 +1,4 @@
-# Software Engineering (414)
+# Software Engineering (413)
 
 [← back to index](../README.md)
 
@@ -417,4 +417,3 @@
 | [TikTok](https://lifeattiktok.com/search/7572358528171510069) | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer | San Jose, CA | Spring 2026 | 2025-12-02 | 235 | simplify-2026 |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6594422003) | Software Engineer Intern - BCI Applications | Fremont, CA | Winter 2025 | 2025-11-30 | 237 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7533369475380070663/detail) | Software Engineer Intern - Payment Network - Global Payment | Seattle, WA | Summer 2026 | 2025-11-28 | 239 | simplify-2026 |
-| [Dandy](https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f) | Software Engineer, Intern | New York, NY | Summer 2026 | 2025-11-27 | 240 | simplify-2026 |

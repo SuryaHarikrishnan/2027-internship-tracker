@@ -2812,7 +2812,7 @@
     "company_name": "Hewlett Packard (HP)",
     "id": "d0537d89-d21b-4246-b1b8-89bc300cc337",
     "title": "Data Analytics and Cloud Engineer - Military Bridge",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -19690,7 +19690,7 @@
     "company_name": "University of Maryland - College Park",
     "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
     "title": "Office of Career Services Intern - Technology Team",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -333225,58 +333225,6 @@
   },
   {
     "date_updated": 1764858222,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2026-AI-Engineering-Internship_REQ339417",
-    "company_name": "T-Mobile",
-    "title": "Summer 2026 AI Engineering Internship",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "e334b5bf-2cef-42e8-b529-3e59ed9b04cc",
-    "date_posted": 1764259975,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/91648893-a459-43ae-adf7-fcd532ea4c07?dcr_ci=BoschGroup",
-    "company_name": "Robert Bosch Venture Capital",
-    "title": "3D Vision and Scene Understanding - AI Research & Engineering Intern",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "4e5aa369-c046-4f59-85e6-959d85df890e",
-    "date_posted": 1764260125,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
     "sponsorship": "Other",
     "active": false,
     "degrees": [
@@ -342286,59 +342234,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764260175,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f",
-    "company_name": "Dandy",
-    "title": "Software Engineer, Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "6d0287f3-5874-4a1b-acc3-7ecb0018c46f",
-    "date_posted": 1764260175,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764260033,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181",
-    "company_name": "General Motors",
-    "title": "2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)",
-    "locations": [
-      "Mountain View, CA",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "50a38659-a74c-4ff4-baf0-5671b82f4a93",
-    "date_posted": 1764260033,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
