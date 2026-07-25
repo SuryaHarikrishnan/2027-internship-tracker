@@ -1,4 +1,4 @@
-# Quantitative Finance (111)
+# Quantitative Finance (112)
 
 [← back to index](../README.md)
 
@@ -27,6 +27,7 @@
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Investment-Analyst-Program_R-124631) | Real Estate - Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | N/A | 2026-07-19 | 6 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634) | Real Estate Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-07-19 | 6 | simplify-2026 |
 | [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634-2) | Real Estate Equity Investment Analyst Program | SF, Newark, NJ, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-07-19 | 6 | simplify-2026 |
+| [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649) | Private Credit – Investment Analyst Program | SF, LA, Dallas, TX, Newark, NJ, Chicago, IL, NYC, Minneapolis, MN, Atlanta, GA | Summer 2027 | 2026-07-17 | 8 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | Quantitative Research Analyst Intern | London, UK | Summer 2026 | 2026-07-15 | 10 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | Quantitative Trading Internship | London, UK | Summer 2027 | 2026-07-15 | 10 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-07-15 | 10 | simplify-2026 |

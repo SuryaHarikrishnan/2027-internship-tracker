@@ -1,10 +1,9 @@
-# Product Management (35)
+# Product Management (33)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Zoox](https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223/apply) | Student Worker TPM | San Mateo, CA | N/A | 2026-07-24 | 1 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Fall-Co-op-2026---Canada-Retirement-Investment-Product-Analysis_JR26060715-1) | Retirement Product Management Co-op - Retirement Investment Product Analysis | Toronto, ON, Canada | Fall 2026 | 2026-07-24 | 1 | simplify-2026 |
 | [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879) | Paint & Coating Intern | Chicago, IL | Fall 2026 | 2026-07-24 | 1 | simplify-2026 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8041243) | Product Manager Intern | McLean, VA | Summer 2027 | 2026-07-23 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -26,7 +25,6 @@
 | [McMaster-Carr](https://job-boards.greenhouse.io/mcmastercarr/jobs/4226729009) | Management Track | Cleveland, OH, Fort Worth, TX, Atlanta, GA | N/A | 2026-07-03 | 22 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657541997725288757) | Copyright Solution Product Manager Intern - Tiktok-Music | San Jose, CA | Fall 2026 | 2026-07-03 | 22 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657778928769534213) | Product Manager Intern - TikTok Product Content Ecosystem | San Jose, CA | Fall 2026 | 2026-07-03 | 22 | simplify-2026 |
-| [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Skillbridge Intern - Product Manager | Remote in USA | Fall 2026 | 2026-06-29 | 26 | simplify-2026 |
 | [Kensington](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | Operations Intern - Ultraluxe Product | Toronto, ON, Canada | Summer 2026 | 2026-06-23 | 32 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 32 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | AI Product Manager Intern | London, UK | Fall 2026 | 2026-06-19 | 36 | simplify-2026 |

@@ -1,6 +1,82 @@
 [
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CoreWeave",
+    "id": "52830e94-cf6d-4ff6-a6a4-f0891b29449d",
+    "title": "Data Center Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784973602,
+    "date_posted": 1783029995,
+    "url": "https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006",
+    "locations": [
+      "Denton, TX",
+      "Calhoun, GA",
+      "Aberdeen, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/CoreWeave",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MSI",
+    "id": "3a767599-d8fd-41d0-bd1b-3537ed8da7fd",
+    "title": "Rotational Undergraduate Analyst - Msi",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784973068,
+    "date_posted": 1783987200,
+    "url": "https://baldwin.wd1.myworkdayjobs.com/MSI/job/Boston-Massachusetts-US/Rotational-Undergraduate-Analyst---MSI_JR109868",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/MSI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Federal Reserve System",
+    "id": "008e0d90-7269-48e2-83ff-7df9f23e5d28",
+    "title": "Business Survey Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784968029,
+    "date_posted": 1781707050,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "International Rescue Committee (IRC)",
     "id": "e3234588-2be6-40da-8aa3-d096c6574e76",
@@ -216,7 +292,7 @@
     "company_name": "City of Austin",
     "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
     "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -348,7 +424,7 @@
     "company_name": "MSM Inc.",
     "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
     "title": "AI Solutions Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -396,7 +472,7 @@
     "company_name": "GE Healthcare",
     "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
     "title": "Surgery Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2260,7 +2336,7 @@
     "company_name": "Zoox",
     "id": "7053c6dc-96b3-4e18-8322-262fd14f8fe4",
     "title": "Student Worker TPM",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -4042,7 +4118,7 @@
     "company_name": "Exploration Technology Corp.",
     "id": "47e4c7a3-4e58-4c51-ae2c-1fffd28ec50d",
     "title": "Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -7311,7 +7387,7 @@
     "company_name": "Odin Dynamics, Inc",
     "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7865,7 +7941,7 @@
     "company_name": "Google",
     "id": "817799e0-f2c4-4c4c-8634-508da3e89b72",
     "title": "Student Researcher",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -9351,7 +9427,7 @@
     "company_name": "PGIM",
     "id": "2f47de17-a088-41a1-8238-0a8713c924ae",
     "title": "Private Credit \u2013 Investment Analyst Program",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -10259,7 +10335,7 @@
     "company_name": "CuspAI",
     "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
     "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -12345,7 +12421,7 @@
     "company_name": "Stevens Institute of Technology",
     "id": "11d17a2f-e586-4645-a6e2-8bcbfe2f70b3",
     "title": "Research Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -14496,7 +14572,7 @@
     "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -14916,7 +14992,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -20207,7 +20283,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -20679,7 +20755,7 @@
     "company_name": "Fidelity Investments",
     "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
     "title": "Leap Systems Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -40232,7 +40308,7 @@
     "company_name": "Rippling",
     "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
     "title": "Software Engineer Intern - Backend Focused",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -198317,7 +198393,7 @@
     "company_name": "Corpay",
     "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
     "title": "Software Developer \u2013 Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",

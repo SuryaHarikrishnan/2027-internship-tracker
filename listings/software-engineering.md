@@ -1,4 +1,4 @@
-# Software Engineering (412)
+# Software Engineering (410)
 
 [← back to index](../README.md)
 
@@ -220,7 +220,6 @@
 | [Nidec](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineering-Co-Op_R0016076) | Application Engineering Co-op | St. Louis, MO | Summer 2026 | 2026-06-06 | 49 | simplify-2026 |
 | [Scale AI](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | AI Builder Intern | SF, NYC | Summer 2026 | 2026-06-06 | 49 | simplify-2026 |
 | [Rippling](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) | Full Stack Software Engineer Intern | Seattle, WA, SF, NYC | Winter 2027 | 2026-06-05 | 50 | simplify-2026 |
-| [Rippling](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | Software Engineer Intern - Backend Focused | Seattle, WA, SF, NYC | Winter 2027 | 2026-06-05 | 50 | simplify-2026 |
 | [Clarity Innovations](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) | Junior Software Engineer Intern | Reston, VA | Summer 2026 | 2026-06-05 | 50 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7595707875767699765/detail) | Software Engineer Intern - Developer Infrastructure | San Jose, CA | Summer 2026 | 2026-06-04 | 51 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7564516412456306997/detail) | 3D Graphics Engineer Intern - PICO Foundation | San Jose, CA | Summer 2026 | 2026-06-04 | 51 | simplify-2026 |
@@ -355,7 +354,6 @@
 | [Multiply Labs](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | Robotics Software Intern | San Francisco, CA | Summer 2026 | 2026-02-24 | 151 | simplify-2026 |
 | [LAXIR](https://jobs.smartrecruiters.com/Laxir1/743999834183955) | Junior Full-Stack Engineer | LA | Summer 2026 | 2026-02-24 | 151 | simplify-2026 |
 | [Kanshe Infotech](https://jobs.smartrecruiters.com/Learnkwikcom/743999660833307) | Dot Net Developer | Houston, TX | N/A | 2026-02-24 | 151 | simplify-2026 |
-| [Corpay](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | Software Developer – Co-op | Vancouver, BC, Canada | Winter 2026, Spring 2026, Summer 2026 | 2026-02-21 | 154 | simplify-2026 |
 | [Comtech](https://jobs.smartrecruiters.com/ComtechLLC2/743999653824310) | Software Development Engineer in Test | Seattle, WA | N/A | 2026-02-20 | 155 | simplify-2026 |
 | [Codeage](https://jobs.smartrecruiters.com/Codeage/743999669081604) | Web Developer Intern - Wordpress and Woocommerce | Culver City, CA | Summer 2026 | 2026-02-20 | 155 | simplify-2026 |
 | [Huxley](https://jobs.smartrecruiters.com/ComputerFutures3/101016513) | Software Engineer 1 | Raleigh, NC | N/A | 2026-02-20 | 155 | simplify-2026 |

@@ -4,17 +4,16 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1) | Surgery Field Engineer Apprentice | Austin, TX, San Antonio, TX | Fall 2026 | 2026-07-24 | 1 | simplify-2026 |
 | [Bespoke Technologies, Inc.](https://bespoketechinc.applytojob.com/apply/6elfOe74I1/RD-Computer-Engineer) | R&D Computer Engineer | Washington, DC | N/A | 2026-07-23 | 2 | simplify-2026 |
 | [Rantec Power Systems Inc.](https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern) | PCB Design Engineer Intern | San Luis Obispo, CA | N/A | 2026-07-23 | 2 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-07-22 | 3 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/32354?icims=1) | Research Park Intern - Embedded Software | Urbana, IL | Fall 2026 | 2026-07-22 | 3 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10/application?embed=true) | Rust Software Engineer Intern - Chip Design Tools | SF | Fall 2026 | 2026-07-21 | 4 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | FPGA Engineer Intern | Austin, TX | Summer 2027 | 2026-07-21 | 4 | simplify-2026 |
+| [Exploration Technology Corp.](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | Engineer Intern | SF | Fall 2026 | 2026-07-21 | 4 | simplify-2026 |
 | [Blue Robotics](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7) | Electronics Design Co-op | Victoria, BC, Canada | Fall 2026 | 2026-07-21 | 4 | simplify-2026 |
 | [Revise Robotics](https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true) | Engineer Intern | NYC | Summer 2026, Fall 2026 | 2026-07-21 | 4 | simplify-2026 |
 | [Terranova](https://jobs.ashbyhq.com/terranova/578d418d-42f8-404a-9b82-a5cbd67086d8/application?embed=true) | Drop Out Engineer | Berkeley, CA | N/A | 2026-07-21 | 4 | simplify-2026 |
-| [Odin Dynamics, Inc](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) | Engineering Intern | LA | Fall 2026 | 2026-07-21 | 4 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/4497473d-0ce0-4e83-88c3-2afedceac622/application?embed=true) | Packaging Engineer Intern | SF, Austin, TX | Fall 2026 | 2026-07-21 | 4 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/de448098-ffc6-4b99-b341-d6a5874f390f/application?embed=true) | Embedded Software Engineer Intern | SF, Austin, TX | Fall 2026 | 2026-07-21 | 4 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | Software Engineer Intern | Edinburgh, UK | Summer 2027 | 2026-07-21 | 4 | simplify-2026 |
@@ -39,8 +38,8 @@
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Digital Physical Design Intern - P&R | Chandler, AZ | Fall 2026 | 2026-07-13 | 12 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 15 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Denver--CO-_R4043455-1) | Field Engineer Apprentice | Denver, CO | Fall 2026 | 2026-07-10 | 15 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) | Field Engineer Apprentice | Columbus, OH | Fall 2026 | 2026-07-10 | 15 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 17 | simplify-2026 |
+| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1) | Client Service Technician Apprentice | Plainview, NY | Fall 2026 | 2026-07-08 | 17 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1) | Field Engineer Apprentice | Salt Lake City, UT | Fall 2026 | 2026-07-08 | 17 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1) | Field Engineer Apprentice | California | Fall 2026 | 2026-07-08 | 17 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1) | Field Service Engineer Apprentice | Kansas City, MO | Fall 2026 | 2026-07-08 | 17 | simplify-2026 |
@@ -52,6 +51,7 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1) | Analog Engineer Intern | Vancouver, BC, Canada | Fall 2026 | 2026-07-04 | 21 | simplify-2026 |
 | [X Development](https://x.company/careers/8616839002?gh_jid=8616839002) | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute | Mountain View, CA | Summer 2026, Fall 2026 | 2026-07-02 | 23 | simplify-2026 |
 | [Moment Energy](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Firmware Engineering Co-op | Surrey, BC, Canada | Fall 2026 | 2026-07-02 | 23 | simplify-2026 |
+| [CoreWeave](https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006) | Data Center Apprentice | Denton, TX, Calhoun, GA, Aberdeen, SD | Summer 2026 | 2026-07-02 | 23 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200666594) | Hardware System Design Engineer - Apple Vision Pro | San Jose, CA | N/A | 2026-07-02 | 23 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) | Hardware Prototyping Intern - Data Center Rack | Sunnyvale, CA | Summer 2026 | 2026-07-02 | 23 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Hardware Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 24 | simplify-2026 |
