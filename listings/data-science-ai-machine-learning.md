@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (493)
+# Data Science, AI & Machine Learning (492)
 
 [← back to index](../README.md)
 
@@ -496,4 +496,3 @@
 | [Ekimetrics](https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply) | 6 months Internship in Strategy & Data Science - New York | NYC | Summer 2026 | 2025-12-02 | 236 | simplify-2026 |
 | [Marsh](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1) | Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne | Newcastle upon Tyne, UK | N/A | 2025-11-30 | 238 | simplify-2026 |
 | [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1) | Part time Smeal - Computer Science | State College, PA | N/A | 2025-11-30 | 238 | simplify-2026 |
-| [Mercor](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) | Data Science Intern | San Francisco, CA | Summer 2026 | 2025-11-28 | 240 | simplify-2026 |
