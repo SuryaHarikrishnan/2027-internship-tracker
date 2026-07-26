@@ -1,4 +1,4 @@
-# Hardware Engineering (178)
+# Hardware Engineering (177)
 
 [← back to index](../README.md)
 
@@ -181,4 +181,3 @@
 | [Base Power](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application) | Firmware Engineer | Austin, TX | Spring 2026 | 2025-12-10 | 228 | simplify-2026 |
 | [Etched.ai](https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3/application) | Architecture Intern | San Jose, CA | Summer 2026 | 2025-12-08 | 230 | simplify-2026 |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6648992003) | Firmware Engineer - Robotics and Surgery Engineering | Fremont, CA | Summer 2026 | 2025-11-30 | 238 | simplify-2026 |
-| [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | Software Engineer Intern | United States | Summer 2026 | 2025-11-28 | 240 | simplify-2026 |
