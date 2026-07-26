@@ -1,4 +1,4 @@
-# Software Engineering (412)
+# Software Engineering (413)
 
 [← back to index](../README.md)
 
@@ -28,6 +28,7 @@
 | [SpreeAI ](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web | SF | Fall 2026 | 2026-07-21 | 5 | simplify-2026 |
 | [Gitar, Inc.](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) | Software Engineer Intern | San Mateo, CA | Summer 2025 | 2026-07-21 | 5 | simplify-2026 |
 | [Moon](https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | Software Engineer Intern - Backend & API | Glendale, CA | Fall 2026 | 2026-07-21 | 5 | simplify-2026 |
+| [North Cloud](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | AI Automation Intern | Brooklyn, NY | Fall 2026 | 2026-07-21 | 5 | simplify-2026 |
 | [NeoSigma](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | Member of Technical Staff Intern | SF | Fall 2026 | 2026-07-21 | 5 | simplify-2026 |
 | [Mobius Renewables](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | Software Engineer Intern | Houston, TX | Fall 2026 | 2026-07-21 | 5 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Onware](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a) | Full Stack Developer-Intern Opportunity | Edmonton, AB, Canada | Summer 2026 | 2026-07-21 | 5 | simplify-2026 |

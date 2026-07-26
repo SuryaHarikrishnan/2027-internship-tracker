@@ -1,4 +1,4 @@
-# Product Management (33)
+# Product Management (34)
 
 [← back to index](../README.md)
 
@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|
 | [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879) | Paint & Coating Intern | Chicago, IL | Fall 2026 | 2026-07-24 | 2 | simplify-2026 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8041243) | Product Manager Intern | McLean, VA | Summer 2027 | 2026-07-23 | 3 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Baldwin Group](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Boston-Massachusetts-US/Rotational-Undergraduate-Analyst---MSI_JR109868-1) | Rotational Undergraduate Analyst - Msi | Boston, MA | N/A | 2026-07-22 | 4 | simplify-2026 |
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/New-York/Tax-Technology-Associate---Fall-2027_JR120318) | Tax Technology Associate | NYC | Fall 2027 | 2026-07-22 | 4 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7663349357178620165) | Product Manager Intern - Tiktok-Product-Search | San Jose, CA | Fall 2026 | 2026-07-21 | 5 | simplify-2026 |
 | [k-ID](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | Product Intern | United States | Fall 2026 | 2026-07-21 | 5 | simplify-2026 |
