@@ -1,5 +1,110 @@
 [
   {
+    "date_updated": 1785147502,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Robert Bosch LLC",
+    "title": "Software Engineer Intern, Autonomous Driving",
+    "source": "vanshb03",
+    "id": "e7805292-5034-4597-ae35-8d01de630c0c",
+    "date_posted": 1785147502,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785147499,
+    "url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Core & Main",
+    "title": "AI/ML Data Engineering Intern",
+    "source": "vanshb03",
+    "id": "42d795b7-ff8e-457a-9d85-632e33a49593",
+    "date_posted": 1785147499,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785147492,
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
+    "locations": [
+      "Durham, NC"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Toshiba Commerce Solutions",
+    "title": "Agentic Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "3fd7a6f2-433d-466a-a4c3-932a3a905fe0",
+    "date_posted": 1785147492,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785147487,
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Toshiba Commerce Solutions",
+    "title": "Project Management & AI Automation Intern",
+    "source": "vanshb03",
+    "id": "3c08dcce-eb6e-488a-b65c-0d28d616fca1",
+    "date_posted": 1785147487,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785147483,
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Toshiba Commerce Solutions",
+    "title": "AI Engineering Intern",
+    "source": "vanshb03",
+    "id": "94c066cb-7a39-42ea-b93a-278ec82a0fba",
+    "date_posted": 1785147483,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1785129703,
     "url": "https://job-boards.greenhouse.io/scm/jobs/721895",
     "locations": [
@@ -317,7 +422,7 @@
     "company_name": "American University",
     "id": "a038ee64-00b2-435e-8318-90254ba95b10",
     "title": "Audiovisual Services Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -369,7 +474,7 @@
     "company_name": "Baldwin Group",
     "id": "2b13f4dd-1d4a-4fb8-8ba3-4678e471fa6c",
     "title": "Rotational Undergraduate Analyst - Msi",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -395,7 +500,7 @@
     "company_name": "Pennsylvania State University",
     "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "title": "Research Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -914,7 +1019,7 @@
     "company_name": "GE Healthcare",
     "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
     "title": "Surgery Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -3439,7 +3544,7 @@
     "company_name": "Becton Dickinson",
     "id": "44c0f8ab-bc09-4802-ad77-110dc6c77373",
     "title": "Edge Program Associate - Technology & Global Services - Tgs",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -3465,7 +3570,7 @@
     "company_name": "Jackson",
     "id": "de4c4098-bc68-410c-92e6-503e69580649",
     "title": "Strategic Support Associate - Operations Process Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -4586,7 +4691,7 @@
     "company_name": "North Cloud",
     "id": "29f7ea93-41b1-408b-a3e0-8b6945e95e3e",
     "title": "AI Automation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6935,7 +7040,7 @@
     "company_name": "SpreeAI ",
     "id": "0b289d87-b4b1-4056-8003-0a76181dcb52",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -7297,7 +7402,7 @@
     "company_name": "LightGuide, Inc.",
     "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
     "title": "Product Innovation Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -10430,7 +10535,7 @@
     "company_name": "GE Healthcare",
     "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -13017,7 +13122,7 @@
     "company_name": "Stevens Institute of Technology",
     "id": "11d17a2f-e586-4645-a6e2-8bcbfe2f70b3",
     "title": "Research Assistant",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -15139,7 +15244,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -15168,7 +15273,7 @@
     "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -15588,7 +15693,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -16546,7 +16651,7 @@
     "company_name": "GE Healthcare",
     "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -17595,7 +17700,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -24323,7 +24428,7 @@
     "company_name": "Netflix",
     "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
     "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -32747,7 +32852,7 @@
     "company_name": "mthree",
     "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
     "title": "Technology Talent Programme",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -40937,7 +41042,7 @@
     "company_name": "Rippling",
     "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
     "title": "Machine Learning Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -41453,7 +41558,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -147102,7 +147207,7 @@
     "company_name": "University of Arkansas",
     "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
     "title": "Graduate Assistant - Information Science",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -261750,7 +261855,7 @@
     "company_name": "GE Appliances",
     "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
     "title": "Software Engineering Co-op Spring 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2027"
     ],
@@ -303377,7 +303482,7 @@
     "company_name": "thyssenkrupp",
     "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
     "title": "Sustainability Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],

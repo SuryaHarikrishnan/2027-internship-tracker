@@ -1,9 +1,14 @@
-# Other (190)
+# Other (195)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Robert Bosch LLC](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | Software Engineer Intern, Autonomous Driving | Sunnyvale, CA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Core & Main](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | AI/ML Data Engineering Intern | St. Louis, MO |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | Agentic Software Engineering Intern | Durham, NC |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | Project Management & AI Automation Intern | Frisco, TX |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | AI Engineering Intern | Frisco, TX |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Stevens Capital Management](https://job-boards.greenhouse.io/scm/jobs/721895) | Quantitative Research Analyst Internship | Radnor, PA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Sentara Health](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | Data & AI Finance Strategy Intern | Virginia Beach, VA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [HyperLight](https://apply.workable.com/hyperlight/j/5581EA0668/) | Software Engineer Intern | Cambridge, MA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
