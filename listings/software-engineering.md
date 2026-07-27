@@ -1,4 +1,4 @@
-# Software Engineering (411)
+# Software Engineering (410)
 
 [← back to index](../README.md)
 
@@ -19,7 +19,6 @@
 | [Montgomery Investment Technology, Inc.](https://fintools.applytojob.com/apply/o7r6gV8IMh/Computer-Programming-Internship-Summer-2026) | Montgomery Investment Technology | Delanco, NJ | N/A | 2026-07-23 | 4 | simplify-2026 |
 | [TAP Engineering](https://tapengineering.applytojob.com/apply/IK0hxrQaiv/Software-Engineer-Level-1) | Software Engineer Level 1 | Laurel, MD | N/A | 2026-07-23 | 4 | simplify-2026 |
 | [CloudFit Software](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027) | CloudFit Software Internship - Company name withheld | Lynchburg, VA | N/A | 2026-07-23 | 4 | simplify-2026 |
-| [Compassion International](https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264) | Software Developer Fellow | Remote in USA | N/A | 2026-07-23 | 4 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Fall-2026-Hire/360282) | Software Engineering Analyst - Government & Public Services - Software Engineering | Arlington, VA | N/A | 2026-07-22 | 5 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8643138002) | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
 | [Moog ](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) | Software Engineering Intern | Boston, NY, Buffalo, NY | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |

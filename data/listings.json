@@ -1331,7 +1331,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "950b5180-0bc8-4444-8955-f853d4e2e6e6",
     "title": "Autonomous Driving Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1383,7 +1383,7 @@
     "company_name": "University of Texas at Austin",
     "id": "2108c98a-b4d3-46d0-b47a-185ef28d4867",
     "title": "Data & Insights Graduate Research Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -3438,7 +3438,7 @@
     "company_name": "Compassion International",
     "id": "452bd6d1-0b35-4f40-aa51-c0ae49420249",
     "title": "Software Developer Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -23446,7 +23446,7 @@
     "company_name": "Climate Corps",
     "id": "5b74ecb7-7875-4e7a-8482-2baf4c83f1fa",
     "title": "Sustainability Reporting Specialist Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -26491,7 +26491,7 @@
     "company_name": "Climate Corps",
     "id": "47f266aa-5422-40db-91fe-3ef1310c2ac7",
     "title": "Decarbonization Data Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
