@@ -1,9 +1,15 @@
-# Other (195)
+# Other (198)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Nelnet](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Agentic AI Intern | Lincoln, NE |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Intel Corporation](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | AI Software Engineering PhD Intern | Hillsboro, OR |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Appian](https://job-boards.greenhouse.io/appian/jobs/8088496) | Information Security Engineer Intern | McLean, VA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [The Mosaic Company](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) | Cybersecurity Co-Op/Intern | Tampa, FL |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [GRITT ROBOTICS INC](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Mathtech](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843) | Web Application Developer Intern | Falls Church, VA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Atomic Semi](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | Software Engineer Intern, Chip Design Tools | San Francisco, CA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Robert Bosch LLC](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | Software Engineer Intern, Autonomous Driving | Sunnyvale, CA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Core & Main](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | AI/ML Data Engineering Intern | St. Louis, MO |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -44,9 +50,6 @@
 | [Palantir Technologies](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | Forward Deployed Software Engineer Intern | Washington, D.C. |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Palantir Technologies](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | Forward Deployed Software Engineer Intern | Chicago, IL |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Palantir Technologies](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | Forward Deployed Software Engineer Intern | New York, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
-| [Palantir Technologies](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Forward Deployed Infrastructure Engineer Intern | Palo Alto, CA |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
-| [Palantir Technologies](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | Forward Deployed Infrastructure Engineer Intern | New York, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
-| [Palantir Technologies](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Forward Deployed Infrastructure Engineer Intern | Washington, D.C. |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/8419303002/) | Software Engineer Intern | New York, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/8628843002/) | Windows Engineer Intern | New York, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/8621450002/) | Trading Desk Operations Engineer Intern | New York, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |

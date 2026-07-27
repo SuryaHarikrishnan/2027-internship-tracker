@@ -1,5 +1,131 @@
 [
   {
+    "date_updated": 1785180800,
+    "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nelnet",
+    "title": "Agentic AI Intern",
+    "source": "vanshb03",
+    "id": "ee0d6dd8-c399-4874-965a-5eb9a7006c29",
+    "date_posted": 1785180800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785180794,
+    "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Intel Corporation",
+    "title": "AI Software Engineering PhD Intern",
+    "source": "vanshb03",
+    "id": "14d2f761-5544-4430-96fd-760ab3b53b2a",
+    "date_posted": 1785180794,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785180768,
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+    "locations": [
+      "McLean, VA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Appian",
+    "title": "Information Security Engineer Intern",
+    "source": "vanshb03",
+    "id": "a93073fb-1339-47c5-a060-7218eef4e39b",
+    "date_posted": 1785180768,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785180762,
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "The Mosaic Company",
+    "title": "Cybersecurity Co-Op/Intern",
+    "source": "vanshb03",
+    "id": "97da7bda-802d-4358-b95a-1980667d5441",
+    "date_posted": 1785180762,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785180712,
+    "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "GRITT ROBOTICS INC",
+    "title": "ML & Cloud Infrastructure Engineer Intern",
+    "source": "vanshb03",
+    "id": "fcc33c5d-81c1-4afd-94e9-6d6646affeba",
+    "date_posted": 1785180712,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785180627,
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843",
+    "locations": [
+      "Falls Church, VA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Mathtech",
+    "title": "Web Application Developer Intern",
+    "source": "vanshb03",
+    "id": "14f68e41-c24d-45fc-a9a5-bcfcd06d23b7",
+    "date_posted": 1785180627,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Toshiba Global Commerce",
@@ -128,7 +254,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -259,6 +387,69 @@
     "degrees": [],
     "_sources": [
       "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1785161399,
+    "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+    "locations": [
+      "Washington, D.C."
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "company_name": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer Intern",
+    "source": "vanshb03",
+    "id": "a7abcc46-052a-42b3-a1b9-4ebc6d07ecb3",
+    "date_posted": 1784882282,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785161399,
+    "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "company_name": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer Intern",
+    "source": "vanshb03",
+    "id": "85f363dd-83b7-428d-b645-5200549e94a3",
+    "date_posted": 1784882287,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785161399,
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": false,
+    "company_name": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer Intern",
+    "source": "vanshb03",
+    "id": "85d96166-20d7-4928-a81a-b815ea0309dd",
+    "date_posted": 1784882290,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -1957,69 +2148,6 @@
     "source": "vanshb03",
     "id": "35cbe6f4-e5e3-45fe-92fb-ead7d21826f5",
     "date_posted": 1784882294,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1784882290,
-    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "sponsorship": "Offers Sponsorship",
-    "active": true,
-    "company_name": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer Intern",
-    "source": "vanshb03",
-    "id": "85d96166-20d7-4928-a81a-b815ea0309dd",
-    "date_posted": 1784882290,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1784882287,
-    "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer Intern",
-    "source": "vanshb03",
-    "id": "85f363dd-83b7-428d-b645-5200549e94a3",
-    "date_posted": 1784882287,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1784882282,
-    "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer Intern",
-    "source": "vanshb03",
-    "id": "a7abcc46-052a-42b3-a1b9-4ebc6d07ecb3",
-    "date_posted": 1784882282,
     "company_url": "",
     "is_visible": true,
     "season": "Fall",
@@ -13384,7 +13512,7 @@
     "company_name": "Stevens Institute of Technology",
     "id": "11d17a2f-e586-4645-a6e2-8bcbfe2f70b3",
     "title": "Research Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -19193,7 +19321,7 @@
     "company_name": "Ada",
     "id": "f59e5b11-d1a0-4afa-ac2f-9c1e54ef6179",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23195,7 +23323,7 @@
     "company_name": "Climate Corps",
     "id": "ac0187b3-d62d-4462-8812-3f558065a8a5",
     "title": "Utilities Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35697,7 +35825,7 @@
     "company_name": "Harris Computer",
     "id": "eb5df7f1-c18d-497e-8a13-2febadd687e1",
     "title": "Co-Op Student Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026",
@@ -146795,7 +146923,7 @@
     "company_name": "University of Texas at Austin",
     "id": "58899808-7a44-410d-b431-7e2179a09fb5",
     "title": "Student Analyst - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -171777,7 +171905,7 @@
     "company_name": "Meta",
     "id": "e2e48bac-63bc-4318-9576-1e112d693b8d",
     "title": "Research Scientist Intern - Photorealistic Telepresence",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
