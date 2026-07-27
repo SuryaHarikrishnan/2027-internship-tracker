@@ -1,9 +1,11 @@
-# Product Management (33)
+# Product Management (34)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) | AI Product Management Intern | Durham, NC | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
+| [TJX](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Product---Quality-Specialist-Apprenticeship-Programme_REQ138959-1) | Product & Quality Specialist Apprentice | Watford, UK | Summer 2026 | 2026-07-27 | 0 | simplify-2026 |
 | [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879) | Paint & Coating Intern | Chicago, IL | Fall 2026 | 2026-07-24 | 3 | simplify-2026 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8041243) | Product Manager Intern | McLean, VA | Summer 2027 | 2026-07-23 | 4 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/New-York/Tax-Technology-Associate---Fall-2027_JR120318) | Tax Technology Associate | NYC | Fall 2027 | 2026-07-22 | 5 | simplify-2026 |
@@ -12,7 +14,6 @@
 | [Pendulum Intelligence](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Product Manager Intern | Remote in USA | Fall 2026 | 2026-07-21 | 6 | simplify-2026 |
 | [LightGuide, Inc.](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) | Product Innovation Co-op | Wixom, MI | Fall 2026 | 2026-07-21 | 6 | simplify-2026 |
 | [Hubs.is](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Product Intern | Remote in USA | Fall 2026 | 2026-07-21 | 6 | simplify-2026 |
-| [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) | Product Management Intern | Chicago, IL | Fall 2026 | 2026-07-21 | 6 | simplify-2026 |
 | [Vega Investment Technologies](https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-07-20 | 7 | simplify-2026 |
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 11 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) | Global Product Intern | Wilmington, DE | Fall 2026 | 2026-07-15 | 12 | simplify-2026 |

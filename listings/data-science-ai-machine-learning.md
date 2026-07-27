@@ -1,10 +1,14 @@
-# Data Science, AI & Machine Learning (491)
+# Data Science, AI & Machine Learning (494)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) | Product & Business Analytics Intern | Durham, NC | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
 | [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | AI Engineer Intern | Frisco, TX | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
+| [Chanel](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336) | Data Intern - Global Data Program | London, UK | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
+| [GE Appliances](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/AI-Data-Science-Analytics_REQ-26337) | AI Data Science Analytics | Louisville, KY | N/A | 2026-07-27 | 0 | simplify-2026 |
+| [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075) | Data Engineer Intern | Dallas, TX | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
 | [MSM Inc.](https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4) | AI Solutions Co-op | Webster, NY | Fall 2026 | 2026-07-24 | 3 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | Autonomous Driving Intern | Sunnyvale, CA | Fall 2026 | 2026-07-24 | 3 | simplify-2026 |
 | [International Rescue Committee (IRC)](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327) | Data Integration & Reporting Intern | San Diego, CA | Fall 2026 | 2026-07-24 | 3 | simplify-2026 |
@@ -25,13 +29,11 @@
 | [Warner Bros.](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) | Research, Analytics & Strategy Intern | NYC | Fall 2026 | 2026-07-23 | 4 | simplify-2026 |
 | [Warner Bros.](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) | Sports Growth Strategy and Data Intern | Atlanta, GA | Fall 2026 | 2026-07-23 | 4 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Fall-2026-Hire/360284) | Consultative Offerings Analyst - Government & Public Services - AI & Data Engineering | Arlington, VA | N/A | 2026-07-22 | 5 | simplify-2026 |
-| [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq) | Data Analytics Intern | El Segundo, CA | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
 | [OpusClip](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true) | AI Research Intern | Mountain View, CA | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
 | [Adtheorant](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) | Enterprise AI Intern | NYC | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/54120/job?mobile=true&needsRedirect=false) | AI Engineering Co-op | Richardson, TX | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/32355?icims=1) | Intern | Urbana, IL | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/32340?icims=1) | UIUC Research Park Intern - Computational Methods Development | Urbana, IL | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
-| [Mosaic](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1) | Operations & Automation Engineering Co-op/Intern | Bartow, FL | Spring 2027 | 2026-07-22 | 5 | simplify-2026 |
 | [Carnegie Mellon University](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870) | Research Intern - School of Computer Science - Language Technologies Institute | Pittsburgh, PA | Fall 2026 | 2026-07-22 | 5 | simplify-2026 |
 | [Excel Sports Management](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005) | Analytics Intern - Analytics | Chicago, IL | Fall 2026 | 2026-07-21 | 6 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/12863?icims=1) | AI Engineer Intern | London, UK | Fall 2026 | 2026-07-21 | 6 | simplify-2026 |
@@ -463,6 +465,7 @@
 | [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1) | Research Assistant | State College, PA | N/A | 2026-01-09 | 199 | simplify-2026 |
 | [WeRide](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply) | Intern - PhD | San Jose, CA | Summer 2026 | 2026-01-05 | 203 | simplify-2026 |
 | [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1) | Physics Department - Research Support - Ultrahigh Energy Neutrinos | State College, PA | N/A | 2026-01-01 | 207 | simplify-2026 |
+| [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | Sustainability Systems Intern | Cleveland, OH | Spring 2026 | 2025-12-23 | 216 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43/application) | Part Time Data Intern | NYC | Winter 2025, Spring 2025 | 2025-12-23 | 216 | simplify-2026 |
 | [Berkshire Hathaway Energy](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003904) | Intern – Corp IT - Grid Operations Applications | Davenport, IA | Spring 2026, Summer 2026 | 2025-12-22 | 217 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal | Palo Alto, CA | Spring 2026 | 2025-12-22 | 217 | simplify-2026 |

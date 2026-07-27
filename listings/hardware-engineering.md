@@ -1,10 +1,11 @@
-# Hardware Engineering (179)
+# Hardware Engineering (178)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Northampton-Associate,-Integration-and-Test-Engineering-MA-01060/1412685600/?ats=successfactors) | Associate Integration and Test Engineering | Northampton, MA | N/A | 2026-07-27 | 0 | simplify-2026 |
+| [Blackberry](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260267) | QNX Application Engineering Student | Ottawa, ON, Canada | N/A | 2026-07-27 | 0 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1) | Surgery Field Engineer Apprentice | Austin, TX, San Antonio, TX | Fall 2026 | 2026-07-24 | 3 | simplify-2026 |
 | [Bespoke Technologies, Inc.](https://bespoketechinc.applytojob.com/apply/6elfOe74I1/RD-Computer-Engineer) | R&D Computer Engineer | Washington, DC | N/A | 2026-07-23 | 4 | simplify-2026 |
 | [Rantec Power Systems Inc.](https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern) | PCB Design Engineer Intern | San Luis Obispo, CA | N/A | 2026-07-23 | 4 | simplify-2026 |
@@ -40,7 +41,6 @@
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) | Equipment Engineering Technician Intern - Metrology | Fairview, OR | Summer 2026 | 2026-07-13 | 14 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Digital Physical Design Intern - P&R | Chandler, AZ | Fall 2026 | 2026-07-13 | 14 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 17 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043521-1) | Client Service Technician Apprentice | Remote in USA | Fall 2026 | 2026-07-10 | 17 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Denver--CO-_R4043455-1) | Field Engineer Apprentice | Denver, CO | Fall 2026 | 2026-07-10 | 17 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) | Field Engineer Apprentice | Columbus, OH | Fall 2026 | 2026-07-10 | 17 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 19 | simplify-2026 |
@@ -114,7 +114,6 @@
 | [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-St-Louis-North/Automotive-ADAS-Calibration-Technician-Apprentice_R0218912) | Automotive ADAS Calibration Technician Apprentice | Chesterfield, MO, St. Louis, MO, Creve Coeur, MO | Summer 2026 | 2026-06-01 | 56 | simplify-2026 |
 | [Diversified Automation](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply) | Hardware Engineering Co-op | Louisville, KY | Summer 2026 | 2026-05-28 | 60 | simplify-2026 |
 | [Periodic Labs](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a/application) | Nanofabrication Intern | Menlo Park, CA | Summer 2026 | 2026-05-26 | 62 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | PhD Software Engineer Intern - Decision Intelligence | Santa Clara, CA | Fall 2026 | 2026-05-23 | 65 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105) | Mixed Signal Engineer Intern | United States | Summer 2026 | 2026-05-23 | 65 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108) | Software Development Engineer Intern | United States | Fall 2026 | 2026-05-23 | 65 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103) | DFT Engineer Intern | United States | Fall 2026 | 2026-05-23 | 65 | simplify-2026 |

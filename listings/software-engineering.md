@@ -1,10 +1,12 @@
-# Software Engineering (412)
+# Software Engineering (411)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36722) | Architecture AI Co-op | Naperville, IL | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
 | [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | Agentic Software Engineer Intern | Durham, NC | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801) | Software Engineer Intern | State College, PA | Summer 2027 | 2026-07-27 | 0 | simplify-2026 |
 | [Nextiva](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | Forward Deployed Engineer Intern - AI Implementation | Scottsdale, AZ | Fall 2026 | 2026-07-24 | 3 | simplify-2026 |
 | [TechInsights](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Software Developer Co-op | Ottawa, ON, Canada | N/A | 2026-07-24 | 3 | simplify-2026 |
 | [PDT Partners](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | Software Engineer Intern | NYC | Summer 2027 | 2026-07-24 | 3 | simplify-2026 |
@@ -72,8 +74,6 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7975026) | Campus Software Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 14 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7942281) | Software Developer Intern | London, UK | Summer 2026 | 2026-07-13 | 14 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/276333) | Software Engineer Intern - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-10 | 17 | simplify-2026 |
-| [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-Apprentice_R115941-2) | Software Engineer Apprentice | London, UK | Fall 2026 | 2026-07-10 | 17 | simplify-2026 |
-| [RELX](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-Apprentice_R115941-3) | Software Engineer Apprentice | London, UK | Fall 2026 | 2026-07-10 | 17 | simplify-2026 |
 | [Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application) | Software Engineer Intern | Carson, CA | Fall 2026 | 2026-07-09 | 18 | simplify-2026 |
 | [Pylon](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-09 | 18 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006) | Codeshark | Needham, MA | N/A | 2026-07-08 | 19 | simplify-2026 |
@@ -137,7 +137,6 @@
 | [Clera](https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767/application) | Founding Engineer Intern | SF | Summer 2026 | 2026-06-26 | 31 | simplify-2026 |
 | [RFCUNY](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Fullstack-Web-Development-Peer-Tutor_JR2051) | Fullstack Web Development Peer Tutor | NYC | N/A | 2026-06-25 | 32 | simplify-2026 |
 | [AfterQuery](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application) | Software Engineer Intern | SF | Summer 2026 | 2026-06-24 | 33 | simplify-2026 |
-| [Sun Life](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Toronto-One-York/Student--Associate-Front-End-Developer--Fall-2026-_JR00125432) | Student Associate Front-End Developer | Toronto, ON, Canada, Kitchener, ON, Canada | N/A | 2026-06-24 | 33 | simplify-2026 |
 | [Altasciences](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) | Software Engineer Intern | Overland Park, KS | Summer 2026 | 2026-06-24 | 33 | simplify-2026 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | Database Engineer Intern | Dallas, TX | Summer 2026 | 2026-06-24 | 33 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8604889002) | AI Automation Engineer Co-op | Vancouver, BC, Canada | Summer 2026 | 2026-06-24 | 33 | simplify-2026 |

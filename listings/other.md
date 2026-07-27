@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Atomic Semi](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | Software Engineer Intern, Chip Design Tools | San Francisco, CA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Robert Bosch LLC](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | Software Engineer Intern, Autonomous Driving | Sunnyvale, CA |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Core & Main](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | AI/ML Data Engineering Intern | St. Louis, MO |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | Agentic Software Engineering Intern | Durham, NC |  | 2026-07-27 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -72,7 +73,6 @@
 | [SpreeAI](https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | Mobile Software Engineer Intern | San Francisco, CA |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [SPREEAI](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | Software Engineer Intern, AI Infrastructure / Training / Inference | San Francisco, CA |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [ShyftLabs](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | AI Engineer Intern | Toronto, Canada |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
-| [Moog](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) | Software Engineer Intern, Fleet Health Instrumentation | Buffalo, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8643138002) | Software Development Co-op | Vancouver, Canada |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=) | Intern | New York, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=) | Software Engineer Intern | Austin, TX, Chicago, IL, New York, NY |  | 2026-07-24 | 3 | vanshb03-2026, vanshb03-2027 |

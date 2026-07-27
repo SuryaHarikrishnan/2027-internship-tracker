@@ -1,9 +1,10 @@
-# Quantitative Finance (112)
+# Quantitative Finance (113)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Squarepoint Capital](https://boards.greenhouse.io/embed/job_app?token=243853) | Intern Quant Researcher | London, UK, Paris, France, NYC | Fall 2026 | 2026-07-27 | 0 | simplify-2026 |
 | [BlackEdge Capital](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) | Quantitative Developer Intern | Chicago, IL | Winter 2028, Spring 2028, Summer 2028 | 2026-07-24 | 3 | simplify-2026 |
 | [Trillium](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) | Equity Trader Intern | Chicago, IL | Summer 2027 | 2026-07-24 | 3 | simplify-2026 |
 | [Trillium](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) | Equity Trader Intern | Miami, FL, Chicago, IL, NYC | Summer 2027 | 2026-07-24 | 3 | simplify-2026 |
