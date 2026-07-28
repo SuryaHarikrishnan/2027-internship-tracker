@@ -1,9 +1,10 @@
-# Other (198)
+# Other (199)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | Software Engineer Intern | Chicago, IL |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Nelnet](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Agentic AI Intern | Lincoln, NE |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Intel Corporation](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | AI Software Engineering PhD Intern | Hillsboro, OR |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8088496) | Information Security Engineer Intern | McLean, VA |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
