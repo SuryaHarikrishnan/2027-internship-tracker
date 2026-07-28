@@ -1,4 +1,4 @@
-# Hardware Engineering (182)
+# Hardware Engineering (180)
 
 [← back to index](../README.md)
 
@@ -106,7 +106,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/272601) | Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271866) | Software Integration Engineer Intern - Software Integration Engineer - Service Tooling | Fremont, CA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271539) | Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 52 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/271544) | Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 52 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) | Lab Technician Intern | Santa Monica, CA | Summer 2026 | 2026-06-04 | 54 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer 2026 | 2026-06-03 | 55 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7761881003) | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | Summer 2026 | 2026-06-02 | 56 | simplify-2026 |
@@ -185,4 +184,3 @@
 | [Meta](https://www.metacareers.com/profile/job_details/25514049594874160) | Research Scientist Intern, Advanced Materials for Soft Robotics (PhD) | Redmond, WA | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-10 | 230 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application) | Firmware Engineer | Austin, TX | Spring 2026 | 2025-12-10 | 230 | simplify-2026 |
 | [Etched.ai](https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3/application) | Architecture Intern | San Jose, CA | Summer 2026 | 2025-12-08 | 232 | simplify-2026 |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6648992003) | Firmware Engineer - Robotics and Surgery Engineering | Fremont, CA | Summer 2026 | 2025-11-30 | 240 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Software Engineering (418)
+# Software Engineering (413)
 
 [← back to index](../README.md)
 
@@ -12,7 +12,6 @@
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Francisco/Microsoft-D365-Business-Central-Associate---Fall-2027_JR117248) | Microsoft Dynamics 365 Business Central Associate | SF | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | ServiceNow Developer Associate | Indianapolis, IN, Chicago, IL | Summer 2027 | 2026-07-27 | 1 | simplify-2026 |
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Washington-DC-Metro/Microsoft-Business-Central-Associate---Fall-2027_JR117249) | Business Central Associate | Washington, DC | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
-| [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Application-Development-Consulting-Associate---Fall-2027_JR116793) | Application Development Consulting Associate | Denver, CO | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Minneapolis/Application-Development-Consulting-Associate---Fall-2027_JR116789) | Application Development Consulting Associate | Minneapolis, MN | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
 | [Nextiva](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | Forward Deployed Engineer Intern - AI Implementation | Scottsdale, AZ | Fall 2026 | 2026-07-24 | 4 | simplify-2026 |
 | [TechInsights](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Software Developer Co-op | Ottawa, ON, Canada | N/A | 2026-07-24 | 4 | simplify-2026 |
@@ -96,7 +95,6 @@
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | Software Engineering Intern | NYC | N/A | 2026-07-06 | 22 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8599644002) | Software Engineer | NYC | N/A | 2026-07-06 | 22 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | Technology Intern | NYC | Summer 2027 | 2026-07-06 | 22 | simplify-2026 |
-| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8044395) | AI Builder Intern - Global Customer Engineering - Service Sales | London, UK | Fall 2026 | 2026-07-06 | 22 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Miami, FL, NYC | Fall 2026 | 2026-07-06 | 22 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Software Engineer Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-07-06 | 22 | simplify-2026 |
 | [CTGT](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-04 | 24 | simplify-2026 |
@@ -144,7 +142,6 @@
 | [Clera](https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767/application) | Founding Engineer Intern | SF | Summer 2026 | 2026-06-26 | 32 | simplify-2026 |
 | [RFCUNY](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Fullstack-Web-Development-Peer-Tutor_JR2051) | Fullstack Web Development Peer Tutor | NYC | N/A | 2026-06-25 | 33 | simplify-2026 |
 | [AfterQuery](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application) | Software Engineer Intern | SF | Summer 2026 | 2026-06-24 | 34 | simplify-2026 |
-| [Altasciences](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) | Software Engineer Intern | Overland Park, KS | Summer 2026 | 2026-06-24 | 34 | simplify-2026 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | Database Engineer Intern | Dallas, TX | Summer 2026 | 2026-06-24 | 34 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8604889002) | AI Automation Engineer Co-op | Vancouver, BC, Canada | Summer 2026 | 2026-06-24 | 34 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/274754) | Product Management Intern - Product Engineer - Applications Engineering | Fremont, CA | Fall 2026 | 2026-06-24 | 34 | simplify-2026 |
@@ -211,7 +208,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/272615) | Software Engineer Intern - Site Controller Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270063) | Software Engineer Intern - Vehicle UI Development | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270497) | Software Engineer Intern - Software Engineer - Information Security | Bellevue, WA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/272937) | Software Engineer Intern - Software Engineer Opticaster - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271209) | Software Engineer Intern - Software Engineer - IT Apps | Fremont, CA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/267005) | Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure | Palo Alto, CA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/267004) | Software Engineer Intern - Software Engineer - Data Platforms | Palo Alto, CA | Fall 2026 | 2026-06-07 | 51 | simplify-2026 |
@@ -421,4 +417,3 @@
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087) | Oracle Pathways Software School Intern | Nashville, TN | Winter 2026 | 2025-12-03 | 237 | simplify-2026 |
 | [Simular](https://jobs.ashbyhq.com/Simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a/application) | Software Engineer Intern | Palo Alto, CA | Spring 2026 | 2025-12-03 | 237 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7572358528171510069) | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer | San Jose, CA | Spring 2026 | 2025-12-02 | 238 | simplify-2026 |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6594422003) | Software Engineer Intern - BCI Applications | Fremont, CA | Winter 2025 | 2025-11-30 | 240 | simplify-2026 |
