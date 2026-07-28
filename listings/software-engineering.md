@@ -1,4 +1,4 @@
-# Software Engineering (420)
+# Software Engineering (418)
 
 [← back to index](../README.md)
 
@@ -14,7 +14,6 @@
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Washington-DC-Metro/Microsoft-Business-Central-Associate---Fall-2027_JR117249) | Business Central Associate | Washington, DC | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Application-Development-Consulting-Associate---Fall-2027_JR116793) | Application Development Consulting Associate | Denver, CO | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
 | [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Minneapolis/Application-Development-Consulting-Associate---Fall-2027_JR116789) | Application Development Consulting Associate | Minneapolis, MN | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
-| [RSM](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Consulting-Associate---Fall-2027_JR116791) | Application Development Consulting Associate | Des Moines, IA | Fall 2027 | 2026-07-27 | 1 | simplify-2026 |
 | [Nextiva](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | Forward Deployed Engineer Intern - AI Implementation | Scottsdale, AZ | Fall 2026 | 2026-07-24 | 4 | simplify-2026 |
 | [TechInsights](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Software Developer Co-op | Ottawa, ON, Canada | N/A | 2026-07-24 | 4 | simplify-2026 |
 | [PDT Partners](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | Software Engineer Intern | NYC | Summer 2027 | 2026-07-24 | 4 | simplify-2026 |
@@ -54,7 +53,6 @@
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347) | Front Office Software Engineer Intern | London, UK | Summer 2027 | 2026-07-21 | 7 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) | Full-Stack Software Engineer Intern | Houston, TX, Stamford, CT | Summer 2027 | 2026-07-21 | 7 | simplify-2026 |
 | [JINGDONG](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Software-Engineering-Internship_JR103340) | Software Engineering Intern | London, UK | Fall 2026 | 2026-07-21 | 7 | simplify-2026 |
-| [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371) | Software Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-21 | 7 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) | Routing/IP Software Developer Intern | Ottawa, ON, Canada | Fall 2026 | 2026-07-21 | 7 | simplify-2026 |
 | [Littelfuse](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116) | Intern 1 - Engineering | Gastonia, NC | Fall 2026 | 2026-07-21 | 7 | simplify-2026 |
 | [Ditto](https://jobs.ashbyhq.com/ditto/cbece35a-bb1a-4c93-a866-510279b8756c/application?embed=true) | Ditto Intern Program | Atlanta, GA | Fall 2026 | 2026-07-20 | 8 | simplify-2026 |

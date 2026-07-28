@@ -1,12 +1,17 @@
-# Other (199)
+# Other (204)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Nightwing](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD |  | 2026-07-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us) | Software Engineering Intern, Spring 2027 | Golden, CO |  | 2026-07-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) | Software Engineering Intern | Golden, CO |  | 2026-07-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Apptronik](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004&gh_src=rwa9v6mw4us) | Software Engineer Intern, ML Systems | Austin, TX |  | 2026-07-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Gemini](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | Software Engineering Intern | New York, NY |  | 2026-07-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Touchdown Labs](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) | Member of Technical Staff Intern | San Francisco, CA |  | 2026-07-28 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | Software Engineer Intern | Chicago, IL |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Nelnet](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Agentic AI Intern | Lincoln, NE |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
-| [Intel Corporation](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | AI Software Engineering PhD Intern | Hillsboro, OR |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8088496) | Information Security Engineer Intern | McLean, VA |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [The Mosaic Company](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) | Cybersecurity Co-Op/Intern | Tampa, FL |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [GRITT ROBOTICS INC](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA |  | 2026-07-27 | 1 | vanshb03-2026, vanshb03-2027 |

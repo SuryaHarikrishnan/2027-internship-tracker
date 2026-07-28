@@ -1,4 +1,4 @@
-# Product Management (33)
+# Product Management (32)
 
 [← back to index](../README.md)
 
@@ -17,7 +17,6 @@
 | [Vega Investment Technologies](https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-07-20 | 8 | simplify-2026 |
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 12 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) | Global Product Intern | Wilmington, DE | Fall 2026 | 2026-07-15 | 13 | simplify-2026 |
-| [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | Global Product Intern | NYC | Fall 2026 | 2026-07-15 | 13 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Huntsville-(DoW-SkillBridge),-Sr_-Specialist,-Product-Manager-AL-35806-2809/1408154000/?ats=successfactors) | SkillBridge Senior Specialist - Product Manager | Huntsville, AL | N/A | 2026-07-13 | 15 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Product Management Intern | Tampa, FL, NYC | Summer 2027 | 2026-07-08 | 20 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 21 | simplify-2026 |

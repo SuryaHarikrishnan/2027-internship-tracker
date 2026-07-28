@@ -16,6 +16,7 @@
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768) | Relationship Manager Commercial Markets Intern | Inverness, NS, Canada | Summer 2026 | 2026-07-23 | 5 | simplify-2026 |
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | Quantitative Research Internship | London, UK | Summer 2027 | 2026-07-23 | 5 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | Quantitative Researcher Internship | NYC | Summer 2027 | 2026-07-22 | 6 | simplify-2026 |
+| [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-21 | 7 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | Quant Trading Intern | London, UK | Summer 2027 | 2026-07-21 | 7 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | Trading Analyst Intern | Greenwich, CT | Summer 2027 | 2026-07-21 | 7 | simplify-2026 |
 | [BlackEdge Capital](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) | Quantitative Trader Intern | Chicago, IL | Winter 2028, Spring 2028, Summer 2028 | 2026-07-21 | 7 | simplify-2026 |
@@ -112,4 +113,3 @@
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | Quant Research Intern | London, UK | Summer 2026 | 2026-02-04 | 174 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8389431002) | Fund Flow Quantitative Researcher | Stamford, CT, NYC | N/A | 2026-01-23 | 186 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | Markets Quantitative Analyst Summer Internship 2027 New York | New York, NY | Summer 2027 | 2025-12-02 | 238 | simplify-2026 |
-| [Point72](https://boards.greenhouse.io/point72/jobs/7586061002) | Quantitative Researcher Intern | NYC | Fall 2025, Spring 2026, Summer 2026 | 2025-11-30 | 240 | simplify-2026 |

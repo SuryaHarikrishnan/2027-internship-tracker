@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (495)
+# Data Science, AI & Machine Learning (493)
 
 [← back to index](../README.md)
 
@@ -112,7 +112,6 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8052338) | Campus AI Research Engineer Intern - Deep Learning | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 20 | simplify-2026 |
 | [Hone Health](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Data Engineering Intern | Remote in USA | Fall 2026 | 2026-07-08 | 20 | simplify-2026 |
 | [Innodata](https://job-boards.greenhouse.io/innodatainc/jobs/4307422009) | Generative AI Associate | Montana | N/A | 2026-07-08 | 20 | simplify-2026 |
-| [Democratic Governors Association](https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca/apply) | Data and Coding Intern | Washington, DC | Fall 2026 | 2026-07-08 | 20 | simplify-2026 |
 | [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | Fall 2026 | 2026-07-07 | 21 | simplify-2026 |
 | [Ferrovial](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Manassas-VA/Traffic---Revenue-Junior-Engineer_JR18196) | Junior Traffic & Revenue Engineer | Manassas, VA | N/A | 2026-07-07 | 21 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/12845?icims=1) | Clinical Business Intelligence Intern | Cincinnati, OH | Spring 2026 | 2026-07-07 | 21 | simplify-2026 |
@@ -340,7 +339,6 @@
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1) | CSE Researcher-Narayanan Intern - V | State College, PA | N/A | 2026-05-04 | 85 | simplify-2026 |
 | [Cohere](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Research Internship | Montreal, QC, Canada, London, UK, Toronto, ON, Canada, SF | Fall 2026, Winter 2026 | 2026-05-01 | 88 | simplify-2026 |
 | [Geisinger](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Wilkes-Barre-PA/GME-Analytics---Dashboard-Development-Intern_R-95692) | GME Analytics & Dashboard Development Intern | Wilkes-Barre, PA | Summer 2026 | 2026-05-01 | 88 | simplify-2026 |
-| [American Enterprise Institute](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Data Analysis & AI Policy Intern | Washington, DC | Fall 2026 | 2026-05-01 | 88 | simplify-2026 |
 | [American Enterprise Institute](https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false) | Housing Center Intern | Washington, DC | Fall 2026 | 2026-05-01 | 88 | simplify-2026 |
 | [DoorDash](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | AI Research Fellowship Intern | SF | N/A | 2026-04-30 | 89 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7633668061979543813) | Research Scientist Intern - Nextgen LLM | San Jose, CA | Summer 2027 | 2026-04-29 | 90 | simplify-2026 |

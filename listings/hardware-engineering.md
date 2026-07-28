@@ -1,4 +1,4 @@
-# Hardware Engineering (183)
+# Hardware Engineering (182)
 
 [← back to index](../README.md)
 
@@ -38,7 +38,6 @@
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38077) | Regression Lab Co-op | Westford, MA | Fall 2026, Winter 2026 | 2026-07-14 | 14 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960/apply) | Analog Design Engineer Co-op - Analog Design Engineer | Greensboro, NC | Fall 2026 | 2026-07-14 | 14 | simplify-2026 |
 | [Duracell](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | Electronics Tech Intern | Atlanta, GA | Fall 2026 | 2026-07-14 | 14 | simplify-2026 |
-| [KBR](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship--Fall-2026-_R2126603) | National Security Solutions Intern - Nss | Beavercreek, OH | Fall 2026 | 2026-07-14 | 14 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician_2026888) | Optical Verification Technician | Ottawa, ON, Canada | N/A | 2026-07-14 | 14 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8038923) | FPGA Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 15 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974391) | Campus FPGA Engineer Intern | London, UK | Winter 2026, Spring 2026, Fall 2026 | 2026-07-13 | 15 | simplify-2026 |
