@@ -1,4 +1,4 @@
-# Hardware Engineering (184)
+# Hardware Engineering (183)
 
 [← back to index](../README.md)
 
@@ -134,7 +134,6 @@
 | [Apple](https://jobs.apple.com/en-us/details/200664383) | Hardware Technologies Engineering Intern | United States | Summer 2026 | 2026-05-22 | 68 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application) | Hardware Engineer Intern | Austin, TX | Summer 2026 | 2026-05-21 | 69 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | Autonomous Driving Applications Research Intern | Santa Clara, CA | Spring 2026 | 2026-05-21 | 69 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | Fall 2026 | 2026-05-20 | 70 | simplify-2026 |
 | [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply) | Design Verification Intern | Burlingame, CA | Summer 2026 | 2026-05-19 | 71 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1) | Surgery Field Engineer Apprentice | Pittsburgh, PA | Summer 2026 | 2026-05-16 | 74 | simplify-2026 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10232218) | Electromechanical Engineer | Aurora, CO | N/A | 2026-05-16 | 74 | simplify-2026 |

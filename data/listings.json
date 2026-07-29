@@ -5,7 +5,7 @@
     "company_name": "Loblaw Companies",
     "id": "5d6565ee-57cf-4fcf-9e34-63db06c7b27e",
     "title": "Analyst Co-op - Data Operations",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -14165,7 +14165,7 @@
     "company_name": "Motorola",
     "id": "e8b59897-2766-4ebd-907b-14e589a75372",
     "title": "Data Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -25625,7 +25625,7 @@
     "company_name": "The Wonderful Company",
     "id": "340cf1d5-2f86-48ad-ba6d-24877471ebcf",
     "title": "Summer Internship Intern - Business Systems Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -35842,7 +35842,7 @@
     "company_name": "Together AI",
     "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
     "title": "Research Intern - Inference",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -37554,7 +37554,7 @@
     "company_name": "Rivian and Volkswagen Group Technologies",
     "id": "a475fa37-e595-443b-807e-dce909238f55",
     "title": "Software Engineer Intern Co-op - Android Connectivity",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -60697,7 +60697,7 @@
     "company_name": "Nokia",
     "id": "1f0cef25-8124-4495-9595-94f9411706f0",
     "title": "Embedded C/C++ Software Developer Co-op/Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -76801,7 +76801,7 @@
     "company_name": "Tesla",
     "id": "358798bb-3dee-4d2f-a674-03e9665aead1",
     "title": "Machine Learning Platform Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -114970,7 +114970,7 @@
     "company_name": "Eulerity",
     "id": "6f53e7a8-a859-4111-972d-988f2d4b31e2",
     "title": "Android Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -295564,6 +295564,30 @@
   },
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NBCUniversal",
+    "id": "d1a525ff-8abf-481f-9e8d-292e3c9c2345",
+    "title": "Engineering Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1767742131,
+    "date_posted": 1767742131,
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000101917405",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/NBCUniversal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "T-Mobile",
     "id": "a8e0a784-a4ba-404e-b681-a54dd7fdf019",
@@ -324614,34 +324638,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Seven Research",
-    "id": "1a783273-b35d-4264-a4e8-54c21ee8ad5b",
-    "title": "Seven Research Quant Experience - Sqx",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1765495760,
-    "date_posted": 1764613812,
-    "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/5013551008",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Seven-Research",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Semtech",
     "id": "2050f568-f825-4ca1-9a2a-75b186fc5875",
@@ -341793,54 +341789,6 @@
       "Rancho Santa Margarita, CA"
     ],
     "company_url": "https://simplify.jobs/c/Field-AI",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "NBCUniversal",
-    "id": "20d5cfa5-f533-4fe0-bc51-d80119d453c7",
-    "title": "Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764618098,
-    "date_posted": 1764618098,
-    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000096445265",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/NBCUniversal",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The New York Times",
-    "id": "73629633-1996-430c-8552-721da211c9fc",
-    "title": "DIG Analyst Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764612506,
-    "date_posted": 1764612506,
-    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4634887005",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/The-New-York-Times",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
