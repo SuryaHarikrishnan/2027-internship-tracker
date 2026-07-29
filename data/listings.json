@@ -2,6 +2,34 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "PathAI",
+    "id": "0d592991-3f3c-4b1b-b380-4395ca871e34",
+    "title": "Software Engineering Mlops Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1785314130,
+    "date_posted": 1785190469,
+    "url": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/PathAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "TikTok",
     "id": "6219c04b-bc5c-4d14-90ea-426f117b51c0",
     "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
@@ -318,7 +346,7 @@
     "company_name": "RTX",
     "id": "4c068b9a-952a-4155-bd1c-fa897c862b5d",
     "title": "Software Engineer 1",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -748,7 +776,7 @@
     "company_name": "General Dynamics Mission Systems",
     "id": "6ffe9360-2d1b-4612-90b5-2b30153fe38c",
     "title": "Embedded Software Engineer - HOH Fellows - Spouseworks Fellows",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1759,7 +1787,7 @@
     "company_name": "East Penn Manufacturing Company",
     "id": "d97bc5e0-5ab3-4624-a0ac-a04f047413df",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1785,7 +1813,7 @@
     "company_name": "East Penn Manufacturing Company",
     "id": "81c27c2f-7650-4a5b-ad93-720da3891b10",
     "title": "Product Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027"
     ],
@@ -1863,7 +1891,7 @@
     "company_name": "East Penn Manufacturing Company",
     "id": "f1dfbee5-9dd3-426c-b0ec-7bd3fae462ef",
     "title": "Power BI & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2226,7 +2254,7 @@
     "company_name": "Copart",
     "id": "b87fb0cc-a6b4-405f-8642-7485bd8fffee",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2936,7 +2964,7 @@
     "company_name": "MSI",
     "id": "3a767599-d8fd-41d0-bd1b-3537ed8da7fd",
     "title": "Rotational Undergraduate Analyst - Msi",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -3173,7 +3201,7 @@
     "company_name": "Magna",
     "id": "d1b5909b-5773-4d89-92a7-604b04556e03",
     "title": "R&D-Computer Vision Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3197,7 +3225,7 @@
     "company_name": "City of Austin",
     "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
     "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -9283,7 +9311,7 @@
     "company_name": "NeoSigma",
     "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
     "title": "Member of Technical Staff Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9388,7 +9416,7 @@
     "company_name": "SpreeAI ",
     "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
     "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9572,7 +9600,7 @@
     "company_name": "Gitar, Inc.",
     "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2025"
     ],
@@ -9598,7 +9626,7 @@
     "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
     "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
     "title": "Data and AI Engineering Associate Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9696,7 +9724,7 @@
     "company_name": "Mobius Renewables",
     "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9778,7 +9806,7 @@
     "company_name": "Blue Robotics",
     "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
     "title": "Electronics Design Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10383,7 +10411,7 @@
     "company_name": "Odin Dynamics, Inc",
     "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11117,7 +11145,7 @@
     "company_name": "RTX",
     "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
     "title": "Machine Learning Researcher Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11438,7 +11466,7 @@
     "company_name": "Cirrus Logic",
     "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
     "title": "AI Business Analytics Co-op Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13517,7 +13545,7 @@
     "company_name": "JP Morgan Chase",
     "id": "eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
     "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -14976,7 +15004,7 @@
     "company_name": "McKesson",
     "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
     "title": "AI & Strategic Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -17878,7 +17906,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -18041,7 +18069,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -18999,7 +19027,7 @@
     "company_name": "GE Healthcare",
     "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -19057,7 +19085,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -24394,7 +24422,7 @@
     "company_name": "NVIDIA",
     "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
     "title": "PhD Research Intern - System Software and I/O Architecture",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -43906,7 +43934,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -43934,7 +43962,7 @@
     "company_name": "Smith+Nephew",
     "id": "43fc1cbd-3521-4e19-9bbc-45a986e4ff9e",
     "title": "Operational Technology Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -50193,7 +50221,7 @@
     "company_name": "Salesforce",
     "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
     "title": "AI Builder - Emerging Talent",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -51426,7 +51454,7 @@
     "company_name": "GE Healthcare",
     "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
     "title": "Surgery Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -92243,7 +92271,7 @@
     "company_name": "Regal Rexnord",
     "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
     "title": "Application Engineering Co-Op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -101516,7 +101544,7 @@
     "company_name": "GE Healthcare",
     "id": "16245ae0-c25a-4918-a292-b5fdd502742f",
     "title": "Surgery Field Engineer Apprentice Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -127601,7 +127629,7 @@
     "company_name": "University of Wyoming",
     "id": "05a80acf-e9d1-4244-982a-27110bc925ee",
     "title": "Makerspace Aide - UWIN Makerspace Tech - Academic Technology Services",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
