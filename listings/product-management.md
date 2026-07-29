@@ -1,9 +1,10 @@
-# Product Management (30)
+# Product Management (31)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | Product Management Intern | Southfield, MI | Fall 2026 | 2026-07-29 | 0 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) | Product Operations Analyst Intern | Dallas, TX | Fall 2026 | 2026-07-28 | 1 | simplify-2026 |
 | [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) | AI Product Management Intern | Durham, NC | Fall 2026 | 2026-07-27 | 2 | simplify-2026 |
 | [TJX](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Product---Quality-Specialist-Apprenticeship-Programme_REQ138959-1) | Product & Quality Specialist Apprentice | Watford, UK | Summer 2026 | 2026-07-27 | 2 | simplify-2026 |

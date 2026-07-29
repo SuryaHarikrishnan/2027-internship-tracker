@@ -1,6 +1,58 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Loblaw Companies",
+    "id": "5d6565ee-57cf-4fcf-9e34-63db06c7b27e",
+    "title": "Analyst Co-op - Data Operations",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785338894,
+    "date_posted": 1785283200,
+    "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Data-Operations---Co-op-Student_R2000688374",
+    "locations": [
+      "Brampton, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Bosch Home Comfort",
+    "id": "2970def3-bba8-4f36-a2fe-f710b8bf6414",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785338210,
+    "date_posted": 1785333970,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140457960",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "General Motors",
     "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
@@ -6748,7 +6800,7 @@
     "company_name": "Carnegie Mellon University",
     "id": "71461ba7-a539-4ee9-9e8b-c10785797d7f",
     "title": "Research Intern - School of Computer Science - Language Technologies Institute",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -29229,7 +29281,7 @@
     "company_name": "F. Schumacher & Co.",
     "id": "4ecd563d-7e5c-4be4-9a0f-b2b33e9bf6bc",
     "title": "Product Data Strategy and Operations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -30966,7 +31018,7 @@
     "company_name": "Persistent Systems",
     "id": "5046a684-049e-42fa-ad93-7d21aeed4084",
     "title": "Hardware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -46149,6 +46201,32 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HERE Technologies",
+    "id": "53554902-8b60-4c49-9764-0c5a6093b044",
+    "title": "Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1780524361,
+    "date_posted": 1780524182,
+    "url": "https://careers-here.icims.com/jobs/81589/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/HERE-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
       "Master's"
     ],
     "_sources": [
@@ -245074,7 +245152,7 @@
     "company_name": "W.R. Berkley",
     "id": "0df4093f-ef9b-4ac3-a0aa-1d74ee3664ce",
     "title": "Business and Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -336458,32 +336536,6 @@
   },
   {
     "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://job-boards.greenhouse.io/virturecruitinghidden/jobs/8314488002",
-    "company_name": "Virtu Financial",
-    "title": "Internship - Low Latency Software Engineer",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quantitative Finance",
-    "source": "angie-hue",
-    "id": "e3c092ba-0df0-448d-bb53-ee47883f2be7",
-    "date_posted": 1764604736,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1764858222,
     "sponsorship": "Offers Sponsorship",
     "active": false,
     "degrees": [
@@ -341789,229 +341841,6 @@
       "NYC"
     ],
     "company_url": "https://simplify.jobs/c/The-New-York-Times",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The Walt Disney Company",
-    "id": "0329ff83-5343-4d79-9818-31671e808b7e",
-    "title": "English Business \u2013 Graduate Data Science Engineering Intern - JM - Disney Ad Sales','Summer 2026",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764611676,
-    "date_posted": 1764611676,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/English-Business-Title--JM--Disney-Ad-Sales--Graduate-Data-Science-Engineering-Intern--Summer-2026_10137250",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Apex Fintech Solutions",
-    "id": "1ec89d97-6eda-4adf-a79f-7a35e2b07fd1",
-    "title": "Product Management Intern - Software Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764608883,
-    "date_posted": 1764608883,
-    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Management-Intern--Software-Engineering-_JR103955",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Apex Fintech Solutions",
-    "id": "9d3fed51-680c-43ea-973d-8580b15701bd",
-    "title": "Software Engineer Intern - Accounts",
-    "active": false,
-    "terms": [
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027"
-    ],
-    "date_updated": 1764608882,
-    "date_posted": 1764608882,
-    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Accounts-_JR103944",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Marsh & McLennan",
-    "id": "3663406a-f1d4-489a-a573-de26f40d89e2",
-    "title": "Government Health Consulting Informatics Summer Intern - College Program 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764608378,
-    "date_posted": 1764608378,
-    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2026_R_332424-1",
-    "locations": [
-      "Phoenix, AZ",
-      "Minneapolis, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Marsh-McLennan",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "HERE Technologies",
-    "id": "9e2542a0-7769-4aea-ba17-7d6a79f61a8b",
-    "title": "Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764607151,
-    "date_posted": 1764607151,
-    "url": "https://careers-here.icims.com/jobs/78822/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/HERE-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Seagate Technology ",
-    "id": "d6564d9b-6e7b-4af3-98b4-4c6fdb9957d1",
-    "title": "Intern AI Design Discovery",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764606266,
-    "date_posted": 1764606266,
-    "url": "https://seagatecareers.com/job/Bloomington-Intern-AI-Design-Discovery-Summer-2026-MN/1346328900/?ats=successfactors",
-    "locations": [
-      "Bloomington, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Seagate-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Corning",
-    "id": "8ebdf10f-4df1-442b-8a3f-dd94705b61e8",
-    "title": "Cost Modeling Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764606088,
-    "date_posted": 1764606088,
-    "url": "https://corningjobs.corning.com/job/Charlotte-Cost-Modeling-Intern-Summer-2026-NC-28216/1346275400/?ats=successfactors",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Corning",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Shield AI",
-    "id": "9a759733-98c9-440d-bfb1-a72ba4f569a0",
-    "title": "Flight Test Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764605810,
-    "date_posted": 1764605810,
-    "url": "https://jobs.lever.co/shieldai/7daf3d20-9653-4909-8b4b-8da1c063cf13/apply",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Shield-AI",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Amazon",
-    "id": "1221465a-780e-4e0d-8bc9-5869afde55a9",
-    "title": "Software Dev Intern - AI / Machine Learning",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1764605555,
-    "date_posted": 1764605555,
-    "url": "https://amazon.jobs/en/jobs/3130532/software-dev-intern-ai-machine-learning",
-    "locations": [
-      "London, UK",
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

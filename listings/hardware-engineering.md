@@ -1,4 +1,4 @@
-# Hardware Engineering (185)
+# Hardware Engineering (184)
 
 [← back to index](../README.md)
 
@@ -77,7 +77,6 @@
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047) | Digital Verification Engineer Intern | Kanata, Ottawa, ON, Canada | Summer 2026 | 2026-06-23 | 36 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515/apply) | Embedded Software AI Intern Co-op | Austin, TX | Fall 2026 | 2026-06-23 | 36 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | 37 | simplify-2026 |
-| [Persistent Systems](https://careers-persistentsystems.icims.com/jobs/2270/job?mobile=true&needsRedirect=false) | Hardware Engineer Intern | NYC | Fall 2026 | 2026-06-22 | 37 | simplify-2026 |
 | [Teledyne](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119) | Computer Engineer Intern | Lincoln, NE | Spring 2026 | 2026-06-20 | 39 | simplify-2026 |
 | [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830) | Mechanical Production Engineering Apprentice | Bristol, UK | Summer 2026 | 2026-06-19 | 40 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858) | Digital Logic + Design Verification Co-op | Santa Clara, CA | Fall 2026 | 2026-06-18 | 41 | simplify-2026 |
