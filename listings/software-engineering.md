@@ -1,4 +1,4 @@
-# Software Engineering (411)
+# Software Engineering (412)
 
 [← back to index](../README.md)
 
@@ -6,12 +6,15 @@
 |---|---|---|---|---|---|---|
 | [Forus](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true) | Engineer Intern | NYC | Fall 2026 | 2026-07-30 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278578) | Software Engineer Intern - Software Engineer - AI Infrastructure | Palo Alto, CA | Fall 2026 | 2026-07-30 | 0 | simplify-2026 |
+| [Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Application-Engineer-Co-op_R3312-1) | Application Engineer Co-op | Lehi, UT | Fall 2026 | 2026-07-30 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | Software Engineer Intern | McKinney, TX | Summer 2027 | 2026-07-30 | 0 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | Frontend Developer Internship | NYC | Summer 2027 | 2026-07-29 | 1 | simplify-2026 |
 | [RapDev](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true) | ServiceNow Engineer Intern | Boston, MA | Fall 2026 | 2026-07-29 | 1 | simplify-2026 |
 | [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Application Developer Intern | Indianapolis, IN | Summer 2026 | 2026-07-29 | 1 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113) | AI Productivity & Adoption Co-op | Toronto, ON, Canada | Fall 2026 | 2026-07-29 | 1 | simplify-2026 |
 | [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431) | Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams | Golden, CO | Fall 2026 | 2026-07-29 | 1 | simplify-2026 |
 | [KBR](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Computer-Science-Technician-Trainee_R2127492) | Computer Science Technician Trainee | Beavercreek, OH | N/A | 2026-07-29 | 1 | simplify-2026 |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330) | Digital Vehicle Experience Software Developer Co-op | Markham, ON, Canada | Fall 2026 | 2026-07-29 | 1 | simplify-2026 |
 | [Kognitos](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true) | Forward Deployed Engineer Intern | Mountain View, CA | Fall 2026 | 2026-07-28 | 2 | simplify-2026 |
 | [Savannah River National Laboratory](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164) | Software Developer Undergraduate Intern | North Augusta, SC | Summer 2026 | 2026-07-28 | 2 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Engineer-I--Summer-2027-_01862159) | Software Engineer 1 | Hartford, CT | N/A | 2026-07-28 | 2 | simplify-2026 |
@@ -306,7 +309,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7626504892836530485/detail) | Student Researcher - Seed Infra Compiler | San Jose, CA | N/A | 2026-04-11 | 110 | simplify-2026 |
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301721) | Tradeweb International Intern Program - JavaScript UI Developer - Technology Division | London, UK | Summer 2026 | 2026-04-09 | 112 | simplify-2026 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | Mobile iOS Developer Intern | NYC | Summer 2026 | 2026-04-07 | 114 | simplify-2026 |
-| [Notion](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application) | Software Engineer Intern | SF | Fall 2026 | 2026-04-07 | 114 | simplify-2026 |
 | [Omnis](https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753) | Software Engineering Internship/Co-Op | Venice, CA | Summer 2026 | 2026-04-06 | 115 | simplify-2026 |
 | [Veeva](https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/) | Intern Software Engineer | Pleasanton, CA | Summer 2026 | 2026-04-06 | 115 | simplify-2026 |
 | [Haize Labs](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) | Software Engineer Intern | NYC | Summer 2026 | 2026-04-02 | 119 | simplify-2026 |
@@ -323,7 +325,6 @@
 | [Ellipsis Labs](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application) | Software Engineer | NYC | Summer 2027 | 2026-03-26 | 126 | simplify-2026 |
 | [Uncountable](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | Full-Stack Intern | London, UK, SF, NYC, Munich, Germany | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-25 | 127 | simplify-2026 |
 | [Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI/0437c678-bd5a-429d-b34b-bfd3b70d1793/application) | Agent Deployment Engineer | Palo Alto, CA | Summer 2026 | 2026-03-24 | 128 | simplify-2026 |
-| [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | Mission Software – Intern - Python | El Segundo, CA | Fall 2026 | 2026-03-24 | 128 | simplify-2026 |
 | [Intropic](https://jobs.lever.co/intropic/1427876a-fb80-4ee1-96da-79cac32a7803/apply) | Quantrepreneur - Engineering | London, UK | N/A | 2026-03-23 | 129 | simplify-2026 |
 | [CalAmp](https://careers-calamp.icims.com/jobs/4326/intern%2c-engineer-software---carlsbad%2c-ca-%28summer-2026%29/job) | ntern, Engineer Software | Carlsbad, Ca | Summer 2026 | 2026-03-23 | 129 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7595749912930420997/detail) | Software Engineer Project Intern - Network Security | San Jose, CA | Summer 2026 | 2026-03-21 | 131 | simplify-2026 |

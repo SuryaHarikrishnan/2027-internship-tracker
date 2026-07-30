@@ -1,4 +1,4 @@
-# Quantitative Finance (114)
+# Quantitative Finance (113)
 
 [← back to index](../README.md)
 
@@ -117,4 +117,3 @@
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | Quant Research Intern | London, UK | Summer 2026 | 2026-02-04 | 176 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8389431002) | Fund Flow Quantitative Researcher | Stamford, CT, NYC | N/A | 2026-01-23 | 188 | simplify-2026 |
 | [Voltus](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | Energy Markets Intern | Remote in USA, Remote in Canada | Spring 2026 | 2026-01-05 | 206 | simplify-2026 |
-| [Barclays](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | Markets Quantitative Analyst Summer Internship 2027 New York | New York, NY | Summer 2027 | 2025-12-02 | 240 | simplify-2026 |
