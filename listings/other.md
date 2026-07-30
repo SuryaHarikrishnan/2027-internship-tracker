@@ -1,4 +1,4 @@
-# Other (203)
+# Other (201)
 
 [← back to index](../README.md)
 
@@ -28,7 +28,6 @@
 | [Hirevue Inc](https://jobs.smartrecruiters.com/HireVue/744000138728139) | Data Science Intern | Remote |  | 2026-07-27 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Virtu](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, New York, NY |  | 2026-07-27 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Software Engineer Intern | Austin, TX, New York |  | 2026-07-27 | 3 | vanshb03-2026, vanshb03-2027 |
-| [Moog](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) | Software Engineer Intern | Buffalo, NY |  | 2026-07-27 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | Software Engineering Intern, Power Modeling & AI Tools | Santa Clara, CA |  | 2026-07-27 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Anthelion Capital](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) | Quant Developer / Quant Research Intern | New York City, NY |  | 2026-07-27 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Quadrillion Labs](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) | Software Engineering Intern | New York, NY |  | 2026-07-27 | 3 | vanshb03-2026, vanshb03-2027 |
@@ -156,7 +155,6 @@
 | [TETRAMEM](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) | Software Engineer Intern, Embedded | San Jose, CA |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Fiserv](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b) | Technology Intern | Columbus, OH |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Skyworks](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100) | Analog IC Design Co-op | Irvine, CA |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
-| [Hermeus](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) | Modeling & Simulation Software Engineering Intern | Los Angeles, CA |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894) | Software Engineer Intern | Vancouver, Canada |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [NBCUniversal](https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194) | Software Engineering Intern | New York, NY |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [NBCUniversal](https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427) | Software Engineering Intern | Universal City, CA |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |

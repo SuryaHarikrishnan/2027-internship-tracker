@@ -1,5 +1,72 @@
 [
   {
+    "date_updated": 1785422186,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Moog",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "088d0c0f-0e47-4bd0-944e-1b85da04c393",
+    "date_posted": 1785124697,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785422147,
+    "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "company_name": "Hermeus",
+    "title": "Modeling & Simulation Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "cbbbba0c-1096-4182-8210-d2ec331ef01b",
+    "date_posted": 1776726863,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BlackRock",
+    "id": "87da713b-e024-4492-b0c5-f4967a852bdb",
+    "title": "Veterans Transition Program Associate - Platform Enablement Application Engineer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785409215,
+    "date_posted": 1783900800,
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Veterans-Transition-Program-Associate--Platform-Enablement-Application-Engineer_R264973",
+    "locations": [
+      "Wilmington, DE",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackRock",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "Hardware",
     "company_name": "Rivian and Volkswagen Group Technologies",
@@ -233,7 +300,7 @@
     "company_name": "Loop",
     "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -260,7 +327,7 @@
     "company_name": "Leidos",
     "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
     "title": "Application Developer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -835,7 +902,7 @@
     "company_name": "RTX",
     "id": "c59f71b0-614c-493e-909b-978a9b21eb58",
     "title": "Software Engineer 2",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -885,7 +952,7 @@
     "company_name": "Magna",
     "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
     "title": "IoT Systems Engineer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -3548,27 +3615,6 @@
     ]
   },
   {
-    "date_updated": 1785124697,
-    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
-    "locations": [
-      "Buffalo, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Moog",
-    "title": "Software Engineer Intern",
-    "source": "vanshb03",
-    "id": "088d0c0f-0e47-4bd0-944e-1b85da04c393",
-    "date_posted": 1785124697,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1785124679,
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
     "locations": [
@@ -3814,7 +3860,7 @@
     "company_name": "Pennsylvania State University",
     "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "title": "Research Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -4153,7 +4199,7 @@
     "company_name": "City of Austin",
     "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
     "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -8834,7 +8880,7 @@
     "company_name": "Magna",
     "id": "b00bb3e9-1948-4552-b774-ff0117f8b02f",
     "title": "Student Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -9206,7 +9252,7 @@
     "company_name": "GE Healthcare",
     "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10239,7 +10285,7 @@
     "company_name": "NeoSigma",
     "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
     "title": "Member of Technical Staff Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -10344,7 +10390,7 @@
     "company_name": "SpreeAI ",
     "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
     "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -10370,7 +10416,7 @@
     "company_name": "SpreeAI ",
     "id": "4c54516c-986b-40c6-be23-fc11b0404861",
     "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -10528,7 +10574,7 @@
     "company_name": "Gitar, Inc.",
     "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2025"
     ],
@@ -10554,7 +10600,7 @@
     "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
     "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
     "title": "Data and AI Engineering Associate Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -10652,7 +10698,7 @@
     "company_name": "Mobius Renewables",
     "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -10734,7 +10780,7 @@
     "company_name": "Blue Robotics",
     "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
     "title": "Electronics Design Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -11339,7 +11385,7 @@
     "company_name": "Odin Dynamics, Inc",
     "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
     "title": "Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -11529,7 +11575,7 @@
     "company_name": "Denari",
     "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
     "title": "Product & Software Internship",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -12073,7 +12119,7 @@
     "company_name": "RTX",
     "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
     "title": "Machine Learning Researcher Intern/Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -12660,7 +12706,7 @@
     "company_name": "GE Healthcare",
     "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
     "title": "Engineering Development Program Intern - Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12720,7 +12766,7 @@
     "company_name": "GE Healthcare",
     "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
     "title": "Engineering Development Program Intern - Hardware",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12832,7 +12878,7 @@
     "company_name": "GE Healthcare",
     "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
     "title": "Surgery Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13785,7 +13831,7 @@
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -13839,7 +13885,7 @@
     "company_name": "GE Healthcare",
     "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -18548,7 +18594,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -18631,7 +18677,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -18834,7 +18880,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -19615,7 +19661,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -22722,7 +22768,7 @@
     "company_name": "American University",
     "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
     "title": "Quantitative Research Methodology Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -25585,7 +25631,7 @@
     "company_name": "Valeo",
     "id": "57867254-f2d4-4dde-8c88-48df01a1f80f",
     "title": "Warranty Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -27625,7 +27671,7 @@
     "company_name": "Worcester Polytechnic Institute",
     "id": "64f8ea93-94b9-49f5-8369-66579fc43d6d",
     "title": "Research Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27732,7 +27778,7 @@
     "company_name": "Netflix",
     "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
     "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -28714,7 +28760,7 @@
     "company_name": "Liberty University",
     "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
     "title": "Business Analyst Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -33289,7 +33335,7 @@
     "company_name": "Sony",
     "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -44890,7 +44936,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -52436,7 +52482,7 @@
     "company_name": "GE Healthcare",
     "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
     "title": "Surgery Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -66852,7 +66898,7 @@
     "company_name": "Medpace, Inc.",
     "id": "ea8ff237-6cb5-424b-917e-9ce08abf23a1",
     "title": "AI Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -67522,7 +67568,7 @@
     "company_name": "SOTI",
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
     "title": "Product Manager Intern - Sales Enablement Products",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -75906,7 +75952,7 @@
     "company_name": "NVIDIA",
     "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
     "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -95687,27 +95733,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1776726863,
-    "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Hermeus",
-    "title": "Modeling & Simulation Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "cbbbba0c-1096-4182-8210-d2ec331ef01b",
-    "date_posted": 1776726863,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -337418,32 +337443,6 @@
     ]
   },
   {
-    "date_updated": 1764858222,
-    "sponsorship": "Offers Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://smbc.recsolu.com/external/requisitions/cvDDu80WqB4iAQYvnDFZwA",
-    "company_name": "Sumitomo Mitsui Banking Corporation",
-    "title": "Fixed Income Systematic Trading Strats",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quantitative Finance",
-    "source": "adamthorne27",
-    "id": "7ec94309-1528-4767-8498-2536ec23b035",
-    "date_posted": 1764679929,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "Pinterest",
@@ -341099,78 +341098,6 @@
     "date_posted": 1764689200,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ciena",
-    "id": "be0d3c5b-5d80-40a8-9b51-3fcb5e78a7f0",
-    "title": "Intern AI Prompt Engineer for Technical Documentation",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1764673910,
-    "date_posted": 1764673910,
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Intern--AI-Prompt-Engineer-for-Technical-Documentation--Winter-2026-_R029548",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "77fa3b02-5cbc-4b74-a4c8-8eb436f882fb",
-    "title": "Software Engineering Intern - Circuit Simulation",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764673700,
-    "date_posted": 1764673700,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern--Circuit-Simulation-_R52014",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Plexus",
-    "id": "d4b10bec-2fcd-42f4-8194-b1568d20ef2d",
-    "title": "Summer Internship 2026 - Engineering Solutions",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764673219,
-    "date_posted": 1764673219,
-    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Livingston-United-Kingdom/Summer-Internship-2026---Engineering-Solutions_R035272",
-    "locations": [
-      "Livingston, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Plexus",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
