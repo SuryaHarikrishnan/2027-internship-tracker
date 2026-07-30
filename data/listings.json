@@ -1,5 +1,34 @@
 [
   {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rivian and Volkswagen Group Technologies",
+    "id": "04d1606f-f4e5-4d3e-8dfb-7e6f6058d4ef",
+    "title": "Electromechanical Design Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785400367,
+    "date_posted": 1781168821,
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true",
+    "locations": [
+      "Palo Alto, CA",
+      "Urbana, IL",
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "date_updated": 1785395311,
     "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896",
     "locations": [
@@ -204,7 +233,7 @@
     "company_name": "Loop",
     "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -231,7 +260,7 @@
     "company_name": "Leidos",
     "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
     "title": "Application Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -754,7 +783,7 @@
     "company_name": "General Motors",
     "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
     "title": "Digital Vehicle Experience Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -856,7 +885,7 @@
     "company_name": "Magna",
     "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
     "title": "IoT Systems Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -880,7 +909,7 @@
     "company_name": "Newmont",
     "id": "7370520c-89d3-4038-b511-9357a4f2cbd4",
     "title": "Temp Technician - Core Shed",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -904,7 +933,7 @@
     "company_name": "PathAI",
     "id": "0d592991-3f3c-4b1b-b380-4395ca871e34",
     "title": "Software Engineering Mlops Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -1954,7 +1983,7 @@
     "company_name": "Blackberry",
     "id": "2ac22162-948b-43cf-978a-c2b3a2ac0a58",
     "title": "QNX-Software Development Student - Acoustics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -2290,7 +2319,7 @@
     "company_name": "RSM",
     "id": "01bec32c-d5a0-4a23-b905-fe2e3cef04b0",
     "title": "Microsoft Dynamics 365 Business Central Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027"
     ],
@@ -3863,7 +3892,7 @@
     "company_name": "MSI",
     "id": "3a767599-d8fd-41d0-bd1b-3537ed8da7fd",
     "title": "Rotational Undergraduate Analyst - Msi",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -4124,7 +4153,7 @@
     "company_name": "City of Austin",
     "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
     "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6872,7 +6901,7 @@
     "company_name": "Iowa State University",
     "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
     "title": "Postdoctoral Research Associate",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -7866,7 +7895,7 @@
     "company_name": "Exploration Technology Corp.",
     "id": "47e4c7a3-4e58-4c51-ae2c-1fffd28ec50d",
     "title": "Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -8368,7 +8397,7 @@
     "company_name": "Leidos",
     "id": "26f0b98b-cb97-4552-8846-a6e5481fe346",
     "title": "Targeting Officer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10210,7 +10239,7 @@
     "company_name": "NeoSigma",
     "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
     "title": "Member of Technical Staff Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10315,7 +10344,7 @@
     "company_name": "SpreeAI ",
     "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
     "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10341,7 +10370,7 @@
     "company_name": "SpreeAI ",
     "id": "4c54516c-986b-40c6-be23-fc11b0404861",
     "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10499,7 +10528,7 @@
     "company_name": "Gitar, Inc.",
     "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2025"
     ],
@@ -10525,7 +10554,7 @@
     "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
     "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
     "title": "Data and AI Engineering Associate Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10623,7 +10652,7 @@
     "company_name": "Mobius Renewables",
     "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10705,7 +10734,7 @@
     "company_name": "Blue Robotics",
     "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
     "title": "Electronics Design Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11078,7 +11107,7 @@
     "company_name": "Monogram",
     "id": "d7821fbd-3cb4-4151-a853-5c8911d5ae97",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11310,7 +11339,7 @@
     "company_name": "Odin Dynamics, Inc",
     "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11500,7 +11529,7 @@
     "company_name": "Denari",
     "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
     "title": "Product & Software Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -11654,7 +11683,7 @@
     "company_name": "Kinetic Systems",
     "id": "98fd8c34-90ad-4220-a736-36f13aaa2924",
     "title": "Applied AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -12044,7 +12073,7 @@
     "company_name": "RTX",
     "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
     "title": "Machine Learning Researcher Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13489,7 +13518,7 @@
     "company_name": "Veralto",
     "id": "669285b9-7671-42a2-aa8c-413c7a3d0334",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -18968,7 +18997,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -19586,7 +19615,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -19955,7 +19984,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -19984,7 +20013,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -22693,7 +22722,7 @@
     "company_name": "American University",
     "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
     "title": "Quantitative Research Methodology Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27703,7 +27732,7 @@
     "company_name": "Netflix",
     "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
     "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -33260,7 +33289,7 @@
     "company_name": "Sony",
     "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -38224,7 +38253,7 @@
     "company_name": "Rivian and Volkswagen Group Technologies",
     "id": "39b0338f-985f-4dd5-8adf-290b1e4ca1de",
     "title": "Software Engineer Intern - Connected Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -46722,7 +46751,7 @@
     "company_name": "Medpace",
     "id": "b010cb61-ec8b-4ef7-af0b-f83cdb8fb6fb",
     "title": "Feasibility Informatics Internship/Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2027"
     ],
@@ -51174,7 +51203,7 @@
     "company_name": "Salesforce",
     "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
     "title": "AI Builder - Emerging Talent",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -65573,7 +65602,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -66346,7 +66375,7 @@
     "company_name": "Medpace, Inc.",
     "id": "6548f3eb-d1a3-4d5e-9942-3151de80c19a",
     "title": "Feasibility Informatics Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -66823,7 +66852,7 @@
     "company_name": "Medpace, Inc.",
     "id": "ea8ff237-6cb5-424b-917e-9ce08abf23a1",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -67493,7 +67522,7 @@
     "company_name": "SOTI",
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
     "title": "Product Manager Intern - Sales Enablement Products",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -101460,7 +101489,7 @@
     "company_name": "TikTok",
     "id": "74c89fde-4677-4b10-b706-43f45065e8e4",
     "title": "Research Scientist Intern - E-commerce Recommendation - LLM Applications",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],

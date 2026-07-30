@@ -1,4 +1,4 @@
-# Product Management (31)
+# Product Management (30)
 
 [← back to index](../README.md)
 
@@ -30,7 +30,6 @@
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 37 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | AI Product Manager Intern | London, UK | Fall 2026 | 2026-06-19 | 41 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | Product Operations Intern | Santa Clara, CA | Summer 2026 | 2026-06-17 | 43 | simplify-2026 |
-| [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | Product Manager Intern - Sales Enablement Products | Mississauga, ON, Canada | Fall 2026 | 2026-05-14 | 77 | simplify-2026 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | Technology Product Analyst Intern | Dallas, TX | Summer 2026 | 2026-03-23 | 129 | simplify-2026 |
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | Summer 2026 | 2026-03-04 | 148 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646448006) | Fall 2026: Product Development Co-op - Shark - July to December | Needham, MA | Fall 2026 | 2026-01-21 | 190 | simplify-2026 |
