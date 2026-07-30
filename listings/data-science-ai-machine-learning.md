@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (500)
+# Data Science, AI & Machine Learning (495)
 
 [← back to index](../README.md)
 
@@ -162,7 +162,6 @@
 | [Argonne National Laboratory](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Business-Systems-Administration-Internship_413528) | Business Systems Administration Internship | Remote in USA, Woodridge, IL | Fall 2026 | 2026-07-04 | 26 | simplify-2026 |
 | [International Rescue Committee (IRC)](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development---Grant-Coordination-Intern--Summer-2026-_JR00002373) | Development Data and Research Intern | Silver Spring, MD | Fall 2026 | 2026-07-04 | 26 | simplify-2026 |
 | [Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790) | AI Value Creation Office Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-04 | 26 | simplify-2026 |
-| [Output Biosciences](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application) | Research Intern - Machine Learning | SF, NYC | Fall 2026 | 2026-07-04 | 26 | simplify-2026 |
 | [Arlington County VA](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624) | Utility Engineering Intern | Arlington, VA | Fall 2026 | 2026-07-03 | 27 | simplify-2026 |
 | [Two Six Technologies](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | China Subject Matter Expert Intern | Remote in USA | Fall 2026 | 2026-07-02 | 28 | simplify-2026 |
 | [Bot Auto](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Deep Learning Engineer Intern | Houston, TX | Fall 2026 | 2026-07-02 | 28 | simplify-2026 |
@@ -298,14 +297,10 @@
 | [PlusAI](https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply) | Research Engineer Intern - Mapping & Localization | Santa Clara, CA | Summer 2026 | 2026-05-26 | 65 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply) | Research Engineer Intern | Santa Clara, CA | Summer 2026 | 2026-05-26 | 65 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply) | Computer Vision Engineer Intern | Santa Clara, CA | Summer 2026 | 2026-05-26 | 65 | simplify-2026 |
-| [PlusAI](https://jobs.lever.co/plus-2/e4b669b3-c07f-4b5f-abb6-c1c6db602a64/apply) | Perception Intern | Santa Clara, CA | Summer 2026 | 2026-05-26 | 65 | simplify-2026 |
-| [PlusAI](https://jobs.lever.co/plus-2/58d77886-bf3a-4707-8af8-e1af47162e2e/apply) | Deep Learning Intern | Santa Clara, CA | Summer 2026 | 2026-05-26 | 65 | simplify-2026 |
 | [Black Box](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315) | AI Engineer Intern | Plano, TX | Summer 2026 | 2026-05-26 | 65 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) | Applied Machine Learning Scientist Intern | Santa Clara, CA | Summer 2026 | 2026-05-23 | 68 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Artificial-Intelligence-Student_R00243652) | Artificial Intelligence Student | Vaughan, ON, Canada | N/A | 2026-05-22 | 69 | simplify-2026 |
-| [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/870833317E/apply) | AI Inference Engineer Intern - Model Pruning | Burlingame, CA | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) | Research Engineer Intern - Control | Santa Clara, CA | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |
-| [PlusAI](https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2/apply) | Machine Learning Engineer Intern - Scenario Generation | Santa Clara, CA | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | Scenario Simulation Intern | Santa Clara, CA | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) | Machine Learning Engineer Intern - Planning | Santa Clara, CA | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |
 | [EV Realty](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | Data Analytics Intern | Salt Lake City, UT, SF | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |

@@ -1,9 +1,11 @@
-# Other (201)
+# Other (202)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | Frontend & User Experience Intern | New York, NY |  | 2026-07-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [General Dynamics Information Technology](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | Systems Engineer Intern | Albany, NY |  | 2026-07-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Nightwing](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD |  | 2026-07-28 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us) | Software Engineering Intern, Spring 2027 | Golden, CO |  | 2026-07-28 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) | Software Engineering Intern | Golden, CO |  | 2026-07-28 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -150,7 +152,6 @@
 | [TikTok](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | Software Engineer Intern, Recommendation Infrastructure | Seattle, WA |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Pinterest](https://www.pinterestcareers.com/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?jr_id=69e683219b6eb37e26f80c4f&gh_jid=7255640) | Machine Learning Intern, PhD | San Francisco, CA, Palo Alto, CA, Seattle, WA, New York, NY |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [PathAI](https://www.pathai.com/career/job-post?gh_jid=8202342002) | Machine Learning Intern, AI Product and ML Core | Boston, MA, New York, NY, Remote |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
-| [Avanade](https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173) | Software Engineering Intern | Los Angeles, CA, Seattle, WA |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Intercontinental Exchange, Inc.](https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9) | Artificial Intelligence, Data & Machine Learning Intern | New York, NY |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [TETRAMEM](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) | Software Engineer Intern, Embedded | San Jose, CA |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Fiserv](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b) | Technology Intern | Columbus, OH |  | 2026-04-20 | 101 | vanshb03-2026, vanshb03-2027 |

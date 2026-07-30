@@ -1,4 +1,4 @@
-# Hardware Engineering (185)
+# Hardware Engineering (184)
 
 [← back to index](../README.md)
 
@@ -107,7 +107,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/270067) | Embedded Software Engineer Intern - Keys & Authentication | Palo Alto, CA | Fall 2026 | 2026-06-07 | 53 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270354) | Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 53 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272601) | Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 53 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/271866) | Software Integration Engineer Intern - Software Integration Engineer - Service Tooling | Fremont, CA | Fall 2026 | 2026-06-07 | 53 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271539) | Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 54 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) | Lab Technician Intern | Santa Monica, CA | Summer 2026 | 2026-06-04 | 56 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer 2026 | 2026-06-03 | 57 | simplify-2026 |

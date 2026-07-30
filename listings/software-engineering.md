@@ -1,4 +1,4 @@
-# Software Engineering (412)
+# Software Engineering (411)
 
 [← back to index](../README.md)
 
@@ -257,7 +257,6 @@
 | [Meshy](https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9) | Data Infra Engineer Intern | San Francisco, CA | Summer 2026 | 2026-05-27 | 64 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005) | Platform Applications Engineer Intern Co-op | Vancouver, BC, Canada | Summer 2026 | 2026-05-27 | 64 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application) | Software Engineer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 64 | simplify-2026 |
-| [PlusAI](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply) | Systems Engineer Intern | Santa Clara, CA | Summer 2026 | 2026-05-27 | 64 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664323) | Software PhD Intern | United States | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664320) | Software Engineering Masters Intern | United States | Summer 2026 | 2026-05-22 | 69 | simplify-2026 |
 | [Reply](https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5/apply) | IOS Developer Intern | Michigan | Summer 2026 | 2026-05-21 | 70 | simplify-2026 |
