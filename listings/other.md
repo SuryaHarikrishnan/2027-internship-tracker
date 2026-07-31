@@ -1,9 +1,18 @@
-# Other (202)
+# Other (211)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | Software Engineer Intern, Embedded Platforms | Palo Alto, CA, Irvine, CA |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Cirrus Logic](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | Embedded Software Test Engineer Intern | Austin, TX |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Data Engineering Intern | Stamford, CT, Houston, TX, New York City, NY |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) | Data Science Machine Learning Intern | Stamford, CT, Houston, TX, New York City, NY |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [DRW](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) | Software Developer Intern | Montréal |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [DRW](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) | Platform Engineer Intern | Chicago, IL |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [DRW](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) | AI/ML Research Intern | Montréal |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [FTI Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) | Technology Intern | Atlanta, GA, Chicago, IL, Houston, TX, Los Angeles, CA, New York, NY, San Francisco, CA, Washington, DC, Chicago, IL, Los Angeles, CA, New York, NY, San Francisco, CA, Washington, DC |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) | Full-Stack Software Engineer Intern | Stamford, CT, Houston, TX |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | Frontend & User Experience Intern | New York, NY |  | 2026-07-30 | 1 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Information Technology](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | Systems Engineer Intern | Albany, NY |  | 2026-07-30 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Nightwing](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD |  | 2026-07-28 | 3 | vanshb03-2026, vanshb03-2027 |

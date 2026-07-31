@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (500)
+# Data Science, AI & Machine Learning (499)
 
 [← back to index](../README.md)
 
@@ -16,7 +16,6 @@
 | [McGill University](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Data---Analytics-Coordinator_JR0000079001) | Data & Analytics Coordinator | Montreal, QC, Canada | N/A | 2026-07-30 | 1 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706) | Video and Analytics Intern - Baseball | Austin, TX | Summer 2026, Fall 2026, Winter 2027, Spring 2027 | 2026-07-30 | 1 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8089407) | Research Engineer Intern | London, UK | Fall 2026 | 2026-07-29 | 2 | simplify-2026 |
-| [Loop](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) | Data Scientist Intern | Toronto, ON, Canada | Fall 2026, Winter 2027 | 2026-07-29 | 2 | simplify-2026 |
 | [Citylogix Inc.](https://ats.rippling.com/citylogix/jobs/6e9e5f30-7699-402f-9979-1fe75671f0ec) | Field Data Collection Technician | Las Vegas, NV, Seattle, WA, Dallas, TX, Wakefield, MA, Phoenix, AZ, Bellevue, WA, Denver, CO, Atlanta, GA | N/A | 2026-07-29 | 2 | simplify-2026 |
 | [Arkema Global](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) | Manufacturing Data Systems Intern | Villanova, PA | Fall 2026 | 2026-07-29 | 2 | simplify-2026 |
 | [Dexterra Group](https://jobs.smartrecruiters.com/Dexterra/744000140536634) | Coordinator AI & Data Systems Co-op | Mississauga, ON, Canada | Fall 2026 | 2026-07-29 | 2 | simplify-2026 |

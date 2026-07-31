@@ -42,7 +42,7 @@
 | [Voloridge](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Quantitative Developer Intern | Jupiter, FL | Fall 2026 | 2026-07-14 | 17 | simplify-2026 |
 | [Voloridge](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Quantitative Research Intern | Jupiter, FL | Summer 2027 | 2026-07-14 | 17 | simplify-2026 |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | Algorithm Development Intern - Quant Research | NYC | Summer 2027 | 2026-07-13 | 18 | simplify-2026 |
-| [DRW](https://job-boards.greenhouse.io/drweng/jobs/7668776) | Quantitative Trading Analyst Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 18 | simplify-2026 |
+| [DRW](https://job-boards.greenhouse.io/drweng/jobs/7668776) | Quantitative Trading Analyst Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) | Quantitative Trading Intern | London, UK, Paris, France | Summer 2026 | 2026-07-13 | 18 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | Rates Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 18 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | Investment & Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 18 | simplify-2026 |
