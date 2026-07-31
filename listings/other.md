@@ -1,9 +1,10 @@
-# Other (211)
+# Other (209)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [SK Hynix Memory Solution](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) | Software Engineer Intern | San Jose, CA |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | Software Engineer Intern, Embedded Platforms | Palo Alto, CA, Irvine, CA |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | Embedded Software Test Engineer Intern | Austin, TX |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Data Engineering Intern | Stamford, CT, Houston, TX, New York City, NY |  | 2026-07-31 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -18,7 +19,6 @@
 | [Nightwing](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD |  | 2026-07-28 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us) | Software Engineering Intern, Spring 2027 | Golden, CO |  | 2026-07-28 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) | Software Engineering Intern | Golden, CO |  | 2026-07-28 | 3 | vanshb03-2026, vanshb03-2027 |
-| [Apptronik](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004&gh_src=rwa9v6mw4us) | Software Engineer Intern, ML Systems | Austin, TX |  | 2026-07-28 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Gemini](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | Software Engineering Intern | New York, NY |  | 2026-07-28 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Touchdown Labs](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) | Member of Technical Staff Intern | San Francisco, CA |  | 2026-07-28 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | Software Engineer Intern | Chicago, IL |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
@@ -30,8 +30,6 @@
 | [Atomic Semi](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | Software Engineer Intern, Chip Design Tools | San Francisco, CA |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Robert Bosch LLC](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | Software Engineer Intern, Autonomous Driving | Sunnyvale, CA |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Core & Main](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | AI/ML Data Engineering Intern | St. Louis, MO |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
-| [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | Agentic Software Engineering Intern | Durham, NC |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
-| [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | Project Management & AI Automation Intern | Frisco, TX |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | AI Engineering Intern | Frisco, TX |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Stevens Capital Management](https://job-boards.greenhouse.io/scm/jobs/721895) | Quantitative Research Analyst Internship | Radnor, PA |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Sentara Health](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | Data & AI Finance Strategy Intern | Virginia Beach, VA |  | 2026-07-27 | 4 | vanshb03-2026, vanshb03-2027 |

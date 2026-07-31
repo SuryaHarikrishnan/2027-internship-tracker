@@ -1,5 +1,89 @@
 [
   {
+    "date_updated": 1785529818,
+    "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "SK Hynix Memory Solution",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "73edeb34-2b12-4989-b4de-50fc553978f8",
+    "date_posted": 1785529818,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785529691,
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "company_name": "Toshiba Commerce Solutions",
+    "title": "Project Management & AI Automation Intern",
+    "source": "vanshb03",
+    "id": "3c08dcce-eb6e-488a-b65c-0d28d616fca1",
+    "date_posted": 1785147487,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785529691,
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
+    "locations": [
+      "Durham, NC"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "company_name": "Toshiba Commerce Solutions",
+    "title": "Agentic Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "3fd7a6f2-433d-466a-a4c3-932a3a905fe0",
+    "date_posted": 1785147492,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785529691,
+    "url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004&gh_src=rwa9v6mw4us",
+    "locations": [
+      "Austin, TX"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Apptronik",
+    "title": "Software Engineer Intern, ML Systems",
+    "source": "vanshb03",
+    "id": "87008b8b-0df3-4e30-92d0-be13810ff9fe",
+    "date_posted": 1785253863,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1785516765,
     "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
     "locations": [
@@ -1926,7 +2010,7 @@
     "company_name": "KBR",
     "id": "e5cda4c5-0633-455f-8d0d-b5ae18db552d",
     "title": "Computer Science Technician Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -3244,27 +3328,6 @@
     ]
   },
   {
-    "date_updated": 1785253863,
-    "url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004&gh_src=rwa9v6mw4us",
-    "locations": [
-      "Austin, TX"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Apptronik",
-    "title": "Software Engineer Intern, ML Systems",
-    "source": "vanshb03",
-    "id": "87008b8b-0df3-4e30-92d0-be13810ff9fe",
-    "date_posted": 1785253863,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1785253445,
     "url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125",
     "locations": [
@@ -3988,7 +4051,7 @@
     "company_name": "Kodak",
     "id": "50f076dc-b912-4d1b-b7d7-59cfb38b5688",
     "title": "Marketing Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4559,7 +4622,7 @@
     "company_name": "GE Appliances",
     "id": "0951e693-d645-4f21-a9eb-fb285f82ae9c",
     "title": "AI Data Science Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -4750,48 +4813,6 @@
     "source": "vanshb03",
     "id": "42d795b7-ff8e-457a-9d85-632e33a49593",
     "date_posted": 1785147499,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1785147492,
-    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
-    "locations": [
-      "Durham, NC"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "Toshiba Commerce Solutions",
-    "title": "Agentic Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "3fd7a6f2-433d-466a-a4c3-932a3a905fe0",
-    "date_posted": 1785147492,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1785147487,
-    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
-    "locations": [
-      "Frisco, TX"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "Toshiba Commerce Solutions",
-    "title": "Project Management & AI Automation Intern",
-    "source": "vanshb03",
-    "id": "3c08dcce-eb6e-488a-b65c-0d28d616fca1",
-    "date_posted": 1785147487,
     "company_url": "",
     "is_visible": true,
     "season": "Fall",
@@ -5040,7 +5061,7 @@
     "company_name": "Toshiba Global Commerce",
     "id": "5dc00cee-4e2e-4533-9b44-94c295ffddd4",
     "title": "Agentic Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -8472,7 +8493,7 @@
     "company_name": "TAP Engineering",
     "id": "81f2c13d-2485-497a-ae69-2e73193cb14e",
     "title": "Software Engineer Level 1",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -16275,7 +16296,7 @@
     "company_name": "Sentara Health",
     "id": "681c9b80-c50a-46fc-8f94-cec1e4cbb554",
     "title": "Enterprise Data & AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -30757,7 +30778,7 @@
     "company_name": "Lila Sciences",
     "id": "6328a189-9c8c-4d76-a8c2-02dc892720ae",
     "title": "Automation Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -44205,7 +44226,7 @@
     "company_name": "Tesla",
     "id": "e5e96098-6521-4bb0-8994-3127501c8908",
     "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -44626,7 +44647,7 @@
     "company_name": "Tesla",
     "id": "d8407a57-173d-4104-a650-05c5456bd0b5",
     "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -44678,7 +44699,7 @@
     "company_name": "Tesla",
     "id": "f4601ab3-f480-4a5c-b297-ead3081a4469",
     "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -152685,7 +152706,7 @@
     "company_name": "Fortinet",
     "id": "81c102c7-236a-49a3-b3ac-c8c71323abef",
     "title": "Software Development - GenAI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -340348,102 +340369,6 @@
       "Arlington, TX"
     ],
     "company_url": "https://simplify.jobs/c/GM-Financial",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "76a6b6ac-b32b-4b68-9cb8-f2f2ce231223",
-    "title": "Vision-Language-Navigation Systems for ADAS Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764788737,
-    "date_posted": 1764788737,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000096840263",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "a4fbe341-3134-4d13-95a8-9d5c46dc3706",
-    "title": "Distributed Embodied AI Systems Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764788736,
-    "date_posted": 1764788736,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000096839252",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "RTX",
-    "id": "e7069e4b-c553-444f-8cdf-b77b46740b0a",
-    "title": "Electrical Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764787192,
-    "date_posted": 1764787192,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026--Intern--Electrical-Engineer-Production-Hardware-Intern---Onsite-_01810095",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Element Biosciences",
-    "id": "8c88a93a-3292-4aa3-ac71-92faf4e4294f",
-    "title": "Genetic Data Scientist",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1764787013,
-    "date_posted": 1764787013,
-    "url": "https://job-boards.greenhouse.io/elementbiosciences/jobs/5721812004",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ElementBiosciences",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
