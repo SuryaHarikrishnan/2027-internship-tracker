@@ -1,4 +1,4 @@
-# Product Management (28)
+# Product Management (29)
 
 [← back to index](../README.md)
 
@@ -23,6 +23,7 @@
 | [Kensington](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | Operations Intern - Ultraluxe Product | Toronto, ON, Canada | Summer 2026 | 2026-06-23 | 39 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 39 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | AI Product Manager Intern | London, UK | Fall 2026 | 2026-06-19 | 43 | simplify-2026 |
+| [Flagright](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | Product Operations Intern | Santa Clara, CA | Summer 2026 | 2026-06-17 | 45 | simplify-2026 |
 | [Centerfield](https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application?embed=true) | Product Manager Intern | LA | Fall 2026 | 2026-06-12 | 50 | simplify-2026 |
 | [Sweatpals](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Product Manager Intern - Host Squad | Remote in USA | Summer 2026 | 2026-06-09 | 53 | simplify-2026 |
 | [Tessera Labs](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Product Manager Intern | San Jose, CA, Remote in USA, NYC | Summer 2026, Fall 2026 | 2026-06-08 | 54 | simplify-2026 |
