@@ -1,6 +1,30 @@
 [
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Oracle",
+    "id": "aa822bdb-dc5f-4ef2-9dd8-6851c3f7f31c",
+    "title": "Data Center Trainee - Data Center Operations",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785662101,
+    "date_posted": 1775513264,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330594",
+    "locations": [
+      "Abilene, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Quant",
     "company_name": "Two Sigma",
     "id": "d7896522-5218-4362-8092-60cacc29a642",
@@ -2949,7 +2973,7 @@
     "company_name": "Citylogix Inc.",
     "id": "15163d00-cb37-433c-86b3-3f93d179b8d1",
     "title": "Field Data Collection Technician",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -4720,7 +4744,7 @@
     "company_name": "Magna",
     "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
     "title": "IoT Systems Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5980,7 +6004,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "d954b282-1586-4e74-818f-8d83c3936a8c",
     "title": "Application Developer 1 - PeopleSoft",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10678,7 +10702,7 @@
     "company_name": "Bespoke Technologies, Inc.",
     "id": "6db3dedb-6d02-4025-82ce-507796ab97fd",
     "title": "R&D Computer Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10706,7 +10730,7 @@
     "company_name": "3dB Labs",
     "id": "e21e6f0c-d60c-47df-aee9-20fc973d43ba",
     "title": "Labs",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -11147,7 +11171,7 @@
     "company_name": "Deloitte",
     "id": "7599b00f-543d-45cf-ad21-d80fa58b6d90",
     "title": "Software Engineering Analyst - Government & Public Services - Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -11199,7 +11223,7 @@
     "company_name": "Deloitte",
     "id": "15e2628c-9ea6-46b7-b10b-1c4aae03e7df",
     "title": "Consultative Offerings Analyst - Government & Public Services - AI & Data Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -11484,7 +11508,7 @@
     "company_name": "Rivian",
     "id": "ad36c275-69d8-4f8a-a543-c15d377852e5",
     "title": "Research Park Intern - Embedded Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -12661,7 +12685,7 @@
     "company_name": "Analog Devices",
     "id": "523819c3-69f8-43ab-9ed1-81e28aea88f6",
     "title": "Junior Layout Design Engineer - Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -13396,7 +13420,7 @@
     "company_name": "Toyota Research Institute",
     "id": "2b494321-fbc0-4139-834b-d582eac6bb57",
     "title": "AI Resident - Learning From Videos - Lfv",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -14121,7 +14145,7 @@
     "company_name": "SpreeAI ",
     "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
     "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -22146,7 +22170,7 @@
     "company_name": "L3Harris Technologies",
     "id": "4b2e2f45-3126-41ce-9506-f526d2c82376",
     "title": "SkillBridge Senior Specialist - Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -22362,7 +22386,7 @@
     "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -22782,7 +22806,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23761,7 +23785,7 @@
     "company_name": "GE Healthcare",
     "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23819,7 +23843,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -24576,7 +24600,7 @@
     "company_name": "Zurich Insurance",
     "id": "389af113-9575-45fb-9bbf-493e37f9ef0d",
     "title": "Digital Trading Underwriter Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -24706,7 +24730,7 @@
     "company_name": "Innodata",
     "id": "4c9bb250-a013-4acd-8de3-05b3d7c7f2b2",
     "title": "Generative AI Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -25779,7 +25803,7 @@
     "company_name": "SCOR",
     "id": "8b269186-08b4-44b2-b837-dc52fe571905",
     "title": "Exposure Management & Accumulations Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27658,7 +27682,7 @@
     "company_name": "AI Fund",
     "id": "61c906f4-8ea5-4177-8afa-854efd9a7e01",
     "title": "Engineer Marketradar",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -31853,7 +31877,7 @@
     "company_name": "GRVTY",
     "id": "89853369-c8a2-4952-91b2-8db159dfbd9c",
     "title": "Russian Multi-Disciplined Language Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -32091,7 +32115,7 @@
     "company_name": "GRVTY",
     "id": "70080624-6fa9-494e-b073-b0d9ebe07c59",
     "title": "Chinese Multi-Disciplined Language Analyst - Level 1 - 4",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -34919,7 +34943,7 @@
     "company_name": "AG Technologies",
     "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
     "title": "Java Training and Placement",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35602,7 +35626,7 @@
     "company_name": "STEM Xpert",
     "id": "08d690e6-7adf-4b03-8777-af061b925183",
     "title": "Tibco Spotfire",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35653,7 +35677,7 @@
     "company_name": "AG Technologies",
     "id": "082e48cd-d716-48a3-9680-8a4a7fa39d35",
     "title": "DevOps Java OBIEE Salesforce Training and Placement",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35679,7 +35703,7 @@
     "company_name": "Kanshe Infotech",
     "id": "07a5ff16-9935-4009-9cd2-32e9eb46b712",
     "title": "Python Fullstack Training",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -36003,7 +36027,7 @@
     "company_name": "Atria Group",
     "id": "be3aad22-1999-4d92-b4d3-5da3726bd721",
     "title": "Step Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -41470,7 +41494,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "910e3e83-067b-4745-909a-efefbbacd8ec",
     "title": "Application Developer Level 1 - Geographic Information Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -42788,7 +42812,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "f6b08d5d-a560-4521-b32a-58a97a4d3d9f",
     "title": "Application Developer Level 1 - Information Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -51057,7 +51081,7 @@
     "company_name": "ByteDance",
     "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
     "title": "Graduate Software Development Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -52536,7 +52560,7 @@
     "company_name": "American University",
     "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
     "title": "Graduate Event Data Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -58129,7 +58153,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "05e1803e-07e6-4a32-a5be-1e29b9ac66ae",
     "title": "Application Developer Level 1 - iOS",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -59707,7 +59731,7 @@
     "company_name": "Northrop Grumman",
     "id": "57188420-86bc-4aa9-97c2-9a1eea64ec7d",
     "title": "Electromechanical Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -70471,7 +70495,7 @@
     "company_name": "Point72",
     "id": "8aac7553-4bc1-4d00-a652-6a72002cf6b0",
     "title": "Investment Analyst Program for Upcoming Graduates",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -71732,7 +71756,7 @@
     "company_name": "AI Fund",
     "id": "11ea5480-70db-4e67-a6e6-4142d944e289",
     "title": "Engineer in Residence",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -76899,7 +76923,7 @@
     "company_name": "Point72",
     "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
     "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -78577,7 +78601,7 @@
     "company_name": "Smiths Detection Group",
     "id": "0a319815-2604-4c98-94da-26b6a462a885",
     "title": "Depot Service Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -84514,6 +84538,34 @@
   },
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "7adca10a-94b8-4db8-9999-7f79b5e1a0dd",
+    "title": "Software Engineer Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777932672,
+    "date_posted": 1777932346,
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Florida-Melbourne/XMLNAME-2026-Intern-Software-Engineer_R10204604-2",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "HF Sinclair",
     "id": "e6271c10-3bb1-4ba4-9d18-00e58a50a14f",
@@ -86991,7 +87043,7 @@
     "company_name": "AI Fund",
     "id": "10f63732-b872-4b8f-bbb7-529d8b168ab6",
     "title": "Engineer in Residence: Enterprise Agent Infrastructure Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -87325,7 +87377,7 @@
     "company_name": "DoorDash",
     "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
     "title": "AI Research Fellowship Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -93271,7 +93323,7 @@
     "company_name": "AI Fund",
     "id": "130031de-4390-465c-819b-f088fd95a160",
     "title": "Visiting Engineer: Live Selling Copilot Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -93319,7 +93371,7 @@
     "company_name": "AI Fund",
     "id": "2b301aee-6d8a-4e84-b5fb-8ab5a676bfd5",
     "title": "Visiting Engineer: Briocare Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -97605,7 +97657,7 @@
     "company_name": "RoboForce",
     "id": "cb8969ea-a048-45c2-8ba6-f00ae4e5743a",
     "title": "AI Resident Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -102155,7 +102207,7 @@
     "company_name": "Unisys",
     "id": "d70d4c4f-f216-471e-a37d-152ffd6f18cb",
     "title": "Banco de Talentos J\u00f3venes Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -115166,7 +115218,7 @@
     "company_name": "Point72",
     "id": "98eccffc-52b7-4e0c-8582-c067be4b121d",
     "title": "Point72 Academy",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -115195,7 +115247,7 @@
     "company_name": "Point72",
     "id": "246a1421-484f-4ff3-bc4a-36fdd73a9268",
     "title": "Point72 Academy Investment Analyst Program for Experienced Professionals",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -129985,7 +130037,7 @@
     "company_name": "ByteDance",
     "id": "e766517d-2d35-42da-a646-5d0b5173939c",
     "title": "Research Scientist in Speech Foundation Model \u2013 Graduates - Seed - PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -130089,7 +130141,7 @@
     "company_name": "ByteDance",
     "id": "95aa47dc-146b-4b77-b4bf-c6e32f6d99ad",
     "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -131688,7 +131740,7 @@
     "company_name": "Kanshe Infotech",
     "id": "deed4f00-40b1-4e15-a318-5e848adf52e6",
     "title": "Dot Net Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -131893,7 +131945,7 @@
     "company_name": "Atria Group",
     "id": "0a6be2c7-fdee-4022-8221-6eda2e045944",
     "title": "Informatica Admin",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -131944,7 +131996,7 @@
     "company_name": "Kanshe Infotech",
     "id": "b075f87f-70d6-4067-8b91-9fd15fa20351",
     "title": "Python Fullstack Training",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -131968,7 +132020,7 @@
     "company_name": "Kanshe Infotech",
     "id": "13255a90-d8fa-462c-b2b8-b802001750d0",
     "title": "Generative AI Training",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -131992,7 +132044,7 @@
     "company_name": "USM Business Systems",
     "id": "10fd1f55-da69-47fe-9aab-74af4f789977",
     "title": "Perl Programmer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132043,7 +132095,7 @@
     "company_name": "Atria Group",
     "id": "ab1ea8d0-4bb5-42e2-8d85-0a34ba574da9",
     "title": "Business Warehouse",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132119,7 +132171,7 @@
     "company_name": "Integrated Resources",
     "id": "7fd7c463-a42a-4902-b3da-d9fa1c497f4d",
     "title": "Testing Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132224,7 +132276,7 @@
     "company_name": "SA Technologies",
     "id": "40b3806c-fa11-45ec-b641-43558f1402ee",
     "title": "Python Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132250,7 +132302,7 @@
     "company_name": "Global Channel Management",
     "id": "dac2d80d-c906-4d8a-ac41-194f649beda9",
     "title": "Data Analyst Lead",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132355,7 +132407,7 @@
     "company_name": "Atria Group",
     "id": "de0ae2a8-5972-43e3-ac20-cde1cd43d7d5",
     "title": "SQL Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132562,7 +132614,7 @@
     "company_name": "Comtech",
     "id": "126d88e3-b139-4f05-a819-7867cd679fde",
     "title": "Software Development Engineer in Test",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132586,7 +132638,7 @@
     "company_name": "Atria Group",
     "id": "c51e0bc2-6541-41bf-8619-6f14d7059d0e",
     "title": "Ext JS & SQL Server DB Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -132636,7 +132688,7 @@
     "company_name": "Atria Group",
     "id": "c0b02d06-d718-4cda-8337-9d34d85cf921",
     "title": "Dataflux Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -145392,7 +145444,7 @@
     "company_name": "Copart",
     "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
     "title": "Technology Product Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -176340,7 +176392,7 @@
     "company_name": "The Information Lab",
     "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
     "title": "The Data School - Data Analyst Consultant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -193218,7 +193270,7 @@
     "company_name": "USM Business Systems",
     "id": "2e5faa04-6c45-47f0-b267-e6afb75d640c",
     "title": "Front End with PHP - Need GC and USC",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -196731,7 +196783,7 @@
     "company_name": "Sajix",
     "id": "89b5d725-a59f-4eb3-9e08-476905ff182c",
     "title": "Machine Learning Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -196758,7 +196810,7 @@
     "company_name": "Sajix",
     "id": "ddf53d2b-54a9-409e-a0c4-16b535b95685",
     "title": "Python Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -196784,7 +196836,7 @@
     "company_name": "Sajix",
     "id": "2ee71f7d-72b1-4059-8bac-ab051417fc0f",
     "title": "Data Scientist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -196811,7 +196863,7 @@
     "company_name": "Sajix",
     "id": "65ccd1b8-214b-4942-a9c7-6247cea6feb2",
     "title": "Data Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -196837,7 +196889,7 @@
     "company_name": "Sajix",
     "id": "76576561-4ea2-4ced-8208-659e9c8d5c16",
     "title": "Business Intelligence Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -202085,7 +202137,7 @@
     "company_name": "University of Wyoming",
     "id": "64a91e7e-1b95-42ad-a900-e1d38ac2de7d",
     "title": "Work Study Posn Student - UWIN Makerspace Tech - Academic Technology Services",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -215915,7 +215967,7 @@
     "company_name": "3S Business Corporation",
     "id": "6fefbc10-1d16-4a4a-ba97-4beb6effc11c",
     "title": "iOS Training and Placement",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -215967,7 +216019,7 @@
     "company_name": "3S Business Corporation",
     "id": "f6cba027-4f6a-4213-adf2-a739bf808dde",
     "title": "Free training on SP - Sap Abap - MM','SD','Java','Dot Net','Oracel','Business Anolyisit",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -218618,7 +218670,7 @@
     "company_name": "Northrop Grumman",
     "id": "1c140b14-cbd4-45da-9316-2fd50f440ccf",
     "title": "Software Engineer - Cloudworks - Skillbridge",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -249040,6 +249092,33 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Camping World",
+    "id": "ee9606ee-3262-4e74-8038-c9519e7c9488",
+    "title": "Data Analyst Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1770074859,
+    "date_posted": 1770074859,
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL-CHI/Data-Engineering-Intern_25_11264",
+    "locations": [
+      "Chicago, IL",
+      "Vernon Hills, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Camping-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Resmed",
     "id": "c101fce7-ac62-4733-8c0d-4d8aa89c31f0",
@@ -265729,6 +265808,40 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AT&T",
+    "id": "6963b3b0-f5c0-41d3-9f1b-5dcd01b67e71",
+    "title": "AT&T Labs Intern - Advanced Degrees",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1769469663,
+    "date_posted": 1769469663,
+    "url": "https://att.wd1.myworkdayjobs.com/ATTCollege/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-89564-1",
+    "locations": [
+      "Austin, TX",
+      "Bothell, WA",
+      "Dallas, TX",
+      "San Ramon, CA",
+      "Redmond, WA",
+      "Plano, TX",
+      "Bedminster, NJ",
+      "Alpharetta, GA",
+      "Middletown Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/ATT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
     ],
     "_sources": [
       "simplify-2026"
@@ -299591,7 +299704,7 @@
     "company_name": "Anthropic",
     "id": "8a17a8bb-179e-4026-be78-6324749ad898",
     "title": "Anthropic AI Security Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -339527,6 +339640,30 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Trellix",
+    "id": "b41be869-a3ce-4f8d-8e6e-48020b3ae41f",
+    "title": "Undergraduate Intern - Months - Software Engineering",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1764978248,
+    "date_posted": 1764978248,
+    "url": "https://trellix.wd1.myworkdayjobs.com/en-US/EnterpriseCareers/job/England-Aylesbury/Undergraduate-Intern--12-Months----Software-Engineering_JR0036746",
+    "locations": [
+      "Aylesbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Trellix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Product",
     "company_name": "Workday",
     "id": "d7aac92a-5a59-4a21-bd9b-2ceebaafe5f7",
@@ -340105,6 +340242,30 @@
   },
   {
     "source": "Simplify",
+    "category": "Quant",
+    "company_name": "BMO ",
+    "id": "ebc8202f-a8cd-4f14-a48c-2ce8011f0512",
+    "title": "Investment Analyst Intern",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1764950799,
+    "date_posted": 1764950799,
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Analyst-Intern_R250031023",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Dexcom",
     "id": "22f255b5-b8e4-43b3-8f04-edaffeb38f6d",
@@ -340323,429 +340484,6 @@
       "NYC"
     ],
     "company_url": "https://simplify.jobs/c/MarketAxess",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Tanium",
-    "id": "112775b1-9926-4305-aa04-e22ef0f62e6a",
-    "title": "Product Operations Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764928831,
-    "date_posted": 1764928831,
-    "url": "https://www.tanium.com/careers/7371406?gh_jid=7371406",
-    "locations": [
-      "Oakland, CA",
-      "Durham, NC",
-      "Bellevue, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Tanium",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Fidelity National Information Services",
-    "id": "603d74b6-44a9-4139-9ce5-02ea3362c4ce",
-    "title": "Intern \u2013 AI ML Engineer",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1764927781,
-    "date_posted": 1764927781,
-    "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-5000-Ste-900/Intern--AI-ML-Engineer_JR0303201",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "BMO ",
-    "id": "4624bfb9-72e4-4775-a042-937573b660de",
-    "title": "Investment Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764924201,
-    "date_posted": 1764924201,
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Analyst-Intern_R250030990",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/BMO-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Grassroots Analytics",
-    "id": "402553c2-466c-4a95-9070-a25b563cdfea",
-    "title": "AI Developer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764922528,
-    "date_posted": 1764922528,
-    "url": "https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4623431006",
-    "locations": [
-      "Washington, DC"
-    ],
-    "company_url": "https://simplify.jobs/c/Grassroots-Analytics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Brown Brothers Harriman",
-    "id": "7f6505f6-7f7a-4ed3-bb75-b8cf20a8b1d1",
-    "title": "Transformation Management Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764922257,
-    "date_posted": 1764922257,
-    "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Boston/XMLNAME-2026-Transformation-Management-Summer-Internship_69268",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Employee Navigator",
-    "id": "de8588b9-852c-4350-b091-bae985c02969",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764922158,
-    "date_posted": 1764922158,
-    "url": "https://www.employeenavigator.com/careers/7443357?gh_jid=7443357",
-    "locations": [
-      "Bethesda, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/057d6a38-ad60-41e8-9856-87fd62f64315",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Microchip Technology",
-    "id": "a0255e26-4ead-4b99-95f7-ba5003221663",
-    "title": "Intern \u2013 Engineering - ASIC Physical Design",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764921673,
-    "date_posted": 1764921673,
-    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Intern---Engineering--ASIC-Physical-Design-_R2408-25",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microchip-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Northrop Grumman",
-    "id": "ef781138-b3d1-429f-895f-30bbe42d0840",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764921467,
-    "date_posted": 1764921467,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Software-Engineer-Technical-Intern---Melbourne-FL_R10216224",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Northrop Grumman",
-    "id": "df23aa69-c281-464e-b940-f47145686b67",
-    "title": "Computer Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764921467,
-    "date_posted": 1764921467,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2026-Computer-Engineer-Intern---Beavercreek-OH_R10216235",
-    "locations": [
-      "Beavercreek, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Northrop Grumman",
-    "id": "0c9f073d-3ea5-4571-97c4-8293664d9c7e",
-    "title": "Computer Engineer Co-op",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764921460,
-    "date_posted": 1764921460,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026-Computer-Engineer-Spring-Co-Op---Annapolis-Junction-MD_R10216242-1",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GoDaddy",
-    "id": "63c72223-963c-4078-a63a-47dc80bdd513",
-    "title": "Software Development Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764920845,
-    "date_posted": 1764920845,
-    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7479549003",
-    "locations": [
-      "Tempe, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/GoDaddy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "ASML",
-    "id": "88b2ff6d-0fda-4f57-ae17-9cdd9a996095",
-    "title": "Internship - Software Engineering - AI",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764920638,
-    "date_posted": 1764920638,
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineering--AI-_J-00329838",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ASML",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "ASML",
-    "id": "a53a111c-db44-4e25-a7f5-01fd05b4c458",
-    "title": "Intern - Software Engineering",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764920637,
-    "date_posted": 1764920637,
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineering_J-00329541",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ASML",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Trellix",
-    "id": "010b2570-29e7-47aa-8078-6e5d362e3a02",
-    "title": "Undergraduate Intern - Months - Software Engineering",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764920365,
-    "date_posted": 1764920365,
-    "url": "https://trellix.wd1.myworkdayjobs.com/en-US/EnterpriseCareers/job/England-Aylesbury/Undergraduate-Intern--12-Months----Software-Engineering_JR0036747",
-    "locations": [
-      "Aylesbury, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Trellix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Camping World",
-    "id": "50722b66-a508-483e-b5c1-42e312a8c3ce",
-    "title": "Data Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764920364,
-    "date_posted": 1764920364,
-    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_25_11252",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Camping-World",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "ABB",
-    "id": "9bdcfb77-ab62-434a-bf30-915eb9d0ca4f",
-    "title": "IS Salesforce.com Agile Delivery Intern-Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764920277,
-    "date_posted": 1764920277,
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449",
-    "locations": [
-      "Morrisville, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/ABB",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AT&T",
-    "id": "f56b005e-88d3-4b9d-b5e4-1b1d5ce98e4a",
-    "title": "AT&T Labs Intern - Advanced Degrees",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764920260,
-    "date_posted": 1764920260,
-    "url": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-89564",
-    "locations": [
-      "Austin, TX",
-      "Bothell, WA",
-      "Dallas, TX",
-      "San Ramon, CA",
-      "Redmond, WA",
-      "Plano, TX",
-      "Bedminster, NJ",
-      "Alpharetta, GA",
-      "Middletown Township, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/ATT",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

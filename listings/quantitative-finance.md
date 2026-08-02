@@ -1,4 +1,4 @@
-# Quantitative Finance (112)
+# Quantitative Finance (107)
 
 [← back to index](../README.md)
 
@@ -57,7 +57,6 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8049938) | Campus Quantitative Researcher Intern - PhD | Chicago, IL, NYC | Summer 2027 | 2026-07-08 | 25 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7848371) | Campus Quantitative Trader Intern | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 25 | simplify-2026 |
 | [Flow Traders](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | Quantitative Trading Intern | NYC | Summer 2027 | 2026-07-08 | 25 | simplify-2026 |
-| [Zurich Insurance](https://www.careers.zurich.com/job/Chichester-Digital-Trading-Trainee-Underwriter-GB-W/1366042957/?ats=successfactors) | Digital Trading Underwriter Trainee | Portsmouth, UK | N/A | 2026-07-08 | 25 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8621450002) | Trading Desk Operations Engineer | NYC | N/A | 2026-07-07 | 26 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | Quantitative Trader: Equity Quantitative Research Intern | NYC | Fall 2026 | 2026-07-07 | 26 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8347385002) | Sales and Trading | NYC | N/A | 2026-07-06 | 27 | simplify-2026 |
@@ -98,8 +97,6 @@
 | [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | Quantitative Researcher Intern | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-05-29 | 65 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | Quantitative Developer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 67 | simplify-2026 |
 | [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Houston-Texas-USA/Trader-Trainee---Steel-USA_JR105060) | Trader Trainee | Houston, TX | N/A | 2026-05-16 | 78 | simplify-2026 |
-| [Point72](https://boards.greenhouse.io/point72/jobs/8549734002) | Investment Analyst Program for Upcoming Graduates | London, UK | N/A | 2026-05-14 | 80 | simplify-2026 |
-| [Point72](https://boards.greenhouse.io/point72/jobs/8541241002) | Point72 Academy Investment Analyst Program for Upcoming Graduates Intern | SF, Florida, Chicago, IL, NYC | N/A | 2026-05-08 | 86 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Ardmore, PA | Summer 2027 | 2026-04-23 | 101 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) | Trading System Engineering Intern | Ardmore, PA | Summer 2027 | 2026-04-23 | 101 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | Ardmore, PA | Summer 2027 | 2026-04-21 | 103 | simplify-2026 |
@@ -107,8 +104,6 @@
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | Summer 2027 | 2026-04-21 | 103 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) | Quantitative Trader Intern | Ardmore, PA | Summer 2027 | 2026-04-17 | 107 | simplify-2026 |
 | [Radix Trading](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) | Quantitative Technologist C++ Intern | Chicago, IL | Summer 2026 | 2026-04-09 | 115 | simplify-2026 |
-| [Point72](https://boards.greenhouse.io/point72/jobs/8499113002) | Point72 Academy | SF, Florida, Chicago, IL, NYC | N/A | 2026-04-09 | 115 | simplify-2026 |
-| [Point72](https://boards.greenhouse.io/point72/jobs/8500397002) | Point72 Academy Investment Analyst Program for Experienced Professionals | London, UK | N/A | 2026-04-09 | 115 | simplify-2026 |
 | [Aquatic Capital Management](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | Quantitative Researcher – Intern | London, UK, Chicago, IL | Summer 2027 | 2026-04-01 | 123 | simplify-2026 |
 | [Fanatics](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | Collectibles Intern - Product - Physical Trading Cards | Coppell, TX | Summer 2026 | 2026-03-13 | 142 | simplify-2026 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/5575450004) | Quantitative Research Intern | NYC | Summer 2026, Winter 2026 | 2026-03-02 | 153 | simplify-2026 |
