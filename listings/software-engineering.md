@@ -1,4 +1,4 @@
-# Software Engineering (393)
+# Software Engineering (394)
 
 [← back to index](../README.md)
 
@@ -82,6 +82,7 @@
 | [Ditto](https://jobs.ashbyhq.com/ditto/cbece35a-bb1a-4c93-a866-510279b8756c/application?embed=true) | Ditto Intern Program | Atlanta, GA | Fall 2026 | 2026-07-20 | 13 | simplify-2026 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | Software Engineer Intern | Fremont, CA, Rochester, MN, San Jose, CA, Irvine, CA, Colorado Springs, CO, Longmont, CO | Summer 2027 | 2026-07-20 | 13 | simplify-2026 |
 | [Deepgram](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | Software Engineer Intern | Remote in USA | Fall 2026 | 2026-07-17 | 16 | simplify-2026 |
+| [Obsidian Solutions Group](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435) | Unity 3D Developer Intern | Fredericksburg, VA | Fall 2026 | 2026-07-17 | 16 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10477224/software-dev-engineer-temp) | Software Development Engineer - Temp | Tennessee, Chennai, Tamil Nadu, India, Indiana | N/A | 2026-07-17 | 16 | simplify-2026 |
 | [Composio](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true) | Full-stack Intern | SF | Fall 2026 | 2026-07-17 | 16 | simplify-2026 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | Software Engineering Co-op | Rochester, MN | Winter 2027 | 2026-07-16 | 17 | simplify-2026 |

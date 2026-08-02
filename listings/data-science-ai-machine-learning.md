@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (496)
+# Data Science, AI & Machine Learning (497)
 
 [← back to index](../README.md)
 
@@ -259,6 +259,7 @@
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1) | Marketing Research Assistant - Marketing Dept - Computer Science | State College, PA | N/A | 2026-06-13 | 50 | simplify-2026 |
 | [UMB](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Blockchain-Intern_R-8444) | IT Blockchain Intern | Kansas City, MO | Fall 2026 | 2026-06-13 | 50 | simplify-2026 |
 | [ASM Global](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Digital-Workplace-Experience-Intern_R100122151) | Digital Workplace Experience Intern | Frisco, TX, West Conshohocken, PA | Fall 2026 | 2026-06-13 | 50 | simplify-2026 |
+| [Marsh](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1) | Data & Analytics Research Fellow - Data & Analytics Research Fellowship | Newcastle upon Tyne, UK | N/A | 2026-06-13 | 50 | simplify-2026 |
 | [Carnegie Mellon University](https://cmu.wd5.myworkdayjobs.com/cmu/job/Remote/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2024265) | Research Assistant - College of Engineering - Department of Chemical Engineering | Remote in USA | N/A | 2026-06-13 | 50 | simplify-2026 |
 | [McGill University](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Research-Assistant---Prof-Goldman_JR0000077191) | Research Assistant | Montreal, QC, Canada | N/A | 2026-06-13 | 50 | simplify-2026 |
 | [Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) | Systems Research Engineer Intern - GPU Programming | SF | Fall 2026 | 2026-06-12 | 51 | simplify-2026 |

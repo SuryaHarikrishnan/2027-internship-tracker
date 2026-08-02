@@ -2,6 +2,58 @@
   {
     "source": "Simplify",
     "category": "Hardware",
+    "company_name": "Block Imaging",
+    "id": "c893299d-6d66-4c03-b7bb-2c7982182e81",
+    "title": "Field Service Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785680821,
+    "date_posted": 1783735258,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4324694",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/9627faa4-4c5f-4914-b567-28b6b90b32f0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Obsidian Solutions Group",
+    "id": "ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
+    "title": "Unity 3D Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785680641,
+    "date_posted": 1784321985,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435",
+    "locations": [
+      "Fredericksburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/06bbf859-b052-41a1-ac95-7e8a7a01eb6a",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
     "company_name": "Airbus",
     "id": "b722e715-5a14-4a63-a460-c1e16e834e4e",
     "title": "Electrical Assembler",
@@ -5895,7 +5947,7 @@
     "company_name": "Marsh",
     "id": "61c905e5-2281-4abd-afcc-83089ab79869",
     "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -336416,6 +336468,30 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Robert Bosch Venture Capital",
+    "id": "35134aea-ef14-4672-9681-342367e41372",
+    "title": "LLM & Agentic AI R&D Intern",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1765328251,
+    "date_posted": 1765328251,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000097802359",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Nokia",
     "id": "21b4e4f8-128c-4d6d-b5ed-c6c8a84c9c65",
@@ -340141,222 +340217,6 @@
       "NYC"
     ],
     "company_url": "https://simplify.jobs/c/Wintermute",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intuitive Surgical",
-    "id": "0c373a92-87e0-467e-8670-c3bd3f776614",
-    "title": "Computer Vision Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764956955,
-    "date_posted": 1764956955,
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000097150430",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "7922e239-0bc1-4258-89ad-fc886267f1fd",
-    "title": "LLM & Agentic AI R&D Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764954939,
-    "date_posted": 1764954939,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000097096055",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Corning",
-    "id": "d5b13d85-fb65-4298-afc1-e482fb1cfc3b",
-    "title": "Data Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764954873,
-    "date_posted": 1764954873,
-    "url": "https://corningjobs.corning.com/job/Corning-Data-Engineering-Intern-Summer-2026-NY-14831/1347705900/?ats=successfactors",
-    "locations": [
-      "Elmira, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/Corning",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Behaviour Interactive",
-    "id": "b8c292f6-98c6-4238-8e05-b6742578af03",
-    "title": "Technical Designer \u2013 Internship Winter 2026 - Concepteur\u00b7trice technique - Stage Hiver 2026",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1764954858,
-    "date_posted": 1764954858,
-    "url": "https://jobs.lever.co/bhvr/d29c9ae9-d63f-444c-bb5d-d34ea0734288/apply",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Behaviour-Interactive",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Amazon",
-    "id": "5339a682-c6be-4b3e-8f4b-39e225eec1ff",
-    "title": "Business Intelligence Engineer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764952383,
-    "date_posted": 1764952383,
-    "url": "https://amazon.jobs/en/jobs/3094384/2026-business-intelligence-engineer-internship",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tokyo Electron",
-    "id": "bff64d61-2a43-413c-a2f3-092e24fb58b1",
-    "title": "Business Intelligence Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764950805,
-    "date_posted": 1764950805,
-    "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Business-Intelligence-Engineer-Intern_R25-01647",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Tokyo-Electron",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "BMO ",
-    "id": "ebc8202f-a8cd-4f14-a48c-2ce8011f0512",
-    "title": "Investment Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764950799,
-    "date_posted": 1764950799,
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Analyst-Intern_R250031023",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/BMO-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Dexcom",
-    "id": "22f255b5-b8e4-43b3-8f04-edaffeb38f6d",
-    "title": "Intern 1 \u2013 Automation System Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764950328,
-    "date_posted": 1764950328,
-    "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Mesa-Arizona/Intern-I---Automation-System-Engineering_JR115289",
-    "locations": [
-      "Mesa, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/Dexcoma",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Northrop Grumman",
-    "id": "74170680-f4ab-4855-a7c4-5e54e25b0d12",
-    "title": "Cyber Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764944322,
-    "date_posted": 1764944322,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026-Cyber-Software-Engineer-Intern--Annapolis-Junction-MD_R10207081",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
