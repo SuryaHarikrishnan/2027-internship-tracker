@@ -1,9 +1,11 @@
-# Quantitative Finance (111)
+# Quantitative Finance (113)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Jane Street](https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002) | Quantitative Trader | London, UK | N/A | 2026-08-03 | 0 | simplify-2026 |
+| [Jane Street](https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002) | Quantitative Researcher | London, UK | N/A | 2026-08-03 | 0 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002) | Sales and Trading Intern | London, UK | Summer 2027 | 2026-08-03 | 0 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | Quantitative Research Intern | NYC | Summer 2027 | 2026-08-03 | 0 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) | Quantitative Research Intern - Risk and Treasury | Plano, TX, Chicago, IL, NYC | Summer 2027 | 2026-08-03 | 0 | simplify-2026 |
