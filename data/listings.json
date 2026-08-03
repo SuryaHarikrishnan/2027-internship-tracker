@@ -1,5 +1,124 @@
 [
   {
+    "date_updated": 1785791371,
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
+    "locations": [
+      "Multiple Locations, United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Software Engineer Intern, CoreAI",
+    "source": "vanshb03",
+    "id": "c81be192-aa12-4a7c-bcfb-0c29b79d282e",
+    "date_posted": 1785791371,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785784533,
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "company_name": "The Mosaic Company",
+    "title": "Cybersecurity Co-Op/Intern",
+    "source": "vanshb03",
+    "id": "97da7bda-802d-4358-b95a-1980667d5441",
+    "date_posted": 1785180762,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785784521,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "NVIDIA",
+    "title": "Performance Engineer Intern, Systems Software",
+    "source": "vanshb03",
+    "id": "94708b11-2a87-4fad-a88c-c6aa462158d2",
+    "date_posted": 1783638621,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785784511,
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002",
+    "locations": [
+      "Bastrop, TX",
+      "Cape Canaveral, FL",
+      "Hawthorne, CA",
+      "Irvine, CA",
+      "McGregor, TX",
+      "Redmond, WA",
+      "Starbase, TX",
+      "Vandenberg, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "company_name": "SpaceX",
+    "title": "Engineering Intern",
+    "source": "vanshb03",
+    "id": "8c03beaa-dd8b-4e9e-914b-feafb93b9a16",
+    "date_posted": 1776726755,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785784511,
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403219002",
+    "locations": [
+      "Bastrop, TX",
+      "Cape Canaveral, FL",
+      "Hawthorne, CA",
+      "Irvine, CA",
+      "McGregor, TX",
+      "Redmond, WA",
+      "Starbase, TX",
+      "Sunnyvale, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "company_name": "SpaceX",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "677a2234-1c91-448f-8b47-bb8aea8008af",
+    "date_posted": 1776726759,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1785773303,
     "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073",
     "locations": [
@@ -203,7 +322,7 @@
     "company_name": "Aramark",
     "id": "e7e57613-69ef-441a-bbc8-15974df01172",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -8584,7 +8703,7 @@
     "company_name": "Deloitte",
     "id": "4b79443f-64b0-4381-aa54-5febee12149d",
     "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -9344,27 +9463,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1785180762,
-    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "The Mosaic Company",
-    "title": "Cybersecurity Co-Op/Intern",
-    "source": "vanshb03",
-    "id": "97da7bda-802d-4358-b95a-1980667d5441",
-    "date_posted": 1785180762,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -25794,27 +25892,6 @@
     ]
   },
   {
-    "date_updated": 1783638621,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Performance Engineer Intern, Systems Software",
-    "source": "vanshb03",
-    "id": "94708b11-2a87-4fad-a88c-c6aa462158d2",
-    "date_posted": 1783638621,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1783638615,
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
     "locations": [
@@ -31309,7 +31386,7 @@
     "company_name": "Oracle",
     "id": "6bc56f74-fa37-4967-8bfe-dd9785fa6c29",
     "title": "Data Center Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -48391,7 +48468,7 @@
     "company_name": "Generac",
     "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
     "title": "GPS Apprentice - Electrical",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -102093,62 +102170,6 @@
     "source": "vanshb03",
     "id": "181010e7-9a06-4910-b76b-4bd2594be51e",
     "date_posted": 1776726844,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1776726759,
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403219002",
-    "locations": [
-      "Bastrop, TX",
-      "Cape Canaveral, FL",
-      "Hawthorne, CA",
-      "Irvine, CA",
-      "McGregor, TX",
-      "Redmond, WA",
-      "Starbase, TX",
-      "Sunnyvale, CA"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "SpaceX",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "677a2234-1c91-448f-8b47-bb8aea8008af",
-    "date_posted": 1776726759,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1776726755,
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002",
-    "locations": [
-      "Bastrop, TX",
-      "Cape Canaveral, FL",
-      "Hawthorne, CA",
-      "Irvine, CA",
-      "McGregor, TX",
-      "Redmond, WA",
-      "Starbase, TX",
-      "Vandenberg, CA"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "SpaceX",
-    "title": "Engineering Intern",
-    "source": "vanshb03",
-    "id": "8c03beaa-dd8b-4e9e-914b-feafb93b9a16",
-    "date_posted": 1776726755,
     "company_url": "",
     "is_visible": true,
     "season": "Fall",
@@ -333289,32 +333310,6 @@
   {
     "source": "Simplify",
     "category": "Hardware",
-    "company_name": "AeroVironment",
-    "id": "e2803679-8757-4f8a-ae41-ba70b7481d7f",
-    "title": "System Test Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765449082,
-    "date_posted": 1765047564,
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2026-System-Test-Engineering-Intern_5853",
-    "locations": [
-      "Simi Valley, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AeroVironment",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
     "company_name": "General Dynamics Mission Systems",
     "id": "78d683f8-85e3-4ec4-b1db-39ae3176449f",
     "title": "Intern Engineer \u2013 Co-Op - May 2026 Start",
@@ -341076,54 +341071,6 @@
       "San Diego, CA"
     ],
     "company_url": "https://simplify.jobs/c/Dexcoma",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Dallas Fort Worth International Airport",
-    "id": "8057e22f-c7e5-4d1a-9257-7f9d6641798e",
-    "title": "Undergraduate Intern - Public Safety Research & Analytics",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765055868,
-    "date_posted": 1765055868,
-    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2026-Undergraduate-Summer-Internship---Public-Safety-Research---Analytics_JR101089",
-    "locations": [
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/Dallas-Fort-Worth-International-Airport",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Powell",
-    "id": "0bd0599a-6034-42af-b04a-615915c012b4",
-    "title": "Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2027"
-    ],
-    "date_updated": 1765051866,
-    "date_posted": 1765051866,
-    "url": "https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6630",
-    "locations": [
-      "Melrose Park, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Powell",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

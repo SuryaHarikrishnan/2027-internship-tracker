@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (516)
+# Data Science, AI & Machine Learning (514)
 
 [← back to index](../README.md)
 
@@ -7,7 +7,6 @@
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002) | Machine Learning Researcher | London, UK | N/A | 2026-08-03 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668204394458466565) | Research Engineer Intern - Monetization Technology - Business Integrity | San Jose, CA | Fall 2026 | 2026-08-03 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668204438271969589) | Research Scientist Intern - Monetization Technology - Business Integrity | San Jose, CA | Summer 2027 | 2026-08-03 | 0 | simplify-2026 |
-| [Aramark](https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors) | Data Analyst Intern | Newark, DE | Fall 2026 | 2026-08-03 | 0 | simplify-2026 |
 | [SRI International](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) | Computer Science Intern | Menlo Park, CA | Fall 2026 | 2026-08-03 | 0 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7667379218929780997/detail) | Research Scientist Intern | Seattle, WA | Fall 2026 | 2026-08-03 | 0 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7667380188619131189/detail) | Research Scientist Intern | San Jose, CA | Fall 2026 | 2026-08-03 | 0 | simplify-2026 |
@@ -88,7 +87,6 @@
 | [TikTok](https://lifeattiktok.com/search/7667248888103782661) | Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency | NYC | Fall 2026 | 2026-07-28 | 6 | simplify-2026 |
 | [Sony Pictures Entertainment](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Advanced-Technologies_JR113816) | Graduate Intern - Advanced Technologies | Culver City, CA | Fall 2026 | 2026-07-28 | 6 | simplify-2026 |
 | [Axis Capital](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1) | Renewable Energy Engineer Intern | London, UK | Fall 2026 | 2026-07-28 | 6 | simplify-2026 |
-| [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259) | Consultative Offerings Intern - Government & Public Services - Cyber Analytics | Arlington, VA | Summer 2026 | 2026-07-27 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278203) | Vehicle Software Intern - Vehicle Controls | Palo Alto, CA | Fall 2026 | 2026-07-27 | 7 | simplify-2026 |
 | [Excel Sports Management](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005) | Football Coaches Intern | Chicago, IL | Fall 2026 | 2026-07-27 | 7 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8647385002) | Data/Analytics Co-op | Vancouver, BC, Canada | Fall 2026 | 2026-07-27 | 7 | simplify-2026 |

@@ -1,9 +1,10 @@
-# Other (209)
+# Other (206)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Microsoft](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) | Software Engineer Intern, CoreAI | Multiple Locations, United States |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319) | Cyber Security Intern | McLean, VA, Plano, TX |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1) | Software Engineer Intern | McLean, VA, Plano, TX, Richmond, VA |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Heliux](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) | Software Engineer Intern | San Francisco, CA |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -30,7 +31,6 @@
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | Software Engineer Intern | Chicago, IL |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Nelnet](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Agentic AI Intern | Lincoln, NE |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8088496) | Information Security Engineer Intern | McLean, VA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
-| [The Mosaic Company](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) | Cybersecurity Co-Op/Intern | Tampa, FL |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [GRITT ROBOTICS INC](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Mathtech](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843) | Web Application Developer Intern | Falls Church, VA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Atomic Semi](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | Software Engineer Intern, Chip Design Tools | San Francisco, CA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
@@ -107,7 +107,6 @@
 | [VITAL LYFE](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | Software Engineering Intern | Los Angeles, CA |  | 2026-07-10 | 24 | vanshb03-2026, vanshb03-2027 |
 | [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999) | Application Engineering Intern | Alpharetta, GA, Lombard, IL |  | 2026-07-10 | 24 | vanshb03-2026, vanshb03-2027 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Software Engineer Intern | Burnaby, Canada |  | 2026-07-10 | 24 | vanshb03-2026, vanshb03-2027 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | Performance Engineer Intern, Systems Software | St. Louis, MO |  | 2026-07-09 | 25 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading Group](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Campus UI Software Engineer Intern | Chicago, IL |  | 2026-07-09 | 25 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Software Engineer Intern | Chicago, IL |  | 2026-07-09 | 25 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://www.jumptrading.com/hr/job?gh_jid=7848371) | Quantitative Trader Intern | Chicago, IL, New York, NY |  | 2026-07-09 | 25 | vanshb03-2026, vanshb03-2027 |
@@ -166,8 +165,6 @@
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894) | Software Engineer Intern | Vancouver, Canada |  | 2026-04-20 | 105 | vanshb03-2026, vanshb03-2027 |
 | [NBCUniversal](https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194) | Software Engineering Intern | New York, NY |  | 2026-04-20 | 105 | vanshb03-2026, vanshb03-2027 |
 | [NBCUniversal](https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427) | Software Engineering Intern | Universal City, CA |  | 2026-04-20 | 105 | vanshb03-2026, vanshb03-2027 |
-| [SpaceX](https://job-boards.greenhouse.io/spacex/jobs/8403219002) | Software Engineering Intern | Bastrop, TX, Cape Canaveral, FL, Hawthorne, CA, Irvine, CA, McGregor, TX, Redmond, WA, Starbase, TX, Sunnyvale, CA |  | 2026-04-20 | 105 | vanshb03-2026, vanshb03-2027 |
-| [SpaceX](https://job-boards.greenhouse.io/spacex/jobs/8403206002) | Engineering Intern | Bastrop, TX, Cape Canaveral, FL, Hawthorne, CA, Irvine, CA, McGregor, TX, Redmond, WA, Starbase, TX, Vandenberg, CA |  | 2026-04-20 | 105 | vanshb03-2026, vanshb03-2027 |
 | [Poshmark](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | Cloud Platform Engineer Intern, Growth | Redwood City, CA |  | 2026-04-20 | 105 | vanshb03-2026, vanshb03-2027 |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | Investment Analyst Intern, Point72 Academy | New York, NY, San Francisco, CA, Chicago, IL, West Palm Beach, FL, Miami, FL |  | 2026-04-19 | 106 | vanshb03-2026, vanshb03-2027 |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | Quantitative Researcher Intern | New York, NY |  | 2026-04-19 | 106 | vanshb03-2026, vanshb03-2027 |
