@@ -23,9 +23,9 @@ python scripts/track.py render  # regenerates APPLICATIONS.md
 
 A script runs 5× per day, pulls the latest active listings from the source repos, merges and deduplicates them by company + role + location, and updates: this index, the per-category files in [`listings/`](listings/), and a daily diff in [`digests/`](digests/) showing what's new and what closed. See [ATTRIBUTION.md](ATTRIBUTION.md) for source credits and [CONTRIBUTING.md](CONTRIBUTING.md) to add new sources.
 
-Last refreshed: **2026-08-03 15:39 UTC**. Sources: simplify-2026, vanshb03-2026, vanshb03-2027.
+Last refreshed: **2026-08-03 18:51 UTC**. Sources: simplify-2026, vanshb03-2026, vanshb03-2027.
 
-**Active listings: 1470** (of 13131 total seen across all sources)
+**Active listings: 1460** (of 13131 total seen across all sources)
 
 See [APPLICATIONS.md](APPLICATIONS.md) for personal application tracking.
 
@@ -34,12 +34,12 @@ See [APPLICATIONS.md](APPLICATIONS.md) for personal application tracking.
 
 | Category | Active listings |
 |---|---|
-| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 518 |
-| [Hardware Engineering](listings/hardware-engineering.md) | 188 |
-| [Other](listings/other.md) | 212 |
-| [Product Management](listings/product-management.md) | 40 |
+| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 516 |
+| [Hardware Engineering](listings/hardware-engineering.md) | 186 |
+| [Other](listings/other.md) | 209 |
+| [Product Management](listings/product-management.md) | 38 |
 | [Quantitative Finance](listings/quantitative-finance.md) | 113 |
-| [Software Engineering](listings/software-engineering.md) | 399 |
+| [Software Engineering](listings/software-engineering.md) | 398 |
 
 ---
 *Listings data sourced from community trackers — see [ATTRIBUTION.md](ATTRIBUTION.md)*

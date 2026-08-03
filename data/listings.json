@@ -1,5 +1,155 @@
 [
   {
+    "date_updated": 1785773303,
+    "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073",
+    "locations": [
+      "Virginia Beach, VA"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Sentara Health",
+    "title": "Data & AI Finance Strategy Intern",
+    "source": "vanshb03",
+    "id": "a2797995-7280-48d1-a24c-d7980dc01078",
+    "date_posted": 1785124772,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785773282,
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "company_name": "Toshiba Commerce Solutions",
+    "title": "AI Engineering Intern",
+    "source": "vanshb03",
+    "id": "94c066cb-7a39-42ea-b93a-278ec82a0fba",
+    "date_posted": 1785147483,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785773278,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Walleye Capital",
+    "title": "Risk Technology Analyst Intern",
+    "source": "vanshb03",
+    "id": "c9aa53e1-e51f-4760-a17c-d995e1d58203",
+    "date_posted": 1784883351,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785773278,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Walleye Capital",
+    "title": "Technology Intern",
+    "source": "vanshb03",
+    "id": "d9b93194-4c9a-4c3e-a69d-da411676f0fd",
+    "date_posted": 1784883360,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785773278,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Walleye Capital",
+    "title": "Investment Data Science Intern",
+    "source": "vanshb03",
+    "id": "46a9b33c-0918-4965-b8d6-e861a5c6a372",
+    "date_posted": 1784883374,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785773184,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319",
+    "locations": [
+      "McLean, VA",
+      "Plano, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Cyber Security Intern",
+    "source": "vanshb03",
+    "id": "75da2eba-bcac-49bf-940d-15df6c18051e",
+    "date_posted": 1785773184,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785773180,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1",
+    "locations": [
+      "McLean, VA",
+      "Plano, TX",
+      "Richmond, VA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "426e67f2-8dc0-42ed-b8ad-b7301cb10c4e",
+    "date_posted": 1785773180,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Jane Street",
@@ -105,7 +255,7 @@
     "company_name": "American Express",
     "id": "1e4d7c96-ae34-4db0-8464-a7e707c6c800",
     "title": "Product Development Intern - Product Development - Consumer Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4845,7 +4995,7 @@
     "date_posted": 1785529818,
     "company_url": "",
     "is_visible": true,
-    "season": "Summer",
+    "season": "Fall",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -9348,7 +9498,7 @@
     "company_name": "Toshiba Global Commerce",
     "id": "5b8ecabc-cc7c-47e1-a045-73b4659a0f7a",
     "title": "AI Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9653,27 +9803,6 @@
     ]
   },
   {
-    "date_updated": 1785147483,
-    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
-    "locations": [
-      "Frisco, TX"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "Toshiba Commerce Solutions",
-    "title": "AI Engineering Intern",
-    "source": "vanshb03",
-    "id": "94c066cb-7a39-42ea-b93a-278ec82a0fba",
-    "date_posted": 1785147483,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1785129703,
     "url": "https://job-boards.greenhouse.io/scm/jobs/721895",
     "locations": [
@@ -9689,27 +9818,6 @@
     "date_posted": 1785129703,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1785124772,
-    "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073",
-    "locations": [
-      "Virginia Beach, VA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Sentara Health",
-    "title": "Data & AI Finance Strategy Intern",
-    "source": "vanshb03",
-    "id": "a2797995-7280-48d1-a24c-d7980dc01078",
-    "date_posted": 1785124772,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -10844,69 +10952,6 @@
     "source": "vanshb03",
     "id": "2f65bb66-a69c-4a85-8d11-e8d64d862bc2",
     "date_posted": 1784884047,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1784883374,
-    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Walleye Capital",
-    "title": "Investment Data Science Intern",
-    "source": "vanshb03",
-    "id": "46a9b33c-0918-4965-b8d6-e861a5c6a372",
-    "date_posted": 1784883374,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1784883360,
-    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Walleye Capital",
-    "title": "Technology Intern",
-    "source": "vanshb03",
-    "id": "d9b93194-4c9a-4c3e-a69d-da411676f0fd",
-    "date_posted": 1784883360,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1784883351,
-    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Walleye Capital",
-    "title": "Risk Technology Analyst Intern",
-    "source": "vanshb03",
-    "id": "c9aa53e1-e51f-4760-a17c-d995e1d58203",
-    "date_posted": 1784883351,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -17297,7 +17342,7 @@
     "company_name": "Kirin",
     "id": "8cd6c68a-d1b7-4a16-9dc4-411fb9932fbb",
     "title": "Software Engineer Intern - AI Agents + Devices",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -18873,7 +18918,7 @@
     "company_name": "HireVue",
     "id": "7e3b0f18-833c-47d0-b356-5fbe36e7154d",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -72127,7 +72172,7 @@
     "company_name": "Meta",
     "id": "5586ae51-ed8e-4c4f-a2ba-98b61c35dbe0",
     "title": "Research Scientist Intern - Multimodal Contextual AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Summer 2026",
@@ -106890,7 +106935,7 @@
     "company_name": "Hermeus",
     "id": "4b19cb9f-36b5-47b9-b230-2cb53454f6bb",
     "title": "Hardware-In-the-Loop Software Engineering Intern - Fall 2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -159832,7 +159877,7 @@
     "company_name": "SpaceX",
     "id": "72234fcf-6866-4797-aa4b-afd49f2e7924",
     "title": "Software Engineering Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -333243,30 +333288,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Reworld",
-    "id": "74909a30-feda-4391-85c7-46a06a87ccb2",
-    "title": "Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1765450923,
-    "date_posted": 1765041817,
-    "url": "https://reworld.wd5.myworkdayjobs.com/external/job/USA-FL-Spring-Hill/Intern_JR11808",
-    "locations": [
-      "Spring Hill, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Reworld",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "AeroVironment",
     "id": "e2803679-8757-4f8a-ae41-ba70b7481d7f",
@@ -341103,30 +341124,6 @@
       "Melrose Park, IL"
     ],
     "company_url": "https://simplify.jobs/c/Powell",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Marmon Holdings",
-    "id": "0cf46ddc-b2a7-4568-9ab6-378e069d5334",
-    "title": "Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765042563,
-    "date_posted": 1765042563,
-    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Ferdinand-IN/Engineering-Intern---Summer-2026_JR0000037706-5",
-    "locations": [
-      "Owensboro, KY"
-    ],
-    "company_url": "https://simplify.jobs/c/Marmon-Holdings",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

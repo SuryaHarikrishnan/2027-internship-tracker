@@ -1,9 +1,11 @@
-# Other (212)
+# Other (209)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319) | Cyber Security Intern | McLean, VA, Plano, TX |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1) | Software Engineer Intern | McLean, VA, Plano, TX, Richmond, VA |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Heliux](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) | Software Engineer Intern | San Francisco, CA |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Astera](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) | Software Engineering Intern, Neuro & AGI | Emeryville, CA |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
 | [HPR](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Software Engineering Intern | Needham, MA |  | 2026-08-03 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -34,9 +36,7 @@
 | [Atomic Semi](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | Software Engineer Intern, Chip Design Tools | San Francisco, CA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Robert Bosch LLC](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | Software Engineer Intern, Autonomous Driving | Sunnyvale, CA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Core & Main](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | AI/ML Data Engineering Intern | St. Louis, MO |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
-| [Toshiba Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | AI Engineering Intern | Frisco, TX |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Stevens Capital Management](https://job-boards.greenhouse.io/scm/jobs/721895) | Quantitative Research Analyst Internship | Radnor, PA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
-| [Sentara Health](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | Data & AI Finance Strategy Intern | Virginia Beach, VA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [HyperLight](https://apply.workable.com/hyperlight/j/5581EA0668/) | Software Engineer Intern | Cambridge, MA |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Virtu](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, New York, NY |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Software Engineer Intern | Austin, TX, New York |  | 2026-07-27 | 7 | vanshb03-2026, vanshb03-2027 |
@@ -50,9 +50,6 @@
 | [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) | DevOps/SRE Intern | Chicago, IL |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Akuna Capital](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Quantitative Research Intern | Chicago |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Akuna Capital](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Quantitative Development & Strategy Intern | Chicago |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
-| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) | Investment Data Science Intern | New York, NY |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
-| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) | Technology Intern | New York, NY |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
-| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) | Risk Technology Analyst Intern | New York, NY |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Palantir Technologies](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | Software Engineer Intern, Production Infrastructure | Seattle, WA |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Palantir Technologies](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) | Software Engineer Intern, Production Infrastructure | New York, NY |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Palantir Technologies](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) | Software Engineer Intern, Infrastructure | Palo Alto, CA |  | 2026-07-24 | 10 | vanshb03-2026, vanshb03-2027 |
