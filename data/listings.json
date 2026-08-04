@@ -1,6 +1,1098 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NBT Bank",
+    "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
+    "title": "Data Warehouse & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785854110,
+    "date_posted": 1785801600,
+    "url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868",
+    "locations": [
+      "Williamsville, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/NBT-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
+    "title": "Product Innovation Intern - Credit & Fraud Risk",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785853987,
+    "date_posted": 1785853002,
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PNC Financial Services",
+    "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
+    "title": "Data and Analytics Intern - Modeling",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1785853622,
+    "date_posted": 1785801600,
+    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1785853484,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "RTX",
+    "title": "Software Engineer Intern, Fleet Health Instrumentation",
+    "source": "vanshb03",
+    "id": "df8d3fe7-c018-495f-95dc-b50e8f030c0d",
+    "date_posted": 1785853484,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853476,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
+    "locations": [
+      "Fullerton, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "RTX",
+    "title": "Software Engineer Intern, Fleet Health Instrumentation",
+    "source": "vanshb03",
+    "id": "34cefed2-db0d-4b18-96b0-e3eb07d262cc",
+    "date_posted": 1785853476,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853363,
+    "url": "https://lifeattiktok.com/search/7668675500744837381",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+    "source": "vanshb03",
+    "id": "44454f62-101e-4c52-abfd-a58e0c690831",
+    "date_posted": 1785853363,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853360,
+    "url": "https://lifeattiktok.com/search/7668584161852229893",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
+    "source": "vanshb03",
+    "id": "c3f6a75f-618e-40a1-b8ba-c4f82c61c8c3",
+    "date_posted": 1785853360,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853342,
+    "url": "https://lifeattiktok.com/search/7668582031916435717",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
+    "source": "vanshb03",
+    "id": "b708f7b6-5fa9-4148-ac8c-2d775da23e8f",
+    "date_posted": 1785853342,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853338,
+    "url": "https://lifeattiktok.com/search/7668642761473902901",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
+    "source": "vanshb03",
+    "id": "3f1b077a-75eb-45d3-8750-93ee20e42f9f",
+    "date_posted": 1785853338,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853334,
+    "url": "https://lifeattiktok.com/search/7668584916620527925",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Business Integrity",
+    "source": "vanshb03",
+    "id": "76b7d704-a923-40b1-b048-179cb4ea0cc8",
+    "date_posted": 1785853334,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853325,
+    "url": "https://lifeattiktok.com/search/7668445566565321013",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Agentic Creation-Effect Platform",
+    "source": "vanshb03",
+    "id": "3379d87c-1b86-4ac7-8826-4a33a032f624",
+    "date_posted": 1785853325,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853320,
+    "url": "https://lifeattiktok.com/search/7668582146236631349",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Data Arch - E-commerce",
+    "source": "vanshb03",
+    "id": "0d7566d2-73ff-4625-bcea-36fbbfa2bde4",
+    "date_posted": 1785853320,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853316,
+    "url": "https://lifeattiktok.com/search/7667935738376227077",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Code Graph and Quality Validation",
+    "source": "vanshb03",
+    "id": "ad414d77-c548-4f3b-8594-3ec4c5b1bd4e",
+    "date_posted": 1785853316,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853311,
+    "url": "https://lifeattiktok.com/search/7667935739300317493",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Privacy and Security",
+    "source": "vanshb03",
+    "id": "5915d9f4-7fbd-4029-98f8-e2373a982744",
+    "date_posted": 1785853311,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853307,
+    "url": "https://lifeattiktok.com/search/7667935739300792629",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Frontend Engineer Intern, TikTok-Open Platform",
+    "source": "vanshb03",
+    "id": "050c9508-f0be-4ba0-9d15-862ab3d54008",
+    "date_posted": 1785853307,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853304,
+    "url": "https://lifeattiktok.com/search/7667933770819897605",
+    "locations": [
+      "San Jose"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, PGC Creator Strategy",
+    "source": "vanshb03",
+    "id": "dea9de5a-e36d-4863-a896-f5532d3b70af",
+    "date_posted": 1785853304,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853295,
+    "url": "https://lifeattiktok.com/search/7667934635573692725",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Backend Software Engineer Intern, Social Friending",
+    "source": "vanshb03",
+    "id": "cb1e66d4-a081-4cf6-8fd8-f3b202adfe14",
+    "date_posted": 1785853295,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853292,
+    "url": "https://lifeattiktok.com/search/7667933335084124469",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Backend Software Engineer Intern, Search",
+    "source": "vanshb03",
+    "id": "302db2f9-46c2-42af-a0e1-656459c754b3",
+    "date_posted": 1785853292,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853287,
+    "url": "https://lifeattiktok.com/search/7667935399050692917",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, TikTok-Social-Friending",
+    "source": "vanshb03",
+    "id": "d9eab611-769e-424a-a61a-f070365a86da",
+    "date_posted": 1785853287,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853283,
+    "url": "https://lifeattiktok.com/search/7667934302872537397",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
+    "source": "vanshb03",
+    "id": "35644c35-f1fd-4fcc-b689-46ede931ce3f",
+    "date_posted": 1785853283,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853281,
+    "url": "https://lifeattiktok.com/search/7667934860750063925",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Growth Innovation",
+    "source": "vanshb03",
+    "id": "abda1495-311a-45b6-aad7-1d3d86bf1c6e",
+    "date_posted": 1785853281,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853278,
+    "url": "https://lifeattiktok.com/search/7667935565120112949",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Backend Software Engineer Intern, Social Foundation",
+    "source": "vanshb03",
+    "id": "6a30baf8-bf9f-4a0e-8369-1e5dc04dd0b3",
+    "date_posted": 1785853278,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853275,
+    "url": "https://lifeattiktok.com/search/7662684280234232117",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Trust and Safety-Engineering",
+    "source": "vanshb03",
+    "id": "100da4c0-808a-436e-82a2-995eee57976e",
+    "date_posted": 1785853275,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853272,
+    "url": "https://lifeattiktok.com/search/7662700594251958581",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Trust and Safety-Engineering",
+    "source": "vanshb03",
+    "id": "e5e5e861-a0f4-4983-bdb8-12c509ec53f6",
+    "date_posted": 1785853272,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853269,
+    "url": "https://lifeattiktok.com/search/7669711844487399685",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Global CRM",
+    "source": "vanshb03",
+    "id": "f9236f63-25ee-4976-924d-a6755e49a7b6",
+    "date_posted": 1785853269,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853266,
+    "url": "https://lifeattiktok.com/search/7668921505254410549",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Shoot Experience Optimization",
+    "source": "vanshb03",
+    "id": "c40c8751-c427-4db4-bafe-013d36e70014",
+    "date_posted": 1785853266,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853263,
+    "url": "https://lifeattiktok.com/search/7669705785962727733",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Ads Interface",
+    "source": "vanshb03",
+    "id": "99c796aa-9873-4877-b02a-17b61617040c",
+    "date_posted": 1785853263,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853260,
+    "url": "https://lifeattiktok.com/search/7668834837268416821",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Backend Software Engineer Intern, Global E-Commerce",
+    "source": "vanshb03",
+    "id": "584f85e6-569f-4917-aedb-3ed5791ed65c",
+    "date_posted": 1785853260,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853255,
+    "url": "https://lifeattiktok.com/search/7668834837268138293",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Backend Software Engineer Intern, Global E-Commerce",
+    "source": "vanshb03",
+    "id": "6fd62f81-6053-491d-8461-b5f0b468d379",
+    "date_posted": 1785853255,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853231,
+    "url": "https://lifeattiktok.com/search/7667935633764370741",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Backend Software Engineer Intern, Product Infrastructure",
+    "source": "vanshb03",
+    "id": "0d25b8d5-548c-4c02-8410-ef2def9c3467",
+    "date_posted": 1785853231,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853226,
+    "url": "https://lifeattiktok.com/search/7669943120351906053",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Transaction Platform",
+    "source": "vanshb03",
+    "id": "0095e527-a200-4442-893e-4c81de947b20",
+    "date_posted": 1785853226,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853224,
+    "url": "https://lifeattiktok.com/search/7668862422178318597",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Intelligent Creation-Camera",
+    "source": "vanshb03",
+    "id": "80b7846f-2964-427e-baa2-a3366102923d",
+    "date_posted": 1785853224,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853222,
+    "url": "https://lifeattiktok.com/search/7669712589169117445",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+    "source": "vanshb03",
+    "id": "769d0101-712d-4e54-926c-1d43d669b379",
+    "date_posted": 1785853222,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853220,
+    "url": "https://lifeattiktok.com/search/7669711026846058757",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Frontend Engineer Intern, Global CRM",
+    "source": "vanshb03",
+    "id": "1e2bc422-b7b2-42b7-b69f-7e876919ed49",
+    "date_posted": 1785853220,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785853216,
+    "url": "https://lifeattiktok.com/search/7667935150530840837",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Global Live-Foundation",
+    "source": "vanshb03",
+    "id": "87c2a369-995b-4331-913a-0dcebd8c7fe9",
+    "date_posted": 1785853216,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852925,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+    "locations": [
+      "Remote"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Product Manager Intern",
+    "source": "vanshb03",
+    "id": "fc6b4891-c7cc-4215-9a60-59ca673a18b7",
+    "date_posted": 1785852925,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852918,
+    "url": "https://joinbytedance.com/search/7668374190764050741",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "ByteDance",
+    "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+    "source": "vanshb03",
+    "id": "c882fbbe-ca27-423f-9393-a0165c9a7515",
+    "date_posted": 1785852918,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852915,
+    "url": "https://joinbytedance.com/search/7668373268886161669",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "ByteDance",
+    "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+    "source": "vanshb03",
+    "id": "144e2a0e-b835-4a36-811c-92e04d055e78",
+    "date_posted": 1785852915,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852911,
+    "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3",
+    "locations": [
+      "Remote"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Yotta Labs",
+    "title": "Research Engineer Intern",
+    "source": "vanshb03",
+    "id": "778cea1e-13dc-4211-bb6c-74198f9271bf",
+    "date_posted": 1785852911,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852884,
+    "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Samsara",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "a846c62b-3c4e-42b7-bd96-38b98b968af0",
+    "date_posted": 1785852884,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852867,
+    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "locations": [
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Modal",
+    "title": "ML Research Intern",
+    "source": "vanshb03",
+    "id": "ee0e5fdf-b382-4676-b4cd-7bfed2f19951",
+    "date_posted": 1785852867,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852859,
+    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
+    "locations": [
+      "New York City, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Melius",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "6647eb8f-3baf-4822-9916-eaf8780a466e",
+    "date_posted": 1785852859,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring/Summer 2027",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852846,
+    "url": "https://joinbytedance.com/search/7668212952030841093",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "ByteDance",
+    "title": "Software Engineer Intern, AI Platform",
+    "source": "vanshb03",
+    "id": "0b35498a-b0e7-4a64-b3be-2a7c36487857",
+    "date_posted": 1785852846,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852837,
+    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "RenderATL",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "07dd1eeb-34f7-4faa-9ee9-76e7d248ef7c",
+    "date_posted": 1785852837,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852828,
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "American Express",
+    "title": "Product Management Intern",
+    "source": "vanshb03",
+    "id": "136c3438-c630-48ee-a19c-f7ea4aed7061",
+    "date_posted": 1785852828,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852658,
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
+    "locations": [
+      "Multiple Locations, United States"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Software Engineer Intern, Fullstack Product (Web + Services)",
+    "source": "vanshb03",
+    "id": "12243e5c-7c64-4d17-9472-840926a226d2",
+    "date_posted": 1785852658,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852653,
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Software Engineer Intern, Cloud & Distributed Backend",
+    "source": "vanshb03",
+    "id": "e8cdd6c9-273d-4f50-af44-c49ab843704f",
+    "date_posted": 1785852653,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852648,
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Software Engineer Intern, AI/ML & LLM",
+    "source": "vanshb03",
+    "id": "0d25edcf-4b13-487c-9567-7ca21a9b042b",
+    "date_posted": 1785852648,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852642,
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Software Engineer Intern, Security & Identity",
+    "source": "vanshb03",
+    "id": "2fc17ba3-562c-4170-a89a-cbeb28cfda48",
+    "date_posted": 1785852642,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1785852636,
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Software Engineer Intern, Data Platform/Analytics",
+    "source": "vanshb03",
+    "id": "adea9c62-2047-4e4f-aebb-a218d42035ee",
+    "date_posted": 1785852636,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "McKesson",
+    "id": "6460be14-109c-4ede-a2ad-63b0be123a5a",
+    "title": "Associate Business Systems Analyst Intern - Data Hub Canada",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785849953,
+    "date_posted": 1785715200,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Zipline",
     "id": "b27edad4-236e-4268-8fe8-1e913b1d59c8",
@@ -855,7 +1947,7 @@
     "company_name": "RTX",
     "id": "0229beda-126f-43a7-a85a-286066c436b8",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1316,7 +2408,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -1661,7 +2755,7 @@
     "company_name": "StudyFetch",
     "id": "f010c8ee-806d-4f1c-96a4-0ad83bd900a7",
     "title": "Product Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1842,7 +2936,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "f258c80b-4140-4f8b-a3f4-4c1682682d30",
     "title": "Artificial Intelligence and Software Development Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2140,7 +3234,7 @@
     "company_name": "Williams",
     "id": "de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3348,7 +4442,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3382,7 +4476,7 @@
     "company_name": "JP Morgan Chase",
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "title": "Data Internship - Data & AI Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3451,7 +4545,7 @@
     "company_name": "JP Morgan Chase",
     "id": "067fde7e-5b83-40ed-8830-3864aced6f33",
     "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3478,7 +4572,7 @@
     "company_name": "JP Morgan Chase",
     "id": "c603c749-ab7d-489e-a4f7-a962ea05b835",
     "title": "Quantitative Research Intern - Markets - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3534,7 +4628,7 @@
     "company_name": "JP Morgan Chase",
     "id": "6d7e83bd-6e67-4d8c-919e-862288b8b561",
     "title": "Quantitative Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3806,7 +4900,7 @@
     "company_name": "ZGF Architects",
     "id": "61518b6a-0c0a-450a-b25d-82c438d68acc",
     "title": "Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4945,7 +6039,7 @@
     "company_name": "Airbus",
     "id": "b722e715-5a14-4a63-a460-c1e16e834e4e",
     "title": "Electrical Assembler",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8242,7 +9336,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -22384,7 +23480,7 @@
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -27238,7 +28334,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -28222,7 +29318,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -29665,7 +30761,7 @@
     "company_name": "GE Healthcare",
     "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -29694,7 +30790,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -33331,7 +34427,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -45957,7 +47055,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -74209,7 +75307,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -195130,7 +196228,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -236069,7 +237169,7 @@
     "company_name": "Faculty AI",
     "id": "f5e510ee-4c7f-4a0b-b009-217ae6e5b564",
     "title": "UK Defence Veterans - Civilian Work Attachment",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],

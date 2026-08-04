@@ -1,9 +1,56 @@
-# Other (205)
+# Other (252)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | Software Engineer Intern, Fleet Health Instrumentation | McKinney, TX |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | Software Engineer Intern, Fleet Health Instrumentation | Fullerton, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668675500744837381) | Software Engineer Intern, TikTok-Agentic Creation-AIGC | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668584161852229893) | Frontend Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668582031916435717) | Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668642761473902901) | Software Engineer Intern, Creative Intelligence and Brand Innovation | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668584916620527925) | Software Engineer Intern, Business Integrity | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668445566565321013) | Software Engineer Intern, Agentic Creation-Effect Platform | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668582146236631349) | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667935738376227077) | Software Engineer Intern, Code Graph and Quality Validation | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667935739300317493) | Software Engineer Intern, Privacy and Security | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667935739300792629) | Frontend Engineer Intern, TikTok-Open Platform | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667933770819897605) | Software Engineer Intern, PGC Creator Strategy | San Jose |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667934635573692725) | Backend Software Engineer Intern, Social Friending | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667933335084124469) | Backend Software Engineer Intern, Search | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667935399050692917) | Software Engineer Intern, TikTok-Social-Friending | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667934302872537397) | Backend Software Engineer Intern, PGC-Digital Content Center | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667934860750063925) | Software Engineer Intern, Growth Innovation | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667935565120112949) | Backend Software Engineer Intern, Social Foundation | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7662684280234232117) | Software Engineer Intern, Trust and Safety-Engineering | Seattle, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7662700594251958581) | Software Engineer Intern, Trust and Safety-Engineering | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7669711844487399685) | Software Engineer Intern, Global CRM | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668921505254410549) | Software Engineer Intern, Shoot Experience Optimization | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7669705785962727733) | Software Engineer Intern, Ads Interface | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668834837268416821) | Backend Software Engineer Intern, Global E-Commerce | Seattle, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668834837268138293) | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667935633764370741) | Backend Software Engineer Intern, Product Infrastructure | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7669943120351906053) | Software Engineer Intern, Transaction Platform | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7668862422178318597) | Software Engineer Intern, Intelligent Creation-Camera | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7669712589169117445) | Software Engineer Intern, AI Agent & Global Revenue Platform | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7669711026846058757) | Frontend Engineer Intern, Global CRM | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7667935150530840837) | Software Engineer Intern, Global Live-Foundation | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Product Manager Intern | Remote |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [ByteDance](https://joinbytedance.com/search/7668374190764050741) | Software Engineer Intern, Distributed NoSQL Database Systems | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [ByteDance](https://joinbytedance.com/search/7668373268886161669) | Software Engineer Intern, Distributed NoSQL Database Systems | Seattle, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Yotta Labs](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | Research Engineer Intern | Remote |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Samsara](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | Software Engineering Intern | San Francisco, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Modal](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | ML Research Intern | New York, NY, San Francisco, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Melius](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) | Software Engineering Intern | New York City, NY |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [ByteDance](https://joinbytedance.com/search/7668212952030841093) | Software Engineer Intern, AI Platform | San Jose, CA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [RenderATL](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | Software Engineer Intern | Seattle, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) | Product Management Intern | New York, NY |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922) | Software Engineer Intern, Fullstack Product (Web + Services) | Multiple Locations, United States |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923) | Software Engineer Intern, Cloud & Distributed Backend | Redmond, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) | Software Engineer Intern, AI/ML & LLM | Redmond, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) | Software Engineer Intern, Security & Identity | Redmond, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931) | Software Engineer Intern, Data Platform/Analytics | Redmond, WA |  | 2026-08-04 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Microsoft](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) | Software Engineer Intern, CoreAI | Multiple Locations, United States |  | 2026-08-03 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319) | Cyber Security Intern | McLean, VA, Plano, TX |  | 2026-08-03 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1) | Software Engineer Intern | McLean, VA, Plano, TX, Richmond, VA |  | 2026-08-03 | 1 | vanshb03-2026, vanshb03-2027 |

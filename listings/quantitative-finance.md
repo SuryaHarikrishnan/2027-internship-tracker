@@ -1,4 +1,4 @@
-# Quantitative Finance (116)
+# Quantitative Finance (113)
 
 [← back to index](../README.md)
 
@@ -10,10 +10,7 @@
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002) | Quantitative Trader | London, UK | N/A | 2026-08-03 | 1 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002) | Quantitative Researcher | London, UK | N/A | 2026-08-03 | 1 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002) | Sales and Trading Intern | London, UK | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
-| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | Quantitative Research Intern | NYC | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) | Quantitative Research Intern - Risk and Treasury | Plano, TX, Chicago, IL, NYC | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
-| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) | Quantitative Research Summer Analyst Intern - Asset Management | NYC | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
-| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | Quantitative Research Intern - Markets - Analyst | NYC | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/13945) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-02 | 2 | simplify-2026 |
 | [Maven Securities](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) | Quant Trader Intern | London, UK | Winter 2027, Summer 2027 | 2026-07-31 | 4 | simplify-2026 |
 | [Trillium](https://www.trlm.com/apply/5191110007?gh_jid=5191110007) | Equity Trader | Miami, FL, Chicago, IL, NYC | N/A | 2026-07-30 | 5 | simplify-2026 |
