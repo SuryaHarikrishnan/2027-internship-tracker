@@ -1,4 +1,4 @@
-# Software Engineering (424)
+# Software Engineering (418)
 
 [← back to index](../README.md)
 
@@ -63,7 +63,6 @@
 | [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Undergraduate-Intern_R231441-1) | Technology Intern | Cleveland, OH, Birmingham, AL, Dallas, TX, Pittsburgh, PA, Phoenix, AZ, Denver, CO | Summer 2026 | 2026-08-03 | 1 | simplify-2026 |
 | [University of Virginia](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Media-Studio-Technology-Consultant--Student-Wage-_R0085912) | Media Studio Technology Consultant | Charlottesville, VA | N/A | 2026-08-03 | 1 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1) | Technology Intern | Plano, TX, McLean, VA, Richmond, VA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556951951) | Software Engineer Intern | Vancouver, BC, Canada | Winter 2027 | 2026-08-02 | 2 | simplify-2026 |
 | [HPR (Hyannis Port Research)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Software Engineer Intern | Needham, MA | Summer 2027 | 2026-08-01 | 3 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278847) | Software Compiler Engineer Intern - AI Inference | Palo Alto, CA | Fall 2026, Winter 2027 | 2026-08-01 | 3 | simplify-2026 |
 | [SiMa.ai](https://jobs.jobvite.com/simaai/job/ohRqAfwS?nl=1&nl=1&fr=false) | Application Development Intern | San Jose, CA | Summer 2026 | 2026-08-01 | 3 | simplify-2026 |
@@ -86,9 +85,6 @@
 | [Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Application-Engineer-Co-op_R3312-1) | Application Engineer Co-op | Lehi, UT | Fall 2026 | 2026-07-30 | 5 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | Software Engineer Intern | McKinney, TX | Summer 2027 | 2026-07-30 | 5 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | Frontend Developer Internship | NYC | Summer 2027 | 2026-07-29 | 6 | simplify-2026 |
-| [RapDev](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true) | ServiceNow Engineer Intern | Boston, MA | Fall 2026 | 2026-07-29 | 6 | simplify-2026 |
-| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Application Developer Intern | Indianapolis, IN | Summer 2026 | 2026-07-29 | 6 | simplify-2026 |
-| [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113) | AI Productivity & Adoption Co-op | Toronto, ON, Canada | Fall 2026 | 2026-07-29 | 6 | simplify-2026 |
 | [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431) | Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams | Golden, CO | Fall 2026 | 2026-07-29 | 6 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330) | Digital Vehicle Experience Software Developer Co-op | Markham, ON, Canada | Fall 2026 | 2026-07-29 | 6 | simplify-2026 |
 | [Kognitos](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true) | Forward Deployed Engineer Intern | Mountain View, CA | Fall 2026 | 2026-07-28 | 7 | simplify-2026 |
@@ -274,7 +270,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/270063) | Software Engineer Intern - Vehicle UI Development | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 58 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270497) | Software Engineer Intern - Software Engineer - Information Security | Bellevue, WA | Fall 2026 | 2026-06-07 | 58 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271209) | Software Engineer Intern - Software Engineer - IT Apps | Fremont, CA | Fall 2026 | 2026-06-07 | 58 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/267005) | Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure | Palo Alto, CA | Fall 2026 | 2026-06-07 | 58 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/267004) | Software Engineer Intern - Software Engineer - Data Platforms | Palo Alto, CA | Fall 2026 | 2026-06-07 | 58 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/266986) | Software Engineer Intern - Linux Update Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 58 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/266119) | Software Engineering Intern - Software Engineering - Service Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 58 | simplify-2026 |
@@ -296,7 +291,6 @@
 | [Clerkie](http://getfiber.ai/careers?gh_jid=5152467007) | Software Engineer Intern | Remote in USA | Winter 2024, Spring 2024, Summer 2024, Fall 2024, Winter 2025, Spring 2025, Summer 2025 | 2026-06-02 | 63 | simplify-2026 |
 | [Apera AI](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007) | Software Developer Co-op - C++ | Vancouver, BC, Canada | Fall 2026 | 2026-06-01 | 64 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | Junior Full Stack Developer Co-op | Oakville, ON, Canada | Summer 2026 | 2026-05-30 | 66 | simplify-2026 |
-| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | Software Developer Intern - Stagiaire en Développement Logiciel | Canada | Summer 2026, Fall 2026 | 2026-05-30 | 66 | simplify-2026 |
 | [pony.ai](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) | Software Engineer Intern | Fremont, CA | Summer 2026 | 2026-05-29 | 67 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | Product Engineering Engineer Intern | Grand Rapids, MI | Summer 2026 | 2026-05-28 | 68 | simplify-2026 |
 | [Meshy](https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9) | Data Infra Engineer Intern | San Francisco, CA | Summer 2026 | 2026-05-27 | 69 | simplify-2026 |

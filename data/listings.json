@@ -891,7 +891,7 @@
     "date_posted": 1785852859,
     "company_url": "",
     "is_visible": true,
-    "season": "Spring/Summer 2027",
+    "season": "Summer",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -5960,7 +5960,7 @@
     "company_name": "Microsoft",
     "id": "14175068-fa33-4dcb-b0de-4819bdef5ae5",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -10128,7 +10128,7 @@
     "company_name": "RapDev",
     "id": "1fd1fcc8-fade-4579-a322-2bc276d73ca7",
     "title": "ServiceNow Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10181,7 +10181,7 @@
     "company_name": "Leidos",
     "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
     "title": "Application Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -10312,7 +10312,7 @@
     "company_name": "Generac",
     "id": "1198914e-0b05-4c13-a78b-3ef38d2f9697",
     "title": "AI Productivity & Adoption Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -12457,7 +12457,7 @@
     "company_name": "Keysight Technologies",
     "id": "8468a0fc-41d7-41eb-b908-66f723a8eea4",
     "title": "R&D Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23851,7 +23851,7 @@
     "company_name": "ITT",
     "id": "30911aee-5365-434c-a0d0-adfe7b01bfa5",
     "title": "Trade & Supply Chain Data Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Spring 2027"
@@ -25759,7 +25759,7 @@
     "company_name": "Lumentum",
     "id": "4277f49e-ede5-4c63-8d58-81f59263cd5d",
     "title": "Optical Verification Technician",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -31000,7 +31000,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "a6e53c8e-9291-4579-94b4-9950027dedf7",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -37778,7 +37778,7 @@
     "company_name": "Torc Robotics",
     "id": "57cd150e-48df-4c56-85b9-d5a32e55b32f",
     "title": "System Triage Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -53077,7 +53077,7 @@
     "company_name": "Tesla",
     "id": "308cebd0-af4e-4e6f-8da2-0a9a58a1182f",
     "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -60315,7 +60315,7 @@
     "company_name": "Autodesk",
     "id": "b7827240-ddc0-4787-b2b6-f95f65c55b31",
     "title": "Software Developer Intern - Stagiaire en D\u00e9veloppement Logiciel",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"

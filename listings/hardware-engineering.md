@@ -1,4 +1,4 @@
-# Hardware Engineering (191)
+# Hardware Engineering (189)
 
 [← back to index](../README.md)
 
@@ -27,7 +27,6 @@
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | ADAS Software Engineer Intern | Plymouth, MI | Fall 2026 | 2026-07-28 | 7 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830) | Device Engineer Intern - Ulp Cmos | Malta, NY | Summer 2026 | 2026-07-27 | 8 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 8 | simplify-2026 |
-| [Keysight Technologies](https://jobs.keysight.com/jobs/53652?icims=1) | R&D Software Engineer Intern | Santa Clara, CA, Calabasas, CA | Fall 2026 | 2026-07-27 | 8 | simplify-2026 |
 | [East Penn Manufacturing Company](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) | Product Engineer Intern | Ann Arbor, MI | Fall 2027 | 2026-07-27 | 8 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1) | Surgery Field Engineer Apprentice | Austin, TX, San Antonio, TX | Fall 2026 | 2026-07-24 | 11 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-07-22 | 13 | simplify-2026 |
@@ -54,7 +53,6 @@
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960/apply) | Analog Design Engineer Co-op - Analog Design Engineer | Greensboro, NC | Fall 2026 | 2026-07-14 | 21 | simplify-2026 |
 | [Duracell](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | Electronics Tech Intern | Atlanta, GA | Fall 2026 | 2026-07-14 | 21 | simplify-2026 |
 | [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Canton/Automotive-ADAS-Calibration-Technician-Apprentice_R0221001) | Automotive ADAS Calibration Technician Apprentice | Canton, PA | Fall 2026 | 2026-07-14 | 21 | simplify-2026 |
-| [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician_2026888) | Optical Verification Technician | Ottawa, ON, Canada | N/A | 2026-07-14 | 21 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8038923) | FPGA Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 22 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974391) | Campus FPGA Engineer Intern | London, UK | Winter 2026, Spring 2026, Fall 2026 | 2026-07-13 | 22 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974837) | Campus ASIC Engineer Intern | Bristol, UK | Fall 2026 | 2026-07-13 | 22 | simplify-2026 |
