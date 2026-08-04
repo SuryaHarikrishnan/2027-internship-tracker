@@ -1,9 +1,14 @@
-# Software Engineering (422)
+# Software Engineering (426)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7667935150530840837) | Backend Software Engineer Intern - LIVE Foundation Governance Engineering | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669711026846058757) | Frontend Engineer Intern - Global CRM | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7668862422178318597) | Software Engineer Intern - Intelligent Creation-Camera | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669943120351906053) | Software Engineer Intern - Transaction Platform | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7668212952030841093/detail) | Software Engineer Intern - AI Platform | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667935633764370741) | Backend Software Engineer Intern - Product Infrastructure | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668725183121000757) | Software Engineer Intern - Effects Performance | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668834837268138293) | Backend Software Engineer Intern - Global E-Commerce | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
@@ -163,7 +168,6 @@
 | [Xsolla](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | AI Engineer Intern | Montreal, QC, Canada | Fall 2026 | 2026-07-10 | 25 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/276333) | Software Engineer Intern - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-10 | 25 | simplify-2026 |
 | [Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application) | Software Engineer Intern | Carson, CA | Fall 2026 | 2026-07-09 | 26 | simplify-2026 |
-| [Pylon](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-09 | 26 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006) | Codeshark | Needham, MA | N/A | 2026-07-08 | 27 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003019) | Campus UI Software Engineer Intern | Chicago, IL | Fall 2026 | 2026-07-08 | 27 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8002989) | Campus Software Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 27 | simplify-2026 |

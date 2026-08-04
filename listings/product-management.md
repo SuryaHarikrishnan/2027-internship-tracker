@@ -1,11 +1,12 @@
-# Product Management (43)
+# Product Management (44)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7667874197682899205) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7667578131150506293) | AI Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) | Product Management Intern | NYC | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
-| [StudyFetch](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | Product Intern | Beverly Hills, CA | Fall 2026 | 2026-08-03 | 1 | simplify-2026 |
 | [Naver U.Hub INC](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Product Management Intern | Redwood City, CA | Fall 2026 | 2026-08-03 | 1 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918) | Digital Product Analyst Intern | NYC | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992) | Product Management Intern - Product Innovation - Credit & Fraud Risk | NYC | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |

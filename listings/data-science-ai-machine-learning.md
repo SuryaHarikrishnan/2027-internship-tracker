@@ -1,9 +1,18 @@
-# Data Science, AI & Machine Learning (535)
+# Data Science, AI & Machine Learning (545)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7667935568626043141) | Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch | San Jose, CA | Fall 2026 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669711968043092229) | Machine Learning Engineer Intern - Commerce Ads - Summer 2027 | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669707492914727221) | Machine Learning Engineer Intern - Lead Ads | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7668383643375257909) | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Seattle, WA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669700822370945333) | Data Science Intern - TikTok Live | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669682935444900149) | Data Science Intern - Integrity and Safety | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669709472078170373) | Machine Learning Engineer Intern - App Ads and Gaming | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669698648817305909) | Machine Learning Engineer Intern - Search Ads | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669693163422845237) | Machine Learning Engineer Intern - Performance Monetization | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668381860191734021) | Machine Learning Engineer Intern - Data Search Local Service | San Jose, CA | Fall 2026 | 2026-08-04 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669700361976809733) | Machine Learning Engineer Intern - Ads Signal & Measurement | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669702702763018501) | Machine Learning Engineer Intern - Commercial AI-CRM and Transaction | San Jose, CA | Summer 2027 | 2026-08-04 | 0 | simplify-2026 |
@@ -47,6 +56,7 @@
 | [TikTok](https://lifeattiktok.com/search/7665475460339665157) | Machine Learning Engineer Intern - Search Quality | San Jose, CA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667339583362025781) | Machine Learning Engineer Intern - Basic Ranking | San Jose, CA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667349591727278341) | Machine Learning Engineer Intern - Data Search - Visual Search | San Jose, CA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7667934792727906565) | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | Seattle, WA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667935738190465285) | Artificial Intelligence Engineer Intern - Client Architecture | San Jose, CA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667933770625599749) | Machine Learning Scientist Intern - Content Ecology - LLM Application | San Jose, CA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667934169444485429) | Machine Learning Scientist Intern | San Jose, CA | Summer 2027 | 2026-08-03 | 1 | simplify-2026 |
@@ -264,7 +274,6 @@
 | [Torc Robotics](https://job-boards.greenhouse.io/torcrobotics/jobs/8597138002) | System Triage Engineer Intern | Blacksburg, VA, Ann Arbor, MI, Fort Worth, TX | Summer 2026 | 2026-06-29 | 36 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/275316) | AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware | Palo Alto, CA | Fall 2026 | 2026-06-29 | 36 | simplify-2026 |
 | [Hendrick Motorsports](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647) | Project and Race Support Engineer Intern | Charlotte, NC | Spring 2027 | 2026-06-29 | 36 | simplify-2026 |
-| [Zipline](https://www.zipline.com/open-roles?gh_jid=7787868003) | Maps Intern | San Bruno, CA | Fall 2026 | 2026-06-27 | 38 | simplify-2026 |
 | [Nexstar](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/AL-Mobile/Media-Archivist-Intern--In--Person--Fall-2026_REQ-41978) | Media Archivist Intern | Mobile, AL | Fall 2026 | 2026-06-27 | 38 | simplify-2026 |
 | [Louisiana State University (LSU)](https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/0307-Madison-B-Sturgis-New-Agronomy-Bldg/Contingent-worker---visiting_R00115792) | Visitor | Baton Rouge, LA | N/A | 2026-06-27 | 38 | simplify-2026 |
 | [Liberty University](https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1) | Business Analyst Apprentice | Virginia | Summer 2026 | 2026-06-27 | 38 | simplify-2026 |
@@ -318,7 +327,6 @@
 | [Solar Turbines](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | Gas Compressor Data Analyst Intern | San Diego, CA | Summer 2026 | 2026-06-12 | 53 | simplify-2026 |
 | [Institute of Foundation Models](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply) | AI Research Intern | Sunnyvale, CA | Summer 2026 | 2026-06-12 | 53 | simplify-2026 |
 | [The Campbell's Company](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837) | Data Engineer Co-op | Philadelphia, PA | Summer 2026 | 2026-06-12 | 53 | simplify-2026 |
-| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | Research and Development Intern - Research & Development: AI/ML | Mountain View, CA, Warren, MI | Fall 2026 | 2026-06-12 | 53 | simplify-2026 |
 | [The Campbell's Company](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Modeling-and-Visualization-Engineer-Co-Op_Req-65846) | Modeling and Visualization Engineer Co-op | Gettysburg, PA | Summer 2026 | 2026-06-12 | 53 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) | Data Extraction Co-op | Cambridge, MA | Summer 2026 | 2026-06-11 | 54 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | Data Engineering Intern - AI & Analytics | Palo Alto, CA | Fall 2026 | 2026-06-11 | 54 | simplify-2026 |
@@ -341,6 +349,7 @@
 | [Rippling](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) | Machine Learning Software Engineer Intern | SF | Winter 2027 | 2026-06-05 | 60 | simplify-2026 |
 | [Peraton](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false) | Generative AI Engineer Intern | Remote in USA | Summer 2026 | 2026-06-05 | 60 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Content-Management-Automation-Student-Technician--open-to-work-study-and-non-work-study-_R_00046574) | Content Management Automation Student Technician | Austin, TX | N/A | 2026-06-05 | 60 | simplify-2026 |
+| [CHEP](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | FP&A Business Intelligence Intern | London, UK, Orlando, FL, Atlanta, GA | Summer 2026 | 2026-06-05 | 60 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7533027329703282951/detail) | Student Researcher - Seed Vision - Long-Range Video Generation | San Jose, CA | N/A | 2026-06-04 | 61 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7532653875506989320/detail) | Student Researcher - LLM Post Training - Agent & Reinforcement Learning | San Jose, CA | N/A | 2026-06-04 | 61 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7529661012351420690/detail) | Research Intern - Seed | San Jose, CA | N/A | 2026-06-04 | 61 | simplify-2026 |
@@ -390,6 +399,7 @@
 | [First Quality](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) | Analytics Engineer Intern/Co-op - Analytics Engineer | Anderson, SC | Summer 2026 | 2026-05-16 | 80 | simplify-2026 |
 | [Jade Global](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685) | Data/AI Engineer Intern | Ogden, UT | Summer 2026 | 2026-05-16 | 80 | simplify-2026 |
 | [Jade Global](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683) | Integration Analyst Intern | Ogden, UT | Summer 2026 | 2026-05-16 | 80 | simplify-2026 |
+| [University of Arkansas](https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-Assistant_R0065563) | Extra Help Assistant | Pine Bluff, AR | N/A | 2026-05-16 | 80 | simplify-2026 |
 | [University of Virginia](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/TFWS-Research-and-Insights-Analyst--Student-Wage-_R0082986) | TFWS Research and Insights Analyst | Charlottesville, VA | N/A | 2026-05-16 | 80 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102) | Algorithm Engineer Intern | United States | Fall 2026 | 2026-05-16 | 80 | simplify-2026 |
 | [Ardian](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | Data Scientist Intern | NYC | Fall 2026 | 2026-05-16 | 80 | simplify-2026 |
