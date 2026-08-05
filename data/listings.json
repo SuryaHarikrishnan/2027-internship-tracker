@@ -1,6 +1,164 @@
 [
   {
     "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Maven Securities",
+    "id": "f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
+    "title": "Trader Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785940230,
+    "date_posted": 1785940179,
+    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Maven-Securities",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Swift",
+    "id": "af0010c7-8bfd-4664-aa13-4626a4140ee2",
+    "title": "Industry Engagement Research Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785939928,
+    "date_posted": 1785888000,
+    "url": "https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Swift",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Appliances",
+    "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
+    "title": "Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785939597,
+    "date_posted": 1785888000,
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431",
+    "locations": [
+      "LaFayette, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Appliances",
+    "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
+    "title": "Software Engineer Co-op - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785939594,
+    "date_posted": 1785888000,
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Dynamics Information Technology",
+    "id": "d11cbbe8-c970-459f-bf95-530ed6400b12",
+    "title": "Artificial Intelligence/Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1785939365,
+    "date_posted": 1785888000,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
+    "locations": [
+      "Falls Church, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "US Acute Care Solutions",
+    "id": "fef69e02-fe37-4ff4-b158-7dceacfeb578",
+    "title": "People Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785939123,
+    "date_posted": 1785888000,
+    "url": "https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363",
+    "locations": [
+      "Remote in USA",
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/US-Acute-Care-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "TikTok",
     "id": "7fdf2de6-75ca-4715-8764-720c7cc52695",
@@ -2418,7 +2576,7 @@
     "company_name": "University of Arkansas",
     "id": "46135c75-025d-4cac-8bc6-7d2aadb170eb",
     "title": "Extra Help Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -3943,7 +4101,7 @@
     "company_name": "Vitalant",
     "id": "a8de70cc-4a6f-4f62-a560-4b7baef84d9b",
     "title": "Data Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -11073,7 +11231,7 @@
     "company_name": "RTX",
     "id": "0b26c2f0-079a-457d-b9bc-8123655ff605",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13199,7 +13357,7 @@
     "company_name": "Marsh",
     "id": "61c905e5-2281-4abd-afcc-83089ab79869",
     "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -13356,7 +13514,7 @@
     "company_name": "Bank of Montreal",
     "id": "b3adad35-fbd3-410d-a07f-c9df9cf024d9",
     "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -20167,7 +20325,7 @@
     "company_name": "GE Healthcare",
     "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -29600,7 +29758,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -31973,7 +32131,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -32056,7 +32214,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -47301,7 +47459,7 @@
     "company_name": "NatWest Group",
     "id": "0420f875-2ff2-407a-a6a8-247042c8ad00",
     "title": "Tech Insight Experience for Women - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -160430,7 +160588,7 @@
     "company_name": "University of Arkansas",
     "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
     "title": "Cosmos Graduate Research Assistant - ML/AI",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
