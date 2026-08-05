@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (557)
+# Data Science, AI & Machine Learning (554)
 
 [← back to index](../README.md)
 
@@ -197,7 +197,6 @@
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Data--Texas-Child-Mental-Health-Programs--Department-of-Psychiatry-and-Behavioral-Sciences--Dell-Medical-School_R_00047460-1) | Graduate Assistant - Data - Dell Medical School | Austin, TX | N/A | 2026-07-21 | 15 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) | Student Researcher | Toronto, ON, Canada, Kitchener, ON, Canada | N/A | 2026-07-20 | 16 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) | Student Researcher | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, Irvine, CA, San Bruno, CA, Ann Arbor, MI, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Atlanta, GA | N/A | 2026-07-20 | 16 | simplify-2026 |
-| [Cirrus Logic](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply) | AI Business Analytics Co-op Intern | Austin, TX | Fall 2026 | 2026-07-20 | 16 | simplify-2026 |
 | [Clyde Companies](https://careers.clydeinc.com/jobs/24398?icims=1) | Application Development Intern | Orem, UT | Fall 2026 | 2026-07-20 | 16 | simplify-2026 |
 | [Louisiana Blue](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903) | Healthcare Price and Transparency Data Analyst Intern | Baton Rouge, LA | Fall 2026 | 2026-07-20 | 16 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) | Machine Learning Researcher Intern/Co-op | Hartford, CT | Fall 2026 | 2026-07-20 | 16 | simplify-2026 |
@@ -325,7 +324,6 @@
 | [Meta](https://www.metacareers.com/jobs/924149567345400) | Research Scientist Intern - Photorealistic Telepresence | London, UK | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-06-17 | 49 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2774289902955470) | Research Scientist Intern - State Estimation for Dexterous Manipulation | Redmond, WA | Summer 2026, Fall 2026 | 2026-06-16 | 50 | simplify-2026 |
 | [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada, Kitchener, ON, Canada | Fall 2026 | 2026-06-16 | 50 | simplify-2026 |
-| [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) | Data Analyst Co-op/Intern | Toronto, ON, Canada | Summer 2026, Fall 2026 | 2026-06-16 | 50 | simplify-2026 |
 | [Synchrony Financial](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | Data Analytics Intern | Stamford, CT | Summer 2026 | 2026-06-16 | 50 | simplify-2026 |
 | [SDSU Research Foundation](https://careers-sdsurf.icims.com/jobs/20513/job?mobile=true&needsRedirect=false) | Undergraduate Student - Port Contamination Project | San Diego, CA | N/A | 2026-06-16 | 50 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7532254890627696903) | Data Scientist Intern - TikTok Shop User Product DS | Seattle, WA | Summer 2026 | 2026-06-15 | 51 | simplify-2026 |
@@ -411,7 +409,6 @@
 | [Ferrovial](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Digital-Construction---Data-Management-Intern_JR17433) | Digital Construction & Data Management Intern | Austin, TX | Summer 2026 | 2026-05-18 | 79 | simplify-2026 |
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Data Engineering Intern Co-op | Milwaukee, WI | Winter 2027, Spring 2027, Summer 2027 | 2026-05-16 | 81 | simplify-2026 |
 | [ASM Global](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Culver-City-CA/Hospitality-and-Merchandise-Insights-Intern_R100122329) | Hospitality and Merchandise Insights Intern | Culver City, CA | Summer 2026 | 2026-05-16 | 81 | simplify-2026 |
-| [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | AI/ML Intern – Machine Learning Engineer/Researcher Intern | Seattle, WA, SF, San Jose, CA | Summer 2026, Fall 2026 | 2026-05-16 | 81 | simplify-2026 |
 | [First Quality](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) | Analytics Engineer Intern/Co-op - Analytics Engineer | Anderson, SC | Summer 2026 | 2026-05-16 | 81 | simplify-2026 |
 | [Jade Global](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685) | Data/AI Engineer Intern | Ogden, UT | Summer 2026 | 2026-05-16 | 81 | simplify-2026 |
 | [Jade Global](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683) | Integration Analyst Intern | Ogden, UT | Summer 2026 | 2026-05-16 | 81 | simplify-2026 |

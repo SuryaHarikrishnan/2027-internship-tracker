@@ -1,4 +1,4 @@
-# Hardware Engineering (192)
+# Hardware Engineering (190)
 
 [← back to index](../README.md)
 
@@ -61,7 +61,6 @@
 | [AMD](https://careers.amd.com/jobs/86868?icims=1) | Analog/Mixed-Signal Serdes Design Engineer | Markham, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | N/A | 2026-07-16 | 20 | simplify-2026 |
 | [Amentum](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | Spaceflight Hardware Intern | Houston, TX | Fall 2026 | 2026-07-16 | 20 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/285c6096-5bc0-438e-abc6-b9768891167d/apply) | Digital Design Engineer Co-op - Digital Design Engineer | Greensboro, NC | Fall 2026 | 2026-07-14 | 22 | simplify-2026 |
-| [Cirrus Logic](https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960/apply) | Analog Design Engineer Co-op - Analog Design Engineer | Greensboro, NC | Fall 2026 | 2026-07-14 | 22 | simplify-2026 |
 | [Duracell](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | Electronics Tech Intern | Atlanta, GA | Fall 2026 | 2026-07-14 | 22 | simplify-2026 |
 | [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Canton/Automotive-ADAS-Calibration-Technician-Apprentice_R0221001) | Automotive ADAS Calibration Technician Apprentice | Canton, PA | Fall 2026 | 2026-07-14 | 22 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8038923) | FPGA Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 23 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -171,7 +170,6 @@
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Design Verification Engineer Intern | Boston, MA | Winter 2026, Summer 2026, Fall 2026 | 2026-04-09 | 118 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330594) | Data Center Trainee - Data Center Operations | Abilene, TX | N/A | 2026-04-06 | 121 | simplify-2026 |
 | [SoloPulse](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | Systems Engineering Intern | Norcross, GA | Summer 2026 | 2026-04-02 | 125 | simplify-2026 |
-| [Cirrus Logic](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) | Co-op - Design Verification Engineer | Austin, TX | Fall 2026 | 2026-03-25 | 133 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095) | Radio Frequency Engineering Intern | Dulles, VA | Summer 2026 | 2026-03-12 | 146 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Intern Technician - Electronics | Carlisle, PA | Summer 2026 | 2026-03-11 | 147 | simplify-2026 |
 | [Monolithic Power Systems](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | Application Engineer Intern | San Jose, CA | Summer 2026 | 2026-03-11 | 147 | simplify-2026 |
