@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (559)
+# Data Science, AI & Machine Learning (557)
 
 [← back to index](../README.md)
 
@@ -39,7 +39,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/278620) | Cell Engineering Intern - Cell Qualification | Palo Alto, CA, San Diego, CA | Winter 2027, Spring 2027 | 2026-08-04 | 1 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486) | Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering | Boise, ID | Fall 2026 | 2026-08-04 | 1 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) | Warranty Co-op | Newmarket, ON, Canada | Summer 2026 | 2026-08-04 | 1 | simplify-2026 |
-| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000080947-1) | Research Assistant - Astronomy Department | University Park, State College, PA | N/A | 2026-08-04 | 1 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931) | Graduate Statistical Analysis Intern - Regional & Community Outreach | Boston, MA | Fall 2026 | 2026-08-04 | 1 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) | Digital Technology Intern | Greenville, SC, Schenectady, NY, Atlanta, GA | Summer 2027 | 2026-08-04 | 1 | simplify-2026 |
 | [University System of New Hampshire](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant---Keesee_JR8977) | Research Assistant - Keesee | Durham, NH | N/A | 2026-08-04 | 1 | simplify-2026 |
@@ -272,7 +271,6 @@
 | [Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790) | AI Value Creation Office Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-04 | 32 | simplify-2026 |
 | [Alljoined](https://jobs.ashbyhq.com/alljoined/b9e2f607-6a07-4836-8d89-e4f6de8bd515/application?embed=true) | Research Intern | SF | Fall 2026 | 2026-07-04 | 32 | simplify-2026 |
 | [Arlington County VA](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624) | Utility Engineering Intern | Arlington, VA | Fall 2026 | 2026-07-03 | 33 | simplify-2026 |
-| [Two Six Technologies](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | China Subject Matter Expert Intern | Remote in USA | Fall 2026 | 2026-07-02 | 34 | simplify-2026 |
 | [Bot Auto](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Deep Learning Engineer Intern | Houston, TX | Fall 2026 | 2026-07-02 | 34 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [ConnectPrep](https://apply.workable.com/connectprep/j/C0CA13664F/apply) | Data Analyst Intern | Washington, DC, Remote in USA | Fall 2026 | 2026-07-02 | 34 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | Machine Learning Center of Excellence Intern - NLP | London, UK | Summer 2026 | 2026-07-02 | 34 | simplify-2026 |

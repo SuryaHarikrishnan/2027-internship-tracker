@@ -1,4 +1,4 @@
-# Hardware Engineering (193)
+# Hardware Engineering (192)
 
 [← back to index](../README.md)
 
@@ -14,7 +14,6 @@
 | [Diversified Automation](https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc/apply) | Software Engineering Co-op | Louisville, KY | Fall 2026 | 2026-08-04 | 1 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/53636?icims=1) | Software Engineer Intern - R&D - FPGA | Santa Clara, CA, Calabasas, CA | Fall 2026 | 2026-08-04 | 1 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | Summer 2027 | 2026-08-04 | 1 | simplify-2026 |
-| [Blackberry](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260281) | Application Engineer Student - QNX | Ottawa, ON, Canada | N/A | 2026-08-04 | 1 | simplify-2026 |
 | [Arlo Technologies](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) | Firmware Developer Co-op | Richmond, BC, Canada | Fall 2026 | 2026-08-04 | 1 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | Optical Verification Technician Co-op Intern | Ottawa, ON, Canada | Fall 2026 | 2026-08-04 | 1 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8621763002) | Silicon Engineer Intern/Co-op | Palo Alto, CA, Irvine, CA, Redmond, WA | Summer 2027 | 2026-08-03 | 2 | simplify-2026 |

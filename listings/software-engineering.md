@@ -1,4 +1,4 @@
-# Software Engineering (416)
+# Software Engineering (415)
 
 [← back to index](../README.md)
 
@@ -322,7 +322,6 @@
 | [Acceldata](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply) | Software Engineering Co-op | Kitchener, ON, Canada | Summer 2026 | 2026-05-09 | 88 | simplify-2026 |
 | [Magnet Forensics](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply) | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | Fall 2026 | 2026-05-06 | 91 | simplify-2026 |
 | [Magnet Forensics](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply) | Software Developer Co-op | Canada, Ottawa, ON, Canada, Kitchener, ON, Canada | Fall 2026 | 2026-05-06 | 91 | simplify-2026 |
-| [Gemini](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | Software Engineer Intern | NYC | Fall 2026 | 2026-05-01 | 96 | simplify-2026 |
 | [Cohere](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | Fall 2026, Winter 2026 | 2026-05-01 | 96 | simplify-2026 |
 | [Atomic Semi](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) | Infrastructure Software Engineering Intern | San Francisco, CA, Austin, TX | Fall 2026 | 2026-05-01 | 96 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Rainmaker](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) | Software Engineering Intern | El Segundo, CA | Summer 2026 | 2026-05-01 | 96 | simplify-2026 |

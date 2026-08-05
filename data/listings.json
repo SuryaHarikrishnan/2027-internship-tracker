@@ -1036,7 +1036,7 @@
     "company_name": "Pennsylvania State University",
     "id": "5330c788-da2f-40f9-9eee-54b3ef06386d",
     "title": "Research Assistant - Astronomy Department",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1168,7 +1168,7 @@
     "company_name": "Blackberry",
     "id": "1fac83cc-6514-4be1-9408-94aff695e9e3",
     "title": "Application Engineer Student - QNX",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35677,7 +35677,7 @@
     "company_name": "Two Six Technologies",
     "id": "35880e25-246d-4a52-9e52-2241407852fd",
     "title": "China Subject Matter Expert Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -93274,7 +93274,7 @@
     "company_name": "Gemini",
     "id": "33d49b99-ffcc-4d51-ab65-58a97d2afbf0",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
