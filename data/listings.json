@@ -1,5 +1,140 @@
 [
   {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "7fdf2de6-75ca-4715-8764-720c7cc52695",
+    "title": "Data Engineer Intern - Ads Targeting",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921668,
+    "date_posted": 1785921432,
+    "url": "https://lifeattiktok.com/search/7668533140146817333",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "861c7a8a-d9c3-4137-b070-331f0d26e5b3",
+    "title": "Data Scientist Intern - VOD Data",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921482,
+    "date_posted": 1785921474,
+    "url": "https://lifeattiktok.com/search/7670287013157095733",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "633fde2a-eea3-462a-91b6-f0c8025fba8d",
+    "title": "Machine Learning Engineer Intern - Search",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921482,
+    "date_posted": 1785921479,
+    "url": "https://lifeattiktok.com/search/7668396597746862341",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
+    "title": "Backend Software Engineer Intern - Creation Platform",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921482,
+    "date_posted": 1785921473,
+    "url": "https://lifeattiktok.com/search/7670289874020993285",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
+    "title": "Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785921458,
+    "date_posted": 1785921282,
+    "url": "https://jobs.bytedance.com/en/position/7670330161462364421/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "date_updated": 1785917079,
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976",
     "locations": [
@@ -3808,7 +3943,7 @@
     "company_name": "Vitalant",
     "id": "a8de70cc-4a6f-4f62-a560-4b7baef84d9b",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -5607,7 +5742,7 @@
     "company_name": "JP Morgan Chase",
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "title": "Data Internship - Data & AI Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -9042,7 +9177,7 @@
     "company_name": "Microchip Technology",
     "id": "68d9d4d0-a1b3-4673-a429-1d2524909e32",
     "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10164,7 +10299,7 @@
     "company_name": "Citylogix Inc.",
     "id": "15163d00-cb37-433c-86b3-3f93d179b8d1",
     "title": "Field Data Collection Technician",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10197,7 +10332,7 @@
     "company_name": "NAXO",
     "id": "0fc23464-ee24-45e4-ae4c-cbf98ca6ac10",
     "title": "Technical Investigations Support Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -29831,7 +29966,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -33556,7 +33691,7 @@
     "company_name": "American University",
     "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
     "title": "Quantitative Research Methodology Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -72181,7 +72316,7 @@
     "company_name": "Tencent",
     "id": "d47318d3-828b-49ac-932d-4d540ebae3c5",
     "title": "Agent Evaluation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -80941,7 +81076,7 @@
     "company_name": "Verkada",
     "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
     "title": "Hardware Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

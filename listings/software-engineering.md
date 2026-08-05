@@ -1,9 +1,10 @@
-# Software Engineering (417)
+# Software Engineering (416)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7670289874020993285) | Backend Software Engineer Intern - Creation Platform | San Jose, CA | Summer 2027 | 2026-08-05 | 0 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446716226621) | AI Integration & Interoperability Intern | Cheektowaga, NY | Summer 2026 | 2026-08-05 | 0 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137481393611) | Advanced Engineering Student Intern - Product Engineering | Fargo, ND | N/A | 2026-08-05 | 0 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137480957123) | Software Engineer Part-Time Student - Technology | Moline, IL | N/A | 2026-08-05 | 0 | simplify-2026 |
@@ -81,7 +82,6 @@
 | [Heliux](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) | Software Engineer Intern | SF | Summer 2027 | 2026-07-31 | 5 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278703) | Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface | Palo Alto, CA | Fall 2026 | 2026-07-31 | 5 | simplify-2026 |
 | [Melius](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) | Software Engineer Intern | NYC | Fall 2026 | 2026-07-31 | 5 | simplify-2026 |
-| [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) | Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering | Chandler, AZ | Fall 2026 | 2026-07-31 | 5 | simplify-2026 |
 | [Genworth Financial](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) | IT Development Program Intern - IT Development Program | Richmond, VA | Summer 2027 | 2026-07-31 | 5 | simplify-2026 |
 | [GoDaddy](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | Software Development Engineer Intern | Tempe, AZ | Summer 2027 | 2026-07-30 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [CALSTART](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) | Web Development Intern | Remote in USA | Fall 2026 | 2026-07-30 | 6 | simplify-2026 |
@@ -305,7 +305,6 @@
 | [Menasha Corporation](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999) | Application Engineer Intern | Troy, MI | Summer 2026 | 2026-05-21 | 76 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325) | Software Engineer Intern | Seattle, WA, Santa Clara, CA | Summer 2026 | 2026-05-21 | 76 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) | Software Engineer Intern - Ovip | Nashville, TN, Austin, TX, United States | Summer 2026 | 2026-05-21 | 76 | simplify-2026 |
-| [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Agent-Evaluation-Intern_R107491) | Agent Evaluation Intern | London, UK | Summer 2026 | 2026-05-20 | 77 | simplify-2026 |
 | [Medpace, Inc.](https://careers.medpace.com/jobs/12766?lang=en-us&icims=1) | Software Development Co-op | Cincinnati, OH | Fall 2026 | 2026-05-19 | 78 | simplify-2026 |
 | [Nuclear Promise X](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/application) | AI Developer Co-op | Canada | Summer 2026 | 2026-05-19 | 78 | simplify-2026 |
 | [Melotech](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application) | Full-Stack Developer Intern - Music & Audio | London, UK, SF, LA, NYC, Berlin, Germany | Spring 2026 | 2026-05-19 | 78 | simplify-2026 |

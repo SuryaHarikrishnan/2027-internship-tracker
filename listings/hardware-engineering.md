@@ -1,4 +1,4 @@
-# Hardware Engineering (199)
+# Hardware Engineering (197)
 
 [← back to index](../README.md)
 
@@ -75,7 +75,6 @@
 | [Block Imaging](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4324694) | Field Service Engineer Apprentice | Buffalo, NY | Fall 2026 | 2026-07-11 | 25 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 26 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Denver--CO-_R4043455-1) | Field Engineer Apprentice | Denver, CO | Fall 2026 | 2026-07-10 | 26 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) | Field Engineer Apprentice | Columbus, OH | Fall 2026 | 2026-07-10 | 26 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 28 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1) | Field Service Apprentice | Minneapolis, MN | Winter 2025, Spring 2025, Summer 2025, Fall 2025 | 2026-07-08 | 28 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1) | Field Engineer Apprentice | Salt Lake City, UT | Fall 2026 | 2026-07-08 | 28 | simplify-2026 |
@@ -160,7 +159,6 @@
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | Autonomous Driving Applications Research Intern | Santa Clara, CA | Spring 2026 | 2026-05-21 | 76 | simplify-2026 |
 | [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply) | Design Verification Intern | Burlingame, CA | Summer 2026 | 2026-05-19 | 78 | simplify-2026 |
 | [Technergetics](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | R&D Engineer Intern | Remote in USA | Summer 2026 | 2026-05-15 | 82 | simplify-2026 |
-| [Verkada](https://job-boards.greenhouse.io/verkada/jobs/4321159007) | Hardware Engineer Co-op | San Mateo, CA | Fall 2026 | 2026-05-13 | 84 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | Assembly and Test Intern - Integration | SF | Fall 2026 | 2026-05-12 | 85 | simplify-2026 |
 | [TSC](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Hardware-Engineering-Fall-Co-Op_JR2559) | Hardware Engineering Co-op | Plymouth, MA | Fall 2026 | 2026-05-12 | 85 | simplify-2026 |
 | [Heron Power](http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application) | Hardware Test Engineering Intern | Santa Cruz, CA | Summer 2026 | 2026-05-11 | 86 | simplify-2026 |
