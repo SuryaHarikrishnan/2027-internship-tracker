@@ -1,4 +1,4 @@
-# Software Engineering (422)
+# Software Engineering (423)
 
 [← back to index](../README.md)
 
@@ -413,6 +413,7 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7600175469758040325/detail) | Software Engineer Project Intern - Security-Data - 2026 Start | San Jose, CA | Winter 2026 | 2026-01-28 | 190 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7600168555733027125/detail) | Security Software Engineer Project Intern - Network Security - 2026 Start | San Jose, CA | Spring 2026 | 2026-01-28 | 190 | simplify-2026 |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | Software Engineering Co-op Spring 2027 | Louisville, KY | Spring 2027 | 2026-01-23 | 195 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7572665884037826869) | Software Engineer Intern - Ads Infrastructure | San Jose, CA | Summer 2026 | 2026-01-15 | 203 | simplify-2026 |
 | [Pine Rest](https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Intern---Master-s-Level-Social-Worker--Inpatient-and-PHP_JR103945) | Intern – Master's Level Social Worker - Inpatient and PHP | Grand Rapids, MI | Spring 2026 | 2026-01-09 | 209 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) | Software Engineering Intern – Hyper-RF Division | Germantown, MD | Summer 2026 | 2025-12-26 | 223 | simplify-2026 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | Software Engineering Intern | Dallas, TX | Spring 2026 | 2025-12-22 | 227 | simplify-2026, vanshb03-2026, vanshb03-2027 |
