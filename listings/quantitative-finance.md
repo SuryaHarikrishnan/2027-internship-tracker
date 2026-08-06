@@ -1,4 +1,4 @@
-# Quantitative Finance (123)
+# Quantitative Finance (121)
 
 [← back to index](../README.md)
 
@@ -34,8 +34,6 @@
 | [T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Investment-Fellowship-Program_82751) | Investment Fellow - Fellowship Program | Baltimore, MD | N/A | 2026-07-23 | 14 | simplify-2026 |
 | [Group 1001](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) | Quantitative Analysis Intern | Stamford, CT | Fall 2026 | 2026-07-23 | 14 | simplify-2026 |
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | Quantitative Research Internship | London, UK | Summer 2027 | 2026-07-23 | 14 | simplify-2026 |
-| [T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) | Quantitative Equity Investing Intern | Baltimore, MD | Fall 2026 | 2026-07-23 | 14 | simplify-2026 |
-| [T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) | Global Trading Intern | Baltimore, MD | Summer 2027 | 2026-07-23 | 14 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | Quantitative Researcher Internship | NYC | Summer 2027 | 2026-07-22 | 15 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-21 | 16 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | Quant Trading Intern | London, UK | Summer 2027 | 2026-07-21 | 16 | simplify-2026 |

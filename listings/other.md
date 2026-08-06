@@ -1,9 +1,20 @@
-# Other (253)
+# Other (264)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [CNO Financial Group](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4) | Cyber Security IT Intern | Remote, Carmel, IN |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Shopify](https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856) | Software Engineering Intern | Remote |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [SpaceX](https://job-boards.greenhouse.io/spacex/jobs/8621756002) | Software Engineer Intern, Fleet Health Instrumentation | Remote |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Canadian Tire Corporation, Limited](https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Calgary-AB/AI-Automation-Student--4-months----Fall-2026_JR163947) | AI Automation Student | Calgary, AB |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Software Engineering Intern, Dynamo | Santa Clara, CA |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Redwood Materials](https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004) | Test Automation Engineer Intern | San Francisco, CA |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [DV Group](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | Quantitative Risk Intern | Chicago, IL |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Canva](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | PhD Research Scientist Intern | San Francisco, CA |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [ByteDance](https://joinbytedance.com/search/7670009669494704437) | Applied Machine Learning Production Engineer Intern | San Jose, CA |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [ByteDance](https://joinbytedance.com/search/7668464504736876853) | GPU/AI Application System Software Engineer Intern | San Jose, CA |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [ByteDance](https://joinbytedance.com/search/7670690923748870405) | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA |  | 2026-08-06 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Boeing](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976) | Data Analytics Intern | Everett, WA, Saint Charles, MO, Huntsville, AL, Charleston, SC, Oklahoma City, OK, Berkeley, MO, Huntington Beach, CA, Hazelwood, MO, El Segundo, CA, Herndon, VA, Plano, TX, Arlington, VA, Ridley Park, PA, Tukwila, WA, North Charleston, SC, Fairfax, VA, Colorado Springs, CO, Chicago, IL, Seal Beach, CA, Mukilteo, WA, Long Beach, CA, Atlanta, GA, Renton, WA, Dallas, TX, Seattle, WA, Auburn, WA, Bellevue, WA, San Antonio, TX, Kent, WA, Mesa, AZ, Tukwila, WA |  | 2026-08-05 | 1 | vanshb03-2026, vanshb03-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | Software Engineer Intern, Fleet Health Instrumentation | McKinney, TX |  | 2026-08-04 | 2 | vanshb03-2026, vanshb03-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | Software Engineer Intern, Fleet Health Instrumentation | Fullerton, CA |  | 2026-08-04 | 2 | vanshb03-2026, vanshb03-2027 |

@@ -1,9 +1,10 @@
-# Hardware Engineering (195)
+# Hardware Engineering (197)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39234) | Electromechanical Assembly Co-op Intern - Intern | Canada | Winter 2027 | 2026-08-06 | 0 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670332179383699717/detail) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | Summer 2027 | 2026-08-06 | 0 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8683682002) | Controls Technician Apprentice - 2nd Shift | McGregor, TX | Fall 2026 | 2026-08-05 | 1 | simplify-2026 |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/jQWOTxtFY5/Student-Engineering-Assistant) | Engineering Assistant | North Logan, UT | N/A | 2026-08-05 | 1 | simplify-2026 |
@@ -45,6 +46,7 @@
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830) | Device Engineer Intern - Ulp Cmos | Malta, NY | Summer 2026 | 2026-07-27 | 10 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 10 | simplify-2026 |
 | [East Penn Manufacturing Company](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) | Product Engineer Intern | Ann Arbor, MI | Fall 2027 | 2026-07-27 | 10 | simplify-2026 |
+| [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Audiovisual-Services-Assistant--Student-_R4496) | Audiovisual Services Assistant - Student | Washington, DC | N/A | 2026-07-24 | 13 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-07-22 | 15 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/32354?icims=1) | Research Park Intern - Embedded Software | Urbana, IL | Fall 2026 | 2026-07-22 | 15 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10/application?embed=true) | Rust Software Engineer Intern - Chip Design Tools | SF | Fall 2026 | 2026-07-21 | 16 | simplify-2026 |
