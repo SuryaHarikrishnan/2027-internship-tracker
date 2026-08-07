@@ -1,4 +1,4 @@
-# Quantitative Finance (120)
+# Quantitative Finance (119)
 
 [← back to index](../README.md)
 
@@ -8,7 +8,6 @@
 | [PanAgora](https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061446) | Dynamic Intern | Boston, MA | Fall 2026 | 2026-08-06 | 1 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) | Quantitative Intern - Summer 2027 | Austin, TX | Summer 2027 | 2026-08-05 | 2 | simplify-2026 |
 | [Rho](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf/application?embed=true) | Quantitative Analyst Intern | NYC | Fall 2026 | 2026-08-05 | 2 | simplify-2026 |
-| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false) | Derivatives Sales Trader Intern - Summer 2027 | NYC | Summer 2027 | 2026-08-05 | 2 | simplify-2026 |
 | [Maven Securities](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) | Trader Intern - Summer | Chicago, IL | Summer 2027 | 2026-08-05 | 2 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | Quantitative Risk Intern | Chicago, IL | Summer 2027 | 2026-08-04 | 3 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) | Quantitative Trading Intern | Chicago, IL | Summer 2027 | 2026-08-03 | 4 | simplify-2026 |

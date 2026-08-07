@@ -2407,7 +2407,7 @@
     "company_name": "Susquehanna International Group (SIG)",
     "id": "0a98ebc5-e475-46d7-82ae-71e4d433d7c6",
     "title": "Derivatives Sales Trader Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -44280,7 +44280,7 @@
     "company_name": "Later",
     "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
     "title": "AI Automation Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
