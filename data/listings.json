@@ -2,10 +2,36 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Everstream Analytics",
+    "id": "6bd91b2c-c817-4f94-bd81-3406c3d2d17b",
+    "title": "Intelligence Solutions Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786096624,
+    "date_posted": 1778278510,
+    "url": "https://everstream.ai/careers/jobs/?gh_jid=5991766004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/EverstreamAnalytics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Canva",
     "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
     "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -713,7 +739,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1914,7 +1940,7 @@
     "company_name": "NVIDIA",
     "id": "2ccc5c31-d719-47e7-ab38-b42010d3a585",
     "title": "Software Engineer Intern - Dynamo",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -2435,7 +2461,7 @@
     "company_name": "GE Appliances",
     "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
     "title": "Engineering Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -8245,7 +8271,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -8279,7 +8305,7 @@
     "company_name": "JP Morgan Chase",
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "title": "Data Internship - Data & AI Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12993,7 +13019,7 @@
     "company_name": "Arizona State University",
     "id": "3c1b2328-d3a3-402c-b2bd-6a357bcea69a",
     "title": "Management Intern - Career Data and Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -22758,7 +22784,7 @@
     "company_name": "GE Healthcare",
     "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -27363,7 +27389,7 @@
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -30288,7 +30314,7 @@
     "company_name": "QuantCo",
     "id": "da17d790-4a1d-4cc5-830f-91dcb97ae8ed",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -104996,6 +105022,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "e6bece49-f399-472e-bf03-9bc75f7a763f",
+    "title": "Research Intern - Audio and Acoustics",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776982727,
+    "date_posted": 1776981985,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556861664",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Howmet Aerospace",
     "id": "6bcd2870-baea-4a71-821f-f862cba8cabd",
@@ -135168,6 +135220,34 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "1ca6773c-4121-4812-9507-100fc99ae9a6",
+    "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775179758,
+    "date_posted": 1775178805,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556856340",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
       "PhD"
     ],
     "_sources": [
@@ -320931,6 +321011,30 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "30c64921-31cb-49f0-81a2-62d478fd7259",
+    "title": "Research Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1766531682,
+    "date_posted": 1766531682,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556654004",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Quant",
     "company_name": "Blockhouse",
     "id": "d5c2a021-e6fb-4244-9ced-9ab46571ce43",
@@ -328784,32 +328888,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Microsoft",
-    "id": "8c18d377-1de8-4bdb-b65b-7344f4287141",
-    "title": "Research Intern - Networking Research Group",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766007532,
-    "date_posted": 1765371931,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556622023",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
     "_sources": [
       "simplify-2026"
     ]
@@ -336791,6 +336869,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Realtor.com",
+    "id": "f5cb18e2-3850-42cc-890c-694531a9eee3",
+    "title": "Software Engineer Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1765583360,
+    "date_posted": 1765583360,
+    "url": "https://boards.greenhouse.io/rdccareers/jobs/7453200003",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Realtordotcom",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Microchip Technology",
     "id": "7ae5b432-fc5a-45f1-99b2-a4d37259f886",
@@ -338012,6 +338116,31 @@
       "San Jose, CA"
     ],
     "company_url": "https://simplify.jobs/c/Zscaler",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "50f8cf86-bd50-4e76-8d2e-8a2793326ec2",
+    "title": "Research Intern",
+    "active": false,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1765580714,
+    "date_posted": 1765580714,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556642328",
+    "locations": [
+      "SF",
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
@@ -343199,2509 +343328,6 @@
       "Kingwood, Houston, TX"
     ],
     "company_url": "https://simplify.jobs/c/Insperity",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "RTX",
-    "id": "8e193e1a-2a4b-4fd7-81ff-037c94015e39",
-    "title": "2026 Intern \u2013 Production Test Engineering Intern - AZ",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765375105,
-    "date_posted": 1765375105,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Production-Test-Engineering-Intern---Onsite--AZ-_01811240",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "RTX",
-    "id": "1433fc66-6585-40d3-aa71-93fee95c3d1c",
-    "title": "Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765375101,
-    "date_posted": 1765375101,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GA202-1230-Carl-Vinson-Pkwy-RobinsEC-1230-Carl-Vinson-Parkway-Robins-Engineering-Center-Warner-Robins-GA-31093-USA/Summer-2026-Intern---Raytheon-System-Engineer---Onsite_01811195",
-    "locations": [
-      "Warner Robins, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Snap",
-    "id": "84a8b3c7-74f8-4ebf-b145-d97f15b9d13d",
-    "title": "3D Graphics Software Engineer",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1765374546,
-    "date_posted": 1765374546,
-    "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-3D-Graphics-Software-Engineer-Intern_R0043363-1",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Snap",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Snap",
-    "id": "3e5bf8dc-428d-48c6-af81-bb77f731deaa",
-    "title": "AR Engineer Intern",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1765374542,
-    "date_posted": 1765374542,
-    "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/AR-Engineer-Intern_R0043358-1",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Snap",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "The Washington Post",
-    "id": "cbd19d8a-98f7-48cb-817e-adfdb205810c",
-    "title": "Intern - Site Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765374537,
-    "date_posted": 1765374537,
-    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Site-Engineering_JR-90275632",
-    "locations": [
-      "Washington, DC"
-    ],
-    "company_url": "https://simplify.jobs/c/Washington-Post",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Snap",
-    "id": "735f1ca7-e90b-49cc-b1c3-bff5f2b26e93",
-    "title": "Game Engine Software Engineer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765374533,
-    "date_posted": 1765374533,
-    "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Game-Engine-Software-Engineer-Intern_R0043361",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Snap",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The Toro Company",
-    "id": "bfc82abf-0764-4f25-ad22-ed747406698b",
-    "title": "IBP Data Management Intern - The Toro Company",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765374531,
-    "date_posted": 1765374531,
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/IBP-Data-Management-Intern---The-Toro-Company_JR14706",
-    "locations": [
-      "Bloomington, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/The-Toro-Company",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "67dafbf2-ffc3-4f84-a38b-192b5e8252b6",
-    "title": "Research Intern - MSR Inclusive Futures Team",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765373429,
-    "date_posted": 1765373429,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631751",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "07d8351c-894f-49ea-b1e9-73ee92156689",
-    "title": "Research Intern - AI Systems & Architecture",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765373198,
-    "date_posted": 1765373198,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631742",
-    "locations": [
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Microsoft",
-    "id": "641613da-2f0d-4ef9-8890-50a4d7e2b20a",
-    "title": "Research Intern - Data Center and AI Networking",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765373197,
-    "date_posted": 1765373197,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631744",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Microsoft",
-    "id": "eda00b99-4f40-4d57-8240-371c8cd9ef96",
-    "title": "Research Intern - FPGA-Based Compute & Memory Modeling",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765373134,
-    "date_posted": 1765373134,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556636985",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "979ca47d-33f9-4574-9fb7-609563b41d2d",
-    "title": "Research Intern - Office of Applied Research",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765373131,
-    "date_posted": 1765373131,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556636970",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Microsoft",
-    "id": "cbd8b4c7-1d8d-403c-ab38-efac9a64a7e9",
-    "title": "Data Center Technician Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765372975,
-    "date_posted": 1765372975,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631876",
-    "locations": [
-      "Roanoke Rapids, NC",
-      "Dulles, VA",
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Codal",
-    "id": "7cf91987-5a66-4ee2-ac2b-a046298f0dce",
-    "title": "Frontend Software Engineer \u2013 Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372809,
-    "date_posted": 1765372809,
-    "url": "https://job-boards.greenhouse.io/codalinc/jobs/5022727008",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Codal",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "4da4aa40-2513-4a1b-bef1-0a10ef2d003c",
-    "title": "Research Intern - AI Frameworks - Network Systems and Tools",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372737,
-    "date_posted": 1765372737,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639524",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "b53e7bf1-e2e1-4567-89e3-7272fb294ee4",
-    "title": "Research Intern - Environmental Policy/Public Policy",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372736,
-    "date_posted": 1765372736,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639557",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "613a0be3-b267-4c16-9b8e-73792f39476e",
-    "title": "Research Intern - Systems For Efficient AI",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372238,
-    "date_posted": 1765372238,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621783",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "e8166a34-6bd8-485d-9244-bcc8ed7ccfc2",
-    "title": "Research Intern - Hardware/Software Codesign",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372234,
-    "date_posted": 1765372234,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621833",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "3f251887-911b-4f7b-b4dd-900aa4b87763",
-    "title": "Research Intern - Foundational Models & Agents",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372234,
-    "date_posted": 1765372234,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621543",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "c6385f65-09f7-412d-9f11-209ae359a1af",
-    "title": "Research Intern - Computer Vision and Deep Learning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372233,
-    "date_posted": 1765372233,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621779",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "db506481-39cc-4cbb-853d-169dfcf7db0d",
-    "title": "Research Intern - Data Systems",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372232,
-    "date_posted": 1765372232,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621612",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "8048ed5c-d692-4b99-9e77-593709e0d709",
-    "title": "Research Intern - AI Hardware",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372232,
-    "date_posted": 1765372232,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621664",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "237076de-17bb-46cc-838e-c00575aaeb19",
-    "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372231,
-    "date_posted": 1765372231,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621824",
-    "locations": [
-      "Redmond, WA",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "e5725238-a36a-4f7e-b8ac-c66111d66c95",
-    "title": "Research Intern - Applied Sciences Group - Audio/Vision/NLP/Multimodal",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372230,
-    "date_posted": 1765372230,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621887",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "85c783b6-e8e9-4329-9c9a-162daaee10e6",
-    "title": "Research Intern - Algorithms group: Generative Modeling",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372225,
-    "date_posted": 1765372225,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556626678",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "c3813d9b-762c-4b4d-ba44-197be516e316",
-    "title": "Research Intern - LLM Acceleration",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372223,
-    "date_posted": 1765372223,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556627833",
-    "locations": [
-      "Cambridge, MA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "19044960-a4f8-49ee-a9ad-a9bead2d5000",
-    "title": "Research Intern - Sociotechnical Alignment Center",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372209,
-    "date_posted": 1765372209,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628319",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "43a42b12-2b36-4865-b4c5-3b81b231374b",
-    "title": "Research Intern - AI Frameworks",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372204,
-    "date_posted": 1765372204,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628723",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "5d02ff27-a996-4f0d-9208-f82f8f1f647c",
-    "title": "Research Intern - Fate",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372197,
-    "date_posted": 1765372197,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556627874",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "38073631-7f2e-44b1-a69d-cffdc377273c",
-    "title": "Research Intern - AI-Driven System Design",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372095,
-    "date_posted": 1765372095,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621556",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "a19c23a4-4215-45e0-993f-fdfb527255b8",
-    "title": "Research Intern - AI Agents - Microsoft Research AI Frontiers",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765372002,
-    "date_posted": 1765372002,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556629204",
-    "locations": [
-      "Redmond, WA",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "b50373a4-b2c5-4e93-8688-c410f5b80b6e",
-    "title": "Research Intern - Microsoft Research AI Frontiers",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371950,
-    "date_posted": 1765371950,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621454",
-    "locations": [
-      "Redmond, WA",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "bf79ce15-2f69-410c-99c3-55559e673c12",
-    "title": "Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371946,
-    "date_posted": 1765371946,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556622015",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "779e00e7-3ea2-4fe7-8aea-4c68d46718a2",
-    "title": "Research Intern - Multimodal Learning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371946,
-    "date_posted": 1765371946,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621800",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "bb08d088-3520-4df9-b5b4-c8da79bb97c3",
-    "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371940,
-    "date_posted": 1765371940,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621730",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "eb7de088-169d-46bf-87b0-29d8c5e4bb89",
-    "title": "Research Intern - RiSE Group",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371940,
-    "date_posted": 1765371940,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621565",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "03847668-4ccb-4063-a4aa-07c56dd50532",
-    "title": "Research Intern - Audio and Acoustics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371939,
-    "date_posted": 1765371939,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621499",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "949f8365-620a-44ea-90ce-e2c54ca31d92",
-    "title": "Research Intern - Future Agent Systems",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371936,
-    "date_posted": 1765371936,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621561",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "c42fe3a5-b4dc-4f31-b11a-425e1923cb03",
-    "title": "Research Intern - Multimodal Learning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371936,
-    "date_posted": 1765371936,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556622028",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "fb260d05-35b0-4970-afc5-c6c4753b1c8f",
-    "title": "Research Intern - MSR AI Interaction and Learning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371935,
-    "date_posted": 1765371935,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621727",
-    "locations": [
-      "Redmond, WA",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "a680dfc7-92f1-4c80-a7f4-2d664c5bfddd",
-    "title": "Research Intern - Machine Learning at MSR NYC",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371934,
-    "date_posted": 1765371934,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621563",
-    "locations": [
-      "Cambridge, MA",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "fe633189-af3d-4a83-8a19-b70a04c6e46b",
-    "title": "Research Intern - Robot Learning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371934,
-    "date_posted": 1765371934,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621524",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "ba6177d8-21b6-4cc6-892f-1c068306457f",
-    "title": "Research Intern - Gray Systems Lab - Gsl",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371932,
-    "date_posted": 1765371932,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621621",
-    "locations": [
-      "Madison, WI",
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "11153c03-4606-48df-adf3-b6b54aa7a6d1",
-    "title": "Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371928,
-    "date_posted": 1765371928,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621724",
-    "locations": [
-      "SF",
-      "Redmond, WA",
-      "NYC",
-      "Baltimore, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "4f6d4a86-41ca-460a-9d9e-327a5516a1bf",
-    "title": "Research Intern - Cloud Reliability and Efficiency",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371927,
-    "date_posted": 1765371927,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621787",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "aa87e30b-3177-48de-9112-cb578dd62302",
-    "title": "Research Intern - Artificial Intelligence",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371926,
-    "date_posted": 1765371926,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556622017",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "b0acc125-b7cf-4826-ab75-c548f7fbdd9f",
-    "title": "Research Intern - AI Inference Architecture",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371923,
-    "date_posted": 1765371923,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631736",
-    "locations": [
-      "Cambridge, MA",
-      "Washington",
-      "Redmond, WA",
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "67f089ca-725e-443c-a7af-49c331ecb7be",
-    "title": "Research Intern - AI Agents & Reasoning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371923,
-    "date_posted": 1765371923,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621722",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "782f6b68-a95c-452c-b668-16318799a994",
-    "title": "Research Intern - Computer Vision Algorithms",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371921,
-    "date_posted": 1765371921,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621721",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "4cf0fb1e-6fd5-4df5-8048-282bf014992d",
-    "title": "Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1765371920,
-    "date_posted": 1765371920,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631728",
-    "locations": [
-      "Kitsap County, WA",
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "18ca6c35-327a-44a7-8e9a-036ce0939031",
-    "title": "Research Intern - Machine Learning and Statistics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371919,
-    "date_posted": 1765371919,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621837",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "74992e5a-b4c0-4409-9b4a-78c98b236711",
-    "title": "Research Intern - AI Agents",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371918,
-    "date_posted": 1765371918,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621776",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "3b247d7b-c1e9-4411-9341-289a550791fe",
-    "title": "Research Intern - Artificial Intelligence",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371918,
-    "date_posted": 1765371918,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621503",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "c65be575-1bd1-44a0-afcf-b0ddf8dcbaaf",
-    "title": "Research - AI Agents & Efficiency",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371911,
-    "date_posted": 1765371911,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556626895",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "c89ce9c5-f734-4ebf-999f-26d9be44d45b",
-    "title": "Research Intern - Multimodal Language Models",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371882,
-    "date_posted": 1765371882,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628867",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "9203edd4-0cec-4412-a829-f7b7c7501cff",
-    "title": "Research Intern - Algorithms Group: Theory",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371882,
-    "date_posted": 1765371882,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628860",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Microsoft",
-    "id": "741bc9af-4673-47f8-98b6-1477425ac22e",
-    "title": "Research Intern - CXL Memory",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371880,
-    "date_posted": 1765371880,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628826",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "464abf75-0874-49d6-93db-11fd876b1a91",
-    "title": "Research Intern - AI SW/HW Co-design",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371880,
-    "date_posted": 1765371880,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628845",
-    "locations": [
-      "Hillsboro, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "fb02695d-805b-4251-8a38-ae2cc07757ff",
-    "title": "Research Intern - AI Compiler",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371877,
-    "date_posted": 1765371877,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628773",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "ae2d72d3-1abe-479c-b876-2230304ee3f8",
-    "title": "Research Intern - Advanced Memory Systems",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371875,
-    "date_posted": 1765371875,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628873",
-    "locations": [
-      "Washington",
-      "California",
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "b67406dc-f027-4a80-840f-48cbfe707348",
-    "title": "Research Intern - Microsoft Coreai Speech",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371862,
-    "date_posted": 1765371862,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628916",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "458cff44-76ab-467e-80c7-896a1c65b56e",
-    "title": "Research Intern - Model Optimization and HW Acceleration",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371859,
-    "date_posted": 1765371859,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628875",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "32265cdc-23d8-4417-9b9e-0af795c80910",
-    "title": "Research Intern - Training Methods for LLM Efficiency",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371858,
-    "date_posted": 1765371858,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628881",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "17d13b84-4c8c-4e67-884d-a9a6a5366335",
-    "title": "Research Intern - Machine Learning and Optimization",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371857,
-    "date_posted": 1765371857,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628908",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "c1e28e89-6073-4f7f-8eac-08e0f61b11de",
-    "title": "Research Intern - Microsoft Research Special Projects",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371853,
-    "date_posted": 1765371853,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628925",
-    "locations": [
-      "Cambridge, MA",
-      "Kitsap County, WA",
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "5f487a8e-e894-4d75-9084-2ad9ab0e800c",
-    "title": "Cambridge Internship Program - Infrastructure and Systems for AI",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371786,
-    "date_posted": 1765371786,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556629988",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "3794a3c3-3380-4006-a612-a9e20b5f965f",
-    "title": "Cambridge Internship Program - Network Systems for Physical AI",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371784,
-    "date_posted": 1765371784,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556629985",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "2d3fcc6d-bc9f-4db0-96a7-2dfd91858e12",
-    "title": "Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371762,
-    "date_posted": 1765371762,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631315",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "e2c23dbe-ac3a-43e5-b81e-469f12c28211",
-    "title": "Research Intern - Neural Rendering & Character AI - Applied Science",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1765371760,
-    "date_posted": 1765371760,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621609",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "bcfbcf83-85c7-477c-8bc1-4cc66122d5f6",
-    "title": "Research Intern - Human Intelligence",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371756,
-    "date_posted": 1765371756,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631443",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "feb7678b-783a-445c-83f5-5a76734a3bbe",
-    "title": "Research Intern - Technology for Religious Empowerment",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371697,
-    "date_posted": 1765371697,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631718",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "94c4ddac-8cb3-459c-b260-f6e3c240b299",
-    "title": "Research Internship: Improving Grounding in Language Models - NLP - Hci",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371639,
-    "date_posted": 1765371639,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556635196",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "3d8293da-9be3-435c-8530-a18653f541d2",
-    "title": "Research Intern - Machine Learning - People Centric AI",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1765371638,
-    "date_posted": 1765371638,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556635218",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "f306b5ba-e26a-4b6d-97a7-2f9ccb8af481",
-    "title": "Applied Science PhD Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371622,
-    "date_posted": 1765371622,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628232",
-    "locations": [
-      "London, UK",
-      "Cambridge, UK",
-      "Reading, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "5d159621-6295-4707-b416-aa148493a7cb",
-    "title": "Research Intern - Deep Learning Group",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371586,
-    "date_posted": 1765371586,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637090",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "62283d94-3b5d-4c9f-bef3-4b7abfe44bcd",
-    "title": "Research Intern - AI/ML Numerics & Efficiency",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371585,
-    "date_posted": 1765371585,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637096",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Microsoft",
-    "id": "cb843c79-c283-448f-a789-5f88b5ef2dac",
-    "title": "Software Engineer: AI/ML Intern Opportunities - MAI for University Students",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371570,
-    "date_posted": 1765371570,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631195",
-    "locations": [
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "08a73d8b-e859-41ac-9857-9142276ff0b1",
-    "title": "Research Intern in Machine Learning - Machine Intelligence",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371565,
-    "date_posted": 1765371565,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621558",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "1e461d96-8f3e-4ae5-ab87-228583afdf1b",
-    "title": "Applied Sciences Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371560,
-    "date_posted": 1765371560,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637430",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "2ba778b7-a15a-4080-9c90-42753ca35f64",
-    "title": "Research Intern - AIP AI Knowledge Multimodal AI",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371559,
-    "date_posted": 1765371559,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637119",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "af3d9caf-888f-44c5-9615-e45d5d06f6c5",
-    "title": "Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371558,
-    "date_posted": 1765371558,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637105",
-    "locations": [
-      "Cambridge, MA",
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "c269a827-7cb0-4384-8d4e-e559fb80c2a9",
-    "title": "Research Intern - FATE",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371554,
-    "date_posted": 1765371554,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637127",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "2e350d27-cce6-45f2-aecd-45ed31f5f06f",
-    "title": "Research Intern - Multimodal Deep Learning for Healthcare",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371552,
-    "date_posted": 1765371552,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637113",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "0c94e197-474d-4741-9ef7-fc11b6aab324",
-    "title": "Research Intern - AI Network Observability",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371488,
-    "date_posted": 1765371488,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639544",
-    "locations": [
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "762e0bf2-4ee1-4b42-ad3f-3dd6ac2da52e",
-    "title": "Research Intern - Computational Social Science",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371405,
-    "date_posted": 1765371405,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639564",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Microsoft",
-    "id": "5f7a66c6-b15d-4f95-bcb7-952025bc75b5",
-    "title": "Silicon Engineering Intern",
-    "active": false,
-    "terms": [
-      "Fall 2025",
-      "Winter 2025",
-      "Spring 2026"
-    ],
-    "date_updated": 1765371375,
-    "date_posted": 1765371375,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556638587",
-    "locations": [
-      "Hillsboro, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "8e25df52-56aa-4f74-93fa-09c4148b53b7",
-    "title": "Residency Programme - Post-Doctoral Researcher in Machine Learning - People-Centric AI",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371325,
-    "date_posted": 1765371325,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556638636",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "0da85049-8e8a-4515-a50d-34ad5cc9e583",
-    "title": "Research Intern - AI Hardware",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371217,
-    "date_posted": 1765371217,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621661",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "24dd8581-c4b4-4e33-9d07-49d81b549138",
-    "title": "Applied Scientist Audio Visual Question Answering",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765371160,
-    "date_posted": 1765371160,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621552",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "4f2273ab-8ca0-4cd7-9ae4-e1f0d6eadd5f",
-    "title": "Research Intern - Microsoft Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371121,
-    "date_posted": 1765371121,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640715",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "e94e2578-2b56-4203-83d8-27600152dadb",
-    "title": "Research Intern - Onedrive and Sharepoint",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371120,
-    "date_posted": 1765371120,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640732",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "e87f2185-a474-4144-919e-9f683eeba41c",
-    "title": "Research Intern - AI-Driven CPU Optimizations",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1765371120,
-    "date_posted": 1765371120,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640691",
-    "locations": [
-      "Hillsboro, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "bc6efca6-78b6-43a9-bc44-256d51ab8063",
-    "title": "Research Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1765371105,
-    "date_posted": 1765371105,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640817",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "a1bc3014-90cb-472d-addf-ba81bc2e4c39",
-    "title": "Research Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765371103,
-    "date_posted": 1765371103,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640831",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ServiceNow",
-    "id": "6bc9048c-0168-4ee2-af5e-6e02b18baf60",
-    "title": "Intern Associate Technical Portfolio Analyst",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765369146,
-    "date_posted": 1765369146,
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097991956",
-    "locations": [
-      "Staines-upon-Thames, UK",
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/ServiceNow",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Sika",
-    "id": "1416b578-211a-41ac-911b-3a064b487512",
-    "title": "Product Management Apprentice",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765367426,
-    "date_posted": 1765367426,
-    "url": "https://jobs.smartrecruiters.com/SikaAG/744000098013061",
-    "locations": [
-      "Solihull, UK",
-      "Leeds, UK",
-      "Glasgow, UK",
-      "Welwyn Garden City, UK",
-      "Blackpool, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Sika",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Tenstorrent",
-    "id": "1abafbf0-6e65-49bb-8556-1a35768e1287",
-    "title": "Data Movement Architecture Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765365701,
-    "date_posted": 1765365701,
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007",
-    "locations": [
-      "Austin, TX",
-      "Santa Clara, CA",
-      "Fort Collins, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/Tenstorrent",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Realtor.com",
-    "id": "c6c86aa7-29e4-497c-a843-74d2b6a8bd4f",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765364858,
-    "date_posted": 1765364858,
-    "url": "https://boards.greenhouse.io/rdccareers/jobs/7453221003",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Realtordotcom",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The National Football League",
-    "id": "d846c68d-418a-4abf-a4c8-74fe2ec62768",
-    "title": "2026 Graduate Summer Intern - NY",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765364349,
-    "date_posted": 1765364349,
-    "url": "https://job-boards.greenhouse.io/nflcareers/jobs/5016231008",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/The-National-Football-League",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Aramark",
-    "id": "a196ed22-d4aa-4ac8-a0b1-37c28a6accf6",
-    "title": "Sustainability Data Analysis Program Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765363951,
-    "date_posted": 1765363951,
-    "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-ASU-Sustainability-Data-Analysis-Program-Intern,-ASU-Tempe-AZ-85281/1335351700/?ats=successfactors",
-    "locations": [
-      "Tempe, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/Aramark",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Modernizing Medicine",
-    "id": "0424e01b-4141-4948-a9e5-a17221616099",
-    "title": "Product Development Intern - AI & ML Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765359788,
-    "date_posted": 1765359788,
-    "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8213598002",
-    "locations": [
-      "Boca Raton, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/ModMed",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Codal",
-    "id": "653753e8-ffef-4afe-8d34-843f667875f1",
-    "title": "Backend Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765359615,
-    "date_posted": 1765359615,
-    "url": "https://job-boards.greenhouse.io/codalinc/jobs/5022723008",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Codal",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
