@@ -1,6 +1,111 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Canva",
+    "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
+    "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786093381,
+    "date_posted": 1786093364,
+    "url": "https://jobs.smartrecruiters.com/Canva/6000000001295209",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Canva",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Stand Insurance",
+    "id": "1102ab64-7164-41e8-9610-96061d6fa576",
+    "title": "Fire Science Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786092301,
+    "date_posted": 1784106689,
+    "url": "https://jobs.ashbyhq.com/standinsurance/21bf587a-312c-4a23-91d0-68c3c91e1fa4/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Stand-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kastle AI",
+    "id": "600d65ac-5918-4d2c-80ed-c6a5ba2a90d4",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786084344,
+    "date_posted": 1786083770,
+    "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Kastle-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Bootcamp"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LUZCO TECHNOLOGIES LLC",
+    "id": "6dfc5a86-055d-4015-b7e0-68b2545cf61d",
+    "title": "AI Solutions Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786084327,
+    "date_posted": 1785201890,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361617",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/88a7c59f-a71c-48c1-9457-31a22266dd85",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Terranova",
     "id": "5725405b-6f22-485b-a418-ad3c6148afb4",
@@ -608,7 +713,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1809,7 +1914,7 @@
     "company_name": "NVIDIA",
     "id": "2ccc5c31-d719-47e7-ab38-b42010d3a585",
     "title": "Software Engineer Intern - Dynamo",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -10258,7 +10363,7 @@
     "company_name": "Sony Pictures Entertainment",
     "id": "4c14bf3f-b3a3-4c41-b798-e1f31d053de6",
     "title": "Graduate Intern - Advanced Technologies",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -17787,7 +17892,7 @@
     "company_name": "GE Healthcare",
     "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
     "title": "Surgery Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -22761,7 +22866,7 @@
     "company_name": "Wells Fargo",
     "id": "0828ba46-8539-4401-9c81-3c38584a5690",
     "title": "Corporate Risk Development Program Intern - Core Risk - Early Careers",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -116002,7 +116107,7 @@
     "company_name": "GE Healthcare",
     "id": "16245ae0-c25a-4918-a292-b5fdd502742f",
     "title": "Surgery Field Engineer Apprentice Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -345593,174 +345698,6 @@
     "date_updated": 1765359615,
     "date_posted": 1765359615,
     "url": "https://job-boards.greenhouse.io/codalinc/jobs/5022723008",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Codal",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "KEEN Footwear",
-    "id": "87d6071e-4088-483d-a98f-d9a11cd0c5cb",
-    "title": "Systems Integration Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765357905,
-    "date_posted": 1765357905,
-    "url": "https://www.keenfootwear.com/careers-list.html?4636982005&gh_jid=4636982005",
-    "locations": [
-      "Portland, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/KEEN-Footwear",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "XPENG Motors",
-    "id": "5ec82e48-690e-4f94-9476-6fd26e8fca71",
-    "title": "Research Scientist Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765357804,
-    "date_posted": 1765357804,
-    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/XPengMotors",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NVIDIA",
-    "id": "4e31369a-e66c-4b1f-85c6-0390ad71f46b",
-    "title": "Product Marketing MBA Intern - Data Processing",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765356537,
-    "date_posted": 1765356537,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Zoox",
-    "id": "a99aef92-477d-4c37-a7e3-de8786644179",
-    "title": "Signal Processing",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765355440,
-    "date_posted": 1765355440,
-    "url": "https://jobs.lever.co/zoox/96857e0b-d39c-4505-b0b4-9a14c7d9db58/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Washpost",
-    "id": "788dea8e-d7aa-47dd-9532-990b8c505f13",
-    "title": "Intern - Android App Development",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765354850,
-    "date_posted": 1765354850,
-    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Android-App-Development_JR-90275630",
-    "locations": [
-      "Washington, DC"
-    ],
-    "company_url": "https://simplify.jobs/c/Washpost",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PennState University",
-    "id": "b1f2bb0d-751f-41bf-81fb-cf2924f2bd9c",
-    "title": "Tai AI Project Research Assistant",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1765354751,
-    "date_posted": 1765354751,
-    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tai-AI-Project-Research-Assistant_REQ_0000074125-1",
-    "locations": [
-      "State College, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Penn-State",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Codal",
-    "id": "07714051-aa80-41fd-b292-f7d904994c3b",
-    "title": "Product Management Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765353645,
-    "date_posted": 1765353645,
-    "url": "https://job-boards.greenhouse.io/codalinc/jobs/5022689008",
     "locations": [
       "Chicago, IL"
     ],
