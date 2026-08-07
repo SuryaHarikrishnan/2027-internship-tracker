@@ -1,9 +1,10 @@
-# Product Management (50)
+# Product Management (51)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [tarte cosmetics](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | Product Development Intern | NYC | Fall 2026 | 2026-08-07 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668820702623467781) | Product Operations Intern - TikTok Shop Apps and API - MBA | Seattle, WA | Summer 2027 | 2026-08-06 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670009830602721589) | Product Manager Intern - Product Infrastructure - Account | San Jose, CA | Summer 2027 | 2026-08-06 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670420287191517493) | Strategy Product Manager Intern - Platform Responsibility | San Jose, CA | Summer 2027 | 2026-08-06 | 1 | simplify-2026 |
