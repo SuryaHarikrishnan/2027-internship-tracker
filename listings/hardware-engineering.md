@@ -1,9 +1,10 @@
-# Hardware Engineering (193)
+# Hardware Engineering (192)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Fall 2026 | 2026-08-07 | 0 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482576578) | Display Software Development Student - Product Engineering | Dubuque, IA | N/A | 2026-08-06 | 1 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670332179383699717/detail) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | Summer 2027 | 2026-08-06 | 1 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8683682002) | Controls Technician Apprentice - 2nd Shift | McGregor, TX | Fall 2026 | 2026-08-05 | 2 | simplify-2026 |
@@ -103,7 +104,6 @@
 | [Teledyne](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119) | Computer Engineer Intern | Lincoln, NE | Spring 2026 | 2026-06-20 | 48 | simplify-2026 |
 | [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830) | Mechanical Production Engineering Apprentice | Bristol, UK | Summer 2026 | 2026-06-19 | 49 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858) | Digital Logic + Design Verification Co-op | Santa Clara, CA | Fall 2026 | 2026-06-18 | 50 | simplify-2026 |
-| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Optical Modem Hardware Intern | Ottawa, ON, Canada | Fall 2026 | 2026-06-17 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273819) | Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 52 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273820) | Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 52 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273822) | Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 52 | simplify-2026 |
@@ -123,7 +123,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/271981) | Electronic Design Engineer Intern - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272462) | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CA, Austin, TX | Summer 2026, Fall 2026 | 2026-06-07 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272581) | Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 61 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/262946) | Applied AI Engineer Intern - AI Hardware | Palo Alto, CA | Fall 2026 | 2026-06-07 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270067) | Embedded Software Engineer Intern - Keys & Authentication | Palo Alto, CA | Fall 2026 | 2026-06-07 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270354) | Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272601) | Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 61 | simplify-2026 |

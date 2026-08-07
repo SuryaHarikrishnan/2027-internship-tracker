@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (564)
+# Data Science, AI & Machine Learning (562)
 
 [← back to index](../README.md)
 
@@ -39,6 +39,7 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471) | Machine Learning Researcher Intern/Co-op | East Hartford, CT | Fall 2026 | 2026-08-05 | 2 | simplify-2026 |
 | [Ameren](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Coop_033877-1) | Data Analytics Co-op | St. Louis, MO | Spring 2027 | 2026-08-05 | 2 | simplify-2026 |
 | [WGU](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859) | Data Support Engineer Intern | Salt Lake City, UT | Fall 2026 | 2026-08-05 | 2 | simplify-2026 |
+| [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321) | Industry Engagement Research Analyst Intern | London, UK | Fall 2026 | 2026-08-05 | 2 | simplify-2026 |
 | [General Dynamics Information Technology](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | Artificial Intelligence/Machine Learning Intern | Falls Church, VA | Summer 2026 | 2026-08-05 | 2 | simplify-2026 |
 | [US Acute Care Solutions](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) | People Analytics Intern | Remote in USA, Ohio | Fall 2026 | 2026-08-05 | 2 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/o6OAAfwO?nl=1&nl=1&fr=false) | Data Analyst Intern - Power - Emerging Talent | NYC | Fall 2026 | 2026-08-04 | 3 | simplify-2026 |
@@ -75,7 +76,6 @@
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002) | Machine Learning Researcher | London, UK | N/A | 2026-08-03 | 4 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668204394458466565) | Research Engineer Intern - Monetization Technology - Business Integrity | San Jose, CA | Fall 2026 | 2026-08-03 | 4 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668204438271969589) | Research Scientist Intern - Monetization Technology - Business Integrity | San Jose, CA | Summer 2027 | 2026-08-03 | 4 | simplify-2026 |
-| [SRI International](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) | Computer Science Intern | Menlo Park, CA | Fall 2026 | 2026-08-03 | 4 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7667379218929780997/detail) | Research Scientist Intern | Seattle, WA | Fall 2026 | 2026-08-03 | 4 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7667380188619131189/detail) | Research Scientist Intern | San Jose, CA | Fall 2026 | 2026-08-03 | 4 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7665457718334425349/detail) | AI Perception Intern - Pico | San Jose, CA | Summer 2027 | 2026-08-03 | 4 | simplify-2026 |
@@ -401,7 +401,6 @@
 | [Black Box](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315) | AI Engineer Intern | Plano, TX | Summer 2026 | 2026-05-26 | 73 | simplify-2026 |
 | [Novogradac](https://novoco.wd108.myworkdayjobs.com/Novogradac/job/Dallas/JUNIOR-ANALYST-INTERN_JR100240-1) | Junior Analyst Intern | Dallas, TX | Fall 2026 | 2026-05-26 | 73 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) | Applied Machine Learning Scientist Intern | Santa Clara, CA | Summer 2026 | 2026-05-23 | 76 | simplify-2026 |
-| [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Artificial-Intelligence-Student_R00243652) | Artificial Intelligence Student | Vaughan, ON, Canada | N/A | 2026-05-22 | 77 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) | Research Engineer Intern - Control | Santa Clara, CA | Summer 2026 | 2026-05-22 | 77 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | Scenario Simulation Intern | Santa Clara, CA | Summer 2026 | 2026-05-22 | 77 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) | Machine Learning Engineer Intern - Planning | Santa Clara, CA | Summer 2026 | 2026-05-22 | 77 | simplify-2026 |
@@ -450,7 +449,6 @@
 | [Integra FEC](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Data Analyst Intern | Austin, TX | Fall 2026 | 2026-04-28 | 101 | simplify-2026 |
 | [Integra FEC](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Data Scientist Intern - PhD | Austin, TX | Fall 2026 | 2026-04-28 | 101 | simplify-2026 |
 | [Netflix](https://explore.jobs.netflix.net/careers/job/790315673635) | Video Algorithms Intern - Video Coding - Gaussian Splatting | LA, Los Gatos, CA | Fall 2026 | 2026-04-28 | 101 | simplify-2026 |
-| [X Development](https://x.company/careers/8511395002?gh_jid=8511395002) | PhD Residency Intern - Operations Research and Optimization | Mountain View, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-04-20 | 109 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000063953-1) | Research Assistant Intern | State College, PA | N/A | 2026-04-18 | 111 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653) | Software Engineering Intern | Ann Arbor, MI | Summer 2026 | 2026-04-18 | 111 | simplify-2026 |
 | [ASM Global](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Automation---AI-Technology-Experience-Intern_R100122152) | Automation & AI Technology Experience Intern | Frisco, TX, Conshohocken, PA | Summer 2026 | 2026-04-17 | 112 | simplify-2026 |
