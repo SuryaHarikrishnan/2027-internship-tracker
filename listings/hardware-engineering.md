@@ -1,4 +1,4 @@
-# Hardware Engineering (192)
+# Hardware Engineering (189)
 
 [← back to index](../README.md)
 
@@ -78,7 +78,6 @@
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 28 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003013) | FPGA Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 30 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1) | Field Service Apprentice | Minneapolis, MN | Winter 2025, Spring 2025, Summer 2025, Fall 2025 | 2026-07-08 | 30 | simplify-2026 |
-| [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992) | Field Engineer Apprentice | Little Rock, AR | Fall 2026 | 2026-07-08 | 30 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043345-1) | Field Engineer Apprentice | Jackson Township, NJ | Fall 2026 | 2026-07-07 | 31 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694883006) | Radiation Effects Associate Engineer | SF | N/A | 2026-07-07 | 31 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4694853006) | Radiation Effects Engineer Intern | SF | Fall 2026 | 2026-07-06 | 32 | simplify-2026 |
@@ -194,5 +193,3 @@
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | Embedded Software Developer – Network/Payload Software Intern | SF | Fall 2026 | 2025-12-31 | 219 | simplify-2026 |
 | [Capella](https://www.capellaspace.com/company/apply?gh_jid=5737184004) | Flight Software Engineering Intern | Louisville, CO | Summer 2026 | 2025-12-16 | 234 | simplify-2026 |
 | [Capella](https://www.capellaspace.com/company/apply?gh_jid=5735295004) | Flight Software Engineering Intern | San Francisco, CA | Summer 2026 | 2025-12-15 | 235 | simplify-2026 |
-| [Meta](https://www.metacareers.com/profile/job_details/843617948284299) | Research Scientist Intern, Organic Optoelectronic Materials (PhD) | Redmond, WA | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-10 | 240 | simplify-2026 |
-| [Meta](https://www.metacareers.com/profile/job_details/25514049594874160) | Research Scientist Intern, Advanced Materials for Soft Robotics (PhD) | Redmond, WA | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-10 | 240 | simplify-2026 |

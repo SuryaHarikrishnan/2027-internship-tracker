@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (562)
+# Data Science, AI & Machine Learning (558)
 
 [← back to index](../README.md)
 
@@ -57,7 +57,6 @@
 | [TikTok](https://lifeattiktok.com/search/7668381860191734021) | Machine Learning Engineer Intern - Data Search Local Service | San Jose, CA | Fall 2026 | 2026-08-04 | 3 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669700361976809733) | Machine Learning Engineer Intern - Ads Signal & Measurement | San Jose, CA | Summer 2027 | 2026-08-04 | 3 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669702702763018501) | Machine Learning Engineer Intern - Commercial AI-CRM and Transaction | San Jose, CA | Summer 2027 | 2026-08-04 | 3 | simplify-2026 |
-| [WebMD](https://jobs.jobvite.com/webmd/job/oQBjAfw4?nl=1&nl=1&fr=false) | Business Intelligence Intern | Newark, NJ | Summer 2026 | 2026-08-04 | 3 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556922931) | Software Engineer Intern - Data Platform & Analytics | Redmond, WA | Fall 2026 | 2026-08-04 | 3 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556922929) | Software Engineer: AI/ML & LLM Intern | Redmond, WA | Fall 2026 | 2026-08-04 | 3 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8104138) | Marketing Programs and Analytics Intern | Austin, TX | Fall 2026 | 2026-08-04 | 3 | simplify-2026 |
@@ -337,7 +336,6 @@
 | [Adaption Labs](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Modelling Resident | Remote in USA | N/A | 2026-06-17 | 51 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/924149567345400) | Research Scientist Intern - Photorealistic Telepresence | London, UK | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-06-17 | 51 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2774289902955470) | Research Scientist Intern - State Estimation for Dexterous Manipulation | Redmond, WA | Summer 2026, Fall 2026 | 2026-06-16 | 52 | simplify-2026 |
-| [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | Reporting Specialist Co-op/Intern | Mississauga, ON, Canada, Kitchener, ON, Canada | Fall 2026 | 2026-06-16 | 52 | simplify-2026 |
 | [Synchrony Financial](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | Data Analytics Intern | Stamford, CT | Summer 2026 | 2026-06-16 | 52 | simplify-2026 |
 | [SDSU Research Foundation](https://careers-sdsurf.icims.com/jobs/20513/job?mobile=true&needsRedirect=false) | Undergraduate Student - Port Contamination Project | San Diego, CA | N/A | 2026-06-16 | 52 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7532254890627696903) | Data Scientist Intern - TikTok Shop User Product DS | Seattle, WA | Summer 2026 | 2026-06-15 | 53 | simplify-2026 |
@@ -564,5 +562,3 @@
 | [Palantir](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e/apply) | Deployment Strategist – Intern - US Government | Honolulu, HI | Spring 2026 | 2025-12-12 | 238 | simplify-2026 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | Software Engineering Intern | Pittsburgh, PA | Spring 2026 | 2025-12-11 | 239 | simplify-2026 |
 | [Meta](https://www.metacareers.com/profile/job_details/4203446973242742) | Research Scientist Intern, LLM Evaluation | New York, NY | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-11 | 239 | simplify-2026 |
-| [Bosch](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | LLM & Agentic AI R&D Intern | Sunnyvale, CA | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-10 | 240 | simplify-2026 |
-| [Meta](https://www.metacareers.com/profile/job_details/2059739221232640) | Research Scientist Intern, Computational Chemist | Redmond, WA | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-10 | 240 | simplify-2026 |
