@@ -341368,6 +341368,30 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "GM financial",
+    "id": "e3432d39-f214-481a-ab27-f9b1101b22c3",
+    "title": "Intern \u2013 Software Development Engineer",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1765494680,
+    "date_posted": 1765494680,
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1445",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/GM-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Sikich",
     "id": "3f885c0a-27b4-4a52-b476-8170f97722c8",
@@ -341703,102 +341727,6 @@
       "Everett, WA"
     ],
     "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Atlas Copco Group",
-    "id": "6aecfa4e-f794-4013-981d-78d90469b1c5",
-    "title": "Application Engineer Intern - Houston - TX",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765470272,
-    "date_posted": 1765470272,
-    "url": "https://www.careers.homeofindustrialideas.com/job/Houston-Application-Engineer-Intern-,-Summer-2026-Houston,-TX-Texa/1275536901/?ats=successfactors",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Quest Global",
-    "id": "e2bb58f7-0b3e-46e7-a94e-b82fa6de5b6c",
-    "title": "Project Internship",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765469761,
-    "date_posted": 1765469761,
-    "url": "https://careers.quest-global.com/global/en/job/P-113986",
-    "locations": [
-      "Wichita, KS"
-    ],
-    "company_url": "https://simplify.jobs/c/Quest-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Howmet Aerospace",
-    "id": "7f3e278f-fee7-4ed3-89fa-4e66a098cc0a",
-    "title": "Product Engineer Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765469579,
-    "date_posted": 1765469579,
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115423",
-    "locations": [
-      "Valparaiso, IN"
-    ],
-    "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GM financial",
-    "id": "af82df13-7425-4b07-a615-40901f06b988",
-    "title": "Intern \u2013 Software Development Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765469309,
-    "date_posted": 1765469309,
-    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1449",
-    "locations": [
-      "Irving, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/GM-Financial",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
