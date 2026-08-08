@@ -1,6 +1,59 @@
 [
   {
     "source": "Simplify",
+    "category": "Product",
+    "company_name": "Eko Health",
+    "id": "ccc26e13-7964-413d-8db2-404361781e7a",
+    "title": "Clinical Product Strategy Intern - Clinical Technology",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786192237,
+    "date_posted": 1785852354,
+    "url": "https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Eko-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Systems Planning and Analysis (SPA)",
+    "id": "0c687375-0fdb-4eb5-b7da-1951113f5b0a",
+    "title": "Science & Technology Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786181581,
+    "date_posted": 1786054266,
+    "url": "https://spa.jibeapply.com/jobs/23220?icims=1",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Quant",
     "company_name": "Capula",
     "id": "eaa01856-85b6-42f8-97ab-deedc1304759",
@@ -15462,7 +15515,7 @@
     "company_name": "CVS Health",
     "id": "40c1294a-a472-402c-882b-843d26a07449",
     "title": "Analytics & Behavior Change - Data Science - Conversion",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -15674,7 +15727,7 @@
     "company_name": "CVS Health",
     "id": "08a728f0-6281-4206-a022-403284d64763",
     "title": "Analytics & Behavior Change - Engineering Undergrad - Conversion",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -78298,7 +78351,7 @@
     "company_name": "Cisco",
     "id": "1e77d075-955b-4c25-944d-cd7154f4aca1",
     "title": "Hardware Engineer 2 Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

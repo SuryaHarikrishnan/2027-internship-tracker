@@ -1,4 +1,4 @@
-# Hardware Engineering (191)
+# Hardware Engineering (190)
 
 [← back to index](../README.md)
 
@@ -159,7 +159,6 @@
 | [Base Power](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application) | Hardware Engineer Intern | Austin, TX | Summer 2026 | 2026-05-21 | 79 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | Autonomous Driving Applications Research Intern | Santa Clara, CA | Spring 2026 | 2026-05-21 | 79 | simplify-2026 |
 | [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply) | Design Verification Intern | Burlingame, CA | Summer 2026 | 2026-05-19 | 81 | simplify-2026 |
-| [Cisco](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2000128) | Hardware Engineer 2 Co-op | Austin, TX, San Jose, CA, Research Triangle, Durham, NC | Summer 2026 | 2026-05-19 | 81 | simplify-2026 |
 | [Technergetics](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | R&D Engineer Intern | Remote in USA | Summer 2026 | 2026-05-15 | 85 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | Assembly and Test Intern - Integration | SF | Fall 2026 | 2026-05-12 | 88 | simplify-2026 |
 | [TSC](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Hardware-Engineering-Fall-Co-Op_JR2559) | Hardware Engineering Co-op | Plymouth, MA | Fall 2026 | 2026-05-12 | 88 | simplify-2026 |

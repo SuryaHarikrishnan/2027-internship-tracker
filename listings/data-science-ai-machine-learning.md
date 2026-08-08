@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (576)
+# Data Science, AI & Machine Learning (575)
 
 [← back to index](../README.md)
 
@@ -25,6 +25,7 @@
 | [Sony Pictures Entertainment](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988) | Insights Intern - Multiple Teams | Culver City, CA | Fall 2026 | 2026-08-07 | 1 | simplify-2026 |
 | [Otter Products](https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false) | Artificial Intelligence Intern | Fort Collins, CO | Fall 2026 | 2026-08-06 | 2 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | Deep Learning Research Intern - Multimodal BEV Perception | Santa Clara, CA | Fall 2026 | 2026-08-06 | 2 | simplify-2026 |
+| [Systems Planning and Analysis (SPA)](https://spa.jibeapply.com/jobs/23220?icims=1) | Science & Technology Intern | Alexandria, VA | Fall 2026 | 2026-08-06 | 2 | simplify-2026 |
 | [Samsung Research America](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8678880002) | Digital Health Algorithms Intern | Mountain View, CA | Fall 2026 | 2026-08-06 | 2 | simplify-2026 |
 | [Canva](https://jobs.smartrecruiters.com/Canva/6000000001292768) | PhD Research Scientist Intern - Reinforcement Learning - Images | London, UK | Fall 2026 | 2026-08-06 | 2 | simplify-2026 |
 | [Open Road Integrated Media](https://openroadmedia.applytojob.com/apply/k0wJxCZspo/Marketing-Analytics-Intern-PTPaid) | Marketing Analytics Intern - Paid | NYC | Fall 2026 | 2026-08-06 | 2 | simplify-2026 |
@@ -162,8 +163,6 @@
 | [Louisiana Blue](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Data-Modeler-Intern_R11956) | Data Modeler Intern | Baton Rouge, LA | Spring 2026, Fall 2026, Summer 2026 | 2026-07-29 | 10 | simplify-2026 |
 | [Louisiana Blue](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Provider-Reimbursement-Intern_R11964) | Provider Reimbursement Intern | Baton Rouge, LA | Fall 2026 | 2026-07-29 | 10 | simplify-2026 |
 | [Vitalant](https://vitalant.wd12.myworkdayjobs.com/Careers/job/AZ-Scottsdale-Corporate/Data-Analytics-Internship_R26_0000000083) | Data Analytics Intern | Scottsdale, AZ | Summer 2026 | 2026-07-29 | 10 | simplify-2026 |
-| [CVS Health](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Undergrad--Conversion-_R0991610) | Analytics & Behavior Change - Data Science - Conversion | NYC | N/A | 2026-07-29 | 10 | simplify-2026 |
-| [CVS Health](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Undergrad--Conversion-_R0991666) | Analytics & Behavior Change - Engineering Undergrad - Conversion | NYC | N/A | 2026-07-29 | 10 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AI-Enablement-Student--4-months----Fall-2026_JR161998) | AI Enablement Student | Toronto, ON, Canada | N/A | 2026-07-29 | 10 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8089379) | Research Engineer Intern | Austin, TX | Fall 2026 | 2026-07-28 | 11 | simplify-2026 |
 | [Modal](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) | Machine Learning Research Intern | SF, NYC | Fall 2026 | 2026-07-28 | 11 | simplify-2026 |
