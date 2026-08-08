@@ -313965,7 +313965,7 @@
     "degrees": [
       "Bachelor's"
     ],
-    "url": "https://uscareers-docusign.icims.com/jobs/28330/software-engineer-intern/job",
+    "url": "https://uscareers-docusign.icims.com/jobs/28338/software-engineer-intern/job",
     "company_name": "Docusign",
     "title": "Software Engineer Intern",
     "locations": [
@@ -313976,8 +313976,8 @@
     ],
     "category": "Software Engineering",
     "source": "AlmondCroffle",
-    "id": "1e5c3778-6565-46b2-898c-0c3a89783246",
-    "date_posted": 1765482539,
+    "id": "16182b27-86f0-4add-a80d-1e6a3d14ed32",
+    "date_posted": 1765785375,
     "company_url": "",
     "is_visible": true,
     "_sources": [
@@ -321088,32 +321088,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1766719213,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Biology-Research---AI-Development_202512-131322",
-    "company_name": "Genentech",
-    "title": "Biology Research | AI Development",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "AlmondCroffle",
-    "id": "072dc036-a089-401d-9c99-48aee277c336",
-    "date_posted": 1765483170,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
@@ -330740,32 +330714,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765983013,
-    "sponsorship": "Offers Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Cloud-Ops-Software-Engineer---Campus--Summer-2026-_16711",
-    "company_name": "Manhattan Associates",
-    "title": "Cloud Ops Software Engineer - Campus",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "AlmondCroffle",
-    "id": "c7b834a0-a2d2-41da-9e14-7a8db40ad432",
-    "date_posted": 1765484388,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]
@@ -341605,35 +341553,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1765482831,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
-    "company_name": "Meta",
-    "title": "Research Scientist Intern, LLM Evaluation",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026",
-      "Winter 2026",
-      "Spring 2026",
-      "Fall 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "AlmondCroffle",
-    "id": "932eae26-30ca-4b13-9092-ad3924591106",
-    "date_posted": 1765482831,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]

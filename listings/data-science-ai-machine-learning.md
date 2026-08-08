@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (575)
+# Data Science, AI & Machine Learning (574)
 
 [← back to index](../README.md)
 
@@ -578,4 +578,3 @@
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) | Machine Learning for Physical Design Intern - CPU/AI Hardware | Austin, TX, Santa Clara, CA | Summer 2026 | 2025-12-12 | 239 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e/apply) | Deployment Strategist – Intern - US Government | Honolulu, HI | Spring 2026 | 2025-12-12 | 239 | simplify-2026 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | Software Engineering Intern | Pittsburgh, PA | Spring 2026 | 2025-12-11 | 240 | simplify-2026 |
-| [Meta](https://www.metacareers.com/profile/job_details/4203446973242742) | Research Scientist Intern, LLM Evaluation | New York, NY | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-11 | 240 | simplify-2026 |
