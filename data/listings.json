@@ -174664,6 +174664,33 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Global Partners",
+    "id": "e7dd0864-1a37-4bcf-88d3-ed10dd2fa4a5",
+    "title": "Northeastern Co-op - Data Science",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1773355268,
+    "date_posted": 1773355268,
+    "url": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Northeastern-Co-Op--Data-Science-_R0030358",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Fresenius Medical Care",
     "id": "99b93798-30bb-438a-acfe-0e11c439b989",
@@ -341607,129 +341634,6 @@
     "date_posted": 1765482831,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Motorola",
-    "id": "19ad0e00-94f3-4505-ab02-7e2d2bb0fda6",
-    "title": "Java Software Engineer \u2013 2026 Summer Internship - Chicago",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765472721,
-    "date_posted": 1765472721,
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Java-Software-Engineer---2026-Summer-Internship--Chicago-Hybrid-_R60209",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NXP Semiconductors",
-    "id": "c22f1e49-1ad8-42d4-997b-1060ef9f3b69",
-    "title": "Data Engineer / Data Analyst Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765472449,
-    "date_posted": 1765472449,
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Engineer---Data-Analyst-Intern---Summer-2026_R-10059029-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "JM Family",
-    "id": "8ac6c3e2-1bed-4044-b81e-40eb8fb77a9f",
-    "title": "Sales Reporting & Visualization",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765471901,
-    "date_posted": 1765471901,
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Visualization-Intern_JR104378",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Global Partners",
-    "id": "a9a3a7c2-55ee-4bfa-b1cb-a6b3727aa9ca",
-    "title": "Northeastern Co-Op - Data Science",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765471650,
-    "date_posted": 1765471650,
-    "url": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Northeastern-Co-Op--Data-Science-_R0029717-1",
-    "locations": [
-      "Waltham, MA",
-      "Branford, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/Global-Partners",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Protech Automotive Solutions",
-    "id": "300816cb-d781-43d2-8f23-94a69ae27906",
-    "title": "Automotive ADAS Calibration Technician Apprentice",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765471544,
-    "date_posted": 1765471544,
-    "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/Everett-WA/Automotive-ADAS-Calibration-Technician-Apprentice_R0210483",
-    "locations": [
-      "Everett, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
