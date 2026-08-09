@@ -645,7 +645,7 @@
     "company_name": "Bank of Montreal",
     "id": "22bd8216-0e96-4a9c-858c-61b383700c83",
     "title": "Card Products Intern Co-op - Customer Solutions",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11136,7 +11136,7 @@
     "company_name": "Microsoft",
     "id": "b7198b61-27db-46c1-8155-5a5bdb14370f",
     "title": "Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -187605,6 +187605,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rolls Royce",
+    "id": "1b226056-c25a-4e1a-8aa0-65847d808c02",
+    "title": "IT Innovation & Research Intern",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1772781674,
+    "date_posted": 1772781674,
+    "url": "https://jobs.bmwgroup.com/job/Greenville-IT-Innovation-&-Research-Intern-Fall-2026-Sout/1370812633/?ats=successfactors",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Rolls Royce",
     "id": "f8080880-d013-40c8-ac19-30326bd50f19",
@@ -187723,6 +187749,32 @@
     "url": "https://jobs.bmwgroup.com/job/Greer-MN-80-Quality-Software-Intern-(Fall-2026)-IN/1370809433/?ats=successfactors",
     "locations": [
       "Evansville, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rolls Royce",
+    "id": "fe63dd4b-c302-4d46-9fd3-0663297956cb",
+    "title": "Predictive Maintenance Co-op",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1772781467,
+    "date_posted": 1772781467,
+    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Predictive-Maintenance-Co-op-(Fall-2026)-Sout/1370739633/?ats=successfactors",
+    "locations": [
+      "Spartanburg, SC"
     ],
     "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
     "is_visible": true,
@@ -340058,248 +340110,6 @@
     "date_updated": 1765556394,
     "date_posted": 1765556394,
     "url": "https://jobs.bmwgroup.com/job/Spartanburg-Digitalization-Co-op-Summer-2026-Sout/1209085001/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Rolls Royce",
-    "id": "4551c4e8-c755-41ca-9030-8e7ae04cd910",
-    "title": "Quality Process Digitalization Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765524491,
-    "date_posted": 1765524491,
-    "url": "https://jobs.bmwgroup.com/job/Greenville-Quality-Process-Digitalization-Intern-(Summer-2026)-Sout/1275356101/?ats=successfactors",
-    "locations": [
-      "Greenville, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Rolls Royce",
-    "id": "24710205-93bb-4bc2-8199-09e8769a521f",
-    "title": "Software Development Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765523667,
-    "date_posted": 1765523667,
-    "url": "https://jobs.bmwgroup.com/job/Greenville-Software-Development-Co-Op-(Summer-2026)-Sout/1274951401/?ats=successfactors",
-    "locations": [
-      "Greenville, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Rolls Royce",
-    "id": "99ad32ee-7043-4068-adac-09b38c254135",
-    "title": "Paint Shop Digitalization Co-op",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765523665,
-    "date_posted": 1765523665,
-    "url": "https://jobs.bmwgroup.com/job/Greer-Paint-Shop-Digitalization-Co-op-(Summer-2026)-Sout/1275288601/?ats=successfactors",
-    "locations": [
-      "Greer, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Rolls Royce",
-    "id": "f5d24ad5-3f45-4561-9970-fe4a2993adbe",
-    "title": "APEX/Oracle Co-Op - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765523663,
-    "date_posted": 1765523663,
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-APEXOracle-Co-Op-(Summer-2026)-Sout/1275615301/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Rolls Royce",
-    "id": "84f8522a-c469-4f4d-b50a-20c9720b8d19",
-    "title": "Product Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765523662,
-    "date_posted": 1765523662,
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Product-Engineering-Intern-(Summer-2026)-Sout/1275355901/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Rolls Royce",
-    "id": "36b71837-c3fb-439f-bfff-a02099005f49",
-    "title": "Dimensional Focus Co-Op - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765523662,
-    "date_posted": 1765523662,
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Dimensional-Focus-Co-Op-(Summer-2026)-Sout/1275719701/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Rolls Royce",
-    "id": "52758f2c-ddcb-4b11-b635-52ced6767b43",
-    "title": "IT Innovation & Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765523661,
-    "date_posted": 1765523661,
-    "url": "https://jobs.bmwgroup.com/job/Greenville-IT-Innovation-&-Research-Intern-Summer-2026-Sout/1274914501/?ats=successfactors",
-    "locations": [
-      "Greenville, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Rolls Royce",
-    "id": "551d679f-b3c0-4706-af79-2c761ade8cb9",
-    "title": "Vehicle Electronics Test & Validation Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765523660,
-    "date_posted": 1765523660,
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Summer-2026)-Sout/1275354801/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Rolls Royce",
-    "id": "baf8cc36-56e0-44c0-8888-faabda132437",
-    "title": "Powertrain Validation and Integration Co-op - Summer 2025",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1765523659,
-    "date_posted": 1765523659,
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Powertrain-Validation-and-Integration-Co-op-(Summer-2025)-Sout/1275355501/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Rolls Royce",
-    "id": "5cfdd690-322b-455c-9a7e-d011469dc1d1",
-    "title": "Predictive Maintenance Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765523657,
-    "date_posted": 1765523657,
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Predictive-Maintenance-Co-op-(Summer-2026)-Sout/1275672701/?ats=successfactors",
     "locations": [
       "Spartanburg, SC"
     ],

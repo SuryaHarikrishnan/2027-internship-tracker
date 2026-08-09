@@ -1,4 +1,4 @@
-# Product Management (56)
+# Product Management (54)
 
 [← back to index](../README.md)
 
@@ -6,7 +6,6 @@
 |---|---|---|---|---|---|---|
 | [TikTok](https://lifeattiktok.com/search/7670010726514493749) | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | Summer 2027 | 2026-08-07 | 2 | simplify-2026 |
 | [tarte cosmetics](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | Product Development Intern | NYC | Fall 2026 | 2026-08-07 | 2 | simplify-2026 |
-| [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035) | Card Products Intern Co-op - Customer Solutions | Toronto, ON, Canada | Fall 2026 | 2026-08-07 | 2 | simplify-2026 |
 | [Amcor](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654) | Product Development Engineer Intern | Evansville, IN | Fall 2026 | 2026-08-07 | 2 | simplify-2026 |
 | [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) | MBA Intern - Product Management | Chicago, IL, Northfield, IL | Summer 2027 | 2026-08-07 | 2 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668820702623467781) | Product Operations Intern - TikTok Shop Apps and API - MBA | Seattle, WA | Summer 2027 | 2026-08-06 | 3 | simplify-2026 |
@@ -26,7 +25,6 @@
 | [Naver U.Hub INC](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Product Management Intern | Redwood City, CA | Fall 2026 | 2026-08-03 | 6 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918) | Digital Product Analyst Intern | NYC | Summer 2027 | 2026-08-03 | 6 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992) | Product Management Intern - Product Innovation - Credit & Fraud Risk | NYC | Summer 2027 | 2026-08-03 | 6 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Product Manager Intern | Redmond, WA | Summer 2027 | 2026-08-03 | 6 | simplify-2026 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) | Product Management Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | 2026-08-03 | 6 | simplify-2026 |
 | [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Undergraduate-Intern_R230925-1) | Product Innovation Intern - Retail Product Innovation | Pittsburgh, PA | Summer 2026 | 2026-08-03 | 6 | simplify-2026 |
 | [Pentair](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | Product Management Internship | Apex, NC, Brookfield, WI, Delavan, WI, North Aurora, IL, New Brighton, MN, Golden Valley, MN | Summer 2027 | 2026-08-03 | 6 | simplify-2026 |
