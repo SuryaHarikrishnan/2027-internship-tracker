@@ -1,6 +1,80 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marshall Wace",
+    "id": "0a45c012-edc2-4b79-bd41-d7c92f3689ba",
+    "title": "AI Placement - Imperial 6 month placement",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1786354268,
+    "date_posted": 1786354107,
+    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8620541002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Marshall-Wace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sony Music Entertainment",
+    "id": "4ff7c715-a529-4fd1-b03a-7e208e1721da",
+    "title": "Insight & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786353842,
+    "date_posted": 1786353760,
+    "url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Music",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sony Music Entertainment",
+    "id": "08783e42-22f6-47ea-b391-ad53b2579350",
+    "title": "Data Analytics Intern - A&R Research",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1786353842,
+    "date_posted": 1786353758,
+    "url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Music",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Quant",
     "company_name": "InfiniteQuant",
     "id": "9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
@@ -3321,7 +3395,7 @@
     "company_name": "Deloitte",
     "id": "19c817ca-ebe5-4247-b9ec-258076656d40",
     "title": "Consultative Offerings Summer Scholar Intern - Technology Transformation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -3399,7 +3473,7 @@
     "company_name": "NVIDIA",
     "id": "2ccc5c31-d719-47e7-ab38-b42010d3a585",
     "title": "Software Engineer Intern - Dynamo",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -9588,7 +9662,7 @@
     "company_name": "Microsoft",
     "id": "9fe00265-7716-44f9-bc43-1017aa863220",
     "title": "Software Engineer Intern - CoreAI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10014,7 +10088,7 @@
     "company_name": "Rodan Energy Solutions Inc.",
     "id": "31064e52-65df-476b-89b9-d83f6663a2cc",
     "title": "Artificial Intelligence Co-op - Data Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -337929,55 +338003,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Samsung Research America",
-    "id": "9e526384-3d8b-4539-ab24-847a6231ca0e",
-    "title": "Intern - Computer Vision/AI",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1765610206,
-    "date_posted": 1765610206,
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8216250002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Rolls Royce",
-    "id": "8c2d99c6-94fa-45c5-853c-adb46218ff05",
-    "title": "Production Digitalization Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765610087,
-    "date_posted": 1765610087,
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Production-Digitalization-Intern-(Summer-2026)-Sout/1276074601/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

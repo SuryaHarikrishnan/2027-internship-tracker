@@ -1,4 +1,4 @@
-# Software Engineering (445)
+# Software Engineering (443)
 
 [← back to index](../README.md)
 
@@ -54,7 +54,6 @@
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482177469) | Engine Lab Support Part-Time Student - Product Engineering | Waterloo, IA | N/A | 2026-08-05 | 5 | simplify-2026 |
 | [Valstad](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true) | Robotics Software Intern - Manipulation & Simulation | Austin, TX | Fall 2026 | 2026-08-05 | 5 | simplify-2026 |
 | [Valstad](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true) | Software Engineer Intern - 3D & Manufacturing Applications | Austin, TX | Fall 2026 | 2026-08-05 | 5 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Software Engineer Intern - Dynamo | Santa Clara, CA | Summer 2026 | 2026-08-05 | 5 | simplify-2026 |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431) | Engineering Co-op | LaFayette, GA | Summer 2027 | 2026-08-05 | 5 | simplify-2026 |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427) | Software Engineer Co-op - Software Engineering | Louisville, KY | Summer 2027 | 2026-08-05 | 5 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667935150530840837) | Backend Software Engineer Intern - LIVE Foundation Governance Engineering | San Jose, CA | Summer 2027 | 2026-08-04 | 6 | simplify-2026 |
@@ -89,7 +88,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7668371003554138421/detail) | Research Scientist Intern - Distributed NoSQL Database Systems | San Jose, CA | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668373268886161669/detail) | Software Engineer Intern | Seattle, WA | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002) | Software Engineer Intern | London, UK | N/A | 2026-08-03 | 7 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556951950) | Software Engineer Intern - CoreAI | Redmond, WA | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) | Software Engineer Intern - Software Engineer Program | Palo Alto, CA, Houston, TX, Tampa, FL, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [Prospect Equities](https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern) | Backend / Frontend Developer Intern | Chicago, IL | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [Nebo](https://neboagency.applytojob.com/apply/AFMqe9Jb7b/Web-Development-Intern) | Web Development Intern | Atlanta, GA | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |

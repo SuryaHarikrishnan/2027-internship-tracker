@@ -1,9 +1,12 @@
-# Data Science, AI & Machine Learning (562)
+# Data Science, AI & Machine Learning (563)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8620541002) | AI Placement - Imperial 6 month placement | London, UK | N/A | 2026-08-10 | 0 | simplify-2026 |
+| [Sony Music Entertainment](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002) | Insight & Analytics Intern | London, UK | Fall 2026 | 2026-08-10 | 0 | simplify-2026 |
+| [Sony Music Entertainment](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002) | Data Analytics Intern - A&R Research | London, UK | Winter 2027 | 2026-08-10 | 0 | simplify-2026 |
 | [HNTB](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) | Strategic Technology Intern - SED Division | Tampa, FL, Tallahassee, FL | Summer 2027 | 2026-08-09 | 1 | simplify-2026 |
 | [Flexion Robotics](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) | Research Intern | SF | Fall 2026 | 2026-08-08 | 2 | simplify-2026 |
 | [Turabify](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply) | AI Automation Intern | Franklin, OH | Fall 2026 | 2026-08-08 | 2 | simplify-2026 |
@@ -42,7 +45,6 @@
 | [State of Nebraska](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---IT-Construction-Systems_JR2026-00028484-1) | IT Construction Systems Intern | Lincoln, NE | Fall 2026 | 2026-08-06 | 4 | simplify-2026 |
 | [Cohesity](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433) | Data Cleansing and Sales Enablement Analyst Intern | London, UK | Fall 2026 | 2026-08-06 | 4 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student--Graduate----AI-Research-Assistant_REQ_0000081095-1) | AI Research Assistant Graduate | Middletown, PA | N/A | 2026-08-06 | 4 | simplify-2026 |
-| [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Technology-Transformation/360655) | Consultative Offerings Summer Scholar Intern - Technology Transformation | Atlanta, GA | Summer 2026 | 2026-08-05 | 5 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668396597746862341) | Machine Learning Engineer Intern - Search | Seattle, WA | Summer 2027 | 2026-08-05 | 5 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670287013157095733) | Data Scientist Intern - VOD Data | San Jose, CA | Summer 2027 | 2026-08-05 | 5 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668533140146817333) | Data Engineer Intern - Ads Targeting | San Jose, CA | Summer 2027 | 2026-08-05 | 5 | simplify-2026 |
@@ -100,7 +102,6 @@
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8648474002?gh_jid=8648474002) | Machine Learning Engineer | London, UK | N/A | 2026-08-03 | 7 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) | Data Internship - Data & AI Program | Palo Alto, CA, Newark, DE, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | Data & AI Intern - Analyst | Palo Alto, CA, Newark, DE, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
-| [Rodan Energy Solutions Inc.](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student) | Artificial Intelligence Co-op - Data Services | Mississauga, ON, Canada | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [Rodan Energy Solutions Inc.](https://rodanenergysolutionsinc.applytojob.com/apply/6Zif3yjncr/Data-Science-Coop-Student) | Data Science Co-op | Mississauga, ON, Canada | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [IntelliGenesis](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) | Applied Data Scientist Intern | Columbia, MD | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [Carbon Engineering Ltd.](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration) | Process Systems Engineering Co-op - Automation & Data Integration | Squamish, BC, Canada | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
