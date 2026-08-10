@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | Product Management Intern | Westerville, OH | Summer 2027 | 2026-08-10 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670010726514493749) | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | Summer 2027 | 2026-08-07 | 3 | simplify-2026 |
 | [tarte cosmetics](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | Product Development Intern | NYC | Fall 2026 | 2026-08-07 | 3 | simplify-2026 |
 | [Amcor](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654) | Product Development Engineer Intern | Evansville, IN | Fall 2026 | 2026-08-07 | 3 | simplify-2026 |
@@ -17,7 +18,6 @@
 | [Winland Foods](https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Product-Development-Intern_R28807) | Product Development Intern | Oak Brook, IL | Summer 2027 | 2026-08-05 | 5 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) | Product Development Intern - US Consumer Services | NYC | Summer 2027 | 2026-08-04 | 6 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) | Product Innovation Intern - Credit & Fraud Risk | Phoenix, AZ | Summer 2027 | 2026-08-04 | 6 | simplify-2026 |
-| [Eko Health](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply) | Clinical Product Strategy Intern - Clinical Technology | Remote in USA | Fall 2026 | 2026-08-04 | 6 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667874197682899205) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 6 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667578131150506293) | AI Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 6 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) | Product Management Intern | NYC | Summer 2027 | 2026-08-04 | 6 | simplify-2026 |

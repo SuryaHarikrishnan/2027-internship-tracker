@@ -1,9 +1,12 @@
-# Software Engineering (443)
+# Software Engineering (446)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7670839727059339525) | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | Summer 2027 | 2026-08-10 | 0 | simplify-2026 |
+| [McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997) | Software Developer Intern - Digital and Enterprise Technology | Montreal, QC, Canada, Saint-Laurent, Montreal, QC, Canada | Fall 2026 | 2026-08-10 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158) | Software Engineer Intern - Summer 2027 | Marlborough, MA | Summer 2027 | 2026-08-10 | 0 | simplify-2026 |
 | [ProNexus](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply) | Software Engineer Intern | Remote in USA | Fall 2026 | 2026-08-08 | 2 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7671147251943213317/detail) | Software Development Engineer Intern - Network Automation - 2027 Summer | San Jose, CA | Summer 2027 | 2026-08-08 | 2 | simplify-2026 |
 | [Trillium](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) | Software Engineer Intern - Summer 2027 | NYC | Summer 2027 | 2026-08-07 | 3 | simplify-2026 |
@@ -108,11 +111,11 @@
 | [TikTok](https://lifeattiktok.com/search/7668582086899763461) | Software Engineer Intern | Seattle, WA | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668696895234197813) | Software Engineer Intern - ML Infra | San Jose, CA | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [Black Cape](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) | Software Engineer Intern | Arlington County, Arlington, VA | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749) | Software Engineer Intern | Texas | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) | Engineering Intern - Software Development | Houston, TX | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) | Software Development Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | AI Software Engineer Intern | Remote in USA | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [University of Virginia](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Media-Studio-Technology-Consultant--Student-Wage-_R0085912) | Media Studio Technology Consultant | Charlottesville, VA | N/A | 2026-08-03 | 7 | simplify-2026 |
-| [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1) | Technology Intern | Plano, TX, McLean, VA, Richmond, VA | Summer 2027 | 2026-08-03 | 7 | simplify-2026 |
 | [HPR (Hyannis Port Research)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Software Engineer Intern | Needham, MA | Summer 2027 | 2026-08-01 | 9 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278847) | Software Compiler Engineer Intern - AI Inference | Palo Alto, CA | Fall 2026, Winter 2027 | 2026-08-01 | 9 | simplify-2026 |
 | [SiMa.ai](https://jobs.jobvite.com/simaai/job/ohRqAfwS?nl=1&nl=1&fr=false) | Application Development Intern | San Jose, CA | Summer 2026 | 2026-08-01 | 9 | simplify-2026 |

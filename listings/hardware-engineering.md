@@ -1,9 +1,12 @@
-# Hardware Engineering (190)
+# Hardware Engineering (192)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777) | Software Engineer Intern | Delaware, OH | Summer 2027 | 2026-08-10 | 0 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) | Thermal Engineer Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-10 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764) | Software Engineer Intern - Summer 2027 | Woburn, MA | Summer 2027 | 2026-08-10 | 0 | simplify-2026 |
 | [HyperLight](https://apply.workable.com/hyperlight/j/498D9988C8/apply) | Integrated Photonics Intern | Cambridge, MA | Summer 2026, Fall 2026 | 2026-08-08 | 2 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) | Firmware Engineer Intern - Platform Firmware | Boston, MA, Seattle, WA | Summer 2026 | 2026-08-07 | 3 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482643871) | Product Engineer Student - Product Engineering | Fuquay-Varina, NC | N/A | 2026-08-07 | 3 | simplify-2026 |
@@ -102,7 +105,6 @@
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern | San Jose, CA | Fall 2026 | 2026-06-23 | 48 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Montreal/Field-Service-Apprentice----QC_R4042209-1) | Field Service Apprentice | Montreal, QC, Canada | Summer 2026 | 2026-06-23 | 48 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | 49 | simplify-2026 |
-| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electronic-Materials-and-Devices-Engineering-Intern_REQ_0000053210) | Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices | University Park, State College, PA | Fall 2026 | 2026-06-20 | 51 | simplify-2026 |
 | [Teledyne](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119) | Computer Engineer Intern | Lincoln, NE | Spring 2026 | 2026-06-20 | 51 | simplify-2026 |
 | [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830) | Mechanical Production Engineering Apprentice | Bristol, UK | Summer 2026 | 2026-06-19 | 52 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858) | Digital Logic + Design Verification Co-op | Santa Clara, CA | Fall 2026 | 2026-06-18 | 53 | simplify-2026 |
