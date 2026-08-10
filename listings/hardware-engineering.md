@@ -1,4 +1,4 @@
-# Hardware Engineering (192)
+# Hardware Engineering (191)
 
 [← back to index](../README.md)
 
@@ -34,7 +34,6 @@
 | [SRI International](https://careers-sri.icims.com/jobs/6431/job?mobile=true&needsRedirect=false) | Embedded Software Engineer Co-op | Princeton, NJ | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002) | Hardware Engineer Intern - FPGA/ASIC | London, UK | N/A | 2026-08-03 | 7 | simplify-2026 |
 | [Innovation Works, Inc.](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc) | Scale Prototyping Shop Intern | Pittsburgh, PA | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
-| [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | Engineering Intern - Firmware Development | Houston, TX | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [Novanta](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484) | Engineer Intern | Apex, NC | Fall 2026 | 2026-08-03 | 7 | simplify-2026 |
 | [HPR (Hyannis Port Research)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | FPGA Engineer Intern | Needham, MA | Summer 2027 | 2026-08-01 | 9 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/18681?icims=1) | Technician Apprentice | Olathe, KS | Fall 2026 | 2026-08-01 | 9 | simplify-2026 |
