@@ -1,4 +1,4 @@
-# Software Engineering (462)
+# Software Engineering (459)
 
 [← back to index](../README.md)
 
@@ -91,7 +91,6 @@
 | [TikTok](https://lifeattiktok.com/search/7669705785962727733) | Software Engineer Intern - Ads Interface | San Jose, CA | Summer 2027 | 2026-08-04 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669711844487399685) | Software Engineer Intern - Global CRM | San Jose, CA | Summer 2027 | 2026-08-04 | 7 | simplify-2026 |
 | [e-Careers](https://apply.workable.com/ecareers/j/C82B9AD635/apply) | Software Developer Trainee | Blackpool, UK | N/A | 2026-08-04 | 7 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Software Engineer Security & Identity Intern | Redmond, WA | Fall 2026 | 2026-08-04 | 7 | simplify-2026 |
 | [HUB International](https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Edmonton-AB/Student-Programmer-Analyst_R0037883) | Student Programmer Analyst | Edmonton, AB, Canada, Red Deer, AB, Canada | N/A | 2026-08-04 | 7 | simplify-2026 |
 | [Incident IQ](https://job-boards.greenhouse.io/incidentiq/jobs/7824038003) | Software Engineer Intern | Alpharetta, GA | Fall 2026 | 2026-08-03 | 8 | simplify-2026 |
 | [Samsara](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | Software Engineering Intern | London, UK | Summer 2028 | 2026-08-03 | 8 | simplify-2026 |
@@ -170,7 +169,6 @@
 | [Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1) | Software Development Intern | Montreal, QC, Canada | Fall 2026 | 2026-07-23 | 19 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8643138002) | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Fall 2026 | 2026-07-22 | 20 | simplify-2026 |
 | [Trend Micro](https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997) | Malware Research Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-22 | 20 | simplify-2026 |
-| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | Research Engineering Intern | State College, PA | Fall 2026 | 2026-07-22 | 20 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Software Engineer Intern - Software Engineer | Austin, TX, NYC | Summer 2027 | 2026-07-21 | 21 | simplify-2026 |
 | [ShyftLabs](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | AI Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-21 | 21 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | Software Engineering Intern | Boston, MA, Seattle, WA | Summer 2027 | 2026-07-21 | 21 | simplify-2026 |
@@ -221,7 +219,6 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974943) | Campus UI Software Engineer Intern | London, UK | Fall 2026 | 2026-07-13 | 29 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7975026) | Campus Software Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 29 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7942281) | Software Developer Intern | London, UK | Summer 2026 | 2026-07-13 | 29 | simplify-2026 |
-| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036) | Engineering Engineer Intern | Huntsville, AL | Summer 2026 | 2026-07-13 | 29 | simplify-2026 |
 | [Xsolla](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | AI-First Engineer Intern | Raleigh, NC | Fall 2026 | 2026-07-10 | 32 | simplify-2026 |
 | [Xsolla](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | AI-First Engineer Intern | LA | Fall 2026 | 2026-07-10 | 32 | simplify-2026 |
 | [Xsolla](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | AI Engineer Intern | Montreal, QC, Canada | Fall 2026 | 2026-07-10 | 32 | simplify-2026 |

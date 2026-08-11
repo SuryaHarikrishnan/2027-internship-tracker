@@ -1,4 +1,4 @@
-# Hardware Engineering (193)
+# Hardware Engineering (192)
 
 [← back to index](../README.md)
 
@@ -135,7 +135,6 @@
 | [Zipline](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | Embedded Software Engineer Intern | San Bruno, CA | Fall 2026 | 2026-06-06 | 66 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7763697003) | Mechatronics Perception Intern - Fall 2026 | South SF | Fall 2026 | 2026-06-05 | 67 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) | Lab Technician Intern | Santa Monica, CA | Summer 2026 | 2026-06-04 | 68 | simplify-2026 |
-| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) | Embedded Software Engineer Intern | Ottawa, ON, Canada | Summer 2026 | 2026-06-03 | 69 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer 2026 | 2026-06-03 | 69 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7761881003) | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | Summer 2026 | 2026-06-02 | 70 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | Research Intern - Virtual Network | San Jose, CA | Summer 2026 | 2026-06-02 | 70 | simplify-2026 |

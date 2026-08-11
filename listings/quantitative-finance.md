@@ -1,4 +1,4 @@
-# Quantitative Finance (132)
+# Quantitative Finance (131)
 
 [← back to index](../README.md)
 
@@ -12,7 +12,6 @@
 | [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129) | Quantitative Researcher Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-10 | 1 | simplify-2026 |
 | [PEAK6](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061) | Trading Intern | Chicago, IL | Summer 2027 | 2026-08-10 | 1 | simplify-2026 |
 | [PEAK6](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057) | Trading Bootcamp Micro-Internship - Summer 2027 | Chicago, IL | Summer 2027 | 2026-08-10 | 1 | simplify-2026 |
-| [Texas Permanent School Fund Corporation](https://texaspsf.wd501.myworkdayjobs.com/TexasPSFCareers/job/Innovation-Tower/Equity-Capital-Markets-Intern_JR100108) | Equity Capital Markets Intern | Austin, TX | Fall 2026 | 2026-08-10 | 1 | simplify-2026 |
 | [Capula](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Trading and Research Intern | London, UK | Summer 2027 | 2026-08-08 | 3 | simplify-2026 |
 | [WallStreetQuants](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | Quantitative Researcher Intern | NYC | Fall 2026 | 2026-08-08 | 3 | simplify-2026 |
 | [WallStreetQuants](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) | Quantitative Trading Intern | Miami, FL | Fall 2026 | 2026-08-08 | 3 | simplify-2026 |

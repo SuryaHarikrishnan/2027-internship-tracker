@@ -1,6 +1,30 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Leland",
+    "id": "4e0d8be2-4c96-42c3-96c6-17850b196a60",
+    "title": "AI Education Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786441501,
+    "date_posted": 1777068508,
+    "url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Leland",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Product",
     "company_name": "TikTok",
     "id": "b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
@@ -1247,7 +1271,7 @@
     "company_name": "Texas Permanent School Fund Corporation",
     "id": "704aa903-72a6-4715-a210-094bb9616b77",
     "title": "Equity Capital Markets Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9302,7 +9326,7 @@
     "company_name": "Microsoft",
     "id": "4fa5508b-be5b-43c6-8651-fcb4753d6e99",
     "title": "Software Engineer Intern - Data Platform & Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9356,7 +9380,7 @@
     "company_name": "Microsoft",
     "id": "b412b084-36e9-45e2-b3a0-561c4336e62e",
     "title": "Software Engineer Security & Identity Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -19363,7 +19387,7 @@
     "company_name": "Smiths Detection Group",
     "id": "138aace0-50eb-474e-bdb9-b1b513a1aa72",
     "title": "Commercial Intern - Commercial Tools & Business Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -21002,7 +21026,7 @@
     "company_name": "Pennsylvania State University",
     "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "title": "Research Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -34602,7 +34626,7 @@
     "company_name": "Leidos",
     "id": "51614fe5-c79b-42d9-997f-c9a22d17645c",
     "title": "Engineering Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -63660,7 +63684,7 @@
     "company_name": "Ciena",
     "id": "32e24b4c-ba64-4d4b-b70b-2cdc68dc2aab",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

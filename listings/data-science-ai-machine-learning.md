@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (578)
+# Data Science, AI & Machine Learning (577)
 
 [← back to index](../README.md)
 
@@ -97,7 +97,6 @@
 | [TikTok](https://lifeattiktok.com/search/7668381860191734021) | Machine Learning Engineer Intern - Data Search Local Service | San Jose, CA | Fall 2026 | 2026-08-04 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669700361976809733) | Machine Learning Engineer Intern - Ads Signal & Measurement | San Jose, CA | Summer 2027 | 2026-08-04 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669702702763018501) | Machine Learning Engineer Intern - Commercial AI-CRM and Transaction | San Jose, CA | Summer 2027 | 2026-08-04 | 7 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556922931) | Software Engineer Intern - Data Platform & Analytics | Redmond, WA | Fall 2026 | 2026-08-04 | 7 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8104138) | Marketing Programs and Analytics Intern | Austin, TX | Fall 2026 | 2026-08-04 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278622) | Data Engineer Intern - Cell Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-08-04 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278620) | Cell Engineering Intern - Cell Qualification | Palo Alto, CA, San Diego, CA | Winter 2027, Spring 2027 | 2026-08-04 | 7 | simplify-2026 |
@@ -188,7 +187,6 @@
 | [Modal](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) | Machine Learning Research Intern | SF, NYC | Fall 2026 | 2026-07-28 | 14 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278249) | Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer | Palo Alto, CA | Fall 2026 | 2026-07-28 | 14 | simplify-2026 |
 | [Field AI](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply) | Robotics Controls Intern - Robot Control Systems | Irvine, CA | Fall 2026 | 2026-07-28 | 14 | simplify-2026 |
-| [Smiths Detection Group](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009) | Commercial Intern - Commercial Tools & Business Intelligence | Slough, UK | Fall 2026 | 2026-07-28 | 14 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667248888103782661) | Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency | NYC | Fall 2026 | 2026-07-28 | 14 | simplify-2026 |
 | [LUZCO TECHNOLOGIES LLC](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361617) | AI Solutions Co-op | St. Louis, MO | Fall 2026 | 2026-07-28 | 14 | simplify-2026 |
 | [Axis Capital](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1) | Renewable Energy Engineer Intern | London, UK | Fall 2026 | 2026-07-28 | 14 | simplify-2026 |
@@ -478,6 +476,7 @@
 | [Integra FEC](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Data Analyst Intern | Austin, TX | Fall 2026 | 2026-04-28 | 105 | simplify-2026 |
 | [Integra FEC](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Data Scientist Intern - PhD | Austin, TX | Fall 2026 | 2026-04-28 | 105 | simplify-2026 |
 | [Netflix](https://explore.jobs.netflix.net/careers/job/790315673635) | Video Algorithms Intern - Video Coding - Gaussian Splatting | LA, Los Gatos, CA | Fall 2026 | 2026-04-28 | 105 | simplify-2026 |
+| [Leland](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true) | AI Education Intern | Lehi, UT | Fall 2026 | 2026-04-24 | 109 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000063953-1) | Research Assistant Intern | State College, PA | N/A | 2026-04-18 | 115 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653) | Software Engineering Intern | Ann Arbor, MI | Summer 2026 | 2026-04-18 | 115 | simplify-2026 |
 | [ASM Global](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Automation---AI-Technology-Experience-Intern_R100122152) | Automation & AI Technology Experience Intern | Frisco, TX, Conshohocken, PA | Summer 2026 | 2026-04-17 | 116 | simplify-2026 |
