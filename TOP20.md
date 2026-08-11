@@ -1,6 +1,10 @@
 # Today's Top 20 — 2026-08-11
 
-Ranked by freshness + company signal + role category. Apply to these today — all are actively hiring right now.
+Updated with every refresh. Apply today — freshness matters.
+
+## 🏢 Top 15 — High-signal picks
+
+Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -19,11 +23,18 @@ Ranked by freshness + company signal + role category. Apply to these today — a
 | 13 | **Palantir** | Forward Deployed Software Engineer Intern - Commercial | London, UK | Fall 2026 | 2026-07-31 (11d ago) | [Apply](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply) |
 | 14 | **Quantbot Technologies** | Quantitative Developer Intern | NYC | Summer 2027 | 2026-08-11 (0d ago) | [Apply](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) |
 | 15 | **RTX** | Software Engineer Intern | Burnsville, MN | Summer 2027 | 2026-08-11 (0d ago) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474) |
-| 16 | **Analytic Partners** | Software Engineer Co-op - Georgia Tech | Miami, FL, Florida, United States | Winter 2027 | 2026-08-11 (0d ago) | [Apply](https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650/apply) |
-| 17 | **Regions Bank** | Technology, Operations, Digital and Data Development Program Associate - Operations - Digital | Hoover, AL | Summer 2027 | 2026-08-11 (0d ago) | [Apply](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data-Regions-2026-Interns-only_R105132) |
-| 18 | **Kimley-Horn** | Software Developer Intern | Cary, NC | Summer 2027 | 2026-08-11 (0d ago) | [Apply](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false) |
-| 19 | **Royal Bank of Canada** | Quantitative Analyst Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-08-11 (0d ago) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) |
-| 20 | **Bank of Montreal** | Full Stack Engineer Intern - Data Cognition Team | Toronto, ON, Canada | N/A | 2026-08-11 (0d ago) | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769) |
+
+## 🚀 Top 5 Startups — YC-backed, actively hiring
+
+Recent YC companies (W24–S26) with open roles right now.
+
+| # | Company | Role | Location | Terms | Date Posted | Apply |
+|---|---|---|---|---|---|---|
+| 1 | **Constellation Space** | Graduate Researcher Intern - Machine Learning | Seattle, WA | Fall 2026 | 2026-07-15 (27d ago) | [Apply](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) |
+| 2 | **Terranox AI** | Summer Intern - AI/ML Engineering | San Francisco, CA |  | 2026-05-14 (89d ago) | [Apply](https://www.workatastartup.com/jobs/94631) |
+| 3 | **General Astronautics** | Engineering Intern | San Francisco, CA |  | 2026-05-09 (94d ago) | [Apply](https://www.workatastartup.com/jobs/94206) |
+| 4 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (38d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
+| 5 | **Dedalus Labs** | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-05-09 (94d ago) | [Apply](https://www.workatastartup.com/jobs/94400) |
 
 ---
-*Generated 2026-08-11 21:23 UTC — rankings update with each refresh. See [README](README.md) for full listings.*
+*Generated 2026-08-11 21:28 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
