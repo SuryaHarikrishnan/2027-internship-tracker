@@ -1,4 +1,4 @@
-# Hardware Engineering (192)
+# Hardware Engineering (193)
 
 [← back to index](../README.md)
 
@@ -6,6 +6,8 @@
 |---|---|---|---|---|---|---|
 | [SkyGig](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | RFIC Design Intern | San Jose, CA | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [OceanComm](https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply) | Electronics Technician Intern | Chicago, IL | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025) | Software Engineering Intern | El Segundo, CA | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
+| [University System of New Hampshire](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972) | Robotics Intern | Durham, NH | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/279760) | Electronic Design Engineer Intern - Electronic Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-08-10 | 1 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) | Thermal Engineer Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-10 | 1 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | DRAM IP Circuits Design Engineer Intern - IP Development | Boise, ID | Fall 2026 | 2026-08-10 | 1 | simplify-2026 |
@@ -14,7 +16,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764) | Software Engineer Intern - Summer 2027 | Woburn, MA | Summer 2027 | 2026-08-10 | 1 | simplify-2026 |
 | [HyperLight](https://apply.workable.com/hyperlight/j/498D9988C8/apply) | Integrated Photonics Intern | Cambridge, MA | Summer 2026, Fall 2026 | 2026-08-08 | 3 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) | Firmware Engineer Intern - Platform Firmware | Boston, MA, Seattle, WA | Summer 2026 | 2026-08-07 | 4 | simplify-2026 |
-| [John Deere](https://johndeere.eightfold.ai/careers/job/137482643871) | Product Engineer Student - Product Engineering | Fuquay-Varina, NC | N/A | 2026-08-07 | 4 | simplify-2026 |
 | [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) | Flight Software Intern - Spring 2027 | El Segundo, CA | Spring 2027 | 2026-08-07 | 4 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/TXI-Tech-Intern--Texas-Immersive-Institute--Moody-College-of-Communication--Open-to-Work-Study-_R_00047950) | Technology Intern - Texas Immersive Institute - Moody College of Communication | Austin, TX | Summer 2026 | 2026-08-07 | 4 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Fall 2026 | 2026-08-07 | 4 | simplify-2026 |

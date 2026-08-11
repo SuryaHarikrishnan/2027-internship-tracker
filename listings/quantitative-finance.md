@@ -1,9 +1,13 @@
-# Quantitative Finance (131)
+# Quantitative Finance (135)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | Data Trading Analyst Intern | NYC | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | Quantitative Analyst Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
 | [Truist Bank](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | Analyst Intern - Equity Research - Sales, Trading & Research | NYC, Atlanta, GA | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [Truist Bank](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) | Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program | NYC | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [Truist Bank](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1) | Analyst Intern Conversion - Multiple Teams | NYC | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
