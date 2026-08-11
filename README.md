@@ -6,6 +6,8 @@ If you're searching for a **Summer 2027 internships GitHub repo**, a **Summer 20
 
 ⭐ **Star this repo** to stay current — listings refresh 5× a day. **Fork it** to get your own personal application tracker alongside the listings.
 
+📋 **[Today's Top 20 picks →](TOP20.md)** — highest-signal companies with fresh openings, updated every refresh.
+
 ## Track your own applications, not just browse listings
 
 Most listing repos stop at the list. This one also gives you a personal application tracker that lives next to the data:
@@ -23,7 +25,7 @@ python scripts/track.py render  # regenerates APPLICATIONS.md
 
 A script runs 5× per day, pulls the latest active listings from the source repos, merges and deduplicates them by company + role + location, and updates: this index, the per-category files in [`listings/`](listings/), and a daily diff in [`digests/`](digests/) showing what's new and what closed. See [ATTRIBUTION.md](ATTRIBUTION.md) for source credits and [CONTRIBUTING.md](CONTRIBUTING.md) to add new sources.
 
-Last refreshed: **2026-08-11 21:18 UTC**. Sources: simplify-2026, vanshb03-2026, vanshb03-2027.
+Last refreshed: **2026-08-11 21:24 UTC**. Sources: simplify-2026, vanshb03-2026, vanshb03-2027.
 
 **Active listings: 1699** (of 13044 total seen across all sources)
 

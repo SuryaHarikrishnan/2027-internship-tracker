@@ -199,6 +199,7 @@ def write_listings(listings, fetched_sources):
         "this aggregates several of those trackers so you don't have to check each one.\n",
         "⭐ **Star this repo** to stay current — listings refresh 5× a day. "
         "**Fork it** to get your own personal application tracker alongside the listings.\n",
+        "📋 **[Today's Top 20 picks →](TOP20.md)** — highest-signal companies with fresh openings, updated every refresh.\n",
         "## Track your own applications, not just browse listings\n",
         "Most listing repos stop at the list. This one also gives you a personal application "
         "tracker that lives next to the data:\n",

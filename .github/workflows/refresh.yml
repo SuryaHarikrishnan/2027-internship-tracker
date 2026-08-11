@@ -29,6 +29,9 @@ jobs:
           echo "$output"
           echo "summary=$output" >> $GITHUB_OUTPUT
 
+      - name: Generate Top 20 recommendations
+        run: python scripts/recommend.py
+
       - name: Commit and push if changed
         run: |
           if [ -n "$(git status --porcelain)" ]; then
