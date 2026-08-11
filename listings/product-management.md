@@ -1,9 +1,10 @@
-# Product Management (58)
+# Product Management (59)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7670529537944766773) | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
 | [OpusClip](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true) | AI Product Management Intern | Mountain View, CA | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [Mujin](https://mujin.bamboohr.com/careers/168/) | Product Development Intern - Spring 2027 | Suwanee, GA | Spring 2027 | 2026-08-10 | 1 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | Product Management Intern | Westerville, OH | Summer 2027 | 2026-08-10 | 1 | simplify-2026 |

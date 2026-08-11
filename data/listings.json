@@ -1,6 +1,66 @@
 [
   {
     "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
+    "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786439712,
+    "date_posted": 1786439657,
+    "url": "https://lifeattiktok.com/search/7670529537944766773",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ATCO",
+    "id": "152f0dd1-e6c5-4072-8a15-e122312fc5c7",
+    "title": "Engineering Co-op - Electric Division",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1786439224,
+    "date_posted": 1786439134,
+    "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508",
+    "locations": [
+      "Slave Lake, AB, Canada",
+      "Grande Prairie, AB, Canada",
+      "Calgary, AB, Canada",
+      "Lethbridge, AB, Canada",
+      "Edmonton, AB, Canada",
+      "Peace River, AB, Canada",
+      "Red Deer, AB, Canada",
+      "Whitehorse, YT, Canada",
+      "Fort McMurray, AB, Canada",
+      "Yellowknife, NT, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ATCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Micron Technology",
     "id": "cac1f15d-cf74-42c8-b16e-6781eacbab92",
@@ -9215,7 +9275,7 @@
     "company_name": "Microsoft",
     "id": "25286ad8-8260-4a0d-9ab1-89a677c29b20",
     "title": "Software Engineer: AI/ML & LLM Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9323,7 +9383,7 @@
     "company_name": "Microsoft",
     "id": "ed31bd8d-9acf-436c-9628-1d4c79959bac",
     "title": "Full-Stack Product Engineer Intern - Web + Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9350,7 +9410,7 @@
     "company_name": "Microsoft",
     "id": "7e143f06-1c28-41b7-9291-53a869d86325",
     "title": "Software Engineer Intern - Cloud & Distributed Backend",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [ATCO](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508) | Engineering Co-op - Electric Division | Slave Lake, AB, Canada, Grande Prairie, AB, Canada, Calgary, AB, Canada, Lethbridge, AB, Canada, Edmonton, AB, Canada, Peace River, AB, Canada, Red Deer, AB, Canada, Whitehorse, YT, Canada, Fort McMurray, AB, Canada, Yellowknife, NT, Canada | Winter 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [Q5](https://apply.workable.com/q5-partners/j/3D4D022AC0/apply) | Research Analyst - Analytics Hub | London, UK | N/A | 2026-08-11 | 0 | simplify-2026 |
 | [Thingtrax](https://apply.workable.com/thingtrax/j/5D09B73294/apply) | Vision AI Intern - Vision AI | Remote in UK | Summer 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [Generation West Virginia](https://apply.workable.com/generation-west-virginia-1/j/315616F917/apply) | Insights - Project Extension Team - Cohort | Remote in USA, West Virginia | N/A | 2026-08-11 | 0 | simplify-2026 |
@@ -97,7 +98,6 @@
 | [TikTok](https://lifeattiktok.com/search/7669700361976809733) | Machine Learning Engineer Intern - Ads Signal & Measurement | San Jose, CA | Summer 2027 | 2026-08-04 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669702702763018501) | Machine Learning Engineer Intern - Commercial AI-CRM and Transaction | San Jose, CA | Summer 2027 | 2026-08-04 | 7 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556922931) | Software Engineer Intern - Data Platform & Analytics | Redmond, WA | Fall 2026 | 2026-08-04 | 7 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556922929) | Software Engineer: AI/ML & LLM Intern | Redmond, WA | Fall 2026 | 2026-08-04 | 7 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8104138) | Marketing Programs and Analytics Intern | Austin, TX | Fall 2026 | 2026-08-04 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278622) | Data Engineer Intern - Cell Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-08-04 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278620) | Cell Engineering Intern - Cell Qualification | Palo Alto, CA, San Diego, CA | Winter 2027, Spring 2027 | 2026-08-04 | 7 | simplify-2026 |
