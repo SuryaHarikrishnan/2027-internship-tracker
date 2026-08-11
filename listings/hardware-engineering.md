@@ -1,4 +1,4 @@
-# Hardware Engineering (193)
+# Hardware Engineering (192)
 
 [← back to index](../README.md)
 
@@ -148,7 +148,6 @@
 | [Periodic Labs](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a/application) | Nanofabrication Intern | Menlo Park, CA | Summer 2026 | 2026-05-26 | 77 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) | ASIC Design Engineer Intern | United States | Fall 2026 | 2026-05-23 | 80 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105) | Mixed Signal Engineer Intern | United States | Summer 2026 | 2026-05-23 | 80 | simplify-2026 |
-| [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108) | Software Development Engineer Intern | United States | Fall 2026 | 2026-05-23 | 80 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103) | DFT Engineer Intern | United States | Fall 2026 | 2026-05-23 | 80 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | Verification Engineer Intern | United States | Fall 2026 | 2026-05-23 | 80 | simplify-2026 |
 | [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply) | AI Kernel Engineer Intern - Kernel Optimization | Burlingame, CA | Summer 2026 | 2026-05-22 | 81 | simplify-2026 |

@@ -1,6 +1,58 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Deloitte",
+    "id": "83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
+    "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786469393,
+    "date_posted": 1786469058,
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Deloitte",
+    "id": "ab415b2f-4b79-4996-a204-a63273564c89",
+    "title": "Software Engineering Analyst Intern - Government & Public Services",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786469389,
+    "date_posted": 1786469056,
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Quant",
     "company_name": "Quantbot Technologies",
     "id": "c0bc8e2c-204a-461b-bd1b-7d720fbcbd77",
@@ -798,7 +850,7 @@
     "company_name": "ATCO",
     "id": "152f0dd1-e6c5-4072-8a15-e122312fc5c7",
     "title": "Engineering Co-op - Electric Division",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -1804,7 +1856,7 @@
     "company_name": "PEAK6",
     "id": "755d53f2-611b-41ed-b60e-f7e1ed63a5ef",
     "title": "Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3239,7 +3291,7 @@
     "company_name": "Atoms",
     "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5265,7 +5317,7 @@
     "company_name": "Harris Computer",
     "id": "2501f0b1-c33a-4309-87a7-8de524f63285",
     "title": "Technology Architecture Intern - Corporate AI Foundation",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8101,7 +8153,7 @@
     "company_name": "University System of New Hampshire",
     "id": "cbc54767-dc6e-40b3-a3be-54f9edcc4ef5",
     "title": "Research Assistant - Keesee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -14708,7 +14760,7 @@
     "company_name": "Worcester Polytechnic Institute",
     "id": "a65f9dcf-4dea-46ef-a1eb-b39b21c95ab1",
     "title": "Researcher for Robotic Dexterous Picking",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -15017,7 +15069,7 @@
     "company_name": "Texas A&M International University",
     "id": "d773df47-c740-4271-8672-f2328b32afe7",
     "title": "Student Research Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -28031,7 +28083,7 @@
     "company_name": "Ambarella",
     "id": "cd94083e-cc43-4ac3-ab77-eb4e883cf7ab",
     "title": "Software Development Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -31708,7 +31760,7 @@
     "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
     "id": "94928190-a01b-4ff0-8068-4fad65af019c",
     "title": "Student 2 - Data Management",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -36923,7 +36975,7 @@
     "company_name": "Meta",
     "id": "ba1e95d6-38c8-4dfd-98bb-f6954a1aaab8",
     "title": "Research Scientist Intern - Monetization Computer Vision",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -59788,7 +59840,7 @@
     "company_name": "Ancestry",
     "id": "b70cf0fc-1a6d-451a-a737-885a6a68884f",
     "title": "Machine Learning Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

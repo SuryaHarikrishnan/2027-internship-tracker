@@ -1,9 +1,10 @@
-# Software Engineering (474)
+# Software Engineering (473)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448) | Software Engineering Analyst Intern - Government & Public Services | Austin, TX | Summer 2026 | 2026-08-11 | 0 | simplify-2026 |
 | [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false) | Software Developer Intern | Cary, NC | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) | Software Engineer Intern | NYC | Summer 2027 | 2026-08-11 | 0 | simplify-2026 |
 | [CMiC](https://apply.workable.com/cmic/j/63A27830D0/apply) | Software Engineer Co-op | Toronto, ON, Canada | Fall 2026 | 2026-08-11 | 0 | simplify-2026 |
@@ -49,7 +50,6 @@
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) | Software Engineering Intern - Product - Platform | Washington, DC | Summer 2027 | 2026-08-07 | 4 | simplify-2026 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) | AI Software Engineer Intern | Washington, DC | Fall 2026 | 2026-08-07 | 4 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482642817) | Part-Time Student - Dynamic Systems Modeling - Product Engineering | Dubuque, IA | N/A | 2026-08-07 | 4 | simplify-2026 |
-| [Atoms](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | Software Engineer Intern - Summer 2027 | Seattle, WA, SF, LA, NYC, Mountain View, CA | Summer 2027 | 2026-08-07 | 4 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7671211313289398581) | Frontend Engineer Intern - Ads Interface | San Jose, CA | Summer 2027 | 2026-08-07 | 4 | simplify-2026 |
 | [Engineers and Geoscientists BC](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) | Information Systems Co-op | Burnaby, BC, Canada | Fall 2026 | 2026-08-07 | 4 | simplify-2026 |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply) | Software Engineer Intern - Summer 2027 | Chicago, IL | Summer 2027 | 2026-08-07 | 4 | simplify-2026 |
@@ -79,7 +79,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7668464504736876853/detail) | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | San Jose, CA | Summer 2027 | 2026-08-06 | 5 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670354329765464373/detail) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA | Summer 2027 | 2026-08-06 | 5 | simplify-2026 |
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385) | Application Engineering Intern | San Ramon, CA | Fall 2026 | 2026-08-06 | 5 | simplify-2026 |
-| [Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3) | Technology Architecture Intern - Corporate AI Foundation | Rimouski, QC, Canada | N/A | 2026-08-06 | 5 | simplify-2026 |
 | [KBR](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) | Software Intern | Houston, TX | Fall 2026 | 2026-08-06 | 5 | simplify-2026 |
 | [Roblox](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | Software Engineer Intern | San Mateo, CA | Summer 2027 | 2026-08-05 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Gulf Management](https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern) | Software Engineer & Business Systems Intern | Covington, LA | Fall 2026 | 2026-08-05 | 6 | simplify-2026 |
