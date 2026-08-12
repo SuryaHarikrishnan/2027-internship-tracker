@@ -1,6 +1,242 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": " CCC Intelligent Solutions",
+    "id": "05cc6b19-1ebc-4435-b908-56f4805a54d3",
+    "title": "Data Science Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786550080,
+    "date_posted": 1786492800,
+    "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "98803f68-563e-4966-9b99-92606c5b702e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786549177,
+    "date_posted": 1786492800,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Tower Research Capital",
+    "id": "cd194423-9eab-40c1-90e6-bcf43cbdc91e",
+    "title": "Quantitative Research Intern - Central Execution Research",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786546833,
+    "date_posted": 1786546744,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "bbd533a0-34b2-491f-a386-2c10df203595",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786545181,
+    "date_posted": 1786545122,
+    "url": "https://lifeattiktok.com/search/7672562486917286149",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "37258bf6-9a8c-4245-bc45-0fb8e73fecca",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786545181,
+    "date_posted": 1786545121,
+    "url": "https://lifeattiktok.com/search/7672883129493948677",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "0e6104ee-b59a-435c-af2d-24c7e880c109",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786545181,
+    "date_posted": 1786545122,
+    "url": "https://lifeattiktok.com/search/7672569081632229685",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
+    "title": "Product Manager Intern - Commerce Ads",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786545181,
+    "date_posted": 1786545123,
+    "url": "https://lifeattiktok.com/search/7672557943224961333",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "baeedb05-7415-43b1-a352-ff0efdc23b6b",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786545181,
+    "date_posted": 1786545120,
+    "url": "https://lifeattiktok.com/search/7672920375646488885",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786545181,
+    "date_posted": 1786545121,
+    "url": "https://lifeattiktok.com/search/7672881840860940597",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Felix Magazine",
     "id": "e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
@@ -2635,7 +2871,7 @@
     "company_name": "PEAK6",
     "id": "fa275c09-336d-4067-ad94-70cbcecb4ed9",
     "title": "Trading Bootcamp Micro-Internship - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7454,7 +7690,7 @@
     "company_name": "Swift",
     "id": "af0010c7-8bfd-4664-aa13-4626a4140ee2",
     "title": "Industry Engagement Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10901,7 +11137,7 @@
     "company_name": "Cloudflare",
     "id": "dd4ec464-8abe-43b9-a5a9-cffa389440f6",
     "title": "Marketing Programs and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -15354,7 +15590,7 @@
     "company_name": "American Electric Power",
     "id": "8f3f9db3-31c7-4d2e-aeb1-91b3181c670b",
     "title": "GIS Technician",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -19416,7 +19652,7 @@
     "company_name": "CVS Health",
     "id": "229ace69-8177-42cc-a85f-c0517803f03b",
     "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -34603,7 +34839,7 @@
     "company_name": "McKesson",
     "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
     "title": "AI & Strategic Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -50889,7 +51125,7 @@
     "company_name": "Baker Hughes",
     "id": "fb992b23-820c-466a-a892-242e64f92f4a",
     "title": "Mechanical Production Engineering Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -339793,178 +340029,6 @@
       "Allentown, PA"
     ],
     "company_url": "https://simplify.jobs/c/Air-Products",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ripple",
-    "id": "338d7a6a-d9e4-48c2-95df-b839a254e57e",
-    "title": "Data Scientist Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765817229,
-    "date_posted": 1765817229,
-    "url": "https://ripple.com/careers/all-jobs/job/7467052?gh_jid=7467052",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Ripple",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tiffany & Co.",
-    "id": "ff70025e-1d1b-48be-aa05-99ac8c9b6f19",
-    "title": "Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765815999,
-    "date_posted": 1765815999,
-    "url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/62240",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Tiffany-And-Co",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Tiffany & Co.",
-    "id": "190ee7db-9989-49ec-922f-a0ed12922f0f",
-    "title": "Software Development Intern - Software Developer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765815996,
-    "date_posted": 1765815996,
-    "url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/62228",
-    "locations": [
-      "Parsippany-Troy Hills, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Tiffany-And-Co",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Tiffany & Co.",
-    "id": "9a54d2c2-439e-44d3-bc3f-8231d3c50413",
-    "title": "Internship - Product Development - Home & Accessories",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025"
-    ],
-    "date_updated": 1765815995,
-    "date_posted": 1765815995,
-    "url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/62199",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Tiffany-And-Co",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tiffany & Co.",
-    "id": "ce6358f9-7b77-46e5-85fd-20409ac99159",
-    "title": "Graduate/MBA Internship - Pricing Analytics",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765815438,
-    "date_posted": 1765815438,
-    "url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/62242",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Tiffany-And-Co",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Tiffany & Co.",
-    "id": "e3b539e1-45c3-4811-86f1-080d73e220aa",
-    "title": "Intern - IT Integrations",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765815431,
-    "date_posted": 1765815431,
-    "url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/62232",
-    "locations": [
-      "Parsippany-Troy Hills, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Tiffany-And-Co",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Wellmark",
-    "id": "096d5a5e-7b8e-43b8-994d-698d50714d6f",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765815373,
-    "date_posted": 1765815373,
-    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000098956137",
-    "locations": [
-      "Des Moines, IA"
-    ],
-    "company_url": "https://simplify.jobs/c/Wellmark",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

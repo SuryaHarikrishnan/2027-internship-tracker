@@ -1,9 +1,12 @@
-# Product Management (59)
+# Product Management (62)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7672557943224961333) | Product Manager Intern - Commerce Ads | San Jose, CA | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7672562486917286149) | Product Manager Intern - Ads Interface and Platform | San Jose, CA | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7672569081632229685) | Product Manager Intern - Ads Interface and Platform | Seattle, WA | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670529537944766773) | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [OpusClip](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true) | AI Product Management Intern | Mountain View, CA | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
 | [Mujin](https://mujin.bamboohr.com/careers/168/) | Product Development Intern - Spring 2027 | Suwanee, GA | Spring 2027 | 2026-08-10 | 2 | simplify-2026 |

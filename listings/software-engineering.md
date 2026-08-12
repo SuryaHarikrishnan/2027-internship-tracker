@@ -1,4 +1,4 @@
-# Software Engineering (469)
+# Software Engineering (470)
 
 [← back to index](../README.md)
 
@@ -7,6 +7,7 @@
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | Web Developer/Programmer Intern | Chicago, IL | Fall 2026 | 2026-08-12 | 0 | simplify-2026 |
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884) | Web Developer/Programmer Intern | LA | Fall 2026 | 2026-08-12 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/279600) | Software Engineer Intern - AI Inference Co Design | Palo Alto, CA | Fall 2026, Winter 2027 | 2026-08-12 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160) | Software Engineer Intern | Huntsville, AL | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
 | [PathAI](https://www.pathai.com/careers/8623056002?gh_jid=8623056002) | Software Engineer Co-op | Boston, MA | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
 | [Sentry](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true) | Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [Foxconn Industrial Internet](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern) | Software Engineer Intern - Engineering and Operations | Houston, TX | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
