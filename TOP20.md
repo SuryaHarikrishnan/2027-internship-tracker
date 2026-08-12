@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-05-09 (95d ago) | [Apply](https://www.workatastartup.com/jobs/94400) |
 
 ---
-*Generated 2026-08-12 09:51 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-12 14:15 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

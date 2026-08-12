@@ -1077,7 +1077,7 @@
     "company_name": "Analytic Partners",
     "id": "d94fdfc5-eb6a-4d86-9548-af67b0732bd1",
     "title": "Software Engineer Co-op - Mcgill University",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -1611,7 +1611,7 @@
     "company_name": "Truist Bank",
     "id": "a73a78fc-c2c9-4dac-84b6-3d7d8f0702c5",
     "title": "Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3513,7 +3513,7 @@
     "company_name": "Sony Music Entertainment",
     "id": "4ff7c715-a529-4fd1-b03a-7e208e1721da",
     "title": "Insight & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5987,7 +5987,7 @@
     "company_name": "KBR",
     "id": "65168593-c923-4365-b58a-af70c7f8c6cd",
     "title": "Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -8693,7 +8693,7 @@
     "company_name": "The Federal Reserve System",
     "id": "1924d443-3b61-47d4-addf-d6db4308935b",
     "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -12705,7 +12705,7 @@
     "company_name": "ByteDance",
     "id": "77635c2b-1d19-49ef-8d73-5ade973c99b2",
     "title": "Research Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13288,7 +13288,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -19495,7 +19495,7 @@
     "company_name": "Canadian Tire",
     "id": "28a39a26-10ea-4b63-8937-ec8a232212ed",
     "title": "AI Enablement Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -20957,7 +20957,7 @@
     "company_name": "Deloitte",
     "id": "4b79443f-64b0-4381-aa54-5febee12149d",
     "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -28629,7 +28629,7 @@
     "company_name": "Ambarella",
     "id": "736a514c-c180-47cd-9b72-e9b5613e1d6e",
     "title": "DFT Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -34603,7 +34603,7 @@
     "company_name": "McKesson",
     "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
     "title": "AI & Strategic Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -46575,7 +46575,7 @@
     "company_name": "Copart",
     "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
     "title": "Database Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -54523,7 +54523,7 @@
     "company_name": "TikTok",
     "id": "a2690da9-8ffe-49b7-8e47-3db840df7b79",
     "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -339965,54 +339965,6 @@
       "Des Moines, IA"
     ],
     "company_url": "https://simplify.jobs/c/Wellmark",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Sentra",
-    "id": "c0889bab-514f-47a9-a154-15c018a7b934",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765793719,
-    "date_posted": 1765793719,
-    "url": "https://jobs.ashbyhq.com/sentra/eb51547f-e234-42f7-ab75-ab93717579d9/application",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Sentra",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Microsoft",
-    "id": "b807a658-19b9-436b-a6ac-ecee9852a938",
-    "title": "Software Engineer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765793610,
-    "date_posted": 1765793610,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641809",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

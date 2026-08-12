@@ -1,4 +1,4 @@
-# Software Engineering (470)
+# Software Engineering (469)
 
 [← back to index](../README.md)
 
@@ -15,7 +15,6 @@
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) | Software Engineer Intern | NYC | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [CMiC](https://apply.workable.com/cmic/j/63A27830D0/apply) | Software Engineer Co-op | Toronto, ON, Canada | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7672386983965100341/detail) | Software Engineer Intern - AML-Engine-Orchestration | Seattle, WA | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
-| [Analytic Partners](https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54/apply) | Software Engineer Co-op - Mcgill University | Miami, FL | Winter 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | Software Engineer Intern | NYC | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | Software Engineer Intern - DV Commodities | London, UK | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [Caddi Workflow Automation](https://apply.workable.com/trycaddi/j/9D1291C697/apply) | Software Engineer Intern | Seattle, WA | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
@@ -81,7 +80,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7668464504736876853/detail) | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | San Jose, CA | Summer 2027 | 2026-08-06 | 6 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670354329765464373/detail) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA | Summer 2027 | 2026-08-06 | 6 | simplify-2026 |
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385) | Application Engineering Intern | San Ramon, CA | Fall 2026 | 2026-08-06 | 6 | simplify-2026 |
-| [KBR](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) | Software Intern | Houston, TX | Fall 2026 | 2026-08-06 | 6 | simplify-2026 |
 | [Roblox](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | Software Engineer Intern | San Mateo, CA | Summer 2027 | 2026-08-05 | 7 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Gulf Management](https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern) | Software Engineer & Business Systems Intern | Covington, LA | Fall 2026 | 2026-08-05 | 7 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512) | Thermal Application Engineer Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-05 | 7 | simplify-2026 |
@@ -293,6 +291,7 @@
 | [RFCUNY](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Fullstack-Web-Development-Peer-Tutor_JR2051) | Fullstack Web Development Peer Tutor | NYC | N/A | 2026-06-25 | 48 | simplify-2026 |
 | [Binance](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application) | Software Engineer Intern | Remote in USA | Summer 2026 | 2026-06-25 | 48 | simplify-2026 |
 | [AfterQuery](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application) | Software Engineer Intern | SF | Summer 2026 | 2026-06-24 | 49 | simplify-2026 |
+| [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | Database Engineer Intern | Dallas, TX | Summer 2026 | 2026-06-24 | 49 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/274754) | Product Management Intern - Product Engineer - Applications Engineering | Fremont, CA | Fall 2026 | 2026-06-24 | 49 | simplify-2026 |
 | [Markem-Imaje](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) | Software Engineer Intern | Keene, NH | Fall 2026 | 2026-06-24 | 49 | simplify-2026 |
 | [HARMAN](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931) | Intern – Software Engineering | Sunnyvale, CA | Summer 2026, Fall 2026 | 2026-06-24 | 49 | simplify-2026 |
