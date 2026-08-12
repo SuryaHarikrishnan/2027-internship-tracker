@@ -1,4 +1,4 @@
-# Quantitative Finance (134)
+# Quantitative Finance (133)
 
 [← back to index](../README.md)
 
@@ -11,7 +11,6 @@
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | Data Trading Analyst Intern | NYC | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [ConocoPhillips](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | Trading Analytics Intern | Houston, TX | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | Quantitative Analyst Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-08-11 | 1 | simplify-2026 |
-| [Truist Bank](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | Analyst Intern - Equity Research - Sales, Trading & Research | NYC, Atlanta, GA | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
 | [Truist Bank](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) | Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program | NYC | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
 | [ExxonMobil](https://jobs.exxonmobil.com/job/Spring-Students-Seeking-InternshipCo-op-Opportunities-in-Trading-TX-77389/1417886900/?ats=successfactors) | Trading Intern/Co-op | Spring, TX | Summer 2026 | 2026-08-10 | 2 | simplify-2026 |
 | [Montenson](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | Investment Analyst Intern | Minnesota | Summer 2027 | 2026-08-10 | 2 | simplify-2026 |

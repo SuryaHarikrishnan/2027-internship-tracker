@@ -1,4 +1,4 @@
-# Hardware Engineering (190)
+# Hardware Engineering (189)
 
 [← back to index](../README.md)
 
@@ -193,4 +193,3 @@
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007) | Formal Verification Intern | Austin, TX | Summer 2026 | 2026-01-16 | 208 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | Embedded Software Developer – Network/Payload Software Intern | SF | Fall 2026 | 2025-12-31 | 224 | simplify-2026 |
 | [Capella](https://www.capellaspace.com/company/apply?gh_jid=5737184004) | Flight Software Engineering Intern | Louisville, CO | Summer 2026 | 2025-12-16 | 239 | simplify-2026 |
-| [Capella](https://www.capellaspace.com/company/apply?gh_jid=5735295004) | Flight Software Engineering Intern | San Francisco, CA | Summer 2026 | 2025-12-15 | 240 | simplify-2026 |
