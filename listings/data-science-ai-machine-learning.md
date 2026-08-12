@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (571)
+# Data Science, AI & Machine Learning (569)
 
 [← back to index](../README.md)
 
@@ -9,6 +9,7 @@
 | [TikTok](https://lifeattiktok.com/search/7672920375646488885) | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944) | Database Coordinator Volunteer/Intern | Chicago, IL | Fall 2026 | 2026-08-12 | 0 | simplify-2026 |
 | [Léger](https://jobs.smartrecruiters.com/Leger2/744000141569336) | Research Intern | Toronto, ON, Canada | Fall 2026 | 2026-08-12 | 0 | simplify-2026 |
+| [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) | Surface Scientist Intern - Corporate Labs | Boise, ID | Fall 2026 | 2026-08-12 | 0 | simplify-2026 |
 | [ CCC Intelligent Solutions](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843) | Data Science Engineer Intern | Chicago, IL | Fall 2026 | 2026-08-12 | 0 | simplify-2026 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5386220008) | Platform & AI Pre-Engineer | Washington, DC | N/A | 2026-08-11 | 1 | simplify-2026 |
 | [Foxconn Industrial Internet](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern) | Data Visualization & Analytics Intern - Engineering | Houston, TX | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
@@ -99,7 +100,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7670317975513794869/detail) | Student Researcher - Compiler - Seed Infra | San Jose, CA | N/A | 2026-08-05 | 7 | simplify-2026 |
 | [OLG](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) | Risk Monitoring and Intervention Student - Safer Gambling | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | N/A | 2026-08-05 | 7 | simplify-2026 |
 | [Ameren](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Coop_033877-1) | Data Analytics Co-op | St. Louis, MO | Spring 2027 | 2026-08-05 | 7 | simplify-2026 |
-| [General Dynamics Information Technology](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | Artificial Intelligence/Machine Learning Intern | Falls Church, VA | Summer 2026 | 2026-08-05 | 7 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/o6OAAfwO?nl=1&nl=1&fr=false) | Data Analyst Intern - Power - Emerging Talent | NYC | Fall 2026 | 2026-08-04 | 8 | simplify-2026 |
 | [ITT](https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false) | Trade & Supply Chain Data Analytics Co-op | Orchard Park, NY | Fall 2026, Spring 2027 | 2026-08-04 | 8 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5/apply) | Triage Student Worker - ASTE | Foster City, CA | N/A | 2026-08-04 | 8 | simplify-2026 |
@@ -223,7 +223,6 @@
 | [Brandeis University](https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Temporary-Research-Assistant---School-of-Business-and-Economics--2026_R0013392-1) | Research Assistant - School of Business and Economics | Waltham, MA | N/A | 2026-07-23 | 20 | simplify-2026 |
 | [Warner Bros.](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) | Research, Analytics & Strategy Intern | NYC | Fall 2026 | 2026-07-23 | 20 | simplify-2026 |
 | [Warner Bros.](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) | Sports Growth Strategy and Data Intern | Atlanta, GA | Fall 2026 | 2026-07-23 | 20 | simplify-2026 |
-| [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq) | Data Analytics Intern | El Segundo, CA | Fall 2026 | 2026-07-22 | 21 | simplify-2026 |
 | [OpusClip](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true) | AI Research Intern | Mountain View, CA | Fall 2026 | 2026-07-22 | 21 | simplify-2026 |
 | [Adtheorant](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) | Enterprise AI Intern | NYC | Fall 2026 | 2026-07-22 | 21 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/54120/job?mobile=true&needsRedirect=false) | AI Engineering Co-op | Richardson, TX | Fall 2026 | 2026-07-22 | 21 | simplify-2026 |
@@ -461,7 +460,6 @@
 | [Everstream Analytics](https://everstream.ai/careers/jobs/?gh_jid=5991766004) | Intelligence Solutions Intern | Remote in USA | Summer 2026 | 2026-05-08 | 96 | simplify-2026 |
 | [Cresta](https://job-boards.greenhouse.io/cresta/jobs/5213417008) | Data Science Intern - Customer Success | Remote in USA | Summer 2026 | 2026-05-07 | 97 | simplify-2026 |
 | [Cole Engineering Services](https://jobs-cesi.icims.com/jobs/10965/ai-intern/job) | AI Intern | Hanover, MD | Summer 2026 | 2026-05-07 | 97 | simplify-2026 |
-| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Intern_REQ_0000077386-1) | Research Intern | State College, PA | Summer 2026 | 2026-05-06 | 98 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/24536664159369645) | Research Scientist Intern - Language & Multimodal Foundations | Seattle, WA, Menlo Park, CA, NYC | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-05-05 | 99 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1) | CSE Researcher-Narayanan Intern - V | State College, PA | N/A | 2026-05-04 | 100 | simplify-2026 |
 | [Geisinger](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Wilkes-Barre-PA/GME-Analytics---Dashboard-Development-Intern_R-95692) | GME Analytics & Dashboard Development Intern | Wilkes-Barre, PA | Summer 2026 | 2026-05-01 | 103 | simplify-2026 |

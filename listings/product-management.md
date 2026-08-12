@@ -1,9 +1,12 @@
-# Product Management (62)
+# Product Management (64)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | IT Systems Product Management Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Product Management Intern - MBA - Power Solutions & Distribution | Delaware, OH | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | Product Management Intern | Delaware, OH | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7672557943224961333) | Product Manager Intern - Commerce Ads | San Jose, CA | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7672562486917286149) | Product Manager Intern - Ads Interface and Platform | San Jose, CA | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7672569081632229685) | Product Manager Intern - Ads Interface and Platform | Seattle, WA | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
@@ -63,6 +66,5 @@
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718) | New Product Development Intern | Charlotte, NC | Summer 2026 | 2026-05-16 | 88 | simplify-2026 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | Technology Product Analyst Intern | Dallas, TX | Summer 2026 | 2026-03-23 | 142 | simplify-2026 |
 | [Creatify Lab ](https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application) | Product Manager | Mountain View, CA | Summer 2026 | 2026-03-05 | 160 | simplify-2026 |
-| [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | Summer 2026 | 2026-03-04 | 161 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/8ec77cd6-e731-44be-bb58-5ef4fb0314de/application) | Tech Internship | NYC | Summer 2026, Fall 2025 | 2026-01-22 | 202 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646448006) | Fall 2026: Product Development Co-op - Shark - July to December | Needham, MA | Fall 2026 | 2026-01-21 | 203 | simplify-2026 |

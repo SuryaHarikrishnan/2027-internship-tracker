@@ -1,9 +1,10 @@
-# Hardware Engineering (187)
+# Hardware Engineering (188)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TMEIC Corporation Americas](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) | Engineer Intern - Spring 2027 | Houston, TX | Summer 2027 | 2026-08-12 | 0 | simplify-2026 |
 | [Advanced Energy](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Fall-2026-CO-80525/1418389400/?ats=successfactors) | Firmware Engineer Intern - Fall 2026 | Fort Collins, CO | Summer 2026 | 2026-08-11 | 1 | simplify-2026 |
 | [SkyGig](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | RFIC Design Intern | San Jose, CA | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
 | [OceanComm](https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply) | Electronics Technician Intern | Chicago, IL | Fall 2026 | 2026-08-11 | 1 | simplify-2026 |
