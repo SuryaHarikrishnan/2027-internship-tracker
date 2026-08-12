@@ -190,50 +190,42 @@ def write_listings(listings, fetched_sources):
         stale.unlink()
 
     index = [
-        "# Internship Tracker — Summer 2026 & Summer 2027 Internships + New Grad Jobs\n",
-        "A daily-updated, deduplicated list of **software engineering, AI/ML, data science, "
-        "hardware, quant, and product internships and new grad roles**, aggregated from "
-        "multiple community-maintained sources into one place, browsable by category.\n",
-        "If you're searching for a **Summer 2027 internships GitHub repo**, a "
-        "**Summer 2026 internships tracker**, or a **new grad software engineering jobs list**, "
-        "this aggregates several of those trackers so you don't have to check each one.\n",
-        "⭐ **Star this repo** to stay current — listings refresh 5× a day. "
-        "**Fork it** to get your own personal application tracker alongside the listings.\n",
-        "📋 **[Today's Top 20 picks →](TOP20.md)** — highest-signal companies with fresh openings, updated every refresh.\n",
-        "## Track your own applications, not just browse listings\n",
-        "Most listing repos stop at the list. This one also gives you a personal application "
-        "tracker that lives next to the data:\n",
+        "# Internship Tracker — Find Jobs and Track Your Applications in One Place\n",
+        "![demo](assets/demo.svg)\n",
+        "> **Fork this repo** to get your own copy -- the listings refresh automatically "
+        "via GitHub Actions every day, no setup needed.\n",
+        "Most internship repos give you a list and stop there. This one also tracks "
+        "**where you applied, when, and how long ago** -- so nothing falls through the cracks.\n",
         "```bash\n"
-        "git clone https://github.com/YOUR_USERNAME/internship-tracker  # fork first\n"
-        "cd internship-tracker\n"
-        "python scripts/track.py add \"Stripe\" \"SWE Intern\" \"2026-06-29\" \"Applied\"\n"
-        "python scripts/track.py render  # regenerates APPLICATIONS.md\n"
+        "# after forking:\n"
+        "python scripts/track.py add \"Stripe\" \"SWE Intern\" \"2026-08-11\" \"Applied\"\n"
+        "python scripts/track.py add \"OpenAI\" \"SWE Intern\" \"2026-08-09\" \"OA Received\"\n"
+        "python scripts/track.py update 1 \"Interviewed\"\n"
+        "python scripts/track.py render\n"
         "```\n",
-        "[APPLICATIONS.md](APPLICATIONS.md) gets a *days-since-applied* column automatically "
-        "so you can see what's gone quiet. The daily listings refresh runs via GitHub Actions "
-        "on any fork — no local machine needed. See [USAGE.md](USAGE.md) for full details.\n",
-        "## How this works\n",
-        "A script runs 5× per day, pulls the latest active listings from the source repos, "
-        "merges and deduplicates them by company + role + location, and updates: "
-        "this index, the per-category files in [`listings/`](listings/), and a daily "
-        "diff in [`digests/`](digests/) showing what's new and what closed. "
-        "See [ATTRIBUTION.md](ATTRIBUTION.md) for source credits and "
-        "[CONTRIBUTING.md](CONTRIBUTING.md) to add new sources.\n",
+        "Your [APPLICATIONS.md](APPLICATIONS.md) stays updated with a **days-since-applied** "
+        "column -- see at a glance what you applied to, what stage it's at, "
+        "and what's gone quiet long enough to follow up on.\n",
+        "**[Fork this repo to start tracking →](https://github.com/SuryaHarikrishnan/"
+        "internship-tracker/fork)**\n",
+        "---\n",
+        "## Today's listings\n",
+        "📋 **[Top 20 picks for today →](TOP20.md)** -- highest-signal companies with fresh "
+        "openings, updated 5x per day. Includes a dedicated YC startup section.\n",
+        f"**{len(active)} active listings** across {len(by_category)} categories, "
+        f"refreshed {refreshed_at}. Aggregated from {', '.join(fetched_sources) or 'cache'} "
+        f"(deduplicated by company + role + location).\n",
+        "| Category | Active listings |",
+        "|---|---|",
     ]
-    index.append(
-        f"Last refreshed: **{refreshed_at}**. "
-        f"Sources: {', '.join(fetched_sources) or 'none (cached)'}.\n"
-    )
-    index.append(
-        f"**Active listings: {len(active)}** (of {len(listings)} total seen across all sources)\n"
-    )
-    index.append("See [APPLICATIONS.md](APPLICATIONS.md) for personal application tracking.\n")
-    index.append("\n## Browse by category\n")
-    index.append("| Category | Active listings |")
-    index.append("|---|---|")
     for cat, slug, count in category_links:
         index.append(f"| [{cat}](listings/{slug}.md) | {count} |")
-    index.append(f"\n---\n*Listings data sourced from community trackers — see [ATTRIBUTION.md](ATTRIBUTION.md)*")
+    index.append(
+        "\n---\n"
+        "See [ATTRIBUTION.md](ATTRIBUTION.md) for source credits, "
+        "[CONTRIBUTING.md](CONTRIBUTING.md) to add sources, "
+        "[USAGE.md](USAGE.md) for script reference."
+    )
 
     (ROOT / "README.md").write_text("\n".join(index) + "\n", encoding="utf-8")
 

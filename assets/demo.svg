@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 408" width="760" height="408" role="img" aria-label="Demo of the internship tracker CLI">
+  <style>
+    @keyframes l1 {
+      0%          { opacity: 0; }
+      1%, 78%     { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l2 {
+      0%, 7%      { opacity: 0; }
+      8%, 78%     { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l3 {
+      0%, 15%     { opacity: 0; }
+      16%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l4 {
+      0%, 23%     { opacity: 0; }
+      24%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l5 {
+      0%, 30%     { opacity: 0; }
+      31%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l6 {
+      0%, 37%     { opacity: 0; }
+      38%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l7 {
+      0%, 42%     { opacity: 0; }
+      43%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l8 {
+      0%, 47%     { opacity: 0; }
+      48%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l9 {
+      0%, 49%     { opacity: 0; }
+      50%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l10 {
+      0%, 51%     { opacity: 0; }
+      52%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes l11 {
+      0%, 54%     { opacity: 0; }
+      55%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    @keyframes cursor {
+      0%, 49%     { opacity: 0; }
+      50%, 60%    { opacity: 1; }
+      61%, 70%    { opacity: 0; }
+      71%, 78%    { opacity: 1; }
+      88%, 100%   { opacity: 0; }
+    }
+    .line { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 13px; }
+    .cmd  { fill: #E6EDF3; }
+    .prompt { fill: #3FB950; }
+    .out  { fill: #79C0FF; }
+    .hdr  { fill: #E3B341; }
+    .dim  { fill: #8B949E; }
+    .row  { fill: #E6EDF3; }
+  </style>
+
+  <!-- window chrome -->
+  <rect width="760" height="408" rx="10" fill="#161B22"/>
+  <rect y="40" width="760" height="368" fill="#0D1117"/>
+  <rect y="40" width="760" height="1" fill="#30363D"/>
+
+  <!-- traffic lights -->
+  <circle cx="24" cy="20" r="6" fill="#FF5F57"/>
+  <circle cx="44" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="20" r="6" fill="#28CA41"/>
+
+  <!-- window title -->
+  <text x="380" y="25" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8B949E" text-anchor="middle">internship-tracker -- bash</text>
+
+  <!-- line 1: command 1 -->
+  <g style="animation: l1 13s ease infinite;">
+    <text x="20" y="74" class="line prompt">$</text>
+    <text x="32" y="74" class="line cmd"> python scripts/track.py add "Stripe" "SWE Intern" "2026-08-11" "Applied"</text>
+  </g>
+
+  <!-- line 2: output 1 -->
+  <text x="20" y="96" class="line out" style="animation: l2 13s ease infinite;">Added Stripe - SWE Intern</text>
+
+  <!-- line 3: command 2 -->
+  <g style="animation: l3 13s ease infinite;">
+    <text x="20" y="122" class="line prompt">$</text>
+    <text x="32" y="122" class="line cmd"> python scripts/track.py add "OpenAI" "SWE Intern" "2026-08-09" "OA Received"</text>
+  </g>
+
+  <!-- line 4: output 2 -->
+  <text x="20" y="144" class="line out" style="animation: l4 13s ease infinite;">Added OpenAI - SWE Intern</text>
+
+  <!-- line 5: command 3 -->
+  <g style="animation: l5 13s ease infinite;">
+    <text x="20" y="170" class="line prompt">$</text>
+    <text x="32" y="170" class="line cmd"> python scripts/track.py render</text>
+  </g>
+
+  <!-- line 6: output 3 -->
+  <text x="20" y="192" class="line out" style="animation: l6 13s ease infinite;">Rendered APPLICATIONS.md</text>
+
+  <!-- line 7: section header -->
+  <text x="20" y="220" class="line hdr" style="animation: l7 13s ease infinite;"># My Applications</text>
+
+  <!-- line 8: table header -->
+  <text x="20" y="248" class="line dim" style="animation: l8 13s ease infinite;">| # | Company  | Role       | Date Applied | Days Old | Status       |</text>
+
+  <!-- line 9: table separator -->
+  <text x="20" y="268" class="line dim" style="animation: l9 13s ease infinite;">|---|----------|------------|--------------|----------|--------------|</text>
+
+  <!-- line 10: row 1 -->
+  <text x="20" y="288" class="line row" style="animation: l10 13s ease infinite;">| 0 | Stripe   | SWE Intern | 2026-08-11   |    0     | Applied      |</text>
+
+  <!-- line 11: row 2 -->
+  <text x="20" y="308" class="line row" style="animation: l11 13s ease infinite;">| 1 | OpenAI   | SWE Intern | 2026-08-09   |    2     | OA Received  |</text>
+
+  <!-- blinking cursor after table -->
+  <rect x="20" y="320" width="8" height="14" fill="#3FB950" rx="1" style="animation: cursor 13s ease infinite;"/>
+</svg>
