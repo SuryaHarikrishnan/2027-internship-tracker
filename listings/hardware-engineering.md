@@ -1,9 +1,10 @@
-# Hardware Engineering (190)
+# Hardware Engineering (189)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Specter Aerospace](https://specteraerospace.bamboohr.com/careers/119/) | Embedded Software Co-op | Boston, MA | Spring 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [TMEIC Corporation Americas](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) | Engineer Intern - Spring 2027 | Houston, TX | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | Software Engineering Intern - Summer 2027 | Cedar Rapids, IA | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [Advanced Energy](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Fall-2026-CO-80525/1418389400/?ats=successfactors) | Firmware Engineer Intern - Fall 2026 | Fort Collins, CO | Summer 2026 | 2026-08-11 | 2 | simplify-2026 |
@@ -68,7 +69,6 @@
 | [Terranova](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da/application?embed=true) | Embedded Systems Intern | Berkeley, CA | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
 | [Odin Dynamics, Inc](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) | Engineering Intern | LA | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | Software Engineer Intern | Edinburgh, UK | Summer 2027 | 2026-07-21 | 23 | simplify-2026 |
-| [Telesat](https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/apply) | User Terminal Engineering Co-op | Ottawa, ON, Canada | Fall 2026 | 2026-07-20 | 24 | simplify-2026 |
 | [Arlo Technologies](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401) | Hardware Engineer Co-op | Richmond, BC, Canada | Fall 2026 | 2026-07-17 | 27 | simplify-2026 |
 | [Nidec](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732) | Test Lab Engineer Co-op | St. Louis, MO | Fall 2026 | 2026-07-17 | 27 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/276987) | Energy Battery Firmware Intern - Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-16 | 28 | simplify-2026 |
@@ -151,7 +151,6 @@
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | Software Engineer Intern | United States | Summer 2026 | 2026-05-23 | 82 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105) | Mixed Signal Engineer Intern | United States | Summer 2026 | 2026-05-23 | 82 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | Verification Engineer Intern | United States | Fall 2026 | 2026-05-23 | 82 | simplify-2026 |
-| [Quadric](https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply) | AI Kernel Engineer Intern - Kernel Optimization | Burlingame, CA | Summer 2026 | 2026-05-22 | 83 | simplify-2026 |
 | [ MAG Aerospace](https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false) | Systems Analyst Apprentice | California | Summer 2026 | 2026-05-22 | 83 | simplify-2026 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475) | Product Engineering Intern - Simulation and Verification | Burlington, MA | Summer 2026 | 2026-05-22 | 83 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663968) | Undergrad Engineering Intern | United States | Summer 2026 | 2026-05-22 | 83 | simplify-2026 |

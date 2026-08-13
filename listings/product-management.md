@@ -1,9 +1,11 @@
-# Product Management (63)
+# Product Management (65)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Tuckernuck](https://tnuck.bamboohr.com/careers/273/) | Product Management Intern | Washington, DC | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7669705525866383621) | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | IT Systems Product Management Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Product Management Intern - MBA - Power Solutions & Distribution | Delaware, OH | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | Product Management Intern | Delaware, OH | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |

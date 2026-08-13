@@ -1,9 +1,14 @@
-# Quantitative Finance (136)
+# Quantitative Finance (141)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Picton Mahoney Asset Management](https://pictonmahoney.bamboohr.com/careers/350/) | Quantitative Research & Risk Intern | Toronto, ON, Canada | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
+| [VWH Capital Management](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | Quantitative Researcher Intern | Dallas, TX | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
+| [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000141124349) | Quantitative Analytics Development Program Intern | SF | N/A | 2026-08-13 | 0 | simplify-2026 |
+| [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) | Investment Analyst Intern | SF | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
+| [Wells Fargo](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) | Quantitative Analytics Intern - Capital Markets - Masters | Charlotte, NC | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | Trading Intern | London, UK | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8113986) | Quantitative Research Intern - Central Execution Research | London, UK | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
 | [Northwestern Mutual](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | Quantitative Analyst Intern - Public Investments | Milwaukee, WI | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
