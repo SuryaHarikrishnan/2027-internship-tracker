@@ -82,7 +82,7 @@
   <circle cx="64" cy="20" r="6" fill="#28CA41"/>
 
   <!-- window title -->
-  <text x="380" y="25" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8B949E" text-anchor="middle">internship-tracker -- bash</text>
+  <text x="380" y="25" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8B949E" text-anchor="middle">2027-internship-tracker -- bash</text>
 
   <!-- line 1: command 1 -->
   <g style="animation: l1 13s ease infinite;">

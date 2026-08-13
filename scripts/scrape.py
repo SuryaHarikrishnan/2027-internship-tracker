@@ -190,31 +190,29 @@ def write_listings(listings, fetched_sources):
         stale.unlink()
 
     index = [
-        "# Internship Tracker — Find Jobs and Track Your Applications in One Place\n",
+        "# 2027 Internship Tracker\n",
         "![demo](assets/demo.svg)\n",
-        "> **Fork this repo** to get your own copy -- the listings refresh automatically "
-        "via GitHub Actions every day, no setup needed.\n",
-        "Most internship repos give you a list and stop there. This one also tracks "
-        "**where you applied, when, and how long ago** -- so nothing falls through the cracks.\n",
+        "**Summer 2026 and Summer 2027 SWE, AI/ML, Quant, Hardware, and PM internship listings "
+        "-- plus a built-in application tracker so you know where you applied, "
+        "when, and how long ago.**\n",
+        "Most internship repos stop at the list. Fork this one and you also get:\n",
+        "- A personal tracker that lives next to the listings\n"
+        "- A `days-since-applied` column so nothing goes quiet without you noticing\n"
+        "- Daily Top 20 picks ranked by freshness + company signal + YC batch\n"
+        "- Listings that refresh 5x per day automatically via GitHub Actions -- no setup needed\n",
+        "**[Fork to start tracking your applications →]"
+        "(https://github.com/SuryaHarikrishnan/2027-internship-tracker/fork)**\n",
         "```bash\n"
-        "# after forking:\n"
         "python scripts/track.py add \"Stripe\" \"SWE Intern\" \"2026-08-11\" \"Applied\"\n"
-        "python scripts/track.py add \"OpenAI\" \"SWE Intern\" \"2026-08-09\" \"OA Received\"\n"
-        "python scripts/track.py update 1 \"Interviewed\"\n"
-        "python scripts/track.py render\n"
+        "python scripts/track.py update 0 \"Interviewed\"\n"
+        "python scripts/track.py render   # writes APPLICATIONS.md\n"
         "```\n",
-        "Your [APPLICATIONS.md](APPLICATIONS.md) stays updated with a **days-since-applied** "
-        "column -- see at a glance what you applied to, what stage it's at, "
-        "and what's gone quiet long enough to follow up on.\n",
-        "**[Fork this repo to start tracking →](https://github.com/SuryaHarikrishnan/"
-        "internship-tracker/fork)**\n",
         "---\n",
-        "## Today's listings\n",
-        "📋 **[Top 20 picks for today →](TOP20.md)** -- highest-signal companies with fresh "
-        "openings, updated 5x per day. Includes a dedicated YC startup section.\n",
-        f"**{len(active)} active listings** across {len(by_category)} categories, "
-        f"refreshed {refreshed_at}. Aggregated from {', '.join(fetched_sources) or 'cache'} "
-        f"(deduplicated by company + role + location).\n",
+        "## Listings\n",
+        f"**{len(active)} active listings** across {len(by_category)} categories. "
+        f"Last refreshed: {refreshed_at}.\n",
+        "Browse by category below, or go straight to "
+        "**[today's Top 20 picks](TOP20.md)**.\n",
         "| Category | Active listings |",
         "|---|---|",
     ]
@@ -222,9 +220,9 @@ def write_listings(listings, fetched_sources):
         index.append(f"| [{cat}](listings/{slug}.md) | {count} |")
     index.append(
         "\n---\n"
-        "See [ATTRIBUTION.md](ATTRIBUTION.md) for source credits, "
-        "[CONTRIBUTING.md](CONTRIBUTING.md) to add sources, "
-        "[USAGE.md](USAGE.md) for script reference."
+        "*Sources and credits: [ATTRIBUTION.md](ATTRIBUTION.md) -- "
+        "Scripts and usage: [USAGE.md](USAGE.md) -- "
+        "Add a source: [CONTRIBUTING.md](CONTRIBUTING.md)*"
     )
 
     (ROOT / "README.md").write_text("\n".join(index) + "\n", encoding="utf-8")
