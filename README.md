@@ -4,6 +4,8 @@
 
 **Summer 2026 and Summer 2027 SWE, AI/ML, Quant, Hardware, and PM internship listings -- plus a built-in application tracker so you know where you applied, when, and how long ago.**
 
+> Just here for the list? [Jump to listings](#listings)
+
 Most internship repos stop at the list. Fork this one and you also get:
 
 - A personal tracker that lives next to the listings
@@ -23,7 +25,7 @@ python scripts/track.py render   # writes APPLICATIONS.md
 
 ## Listings
 
-**1700 active listings** across 6 categories. Last refreshed: 2026-08-13 00:46 UTC.
+**1700 active listings** across 6 categories. Last refreshed: 2026-08-13 00:54 UTC.
 
 Browse by category below, or go straight to **[today's Top 20 picks](TOP20.md)**.
 

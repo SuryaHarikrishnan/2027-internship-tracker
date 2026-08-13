@@ -195,6 +195,7 @@ def write_listings(listings, fetched_sources):
         "**Summer 2026 and Summer 2027 SWE, AI/ML, Quant, Hardware, and PM internship listings "
         "-- plus a built-in application tracker so you know where you applied, "
         "when, and how long ago.**\n",
+        "> Just here for the list? [Jump to listings](#listings)\n",
         "Most internship repos stop at the list. Fork this one and you also get:\n",
         "- A personal tracker that lives next to the listings\n"
         "- A `days-since-applied` column so nothing goes quiet without you noticing\n"
