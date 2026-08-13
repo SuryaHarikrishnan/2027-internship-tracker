@@ -1,9 +1,10 @@
-# Hardware Engineering (189)
+# Hardware Engineering (190)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Tesla](https://www.tesla.com/careers/search/job/279991) | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | Spring 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [Specter Aerospace](https://specteraerospace.bamboohr.com/careers/119/) | Embedded Software Co-op | Boston, MA | Spring 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [TMEIC Corporation Americas](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) | Engineer Intern - Spring 2027 | Houston, TX | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | Software Engineering Intern - Summer 2027 | Cedar Rapids, IA | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |

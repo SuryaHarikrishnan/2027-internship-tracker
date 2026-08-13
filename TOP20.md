@@ -8,11 +8,11 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Tesla** | Software Engineer Intern - AI Inference Co Design | Palo Alto, CA | Fall 2026, Winter 2027 | 2026-08-12 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/279600) |
+| 1 | **Tesla** | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | Spring 2027 | 2026-08-13 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/279991) |
 | 2 | **Citadel** | Sector Data Scientist Intern | NYC | Summer 2027 | 2026-08-10 (3d ago) | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) |
 | 3 | **Figma** | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-10 (3d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004) |
-| 4 | **ByteDance** | Student Researcher - AI Foundation Model Infrastructure - Seed | San Jose, CA | N/A | 2026-08-13 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7673274430383032629/detail) |
-| 5 | **TikTok** | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Summer 2027 | 2026-08-13 (0d ago) | [Apply](https://lifeattiktok.com/search/7669705525866383621) |
+| 4 | **TikTok** | Data Science Intern - Advertisement Team | San Jose, CA | Summer 2027 | 2026-08-13 (0d ago) | [Apply](https://lifeattiktok.com/search/7673226686054107445) |
+| 5 | **ByteDance** | Student Researcher - AI Foundation Model Infrastructure - Seed | San Jose, CA | N/A | 2026-08-13 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7673274430383032629/detail) |
 | 6 | **Oracle** | Platform Software Engineer 1 Intern - Full-time Intern Conversion | United States | Fall 2026 | 2026-08-12 (1d ago) | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) |
 | 7 | **SpaceX** | Software Engineer Intern, Fleet Health Instrumentation | Remote |  | 2026-08-06 (7d ago) | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8621756002) |
 | 8 | **NVIDIA** | Software Engineering Intern, Dynamo | Santa Clara, CA |  | 2026-08-06 (7d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-05-09 (96d ago) | [Apply](https://www.workatastartup.com/jobs/94400) |
 
 ---
-*Generated 2026-08-13 07:04 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-13 09:51 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

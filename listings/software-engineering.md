@@ -1,4 +1,4 @@
-# Software Engineering (481)
+# Software Engineering (482)
 
 [← back to index](../README.md)
 
@@ -463,6 +463,7 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7595756835349973253/detail) | Software Engineer Intern - AI Infrastructure | San Jose, CA | Summer 2026 | 2026-02-13 | 181 | simplify-2026 |
 | [Fanatics](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727) | Collectibles - Software Engineer | NYC, LA, Coppell, TX | Summer 2026 | 2026-02-12 | 182 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran) | Software Development Engineer Intern - Military Veteran | NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY | Summer 2026 | 2026-02-11 | 183 | simplify-2026 |
+| [Exa Labs](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application) | Software Engineer Intern | SF | Summer 2026 | 2026-02-10 | 184 | simplify-2026 |
 | [Hunt Oil Company](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) | SAP BTP Application Developer Intern - Summer 2026 | Dallas, TX | Summer 2026 | 2026-02-09 | 185 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7600176309125466373/detail) | Software Engineer Project Intern - Security Engineering | San Jose, CA | Summer 2026 | 2026-02-07 | 187 | simplify-2026 |
 | [Dryft](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application) | Full-Stack Engineer Intern | SF | Summer 2026 | 2026-02-05 | 189 | simplify-2026 |

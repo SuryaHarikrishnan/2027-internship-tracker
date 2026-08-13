@@ -1,6 +1,58 @@
 [
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "f76334f0-b144-4ec8-9a36-f7bab853e4e7",
+    "title": "Firmware Engineer Intern - New Programs Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1786612888,
+    "date_posted": 1786612768,
+    "url": "https://www.tesla.com/careers/search/job/279991",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
+    "title": "Data Science Intern - Advertisement Team",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786612321,
+    "date_posted": 1786612217,
+    "url": "https://lifeattiktok.com/search/7673226686054107445",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "RRS Group",
     "id": "fba68433-d063-4d27-b298-93d1a9e5e965",
@@ -248214,7 +248266,7 @@
     "company_name": "Exa Labs",
     "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],

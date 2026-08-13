@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (581)
+# Data Science, AI & Machine Learning (582)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7673226686054107445) | Data Science Intern - Advertisement Team | San Jose, CA | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000130586249) | Data Engineering & Analytics Intern | SF | N/A | 2026-08-13 | 0 | simplify-2026 |
 | [BowerGroupAsia](https://bga.bamboohr.com/careers/152/) | Research Intern | Washington, DC | Summer 2026 | 2026-08-13 | 0 | simplify-2026 |
 | [Picton Mahoney Asset Management](https://pictonmahoney.bamboohr.com/careers/356/) | Business Data Analyst Intern | Toronto, ON, Canada | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
