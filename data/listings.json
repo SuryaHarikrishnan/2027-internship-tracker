@@ -2,6 +2,59 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Thales",
+    "id": "b924c54e-cf62-4ff0-94d6-7f0825398708",
+    "title": "Data Engineer Intern - Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1786653737,
+    "date_posted": 1786579200,
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Thales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Crowe",
+    "id": "6aeabe90-0f4e-41a7-98a2-cdb7fee43531",
+    "title": "AI Functional Intern - Consulting Practice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786652641,
+    "date_posted": 1786579200,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Delta Dental",
     "id": "b90b1f48-7c8c-4d10-889d-59e14160b61a",
     "title": "Knowledge Science Intern",
@@ -13923,7 +13976,7 @@
     "company_name": "SRI International",
     "id": "0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3",
     "title": "Embedded Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -31014,7 +31067,7 @@
     "company_name": "Bloxd",
     "id": "fc5686cd-7212-4d14-b8c4-20c9dfeb974d",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Summer 2027"
@@ -36495,7 +36548,7 @@
     "company_name": "National Laboratory of the Rockies",
     "id": "cbd572b1-88d5-4325-a534-e4b8b03290c6",
     "title": "Graduate Intern - Transportation Systems Analysis",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",

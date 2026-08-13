@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (574)
+# Data Science, AI & Machine Learning (575)
 
 [← back to index](../README.md)
 
@@ -12,6 +12,8 @@
 | [Specter Aerospace](https://specteraerospace.bamboohr.com/careers/121/) | Image Processing Co-op | Boston, MA | Spring 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7673274430383032629/detail) | Student Researcher - AI Foundation Model Infrastructure - Seed | San Jose, CA | N/A | 2026-08-13 | 0 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670364362450733317/detail) | Self-Built Engineer Intern - CDN Platform | San Jose, CA | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
+| [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1) | Data Engineer Intern - Student | Ottawa, ON, Canada | N/A | 2026-08-13 | 0 | simplify-2026 |
+| [Crowe](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008) | AI Functional Intern - Consulting Practice | Chicago, IL | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
 | [Delta Dental](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405) | Knowledge Science Intern | Okemos, MI | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
 | [Wells Fargo](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279) | Quantitative Analytics Intern - Multiple Teams | Charlotte, NC | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [Gartner](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297) | Data Analyst Intern | Irving, TX | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
@@ -294,7 +296,6 @@
 | [Rivian](https://careers.rivian.com/jobs/29851?icims=1) | Machine Learning Compiler Intern - Machine Learning Compiler | Urbana, IL | Fall 2026 | 2026-07-14 | 30 | simplify-2026 |
 | [Cooper Companies](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11901) | GPS Data Insights Specialist Intern | Whiteley, UK | N/A | 2026-07-14 | 30 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) | Data Engineering Intern | NYC | N/A | 2026-07-14 | 30 | simplify-2026 |
-| [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) | Graduate Intern - Transportation Systems Analysis | Golden, CO | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-07-14 | 30 | simplify-2026 |
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | AI & Strategic Analytics Intern | Mississauga, ON, Canada | Fall 2026 | 2026-07-14 | 30 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7977145) | Campus ML Research Engineer Intern | London, UK | Fall 2026 | 2026-07-13 | 31 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7975008) | Campus Data Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 31 | simplify-2026 |

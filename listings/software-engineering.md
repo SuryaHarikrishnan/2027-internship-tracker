@@ -1,4 +1,4 @@
-# Software Engineering (477)
+# Software Engineering (476)
 
 [← back to index](../README.md)
 
@@ -206,7 +206,6 @@
 | [Onware](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a) | Full Stack Developer-Intern Opportunity | Edmonton, AB, Canada | Summer 2026 | 2026-07-21 | 23 | simplify-2026 |
 | [Phonely](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5/application?embed=true) | Software Engineer Intern - Multiple Teams | SF | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
 | [Bild AI](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) | AI/Software Engineer Intern | SF | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
-| [Bloxd](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true) | Software Engineer Intern | London, UK | Summer 2026, Summer 2027 | 2026-07-21 | 23 | simplify-2026 |
 | [Fluency](https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true) | Engineer Intern | SF | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
 | [Firetiger](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true) | Product Engineer Intern/Co-op | SF | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
 | [Roam](https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c/application?embed=true) | Engineer Intern | SF | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |

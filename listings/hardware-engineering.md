@@ -1,4 +1,4 @@
-# Hardware Engineering (187)
+# Hardware Engineering (186)
 
 [← back to index](../README.md)
 
@@ -41,7 +41,6 @@
 | [Arlo Technologies](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) | Firmware Developer Co-op | Richmond, BC, Canada | Fall 2026 | 2026-08-04 | 9 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8621763002) | Silicon Engineer Intern/Co-op | Palo Alto, CA, Irvine, CA, Redmond, WA | Summer 2027 | 2026-08-03 | 10 | simplify-2026 |
 | [1X](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) | CNC Machine Park Intern | San Carlos, CA | Fall 2026 | 2026-08-03 | 10 | simplify-2026 |
-| [SRI International](https://careers-sri.icims.com/jobs/6431/job?mobile=true&needsRedirect=false) | Embedded Software Engineer Co-op | Princeton, NJ | Fall 2026 | 2026-08-03 | 10 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002) | Hardware Engineer Intern - FPGA/ASIC | London, UK | N/A | 2026-08-03 | 10 | simplify-2026 |
 | [Innovation Works, Inc.](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc) | Scale Prototyping Shop Intern | Pittsburgh, PA | Fall 2026 | 2026-08-03 | 10 | simplify-2026 |
 | [Novanta](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484) | Engineer Intern | Apex, NC | Fall 2026 | 2026-08-03 | 10 | simplify-2026 |

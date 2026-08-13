@@ -22,7 +22,7 @@ Ranked by freshness + company tier + role category.
 | 12 | **Jane Street** | Machine Learning Researcher | London, UK | N/A | 2026-08-03 (10d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002) |
 | 13 | **Two Sigma** | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-02 (11d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/13945) |
 | 14 | **Palantir** | Forward Deployed Software Engineer Intern - Commercial | London, UK | Fall 2026 | 2026-07-31 (13d ago) | [Apply](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply) |
-| 15 | **Delta Dental** | Knowledge Science Intern | Okemos, MI | Fall 2026 | 2026-08-13 (0d ago) | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405) |
+| 15 | **Thales** | Data Engineer Intern - Student | Ottawa, ON, Canada | N/A | 2026-08-13 (0d ago) | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-05-09 (96d ago) | [Apply](https://www.workatastartup.com/jobs/94400) |
 
 ---
-*Generated 2026-08-13 17:58 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-13 21:54 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
