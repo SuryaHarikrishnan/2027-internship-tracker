@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | Quantitative Developer Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [Picton Mahoney Asset Management](https://pictonmahoney.bamboohr.com/careers/350/) | Quantitative Research & Risk Intern | Toronto, ON, Canada | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
 | [VWH Capital Management](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | Quantitative Researcher Intern | Dallas, TX | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000141124349) | Quantitative Analytics Development Program Intern | SF | N/A | 2026-08-13 | 0 | simplify-2026 |
@@ -21,7 +22,6 @@
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | Quantitative Analyst Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-08-11 | 2 | simplify-2026 |
 | [ExxonMobil](https://jobs.exxonmobil.com/job/Spring-Students-Seeking-InternshipCo-op-Opportunities-in-Trading-TX-77389/1417886900/?ats=successfactors) | Trading Intern/Co-op | Spring, TX | Summer 2026 | 2026-08-10 | 3 | simplify-2026 |
 | [Montenson](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | Investment Analyst Intern | Minnesota | Summer 2027 | 2026-08-10 | 3 | simplify-2026 |
-| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129) | Quantitative Researcher Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-10 | 3 | simplify-2026 |
 | [Capula](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Trading and Research Intern | London, UK | Summer 2027 | 2026-08-08 | 5 | simplify-2026 |
 | [WallStreetQuants](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | Quantitative Researcher Intern | NYC | Fall 2026 | 2026-08-08 | 5 | simplify-2026 |
 | [WallStreetQuants](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) | Quantitative Trading Intern | Miami, FL | Fall 2026 | 2026-08-08 | 5 | simplify-2026 |

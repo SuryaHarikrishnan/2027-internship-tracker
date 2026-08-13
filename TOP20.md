@@ -11,7 +11,7 @@ Ranked by freshness + company tier + role category.
 | 1 | **Tesla** | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | Spring 2027 | 2026-08-13 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/279991) |
 | 2 | **Citadel** | Sector Data Scientist Intern | NYC | Summer 2027 | 2026-08-10 (3d ago) | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) |
 | 3 | **Figma** | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-10 (3d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004) |
-| 4 | **TikTok** | Data Science Intern - Advertisement Team | San Jose, CA | Summer 2027 | 2026-08-13 (0d ago) | [Apply](https://lifeattiktok.com/search/7673226686054107445) |
+| 4 | **TikTok** | Seller Growth Strategy & Analytics Intern - TikTok Shop | London, UK | Summer 2026 | 2026-08-13 (0d ago) | [Apply](https://lifeattiktok.com/search/7673120794853034245) |
 | 5 | **ByteDance** | Student Researcher - AI Foundation Model Infrastructure - Seed | San Jose, CA | N/A | 2026-08-13 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7673274430383032629/detail) |
 | 6 | **Oracle** | Platform Software Engineer 1 Intern - Full-time Intern Conversion | United States | Fall 2026 | 2026-08-12 (1d ago) | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) |
 | 7 | **SpaceX** | Software Engineer Intern, Fleet Health Instrumentation | Remote |  | 2026-08-06 (7d ago) | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8621756002) |
@@ -22,7 +22,7 @@ Ranked by freshness + company tier + role category.
 | 12 | **Jane Street** | Machine Learning Researcher | London, UK | N/A | 2026-08-03 (10d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002) |
 | 13 | **Two Sigma** | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-02 (11d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/13945) |
 | 14 | **Palantir** | Forward Deployed Software Engineer Intern - Commercial | London, UK | Fall 2026 | 2026-07-31 (13d ago) | [Apply](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply) |
-| 15 | **RRS Group** | Data Engineering & Analytics Intern | SF | N/A | 2026-08-13 (0d ago) | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000130586249) |
+| 15 | **Delta Dental** | Knowledge Science Intern | Okemos, MI | Fall 2026 | 2026-08-13 (0d ago) | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-05-09 (96d ago) | [Apply](https://www.workatastartup.com/jobs/94400) |
 
 ---
-*Generated 2026-08-13 14:17 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-13 17:58 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

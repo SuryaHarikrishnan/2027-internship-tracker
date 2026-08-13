@@ -1,4 +1,4 @@
-# Software Engineering (479)
+# Software Engineering (477)
 
 [← back to index](../README.md)
 
@@ -17,6 +17,7 @@
 | [Mapjects](https://jobs.smartrecruiters.com/Mapjectscom/79770294) | Java Developer Intern | Washington, DC | N/A | 2026-08-13 | 0 | simplify-2026 |
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) | Software Engineer Intern - Placement Year | SF | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) | Gameplay Programmer Intern | Cary, NC | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520) | Methods Intern - Hot Section Engineering | East Hartford, CT | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | Platform Software Engineer 1 Intern - Full-time Intern Conversion | United States | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
 | [TMEIC Corporation Americas](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply) | Engineer Intern - Spring 2027 - Eis | Roanoke, VA | Spring 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | Web Developer/Programmer Intern | Chicago, IL | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
@@ -480,6 +481,3 @@
 | [ASML](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | Internship - Software Development Engineer in Test | San Jose, CA | Summer 2026, Fall 2026, Spring 2026, Winter 2026 | 2025-12-22 | 234 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947) | Advanced Degree Software Engineer Intern - Industries | United States | Spring 2026 | 2025-12-20 | 236 | simplify-2026 |
 | [The Exploration Company](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) | Crew Systems Engineering Intern - Avionics/Software | Houston, TX | Spring 2026, Winter 2026 | 2025-12-18 | 238 | simplify-2026 |
-| [Velera](https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844) | Data Engineer | Remote in USA | Summer 2026, Winter 2026, Spring 2026, Fall 2026 | 2025-12-16 | 240 | simplify-2026 |
-| [BAE Systems](https://jobs.baesystems.com/global/en/job/BAE1US119401BREXTERNAL/Summer-Software-Intern) | Summer Software Intern | Fort Wayne, IN | Summer 2026 | 2025-12-16 | 240 | simplify-2026 |
-| [ASML](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394) | Internship - Software Quality Assurance | San Jose, CA | Summer 2026 | 2025-12-16 | 240 | simplify-2026 |

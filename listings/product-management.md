@@ -1,4 +1,4 @@
-# Product Management (66)
+# Product Management (65)
 
 [← back to index](../README.md)
 
@@ -46,7 +46,6 @@
 | [New York Post Holdings](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488) | Product Intern | NYC | Fall 2026 | 2026-07-31 | 13 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | Product Management Intern | Southfield, MI | Fall 2026 | 2026-07-29 | 15 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) | Product Operations Analyst Intern | Dallas, TX | Fall 2026 | 2026-07-28 | 16 | simplify-2026 |
-| [TJX](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Product---Quality-Specialist-Apprenticeship-Programme_REQ138959-1) | Product & Quality Specialist Apprentice | Watford, UK | Summer 2026 | 2026-07-27 | 17 | simplify-2026 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8041243) | Product Manager Intern | McLean, VA | Summer 2027 | 2026-07-23 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [k-ID](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | Product Intern | United States | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
 | [Pendulum Intelligence](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Product Manager Intern | Remote in USA | Fall 2026 | 2026-07-21 | 23 | simplify-2026 |
