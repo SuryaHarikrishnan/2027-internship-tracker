@@ -2,6 +2,83 @@
   {
     "source": "Simplify",
     "category": "Hardware",
+    "company_name": "General Dynamics",
+    "id": "fcd17b4c-48db-46a4-8f82-aab4e940189e",
+    "title": "Tester Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786627125,
+    "date_posted": 1786388338,
+    "url": "https://careers-gd-ots.icims.com/jobs/36775/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colchester, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "7e2a97b1-541b-498e-9f8b-09e9fb6b0b9f",
+    "title": "Modeling, Simulation & Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786623551,
+    "date_posted": 1786492800,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Tesla",
+    "id": "6442a0a1-6fb5-447b-b984-3d48c1c6070f",
+    "title": "Product Manager Intern - Residential Energy Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786619728,
+    "date_posted": 1782522660,
+    "url": "https://www.tesla.com/careers/search/job/275178",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
     "company_name": "Tesla",
     "id": "f76334f0-b144-4ec8-9a36-f7bab853e4e7",
     "title": "Firmware Engineer Intern - New Programs Engineering",
@@ -1214,7 +1291,7 @@
     "company_name": "Assured Guaranty",
     "id": "26469c50-c009-48da-9415-b146a1d441df",
     "title": "Product Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2576,7 +2653,7 @@
     "company_name": "RTX",
     "id": "41b56c92-c264-49ff-abb9-86b1d910b890",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3243,7 +3320,7 @@
     "company_name": "Truist Bank",
     "id": "74882eb7-2f7f-4a33-9ecc-7ad6865fdbd5",
     "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3822,7 +3899,7 @@
     "company_name": "Deloitte",
     "id": "0b10eb53-ff2e-4bfb-bbac-181b11ff4891",
     "title": "Risk Analytics Analyst Intern - Government & Public Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -8955,7 +9032,7 @@
     "company_name": "HUB International",
     "id": "2930e1fb-2b4f-4e11-885f-44f806cb97cb",
     "title": "Student Programmer Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -14947,7 +15024,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17653,7 +17730,7 @@
     "company_name": "Protech Automotive Solutions",
     "id": "dd115846-414f-4a92-b7d1-b2079912aecb",
     "title": "Automotive ADAS Calibration Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -22643,7 +22720,7 @@
     "company_name": "Deloitte",
     "id": "4b79443f-64b0-4381-aa54-5febee12149d",
     "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -29646,7 +29723,7 @@
     "company_name": "GE Aerospace",
     "id": "ceffdfc7-2794-424e-836b-524a7a195428",
     "title": "Embedded Systems Engineer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2027"
     ],
@@ -32879,7 +32956,7 @@
     "company_name": "Western Digital",
     "id": "01925f31-564d-4bc0-94fc-2a2717d3132d",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43793,7 +43870,7 @@
     "company_name": "Tower Research Capital",
     "id": "a619c6de-ef67-4039-af21-31cf505b8ee2",
     "title": "Quantitative Trader Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -45156,7 +45233,7 @@
     "company_name": "ConnectPrep",
     "id": "a6f6dea0-a60c-411e-b4f6-09d69755164b",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -61131,7 +61208,7 @@
     "company_name": "Mach Industries",
     "id": "a4780b03-762a-4790-bd5e-2d0cc0c66f12",
     "title": "Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -66645,7 +66722,7 @@
     "company_name": "Tencent",
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "title": "Multimedia Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -78432,7 +78509,7 @@
     "company_name": "PlusAI",
     "id": "c34d517f-9687-483b-84a1-7aecced15b5e",
     "title": "Scenario Simulation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -146656,7 +146733,7 @@
     "company_name": "ByteDance",
     "id": "f1916feb-f156-4153-baa5-e26c75d5ae6f",
     "title": "Research Scientist in Large Language Model - LLM",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -146998,7 +147075,7 @@
     "company_name": "ByteDance",
     "id": "fe92a675-1a53-4b88-a3e3-7e810871610d",
     "title": "Research Scientist in Vision Foundation Model \u2013 Graduates",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -245747,7 +245824,7 @@
     "company_name": "Grant Thornton",
     "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
     "title": "Tax Technology Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -339261,30 +339338,6 @@
       "Naperville, IL"
     ],
     "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Baker Hughes",
-    "id": "76d54f13-b82e-4e08-bbc4-3c0faf3eab51",
-    "title": "Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765892593,
-    "date_posted": 1765892593,
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-OX-ABINGDON-16-NORTH-CENTRAL/Engineering-Intern_R157688",
-    "locations": [
-      "Oxford, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Baker-Hughes",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

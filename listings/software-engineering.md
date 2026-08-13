@@ -1,4 +1,4 @@
-# Software Engineering (482)
+# Software Engineering (479)
 
 [← back to index](../README.md)
 
@@ -18,7 +18,6 @@
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) | Software Engineer Intern - Placement Year | SF | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) | Gameplay Programmer Intern | Cary, NC | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | Platform Software Engineer 1 Intern - Full-time Intern Conversion | United States | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
-| [Assured Guaranty](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002) | Product Software Developer Intern | NYC | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
 | [TMEIC Corporation Americas](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply) | Engineer Intern - Spring 2027 - Eis | Roanoke, VA | Spring 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | Web Developer/Programmer Intern | Chicago, IL | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884) | Web Developer/Programmer Intern | LA | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
@@ -121,7 +120,6 @@
 | [TikTok](https://lifeattiktok.com/search/7669705785962727733) | Software Engineer Intern - Ads Interface | San Jose, CA | Summer 2027 | 2026-08-04 | 9 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669711844487399685) | Software Engineer Intern - Global CRM | San Jose, CA | Summer 2027 | 2026-08-04 | 9 | simplify-2026 |
 | [e-Careers](https://apply.workable.com/ecareers/j/C82B9AD635/apply) | Software Developer Trainee | Blackpool, UK | N/A | 2026-08-04 | 9 | simplify-2026 |
-| [HUB International](https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Edmonton-AB/Student-Programmer-Analyst_R0037883) | Student Programmer Analyst | Edmonton, AB, Canada, Red Deer, AB, Canada | N/A | 2026-08-04 | 9 | simplify-2026 |
 | [Incident IQ](https://job-boards.greenhouse.io/incidentiq/jobs/7824038003) | Software Engineer Intern | Alpharetta, GA | Fall 2026 | 2026-08-03 | 10 | simplify-2026 |
 | [Samsara](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | Software Engineering Intern | London, UK | Summer 2028 | 2026-08-03 | 10 | simplify-2026 |
 | [Samsara](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | Software Engineering Intern | SF | Spring 2028, Summer 2028, Fall 2028, Winter 2029 | 2026-08-03 | 10 | simplify-2026 |
@@ -222,7 +220,6 @@
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347) | Front Office Software Engineer Intern | London, UK | Summer 2027 | 2026-07-21 | 23 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) | Full-Stack Software Engineer Intern | Houston, TX, Stamford, CT | Summer 2027 | 2026-07-21 | 23 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | Software Engineering Intern | Chicago, IL | Summer 2027 | 2026-07-20 | 24 | simplify-2026 |
-| [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | Software Engineer Intern | Fremont, CA, Rochester, MN, San Jose, CA, Irvine, CA, Colorado Springs, CO, Longmont, CO | Summer 2027 | 2026-07-20 | 24 | simplify-2026 |
 | [Deepgram](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | Software Engineer Intern | Remote in USA | Fall 2026 | 2026-07-17 | 27 | simplify-2026 |
 | [Obsidian Solutions Group](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435) | Unity 3D Developer Intern | Fredericksburg, VA | Fall 2026 | 2026-07-17 | 27 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10477224/software-dev-engineer-temp) | Software Development Engineer - Temp | Tennessee, Chennai, Tamil Nadu, India, Indiana | N/A | 2026-07-17 | 27 | simplify-2026 |
