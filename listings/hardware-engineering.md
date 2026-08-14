@@ -1,4 +1,4 @@
-# Hardware Engineering (186)
+# Hardware Engineering (188)
 
 [← back to index](../README.md)
 
@@ -7,6 +7,7 @@
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482724189) | Product Engineering Student - Product Engineering | Silvis, IL, Ames, IA | N/A | 2026-08-14 | 0 | simplify-2026 |
 | [MSA Safety](https://careers.msasafety.com/jobs/9992?icims=1) | Software Engineer Co-op - Product Development | Cranberry Township, PA | Spring 2027 | 2026-08-14 | 0 | simplify-2026 |
 | [True Anomaly](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) | GSE Engineering Intern | Long Beach, CA, Denver, CO | Fall 2026 | 2026-08-14 | 0 | simplify-2026 |
+| [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411) | Test Engineer Intern | Pullman, WA | Fall 2026 | 2026-08-14 | 0 | simplify-2026 |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147) | Hardware Engineer Intern - Multiple Teams | Newtownabbey, UK | N/A | 2026-08-13 | 1 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/279991) | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | Spring 2027 | 2026-08-13 | 1 | simplify-2026 |
 | [Specter Aerospace](https://specteraerospace.bamboohr.com/careers/119/) | Embedded Software Co-op | Boston, MA | Spring 2027 | 2026-08-13 | 1 | simplify-2026 |
@@ -14,6 +15,7 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) | Digital IP Design Engineer Intern - DRAM | Boise, ID | Fall 2026 | 2026-08-13 | 1 | simplify-2026 |
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361) | Engineering Intern | Wesley Chapel, FL | Fall 2026 | 2026-08-13 | 1 | simplify-2026 |
 | [TMEIC Corporation Americas](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) | Engineer Intern - Spring 2027 | Houston, TX | Summer 2027 | 2026-08-12 | 2 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | Software Engineering Intern - Summer 2027 | Cedar Rapids, IA | Summer 2027 | 2026-08-12 | 2 | simplify-2026 |
 | [Advanced Energy](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Fall-2026-CO-80525/1418389400/?ats=successfactors) | Firmware Engineer Intern - Fall 2026 | Fort Collins, CO | Summer 2026 | 2026-08-11 | 3 | simplify-2026 |
 | [SkyGig](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | RFIC Design Intern | San Jose, CA | Fall 2026 | 2026-08-11 | 3 | simplify-2026 |
 | [OceanComm](https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply) | Electronics Technician Intern | Chicago, IL | Fall 2026 | 2026-08-11 | 3 | simplify-2026 |

@@ -1,10 +1,11 @@
-# Quantitative Finance (137)
+# Quantitative Finance (138)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 | 0 | simplify-2026 |
+| [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 0 | simplify-2026 |
 | [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | Quantitative Developer Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-13 | 1 | simplify-2026 |
 | [Picton Mahoney Asset Management](https://pictonmahoney.bamboohr.com/careers/350/) | Quantitative Research & Risk Intern | Toronto, ON, Canada | Fall 2026 | 2026-08-13 | 1 | simplify-2026 |
 | [VWH Capital Management](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | Quantitative Researcher Intern | Dallas, TX | Fall 2026 | 2026-08-13 | 1 | simplify-2026 |
