@@ -1,6 +1,82 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SciTec",
+    "id": "8cc2b117-a376-460c-9c26-471a354baad2",
+    "title": "Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786706656,
+    "date_posted": 1774574048,
+    "url": "https://apply.workable.com/scitec/j/3650732037/apply",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/SciTec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Penta Group",
+    "id": "61c28f00-6cc4-4b2c-b4c5-4694f5775150",
+    "title": "Monitoring & Insights Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786703443,
+    "date_posted": 1785852568,
+    "url": "https://jobs.lever.co/pentagrp/501478ea-6890-47e2-8994-96e50b1159f0/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/347fb703-2342-4693-ad31-908e90f7bb34",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "a46d596b-c711-4444-99f7-3c846ae35bb6",
+    "title": "Self-Built Engineer Intern - CDN Platform",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786699981,
+    "date_posted": 1786699876,
+    "url": "https://jobs.bytedance.com/en/position/7673608499872827701/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Product",
     "company_name": "TikTok",
     "id": "a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
@@ -2605,7 +2681,7 @@
     "company_name": "RTX",
     "id": "bd6358b0-c6b0-436e-bb7a-e2dcb370e692",
     "title": "Software Engineering Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -2865,7 +2941,7 @@
     "company_name": "TMEIC Corporation Americas",
     "id": "8805a32d-c38e-4a8a-8843-ed203eec617f",
     "title": "Engineer Intern - Spring 2027 - Eis",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -3526,7 +3602,7 @@
     "company_name": "PathAI",
     "id": "5de68737-25b5-4f5a-bfca-7ade84c68491",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4387,7 +4463,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "ea64c40c-c89c-49ac-b395-a3c66a568e0f",
     "title": "Quantitative Analyst Associate - Quantitative Technology Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -6042,7 +6118,7 @@
     "company_name": "Gulfstream",
     "id": "c54661fa-4ea4-4783-b996-0470acb38ef8",
     "title": "Computer Science Intern - Advanced Structures and Materials",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7685,7 +7761,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "8b6ea404-0949-4cd3-a4e1-f77ec1d8cca0",
     "title": "Global Markets Sales & Trading Summer Analyst - Capital Markets",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -9143,7 +9219,7 @@
     "company_name": "Terminal",
     "id": "efcb42ec-c0ae-4445-80bf-7e91ae4e749b",
     "title": "Software Engineer Intern - Backend",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -18064,7 +18140,7 @@
     "company_name": "Block Imaging",
     "id": "c893299d-6d66-4c03-b7bb-2c7982182e81",
     "title": "Field Service Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -29822,7 +29898,7 @@
     "company_name": "Ambarella",
     "id": "8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
     "title": "Algorithm Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -35361,7 +35437,7 @@
     "company_name": "PGIM",
     "id": "2f47de17-a088-41a1-8238-0a8713c924ae",
     "title": "Private Credit \u2013 Investment Analyst Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -35741,7 +35817,7 @@
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -338264,54 +338340,6 @@
       "Toronto, ON, Canada"
     ],
     "company_url": "https://simplify.jobs/c/Arcadis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "f5056a7b-9649-4652-9171-8fffe8930d0b",
-    "title": "Powertrain Software AI Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765966977,
-    "date_posted": 1765966977,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000099316215",
-    "locations": [
-      "Coventry, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "99b34e1e-2f56-41b4-8aa7-d8a6719cac6f",
-    "title": "Research Intern - LLM Performance Optimization",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765966757,
-    "date_posted": 1765966757,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556643548",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
