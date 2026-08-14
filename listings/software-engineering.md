@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7673663349758675205) | Mobile Software Engineer Intern - Global E-Commerce | San Jose, CA | Summer 2027 | 2026-08-14 | 0 | simplify-2026 |
 | [Composio](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true) | Fullstack Engineer Intern - Product Team | SF | Fall 2026, Winter 2027 | 2026-08-14 | 0 | simplify-2026 |
 | [MPR Associates](https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false) | Engineer Co-op - Multiple Teams | Salt Lake City, UT, Alexandria, VA, Burlington, MA, East Lyme, CT | Spring 2026, Summer 2026, Fall 2026 | 2026-08-14 | 0 | simplify-2026 |
 | [MaxLinear](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false) | AI Intern | Carlsbad, CA | Fall 2026 | 2026-08-14 | 0 | simplify-2026 |
@@ -189,7 +190,6 @@
 | [Kognitos](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true) | Forward Deployed Engineer Intern | Mountain View, CA | Fall 2026 | 2026-07-28 | 17 | simplify-2026 |
 | [Savannah River National Laboratory](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164) | Software Developer Undergraduate Intern | North Augusta, SC | Summer 2026 | 2026-07-28 | 17 | simplify-2026 |
 | [First Bank & Trust](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780) | SharePoint/Power Platform Intern - SharePoint - Power Platform | Brookings, SD | Fall 2026 | 2026-07-28 | 17 | simplify-2026 |
-| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | Software Liquid Spectrum Applications Intern | Ottawa, ON, Canada | Fall 2026 | 2026-07-28 | 17 | simplify-2026 |
 | [Nextiva](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | Forward Deployed Engineer Intern - AI Implementation | Scottsdale, AZ | Fall 2026 | 2026-07-24 | 21 | simplify-2026 |
 | [TechInsights](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Software Developer Co-op | Ottawa, ON, Canada | N/A | 2026-07-24 | 21 | simplify-2026 |
 | [PDT Partners](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | Software Engineer Intern | NYC | Summer 2027 | 2026-07-24 | 21 | simplify-2026 |

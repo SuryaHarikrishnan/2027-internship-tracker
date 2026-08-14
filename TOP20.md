@@ -10,8 +10,8 @@ Ranked by freshness + company tier + role category.
 |---|---|---|---|---|---|---|
 | 1 | **Jane Street** | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 (0d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) |
 | 2 | **Tesla** | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | Spring 2027 | 2026-08-13 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/279991) |
-| 3 | **KPMG** | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | Summer 2027 | 2026-08-14 (0d ago) | [Apply](https://careers.kpmg.ca/jobs/33301?icims=1) |
-| 4 | **TikTok** | Seller Growth Strategy & Analytics Intern - TikTok Shop | London, UK | Summer 2026 | 2026-08-13 (1d ago) | [Apply](https://lifeattiktok.com/search/7673120794853034245) |
+| 3 | **TikTok** | Product Manager Intern - Content and Services | San Jose, CA | Summer 2027 | 2026-08-14 (0d ago) | [Apply](https://lifeattiktok.com/search/7673337777708550405) |
+| 4 | **KPMG** | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | Summer 2027 | 2026-08-14 (0d ago) | [Apply](https://careers.kpmg.ca/jobs/33301?icims=1) |
 | 5 | **ByteDance** | Student Researcher - AI Foundation Model Infrastructure - Seed | San Jose, CA | N/A | 2026-08-13 (1d ago) | [Apply](https://jobs.bytedance.com/en/position/7673274430383032629/detail) |
 | 6 | **Citadel** | Sector Data Scientist Intern | NYC | Summer 2027 | 2026-08-10 (4d ago) | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) |
 | 7 | **Figma** | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-10 (4d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-05-09 (97d ago) | [Apply](https://www.workatastartup.com/jobs/94400) |
 
 ---
-*Generated 2026-08-14 07:01 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-14 09:47 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

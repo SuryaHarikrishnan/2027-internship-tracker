@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (592)
+# Data Science, AI & Machine Learning (591)
 
 [← back to index](../README.md)
 
@@ -124,7 +124,6 @@
 | [Luminance](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | AI Engineering Intern | Cambridge, UK | Fall 2026 | 2026-08-07 | 7 | simplify-2026 |
 | [HealthCorps](https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply) | Monitoring & Evaluation Intern | Remote in USA, Phoenix, AZ | Summer 2026 | 2026-08-07 | 7 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670855041951795509/detail) | Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI | Seattle, WA | Summer 2027 | 2026-08-07 | 7 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482) | Capital Markets Quant Summer Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-08-07 | 7 | simplify-2026 |
 | [PlusAI](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | Deep Learning Research Intern - Multimodal BEV Perception | Santa Clara, CA | Fall 2026 | 2026-08-06 | 8 | simplify-2026 |
 | [Systems Planning and Analysis (SPA)](https://spa.jibeapply.com/jobs/23220?icims=1) | Science & Technology Intern | Alexandria, VA | Fall 2026 | 2026-08-06 | 8 | simplify-2026 |
 | [Canva](https://jobs.smartrecruiters.com/Canva/6000000001292768) | PhD Research Scientist Intern - Reinforcement Learning - Images | London, UK | Fall 2026 | 2026-08-06 | 8 | simplify-2026 |

@@ -1,6 +1,110 @@
 [
   {
     "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
+    "title": "Product Manager Intern - Content and Services",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786698722,
+    "date_posted": 1786698608,
+    "url": "https://lifeattiktok.com/search/7673337777708550405",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "56973e0e-ee92-4898-b2d3-7f5df827f064",
+    "title": "Product Manager Intern - Scaled Growth",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786698722,
+    "date_posted": 1786698606,
+    "url": "https://lifeattiktok.com/search/7673559305519794437",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "a5d3459d-3d46-44dd-8e4e-693ca7320203",
+    "title": "Mobile Software Engineer Intern - Global E-Commerce",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786698722,
+    "date_posted": 1786698610,
+    "url": "https://lifeattiktok.com/search/7673663349758675205",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "d1f12ffa-cc86-44c9-aad3-b6def1a50517",
+    "title": "Product Solutions and Operations Intern - Commerce Ads",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786698722,
+    "date_posted": 1786698613,
+    "url": "https://lifeattiktok.com/search/7673340525029673221",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Composio",
     "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
@@ -7411,7 +7515,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "fc244a70-fbd2-4a62-a5e8-7caad750e8d9",
     "title": "Capital Markets Quant Summer Associate - Quantitative Technology Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13070,7 +13174,7 @@
     "company_name": "Zipline",
     "id": "b27edad4-236e-4268-8fe8-1e913b1d59c8",
     "title": "Mechatronics Perception Intern - Fall 2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23751,7 +23855,7 @@
     "company_name": "Ciena",
     "id": "526d4a4f-c5cc-4a59-9843-9913e8ac5685",
     "title": "Software Liquid Spectrum Applications Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -35501,7 +35605,7 @@
     "company_name": "Prudential Financial",
     "id": "8e9a164a-393f-4f52-8c16-a283cc796352",
     "title": "Private Credit \u2013 Investment Analyst Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],

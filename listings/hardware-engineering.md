@@ -1,4 +1,4 @@
-# Hardware Engineering (189)
+# Hardware Engineering (188)
 
 [← back to index](../README.md)
 
@@ -136,7 +136,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/272601) | Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 68 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271539) | Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 69 | simplify-2026 |
 | [Zipline](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | Embedded Software Engineer Intern | San Bruno, CA | Fall 2026 | 2026-06-06 | 69 | simplify-2026 |
-| [Zipline](https://www.zipline.com/open-roles?gh_jid=7763697003) | Mechatronics Perception Intern - Fall 2026 | South SF | Fall 2026 | 2026-06-05 | 70 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) | Lab Technician Intern | Santa Monica, CA | Summer 2026 | 2026-06-04 | 71 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer 2026 | 2026-06-03 | 72 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7761881003) | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | Summer 2026 | 2026-06-02 | 73 | simplify-2026 |

@@ -1,9 +1,12 @@
-# Product Management (65)
+# Product Management (68)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7673340525029673221) | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA | Summer 2027 | 2026-08-14 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7673337777708550405) | Product Manager Intern - Content and Services | San Jose, CA | Summer 2027 | 2026-08-14 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7673559305519794437) | Product Manager Intern - Scaled Growth | San Jose, CA | Summer 2027 | 2026-08-14 | 0 | simplify-2026 |
 | [Tuckernuck](https://tnuck.bamboohr.com/careers/273/) | Product Management Intern | Washington, DC | Fall 2026 | 2026-08-13 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669705525866383621) | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Summer 2027 | 2026-08-13 | 1 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | IT Systems Product Management Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-12 | 2 | simplify-2026 |
