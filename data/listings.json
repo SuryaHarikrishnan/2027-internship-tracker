@@ -3873,7 +3873,7 @@
     "company_name": "The Nuclear Company",
     "id": "d17b4468-4164-40e2-8f69-9a059d33f996",
     "title": "Platform & AI Pre-Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8052,7 +8052,7 @@
     "company_name": "John Deere",
     "id": "17936a1f-6724-46a7-a97a-6feceb9c2a92",
     "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -11208,7 +11208,7 @@
     "company_name": "Eaton Corporation",
     "id": "931c35b2-3528-4bb5-9d2a-97809685a672",
     "title": "Product Development Engineer Co-op - Research & Development Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -291055,7 +291055,7 @@
     "company_name": "Vendelux",
     "id": "58ae974d-ee3d-44c5-bcbd-c75bfd65521d",
     "title": "Tech Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2025"
@@ -329109,7 +329109,7 @@
     "company_name": "Vendelux",
     "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
     "title": "Part Time Data Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025",
       "Spring 2025"
@@ -337954,30 +337954,6 @@
       "Remote in USA"
     ],
     "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Royal Bank of Canada",
-    "id": "47369e3c-7b4c-4cb5-9f90-c8f641c04e2c",
-    "title": "Data Intern - Ecco",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765996746,
-    "date_posted": 1765996746,
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---ECCO--Data-Intern--4-Months-_R-0000152651",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

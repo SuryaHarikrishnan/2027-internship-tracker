@@ -1,4 +1,4 @@
-# Software Engineering (475)
+# Software Engineering (474)
 
 [← back to index](../README.md)
 
@@ -73,7 +73,6 @@
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008) | Software Engineering Intern | Washington, DC | Spring 2027 | 2026-08-07 | 7 | simplify-2026 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) | Software Engineering Intern - Product - Platform | Washington, DC | Summer 2027 | 2026-08-07 | 7 | simplify-2026 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) | AI Software Engineer Intern | Washington, DC | Fall 2026 | 2026-08-07 | 7 | simplify-2026 |
-| [John Deere](https://johndeere.eightfold.ai/careers/job/137482642817) | Part-Time Student - Dynamic Systems Modeling - Product Engineering | Dubuque, IA | N/A | 2026-08-07 | 7 | simplify-2026 |
 | [Atoms](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | Software Engineer Intern - Summer 2027 | Seattle, WA, SF, LA, NYC, Mountain View, CA | Summer 2027 | 2026-08-07 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7671211313289398581) | Frontend Engineer Intern - Ads Interface | San Jose, CA | Summer 2027 | 2026-08-07 | 7 | simplify-2026 |
 | [Engineers and Geoscientists BC](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) | Information Systems Co-op | Burnaby, BC, Canada | Fall 2026 | 2026-08-07 | 7 | simplify-2026 |

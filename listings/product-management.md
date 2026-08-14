@@ -1,4 +1,4 @@
-# Product Management (68)
+# Product Management (67)
 
 [← back to index](../README.md)
 
@@ -70,5 +70,4 @@
 | [Tessera Labs](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Product Manager Intern | San Jose, CA, Remote in USA, NYC | Summer 2026, Fall 2026 | 2026-06-08 | 67 | simplify-2026 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | Technology Product Analyst Intern | Dallas, TX | Summer 2026 | 2026-03-23 | 144 | simplify-2026 |
 | [Creatify Lab ](https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application) | Product Manager | Mountain View, CA | Summer 2026 | 2026-03-05 | 162 | simplify-2026 |
-| [Vendelux](https://jobs.ashbyhq.com/vendelux/8ec77cd6-e731-44be-bb58-5ef4fb0314de/application) | Tech Internship | NYC | Summer 2026, Fall 2025 | 2026-01-22 | 204 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646448006) | Fall 2026: Product Development Co-op - Shark - July to December | Needham, MA | Fall 2026 | 2026-01-21 | 205 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (188)
+# Hardware Engineering (187)
 
 [← back to index](../README.md)
 
@@ -36,7 +36,6 @@
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8683682002) | Controls Technician Apprentice - 2nd Shift | McGregor, TX | Fall 2026 | 2026-08-05 | 9 | simplify-2026 |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/jQWOTxtFY5/Student-Engineering-Assistant) | Engineering Assistant | North Logan, UT | N/A | 2026-08-05 | 9 | simplify-2026 |
 | [Eridu AI](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Lab Intern | Saratoga, CA | Fall 2026 | 2026-08-05 | 9 | simplify-2026 |
-| [Eaton Corporation](https://eaton.eightfold.ai/careers/job/687234535534) | Product Development Engineer Co-op - Research & Development Engineering | Hodges, SC | Fall 2026 | 2026-08-05 | 9 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137481396869) | Sensor Software Design Student - Product Engineering | Fargo, ND | N/A | 2026-08-05 | 9 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137481425666) | Part-Time Student - Product Engineering | Moline, IL | N/A | 2026-08-05 | 9 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482489158) | Electrical Systems Engineer Part-Time Student - Product Engineering | Silvis, IL | N/A | 2026-08-05 | 9 | simplify-2026 |
