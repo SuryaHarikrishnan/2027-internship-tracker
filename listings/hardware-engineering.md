@@ -1,4 +1,4 @@
-# Hardware Engineering (197)
+# Hardware Engineering (196)
 
 [← back to index](../README.md)
 
@@ -110,7 +110,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1) | Analog Engineer Intern | Vancouver, BC, Canada | Fall 2026 | 2026-07-04 | 42 | simplify-2026 |
 | [X Development](https://x.company/careers/8616839002?gh_jid=8616839002) | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute | Mountain View, CA | Summer 2026, Fall 2026 | 2026-07-02 | 44 | simplify-2026 |
 | [CoreWeave](https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006) | Data Center Apprentice | Denton, TX, Calhoun, GA, Aberdeen, SD | Summer 2026 | 2026-07-02 | 44 | simplify-2026 |
-| [Caterpillar Inc.](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479) | Engineering Intern - Product Development Track | West Chester, PA, Peoria, IL, Houston, TX, Flanagan, IL, McDonough, GA, Fargo, ND, Schertz, TX, Alpharetta, GA, Pittsburgh, PA, Rapid City, SD, Durant, OK, Brooklyn Park, MN, Clayton, NC, Fort Worth, TX, West Lafayette, IN, Canadian County, OK, Decatur, IL | Summer 2026 | 2026-07-02 | 44 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Hardware Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 45 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/275689) | Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-01 | 45 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/275327) | Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls | Palo Alto, CA | Fall 2026 | 2026-06-30 | 46 | simplify-2026 |

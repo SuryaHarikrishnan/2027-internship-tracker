@@ -12,8 +12,8 @@ Ranked by freshness + company tier + role category.
 | 2 | **Microsoft** | Optoelectronics Device Engineer Intern | Cambridge, UK | Fall 2026 | 2026-08-14 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556962583) |
 | 3 | **Jane Street** | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 (1d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) |
 | 4 | **Tesla** | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | Spring 2027 | 2026-08-13 (2d ago) | [Apply](https://www.tesla.com/careers/search/job/279991) |
-| 5 | **Goldman Sachs** | Quantitative Strategist Intern - Multiple Teams | London, UK | Summer 2027 | 2026-08-15 (0d ago) | [Apply](https://higher.gs.com/roles/175424?type=students) |
-| 6 | **ByteDance** | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | 2026-08-15 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
+| 5 | **ByteDance** | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | 2026-08-15 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
+| 6 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (0d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 | 7 | **Snap** | Research Scientist Intern - User Modeling and Personalization | LA, Bellevue, WA | Fall 2026 | 2026-08-14 (1d ago) | [Apply](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1) |
 | 8 | **Intel** | Physical Design Engineer Intern | Santa Clara, CA, Folsom, CA, Phoenix, AZ | Fall 2026 | 2026-08-14 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509) |
 | 9 | **TikTok** | Product Manager Intern - Content and Services | San Jose, CA | Summer 2027 | 2026-08-14 (1d ago) | [Apply](https://lifeattiktok.com/search/7673337777708550405) |
@@ -34,7 +34,7 @@ Recent YC companies (W24–S26) with open roles right now.
 | 2 | **Terranox AI** | Summer Intern - AI/ML Engineering | San Francisco, CA |  | 2026-05-14 (93d ago) | [Apply](https://www.workatastartup.com/jobs/94631) |
 | 3 | **General Astronautics** | Engineering Intern | San Francisco, CA |  | 2026-05-09 (98d ago) | [Apply](https://www.workatastartup.com/jobs/94206) |
 | 4 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (42d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
-| 5 | **Dedalus Labs** | Forward Deployed Engineer Intern | San Francisco, CA |  | 2026-05-09 (98d ago) | [Apply](https://www.workatastartup.com/jobs/94400) |
+| 5 | **Bild AI** | AI/Software Engineer Intern | SF | Fall 2026 | 2026-07-21 (25d ago) | [Apply](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) |
 
 ---
-*Generated 2026-08-15 06:14 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-15 09:13 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
