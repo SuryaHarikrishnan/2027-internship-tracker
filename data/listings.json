@@ -1,6 +1,33 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "aa0ebb73-f646-4f78-ac9d-900e2925f3e9",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786784821,
+    "date_posted": 1786665600,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Product",
     "company_name": "Dedalus Labs",
     "id": "8cfb1bdb-94da-41c0-be36-e516586909b0",
@@ -449,7 +476,7 @@
     "company_name": "Interdigital",
     "id": "7d3756e8-9e17-44bb-b29f-751947fabf50",
     "title": "Wireless Engineering Intern - 6G Wireless Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1646,7 +1673,7 @@
     "company_name": "Schweitzer Engineering Laboratories",
     "id": "96d0c172-f893-4193-9ab7-44f5238a335c",
     "title": "Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2952,7 +2979,7 @@
     "company_name": "RTX",
     "id": "45df96a1-aefa-4c09-ae4c-5c32680da300",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3083,7 +3110,7 @@
     "company_name": "Johnson & Johnson",
     "id": "6c13af7d-5b49-4b19-b7c5-7971752a5cea",
     "title": "AI & Digital Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7477,7 +7504,7 @@
     "company_name": "RLI",
     "id": "887bd43f-e027-47d5-b8ee-3d03c067e13c",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10154,7 +10181,7 @@
     "company_name": "LUZCO TECHNOLOGIES LLC",
     "id": "6dfc5a86-055d-4015-b7e0-68b2545cf61d",
     "title": "AI Solutions Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -27521,7 +27548,7 @@
     "company_name": "Pennsylvania State University",
     "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "title": "Research Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -37538,7 +37565,7 @@
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -133153,6 +133180,32 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "fd19cd39-0127-4f16-8be0-0bc3e3f39226",
+    "title": "Machine Learning Scientist Intern - TikTok Recommendation",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775870653,
+    "date_posted": 1775869933,
+    "url": "https://lifeattiktok.com/search/7625930920206272773",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
     "_sources": [
       "simplify-2026"
     ]
@@ -338190,84 +338243,6 @@
     "date_posted": 1766068117,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "0cc4797c-81ae-43bc-85bb-ba188815da52",
-    "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766059734,
-    "date_posted": 1766059734,
-    "url": "https://lifeattiktok.com/search/7519241729582516487",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "aea71032-563a-4c3c-aade-447f8ec52a91",
-    "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766059093,
-    "date_posted": 1766059093,
-    "url": "https://lifeattiktok.com/search/7527589875165563143",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Atos",
-    "id": "7dc534cf-9069-492d-a481-f5aec67c8483",
-    "title": "Digital & AI Apprenticeship",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766058510,
-    "date_posted": 1766058510,
-    "url": "https://jobs.atos.net/job/Birmingham-Digital-&-AI-Apprenticeship/1269357601/?ats=successfactors",
-    "locations": [
-      "London, UK",
-      "Northwich, UK",
-      "Birmingham, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Atos",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

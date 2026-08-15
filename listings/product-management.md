@@ -1,4 +1,4 @@
-# Product Management (67)
+# Product Management (66)
 
 [← back to index](../README.md)
 
@@ -22,7 +22,6 @@
 | [Mujin](https://mujin.bamboohr.com/careers/168/) | Product Development Intern - Spring 2027 | Suwanee, GA | Spring 2027 | 2026-08-10 | 5 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | Product Management Intern | Westerville, OH | Summer 2027 | 2026-08-10 | 5 | simplify-2026 |
 | [LPL Financial Holdings](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) | Product Intern - Product | Austin, TX, Fort Mill, SC | Summer 2027 | 2026-08-10 | 5 | simplify-2026 |
-| [RLI](https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646) | Product Management Intern | Honolulu, HI | Fall 2026 | 2026-08-10 | 5 | simplify-2026 |
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Summer 2027 | 2026-08-10 | 5 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670010726514493749) | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | Summer 2027 | 2026-08-07 | 8 | simplify-2026 |
 | [tarte cosmetics](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | Product Development Intern | NYC | Fall 2026 | 2026-08-07 | 8 | simplify-2026 |
