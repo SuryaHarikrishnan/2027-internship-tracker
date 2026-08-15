@@ -1,6 +1,143 @@
 [
   {
     "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786806931,
+    "date_posted": 1786767951,
+    "url": "https://higher.gs.com/roles/171563?type=students",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Goldman Sachs",
+    "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786806930,
+    "date_posted": 1786767947,
+    "url": "https://higher.gs.com/roles/171535?type=students",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786806925,
+    "date_posted": 1786767949,
+    "url": "https://higher.gs.com/roles/175427?type=students",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
+    "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786806924,
+    "date_posted": 1786767952,
+    "url": "https://higher.gs.com/roles/170675?type=students",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786806912,
+    "date_posted": 1786767935,
+    "url": "https://higher.gs.com/roles/181628?type=students",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "RTX",
     "id": "aa0ebb73-f646-4f78-ac9d-900e2925f3e9",
@@ -160,7 +297,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -184,7 +321,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -208,7 +345,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -237,7 +374,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -263,7 +400,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -10103,7 +10240,7 @@
     "company_name": "Canva",
     "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
     "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -10811,7 +10948,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -27548,7 +27685,7 @@
     "company_name": "Pennsylvania State University",
     "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "title": "Research Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -63561,7 +63698,7 @@
     "company_name": "Walleye Capital",
     "id": "0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175",
     "title": "Equity Volatility Quant Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -121025,6 +121162,33 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cirrus Logic",
+    "id": "ed8247c0-29f2-4dd9-a04d-a333a38dbe1a",
+    "title": "Intern - Embedded Machine Learning Engineer - AI/ML",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776723799,
+    "date_posted": 1776723432,
+    "url": "https://jobs.eu.lever.co/cirrus/970d9205-90ba-4caf-848c-b78684dbd6c7/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
     ],
     "_sources": [
       "simplify-2026"
@@ -200691,7 +200855,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -259777,6 +259941,32 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Cintas",
+    "id": "c01a2f83-cc50-42c1-b691-08705ff33305",
+    "title": "Data Analytics Intern",
+    "active": false,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1770333088,
+    "date_posted": 1770333088,
+    "url": "https://careers.cintas.com/job/Mason-Data-Analytics-Intern-OH-45050/1362404500/?ats=successfactors",
+    "locations": [
+      "Mason, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cintas",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "John Deere",
     "id": "499fcb5e-208d-44fd-a7ff-c915caf2a113",
     "title": "Part Time Student - Data & Analytics - Data Analytics",
@@ -287963,7 +288153,7 @@
     "company_name": "Boston Consulting Group",
     "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
     "title": "AI Engineer Intern - BCG X",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -287990,7 +288180,7 @@
     "company_name": "Boston Consulting Group",
     "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -337661,32 +337851,6 @@
     ]
   },
   {
-    "date_updated": 1766093228,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/77660aee-f8b9-440b-9d4a-93de7178631f",
-    "company_name": "Veolia",
-    "title": "Manufacturing Software Engineer Intern",
-    "locations": [
-      "Boulder, CO"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "AlmondCroffle",
-    "id": "3b4783c2-a632-4cac-a7a8-27bcc1193729",
-    "date_posted": 1766068028,
-    "company_url": "",
-    "is_visible": false,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "TWG Global",
@@ -337948,301 +338112,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The Andersons",
-    "id": "86a76e13-1ed1-4cbf-a2d6-328caaac65f0",
-    "title": "SAP Intern - March 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766076660,
-    "date_posted": 1766076660,
-    "url": "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/SAP-Intern--March-2026-_R11880",
-    "locations": [
-      "Perrysburg, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/The-Andersons",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Modernizing Medicine",
-    "id": "6216f384-f993-45c1-856e-79e0089f3d81",
-    "title": "Software Architect Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766076658,
-    "date_posted": 1766076645,
-    "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8307542002",
-    "locations": [
-      "Boca Raton, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/ModMed",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Autodesk",
-    "id": "512b5f32-540c-457a-95f5-949c3fed9835",
-    "title": "Intern \u2013 NSERC Create / Vision",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766076652,
-    "date_posted": 1766076652,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--NSERC-CREATE---VISION_25WD94313",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Autodesk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Voya Financial",
-    "id": "cc8f00ab-8824-4447-b2a6-2222f839d416",
-    "title": "Student",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1766076170,
-    "date_posted": 1766076170,
-    "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Scottsdale-AZ/Summer-Student---Fund-Product-Development_JR0031909",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/VoyaFinancial",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cintas",
-    "id": "9caac971-6fd7-4bfc-9c2d-5518cef6a013",
-    "title": "Data Analytics Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766075321,
-    "date_posted": 1766075321,
-    "url": "https://careers.cintas.com/job/Mason-Data-Analytics-Intern-OH-45040/1350748200/?ats=successfactors",
-    "locations": [
-      "Mason, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Cintas",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Cook Group",
-    "id": "a8805501-122e-44c3-b383-690400242aa1",
-    "title": "Product Management/Marketing Intern - Aortic Medical Devices",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766075066,
-    "date_posted": 1766075066,
-    "url": "https://americas-cookmedical.icims.com/jobs/17738/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Bloomington, IN"
-    ],
-    "company_url": "https://simplify.jobs/c/Cook-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "EXL",
-    "id": "84199edc-f67d-4183-b3ac-1dcdf96f703f",
-    "title": "Lead Assistant Manager - Backend Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1766074714,
-    "date_posted": 1766074714,
-    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7454",
-    "locations": [
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/EXL",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Talos",
-    "id": "0887c05a-57dc-4676-b4ee-2acb40b147a1",
-    "title": "Software Engineer Intern - Backend - Trading",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766074654,
-    "date_posted": 1766074654,
-    "url": "https://jobs.ashbyhq.com/Talos-Trading/f2b1c5af-ed8d-4759-98f4-76f656d83a52/application",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Talos",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Intuit",
-    "id": "2e0925be-601a-4ea6-b0a9-ac3d061ad41b",
-    "title": "Intern Product Management",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766074557,
-    "date_posted": 1766074557,
-    "url": "https://jobs.intuit.com/job/mountain-view/intern-product-management/27595/89654475808",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Intuit",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Public Service Enterprise Group",
-    "id": "a43b20f9-c373-46c1-8822-dec2f52f1a08",
-    "title": "Technical Intern - Gas Operations GIS",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766074297,
-    "date_posted": 1766074297,
-    "url": "https://jobs.pseg.com/job/Edison-Summer-2026-Technical-Intern-Gas-Operations-GIS-NJ-08817/1350745900/?ats=successfactors",
-    "locations": [
-      "Edison, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cirrus Logic",
-    "id": "3f69cb97-ec8a-4088-85d9-fbddf16be2c8",
-    "title": "Intern - Embedded Machine Learning Engineer - AI/ML",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766074297,
-    "date_posted": 1766074297,
-    "url": "https://jobs.eu.lever.co/cirrus/8b0af9a2-6e28-4abf-99cb-8948c0b9414e/apply",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Cirrus-Logic",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1766068117,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824",
-    "company_name": "The Exploration Company",
-    "title": "Crew Systems Engineering Intern - Avionics/Software",
-    "locations": [
-      "Houston, TX"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Winter 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "AlmondCroffle",
-    "id": "a90e94a6-f0e5-4b60-b6bf-9fa45dfe9400",
-    "date_posted": 1766068117,
-    "company_url": "",
-    "is_visible": true,
     "_sources": [
       "simplify-2026"
     ]

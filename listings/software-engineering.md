@@ -206,6 +206,7 @@
 | [CloudFit Software](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027) | CloudFit Software Internship - Company name withheld | Lynchburg, VA | N/A | 2026-07-23 | 23 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8643138002) | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Fall 2026 | 2026-07-22 | 24 | simplify-2026 |
 | [Trend Micro](https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997) | Malware Research Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-22 | 24 | simplify-2026 |
+| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | Research Engineering Intern | State College, PA | Fall 2026 | 2026-07-22 | 24 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Software Engineer Intern - Software Engineer | Austin, TX, NYC | Summer 2027 | 2026-07-21 | 25 | simplify-2026 |
 | [ShyftLabs](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | AI Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-21 | 25 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | Software Engineering Intern | Boston, MA, Seattle, WA | Summer 2027 | 2026-07-21 | 25 | simplify-2026 |
@@ -485,4 +486,3 @@
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | Software Engineering Intern | Dallas, TX | Spring 2026 | 2025-12-22 | 236 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [ASML](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | Internship - Software Development Engineer in Test | San Jose, CA | Summer 2026, Fall 2026, Spring 2026, Winter 2026 | 2025-12-22 | 236 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947) | Advanced Degree Software Engineer Intern - Industries | United States | Spring 2026 | 2025-12-20 | 238 | simplify-2026 |
-| [The Exploration Company](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) | Crew Systems Engineering Intern - Avionics/Software | Houston, TX | Spring 2026, Winter 2026 | 2025-12-18 | 240 | simplify-2026 |
