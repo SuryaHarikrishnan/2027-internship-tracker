@@ -4,7 +4,6 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 1 | simplify-2026 |
 | [Unify](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true) | GTM Engineering Intern | SF | Fall 2026 | 2026-08-15 | 1 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) | Data Intern | NYC | Fall 2026 | 2026-08-15 | 1 | simplify-2026 |
 | [Occidental Petroleum Corporation (Oxy)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Geophysics Intern | Houston, TX, The Woodlands, TX, Denver, CO | Summer 2026 | 2026-08-15 | 1 | simplify-2026 |
@@ -564,6 +563,7 @@
 | [Meta](https://www.metacareers.com/jobs/1782902493113620) | Research Scientist Intern - AI Alignment | Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 164 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/771948392580541) | Research Scientist Intern - AI/ML - Core Ads Growth | London, UK | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 164 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1422892385992613) | Research Scientist Intern - Applied Vision and Image Quality - PhD | Redmond, WA | Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 164 | simplify-2026 |
+| [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | Hunyuan Multimodal Algorithm Researcher Intern | Palo Alto, CA | Summer 2026 | 2026-03-05 | 164 | simplify-2026 |
 | [Occidental Petroleum](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) | Intern/Co-op Data - Well Servicing & Engineering | Midland, TX, Houston, TX, Fort Lupton, CO, Morton, TX, Denver, CO | Summer 2026 | 2026-03-05 | 164 | simplify-2026 |
 | [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Research-Assistant_REQ_0000075880-1) | Undergraduate Research Assistant | State College, PA | N/A | 2026-03-05 | 164 | simplify-2026 |
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | Data Engineering Intern/Co-op | Milwaukee, WI | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-03-04 | 165 | simplify-2026 |
