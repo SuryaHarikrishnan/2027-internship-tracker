@@ -103695,6 +103695,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Geotab",
+    "id": "feb5bbe1-d3d2-414b-9a2b-163bbfefa315",
+    "title": "Vehicle Systems Engineer Intern",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1777934351,
+    "date_posted": 1777933226,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5145632008",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Geotab",
     "id": "c3a7ff86-c368-460c-93a2-751b00392ebe",
@@ -336649,55 +336675,6 @@
       "Waukegan, IL"
     ],
     "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Geotab",
-    "id": "7dfcb056-5844-42f0-93f2-20a6614471ff",
-    "title": "Vehicle Systems Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766163028,
-    "date_posted": 1766163028,
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4977993008",
-    "locations": [
-      "Kitchener, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "John Deere",
-    "id": "b1741d69-5ace-4963-a1cd-b267f3f4b160",
-    "title": "Part Time Student - Data Analytics",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1766160809,
-    "date_posted": 1766160809,
-    "url": "https://johndeere.eightfold.ai/careers/job/137477212714",
-    "locations": [
-      "Grimes, IA",
-      "Davenport, IA"
-    ],
-    "company_url": "https://simplify.jobs/c/John-Deere",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

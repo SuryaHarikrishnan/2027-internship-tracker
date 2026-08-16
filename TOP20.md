@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Bild AI** | AI/Software Engineer Intern | SF | Fall 2026 | 2026-07-21 (26d ago) | [Apply](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) |
 
 ---
-*Generated 2026-08-16 13:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-16 17:21 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
