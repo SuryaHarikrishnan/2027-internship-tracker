@@ -12,7 +12,7 @@ Ranked by freshness + company tier + role category.
 | 2 | **Microsoft** | Optoelectronics Device Engineer Intern | Cambridge, UK | Fall 2026 | 2026-08-14 (2d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556962583) |
 | 3 | **Jane Street** | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 (2d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) |
 | 4 | **Tesla** | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | Spring 2027 | 2026-08-13 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/279991) |
-| 5 | **Goldman Sachs** | Quantitative Strategist Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 (1d ago) | [Apply](https://higher.gs.com/roles/171563?type=students) |
+| 5 | **Goldman Sachs** | Quantitative Strategist Associate Intern - The Core Quantitative Strats | London, UK | Summer 2027 | 2026-08-15 (1d ago) | [Apply](https://higher.gs.com/roles/175427?type=students) |
 | 6 | **ByteDance** | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | 2026-08-15 (1d ago) | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
 | 7 | **Citadel** | Sector Data Scientist Intern | NYC | Summer 2027 | 2026-08-10 (6d ago) | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) |
 | 8 | **Figma** | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-10 (6d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Bild AI** | AI/Software Engineer Intern | SF | Fall 2026 | 2026-07-21 (26d ago) | [Apply](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) |
 
 ---
-*Generated 2026-08-16 17:21 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-16 21:27 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
