@@ -29,7 +29,7 @@
     "company_name": "Photon",
     "id": "3a2e2c86-3612-46c8-891d-50a65e292f46",
     "title": "Software Engineering Intern - AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3248,7 +3248,7 @@
     "company_name": "RTX",
     "id": "58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7905,7 +7905,7 @@
     "company_name": "RTX",
     "id": "52462af1-1206-44dd-b198-4abe760812d3",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12775,7 +12775,7 @@
     "company_name": "GE Appliances",
     "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
     "title": "Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -18585,7 +18585,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -68981,7 +68981,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -189593,7 +189593,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -277842,6 +277842,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "7fec43ed-10c3-491c-aebc-6951783bab2c",
+    "title": "Statistics Intern - PhD",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1769728557,
+    "date_posted": 1769728557,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990011422616",
+    "locations": [
+      "Livingston, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Paccar",
     "id": "8fa220ae-1af6-49cc-8e0f-3a81c2f68a1b",
@@ -334874,30 +334900,6 @@
       "United States"
     ],
     "company_url": "https://simplify.jobs/c/Oracle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AbbVie",
-    "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
-    "title": "Statistics Intern - PhD",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766222335,
-    "date_posted": 1766222335,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808696",
-    "locations": [
-      "Livingston, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
