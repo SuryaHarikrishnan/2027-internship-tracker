@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Vernova",
+    "id": "7244fd6b-6336-4205-9fc3-64dd353ab215",
+    "title": "GridOS Solution Integration Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786994901,
+    "date_posted": 1786924800,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Edinburgh/GridOS-Solution-Integration--Intern_R5049844-1",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "DiDi Global",
     "id": "04e15531-638a-4578-bc04-9d717f8f01f0",
@@ -1837,7 +1863,7 @@
     "company_name": "Arevon",
     "id": "3df0dee1-2ac5-4bbe-b99a-36f1eeb8f927",
     "title": "Data Science Intern - Interconnection & Transmission",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3099,7 +3125,7 @@
     "company_name": "SAM",
     "id": "4d89d8ce-29c7-48d4-9a03-db3096797ce6",
     "title": "Geomatics Technician Apprentice - Survey and Mapping",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3123,7 +3149,7 @@
     "company_name": "SAM",
     "id": "e683494b-e060-4b63-a084-41f4f799a3be",
     "title": "Geomatics Technician Apprentice - Survey and Mapping",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3147,7 +3173,7 @@
     "company_name": "SAM",
     "id": "4602a786-39e3-49a4-9555-f9f0c95fc992",
     "title": "Geomatics Technician Apprentice - Survey and Mapping",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -3961,7 +3987,7 @@
     "company_name": "Thales",
     "id": "b924c54e-cf62-4ff0-94d6-7f0825398708",
     "title": "Data Engineer Intern - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8537,7 +8563,7 @@
     "company_name": "Nationwide Children's Hospital",
     "id": "151ec5e2-7c37-4215-9ce4-cfcce0e0b56e",
     "title": "IGM Research Intern - RI Miller",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -8818,7 +8844,7 @@
     "company_name": "Noblis",
     "id": "0a010f5a-2087-4191-ae86-601ff587789a",
     "title": "Machinery Silencing Technician Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -16938,7 +16964,7 @@
     "company_name": "Samsara",
     "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2028"
     ],
@@ -44786,7 +44812,7 @@
     "company_name": "National Laboratory of the Rockies",
     "id": "c1d1053c-438a-481e-8375-57149313ea2f",
     "title": "Software and Data Infrastructure Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
