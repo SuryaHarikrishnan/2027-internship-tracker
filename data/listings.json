@@ -1,6 +1,587 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "DiDi Global",
+    "id": "04e15531-638a-4578-bc04-9d717f8f01f0",
+    "title": "Motion Planning Engineer Intern - PhD",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786980281,
+    "date_posted": 1786980062,
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8131863",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DiDi-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ryan Companies",
+    "id": "bff3221b-d0ea-4c07-9c51-4ba9501e3a5c",
+    "title": "Business Intelligence Intern - Mission Critical",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786980241,
+    "date_posted": 1786924800,
+    "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961",
+    "locations": [
+      "Des Moines, IA",
+      "Austin, TX",
+      "Tampa, FL",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Minneapolis, MN",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ryan-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Optiver",
+    "id": "b723e864-0d78-4dec-835e-0f2da12a40db",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786979624,
+    "date_posted": 1786979366,
+    "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Datadog",
+    "id": "47fe2157-ddd3-4233-87d7-cf96058a286d",
+    "title": "Software Engineer Intern - Observability and Security Platform",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1786977431,
+    "date_posted": 1786977339,
+    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+    "locations": [
+      "Boston, MA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Datadog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daktronics",
+    "id": "2d5652ce-87cd-41ef-8453-45d2959aa511",
+    "title": "Firmware/Hardware Design Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1786977361,
+    "date_posted": 1786977305,
+    "url": "https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Brookings, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Datadog",
+    "id": "31355168-e211-42dc-a7b5-c84567c929cc",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1786977361,
+    "date_posted": 1786977338,
+    "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Datadog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Daktronics",
+    "id": "e658f2bd-3684-4904-93bd-12354df5a4de",
+    "title": "Software Design Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1786977361,
+    "date_posted": 1786977303,
+    "url": "https://careers-daktronics.icims.com/jobs/7493/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Brookings, SD",
+      "Rapid City, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daktronics",
+    "id": "acf8f34c-8d43-4ef2-9889-9015ed860c47",
+    "title": "Firmware/Hardware Design Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1786977361,
+    "date_posted": 1786977304,
+    "url": "https://careers-daktronics.icims.com/jobs/7492/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Rapid City, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Canadian Tire",
+    "id": "34101c0f-9710-4470-98d2-e87daabec45b",
+    "title": "Digital Product Owner Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1786977181,
+    "date_posted": 1786924800,
+    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Digital-Product-Owner-Student--4-months----Fall-2026_JR164224",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Canadian-Tire",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rivian",
+    "id": "b6112e21-7193-4107-bf60-6a9ac74a7a62",
+    "title": "FPGA Design Intern - FPGA Design",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786975776,
+    "date_posted": 1786975587,
+    "url": "https://careers.rivian.com/jobs/32954?icims=1",
+    "locations": [
+      "Champaign, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Levi Strauss & Co.",
+    "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
+    "title": "Analytics Intern - eCommerce",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786975220,
+    "date_posted": 1786924800,
+    "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Levi-Strauss-And-Co",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Google",
+    "id": "7e2511aa-764b-4960-9904-c05775bf9bce",
+    "title": "Data Science PhD Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786973761,
+    "date_posted": 1786973581,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "W.W. Grainger",
+    "id": "c101d2aa-a5df-4f4b-b719-e88358c1f874",
+    "title": "Business Systems Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786973456,
+    "date_posted": 1786973311,
+    "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "W.W. Grainger",
+    "id": "bb0509d1-41ed-4c91-ba8b-14fa499ce25c",
+    "title": "Business Intelligence 1 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786973456,
+    "date_posted": 1786973296,
+    "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Intelligence-1-IL-60661-4555/1419931300/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "W.W. Grainger",
+    "id": "367919b2-9f9f-4104-a7e7-811ae0b98c01",
+    "title": "Software Engineer Intern - Grainger Technology Group",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786973453,
+    "date_posted": 1786973318,
+    "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "154ae79b-60c6-40a6-9be2-a48637bb96ff",
+    "title": "Machine Learning Engineer Intern - E-Commerce Governance",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786973042,
+    "date_posted": 1786972912,
+    "url": "https://lifeattiktok.com/search/7674029136531015941",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "e95cee0e-a2ed-44d1-9017-9befd82e1561",
+    "title": "Data Engineer Intern - Data Platform Global Live",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786973042,
+    "date_posted": 1786972909,
+    "url": "https://lifeattiktok.com/search/7674032146438162693",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "d4e10f5f-fe79-4c2f-bee7-b413db703e65",
+    "title": "Data Analyst Intern - LIVE",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786973042,
+    "date_posted": 1786972918,
+    "url": "https://lifeattiktok.com/search/7674944387893791029",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dmg Media",
+    "id": "9f12aa49-d6c0-477e-a5c2-057f17231581",
+    "title": "Editorial Innovation Intern - Innovation Team",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786972501,
+    "date_posted": 1786972330,
+    "url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Dmg-Media",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dayshape",
+    "id": "baec2182-f1a3-471d-b026-bb9c51afb325",
+    "title": "Software Engineer Placement",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1786972501,
+    "date_posted": 1786411944,
+    "url": "https://apply.workable.com/dayshape/j/19F2A4F3F3/apply",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ced14a02-bd75-4f90-8f5e-0c2c7f4573f5",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "9831795d-d949-4a7a-87dd-f11aad5dc0c8",
+    "title": "Software Engineer Intern - Enterprise Technology Services",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786972386,
+    "date_posted": 1786972304,
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "c344d643-aa8d-4d64-a497-67a78ca63dc9",
+    "title": "Software Engineer Intern - Enterprise Technology Services",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1786972383,
+    "date_posted": 1786972303,
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Boom Supersonic",
     "id": "e20e8881-f8a9-45e1-84db-11e452da1606",
@@ -1631,7 +2212,7 @@
     "company_name": "Hershey",
     "id": "269abe35-b7d1-4875-92c4-5b1761663135",
     "title": "Product Development Intern - R&D",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -2801,7 +3382,7 @@
     "company_name": "FAST Enterprises",
     "id": "4c028e78-d6cf-428b-bf6c-595531425a7a",
     "title": "Implementation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -3746,7 +4327,7 @@
     "company_name": "Picton Mahoney Asset Management",
     "id": "a4e3a190-9d69-4f63-b959-816725dea114",
     "title": "Business Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4800,7 +5381,7 @@
     "company_name": "GE Vernova",
     "id": "f34b1f76-8c04-44e3-af69-ab94a7694d4b",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4958,7 +5539,7 @@
     "company_name": "Micron Technology",
     "id": "cd2e5e40-ea42-4af5-9d36-9bebaa190e40",
     "title": "Surface Scientist Intern - Corporate Labs",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5066,7 +5647,7 @@
     "company_name": " CCC Intelligent Solutions",
     "id": "05cc6b19-1ebc-4435-b908-56f4805a54d3",
     "title": "Data Science Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6135,7 +6716,7 @@
     "company_name": "RTX",
     "id": "4e5a3408-a4e1-4fd4-bdc8-f76d25074374",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12468,7 +13049,7 @@
     "company_name": "Ameren",
     "id": "1d141ae3-445d-4c73-a4f0-91e749a0625b",
     "title": "Data Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -12775,7 +13356,7 @@
     "company_name": "GE Appliances",
     "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
     "title": "Engineering Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -25842,7 +26423,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "7b87bfa3-a92f-4b2b-b94d-0a62fcd2df64",
     "title": "ADAS Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -31649,7 +32230,7 @@
     "company_name": "Rivian",
     "id": "c2ae75ae-db63-4c6a-8c96-45db53afbd4c",
     "title": "Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -32803,7 +33384,7 @@
     "company_name": "Tencent",
     "id": "1a2e27d2-16f9-4a71-9f87-70a2b51b8041",
     "title": "AI Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -51349,7 +51930,7 @@
     "company_name": "Susquehanna International Group (SIG)",
     "id": "3cb15cd2-4921-403c-adee-e05fb84c6dda",
     "title": "Quantitative Trader Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -59131,7 +59712,7 @@
     "company_name": "Perplexity AI",
     "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
     "title": "AI Inference Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -334876,30 +335457,6 @@
       "Charlottesville, VA"
     ],
     "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Oracle",
-    "id": "ca02d914-593b-486b-8f1a-3cbedfb545cd",
-    "title": "Advanced Degree Software Engineer Intern - Industries",
-    "active": true,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766247431,
-    "date_posted": 1766247431,
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947",
-    "locations": [
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/Oracle",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

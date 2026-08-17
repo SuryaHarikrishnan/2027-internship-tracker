@@ -1,9 +1,12 @@
-# Hardware Engineering (194)
+# Hardware Engineering (196)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Daktronics](https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Brookings, SD | N/A | 2026-08-17 | 0 | simplify-2026 |
+| [Daktronics](https://careers-daktronics.icims.com/jobs/7492/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Rapid City, SD | N/A | 2026-08-17 | 0 | simplify-2026 |
+| [Rivian](https://careers.rivian.com/jobs/32954?icims=1) | FPGA Design Intern - FPGA Design | Champaign, IL | Fall 2026 | 2026-08-17 | 0 | simplify-2026 |
 | [Boom Supersonic](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) | Engineering and Tech Intern | Centennial, CO | Summer 2027 | 2026-08-16 | 1 | simplify-2026 |
 | [Freeform](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | Software Engineer Intern - Summer 2027 | LA | Summer 2027 | 2026-08-15 | 2 | simplify-2026 |
 | [Epia Neuro](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) | Hardware Engineer Intern | Alameda, CA | Fall 2026 | 2026-08-15 | 2 | simplify-2026 |
@@ -70,7 +73,6 @@
 | [Redwood Materials](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | Embedded Software Engineer Intern | SF | Fall 2026 | 2026-07-29 | 19 | simplify-2026 |
 | [Teledyne](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) | CMOS Co-op | Kitchener, ON, Canada | Fall 2026 | 2026-07-29 | 19 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/73835/job?mobile=true&needsRedirect=false) | Embedded Software Engineer - HOH Fellows - Spouseworks Fellows | Burke, VA | N/A | 2026-07-28 | 20 | simplify-2026 |
-| [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | ADAS Software Engineer Intern | Plymouth, MI | Fall 2026 | 2026-07-28 | 20 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 21 | simplify-2026 |
 | [East Penn Manufacturing Company](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) | Product Engineer Intern | Ann Arbor, MI | Fall 2027 | 2026-07-27 | 21 | simplify-2026 |
 | [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Audiovisual-Services-Assistant--Student-_R4496) | Audiovisual Services Assistant - Student | Washington, DC | N/A | 2026-07-24 | 24 | simplify-2026 |
