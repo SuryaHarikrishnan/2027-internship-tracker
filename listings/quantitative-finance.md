@@ -1,4 +1,4 @@
-# Quantitative Finance (140)
+# Quantitative Finance (149)
 
 [← back to index](../README.md)
 
@@ -9,6 +9,14 @@
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | Quantitative Researcher Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-1) | Capital Markets Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | N/A | 2026-08-17 | 1 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/175424?type=students) | Quantitative Strategist Intern - Multiple Teams | London, UK | Summer 2027 | 2026-08-15 | 3 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/175423?type=students) | Quantitative Strategist Associate Intern - Asset and Wealth Management | London, UK | Summer 2027 | 2026-08-15 | 3 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171566?type=students) | Summer Associate Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 3 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170675?type=students) | Summer Analyst Intern - FICC & Equities - Sales & Trading | London, UK | Summer 2027 | 2026-08-15 | 3 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171563?type=students) | Quantitative Strategist Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 3 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171437?type=students) | Intern - Multiple Teams | London, UK | N/A | 2026-08-15 | 3 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/175427?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | London, UK | Summer 2027 | 2026-08-15 | 3 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/181628?type=students) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | 2026-08-15 | 3 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 | 4 | simplify-2026 |
 | [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 4 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 4 | simplify-2026 |
@@ -51,6 +59,7 @@
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/13945) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-02 | 16 | simplify-2026 |
 | [Maven Securities](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) | Quant Trader Intern | London, UK | Winter 2027, Summer 2027 | 2026-07-31 | 18 | simplify-2026 |
 | [University of Virginia Investment Management Company (UVIMCO)](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) | Investment Analyst Intern | Charlottesville, VA | Summer 2027 | 2026-07-29 | 20 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) | Business Markets Relationship Manager Intern | Bathurst, NB, Canada | Fall 2026 | 2026-07-28 | 21 | simplify-2026 |
 | [Squarepoint Capital](https://boards.greenhouse.io/embed/job_app?token=243853) | Intern Quant Researcher | London, UK, Paris, France, NYC | Fall 2026 | 2026-07-27 | 22 | simplify-2026 |
 | [BlackEdge Capital](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) | Quantitative Developer Intern | Chicago, IL | Winter 2028, Spring 2028, Summer 2028 | 2026-07-24 | 25 | simplify-2026 |
 | [Trillium](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) | Equity Trader Intern | Chicago, IL | Summer 2027 | 2026-07-24 | 25 | simplify-2026 |

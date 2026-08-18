@@ -9,6 +9,7 @@
 | [University of St. Thomas](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false) | Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub | St Paul, MN | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [KOSTAL Group](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225) | Systems Engineering Intern | Troy, MI | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors) | Software Engineering Intern | Clifton, NJ | Fall 2026 | 2026-08-17 | 1 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500/?ats=successfactors) | Integration/Test Engineering Intern | Ashburn, VA | Fall 2026 | 2026-08-17 | 1 | simplify-2026 |
 | [Wabtec](https://jobs.smartrecruiters.com/Wabtec/3743990014629016) | Firmware Engineer Co-op | Waltham, MA | Winter 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [Renesas Electronics](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) | Digital Design Engineer Intern | Duluth, GA | Fall 2026 | 2026-08-17 | 1 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Brookings, SD | N/A | 2026-08-17 | 1 | simplify-2026 |
@@ -95,7 +96,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/276987) | Energy Battery Firmware Intern - Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-07-16 | 33 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8070392) | FPGA Intern | London, UK | Summer 2028 | 2026-07-16 | 33 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/86868?icims=1) | Analog/Mixed-Signal Serdes Design Engineer | Markham, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | N/A | 2026-07-16 | 33 | simplify-2026 |
-| [Amentum](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | Spaceflight Hardware Intern | Houston, TX | Fall 2026 | 2026-07-16 | 33 | simplify-2026 |
 | [Duracell](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | Electronics Tech Intern | Atlanta, GA | Fall 2026 | 2026-07-14 | 35 | simplify-2026 |
 | [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Canton/Automotive-ADAS-Calibration-Technician-Apprentice_R0221001) | Automotive ADAS Calibration Technician Apprentice | Canton, PA | Fall 2026 | 2026-07-14 | 35 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8038923) | FPGA Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 36 | simplify-2026, vanshb03-2026, vanshb03-2027 |

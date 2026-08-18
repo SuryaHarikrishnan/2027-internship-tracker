@@ -1,9 +1,10 @@
-# Software Engineering (524)
+# Software Engineering (527)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Sherwin-Williams](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017) | IT Database Engineer Co-op | Cleveland, OH | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7675128776856029445) | Software Engineer Intern - TikTok Search Data Infra | San Jose, CA | Summer 2027 | 2026-08-18 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7675129440242010421) | Software Engineer Intern - TikTok Search Data Infrastructure | San Jose, CA | Fall 2027 | 2026-08-18 | 0 | simplify-2026 |
 | [University of St. Thomas](https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false) | Digital Innovation & Learning Technology Intern | St Paul, MN | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
@@ -15,6 +16,8 @@
 | [SightCall](https://jobs.smartrecruiters.com/SightCall/80298252) | Web Developer Intern | SF | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [Encephalo Investments](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) | Software Developer Intern | Woodbury, MN | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [Zoomifier](https://jobs.smartrecruiters.com/CustomShow/75886593) | Software Development Intern | NYC | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696) | AI Applications Intern - Group Risk Management | Toronto, ON, Canada | Winter 2027 | 2026-08-18 | 0 | simplify-2026 |
+| [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1) | Full Stack Web Development Co-op - Spring 2027 | Cambridge, MA | Spring 2027 | 2026-08-18 | 0 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914) | Software Engineer Intern - Intelligent Software & Systems | Cambridge, MA | Summer 2027 | 2026-08-18 | 0 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698) | Software Engineering Intern | Cambridge, MA | Summer 2027 | 2026-08-18 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) | Software Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
@@ -96,7 +99,6 @@
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) | Software Engineer Intern - Placement Year | SF | Summer 2027 | 2026-08-13 | 5 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) | Gameplay Programmer Intern | Cary, NC | Fall 2026 | 2026-08-13 | 5 | simplify-2026 |
 | [Teledyne](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | Software Engineer Intern - NHRC | Huntsville, AL | Summer 2027 | 2026-08-13 | 5 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520) | Methods Intern - Hot Section Engineering | East Hartford, CT | Summer 2027 | 2026-08-13 | 5 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | Platform Software Engineer 1 Intern - Full-time Intern Conversion | United States | Fall 2026 | 2026-08-12 | 6 | simplify-2026 |
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | Web Developer/Programmer Intern | Chicago, IL | Fall 2026 | 2026-08-12 | 6 | simplify-2026 |
 | [Felix Magazine](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884) | Web Developer/Programmer Intern | LA | Fall 2026 | 2026-08-12 | 6 | simplify-2026 |
@@ -442,6 +444,7 @@
 | [Super](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application) | Software Engineer Intern - Product - Full-Stack | Toronto, ON, Canada | Fall 2026 | 2026-05-11 | 99 | simplify-2026 |
 | [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040) | Engineering Co-op | Tampa, FL | Summer 2026 | 2026-05-09 | 101 | simplify-2026 |
 | [Acceldata](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply) | Software Engineering Co-op | Kitchener, ON, Canada | Summer 2026 | 2026-05-09 | 101 | simplify-2026 |
+| [Squarepoint Capital](https://boards.greenhouse.io/embed/job_app?token=7905463) | Software Developer Intern | Montreal, QC, Canada | Fall 2026 | 2026-05-07 | 103 | simplify-2026 |
 | [Magnet Forensics](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply) | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | Fall 2026 | 2026-05-06 | 104 | simplify-2026 |
 | [Magnet Forensics](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply) | Software Developer Co-op | Canada, Ottawa, ON, Canada, Kitchener, ON, Canada | Fall 2026 | 2026-05-06 | 104 | simplify-2026 |
 | [Cohere](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | Fall 2026, Winter 2026 | 2026-05-01 | 109 | simplify-2026 |
