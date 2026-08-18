@@ -1,6 +1,165 @@
 [
   {
     "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "d0ef3f91-dcd5-437e-92c9-83432ed6e284",
+    "title": "Product Manager Intern - Business Integrity",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787045114,
+    "date_posted": 1787044952,
+    "url": "https://lifeattiktok.com/search/7673895973460576517",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "5b89096d-a6c7-439f-9d03-ebdd62e2588a",
+    "title": "Data Science Project Intern - Advertisement Team",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787045041,
+    "date_posted": 1787044950,
+    "url": "https://lifeattiktok.com/search/7675080308216154373",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "cf6b0d27-3846-4140-9653-2b514487fa4b",
+    "title": "Category Management Project Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787045041,
+    "date_posted": 1787044951,
+    "url": "https://lifeattiktok.com/search/7674880292247406901",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "5fef5ebc-9956-4edd-8a29-1eee01522d58",
+    "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
+    "active": true,
+    "terms": [
+      "Fall 2027"
+    ],
+    "date_updated": 1787045041,
+    "date_posted": 1787044949,
+    "url": "https://lifeattiktok.com/search/7675129440242010421",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+    "title": "Software Engineer Intern - TikTok Search Data Infra",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787045041,
+    "date_posted": 1787044952,
+    "url": "https://lifeattiktok.com/search/7675128776856029445",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "National Reconnaissance Office",
+    "id": "5fc86d18-cd9e-4d79-9edc-a162318dd4fb",
+    "title": "Summer Internship - Dr. Chris Scolese",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787044741,
+    "date_posted": 1787017152,
+    "url": "https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program",
+    "locations": [
+      "Aurora, CO",
+      "Chantilly, VA",
+      "White Sands Missile Range, NM",
+      "Fort Belvoir, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Reconnaissance-Office",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "L3Harris Technologies",
     "id": "c8239540-af84-491d-8907-13b4bb623874",
@@ -502,7 +661,7 @@
     "company_name": "RTX",
     "id": "c097ad9b-a7e4-469f-a21b-e51a324f6202",
     "title": "Modeling, Simulation & Analysis Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -554,7 +713,7 @@
     "company_name": "RTX",
     "id": "3f4f4fd0-b89f-44c1-a62a-e5aef817d7f4",
     "title": "Systems Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -2861,7 +3020,7 @@
     "company_name": "GE Vernova",
     "id": "7244fd6b-6336-4205-9fc3-64dd353ab215",
     "title": "GridOS Solution Integration Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -5067,7 +5226,7 @@
     "company_name": "RTX",
     "id": "41986a09-1859-46a8-b15d-e6722a502ca7",
     "title": "Radar Digital Products Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -8161,7 +8320,7 @@
     "company_name": "New Balance",
     "id": "c249395f-01c2-45e9-bc84-85cb3cc66408",
     "title": "Sports Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -17376,7 +17535,7 @@
     "company_name": "Zoox",
     "id": "f3263689-d515-4c9c-9631-2adeab1cf950",
     "title": "Triage Student Worker - ASTE",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -26897,7 +27056,7 @@
     "company_name": "Trillium",
     "id": "a00101f6-5c51-4a7d-a424-e3f3a7ac8a16",
     "title": "Equity Trader",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27584,7 +27743,7 @@
     "company_name": "Turner & Townsend",
     "id": "60982936-8c74-4ce2-b381-e2ef98139011",
     "title": "Corporate Responsibility Data Analyst 4 Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -39852,7 +40011,7 @@
     "company_name": "Zoox",
     "id": "c57ba1d3-0591-408a-a691-b05626be84f0",
     "title": "Student Worker - Data Analyst",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -49860,7 +50019,7 @@
     "company_name": "Blue River Technology",
     "id": "5faf35a0-7208-492e-8ae8-bd9bab34001e",
     "title": "Machine Learning Intern - Autonomy",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -193056,7 +193215,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -254796,7 +254955,7 @@
     "company_name": "TikTok",
     "id": "f27a5872-0669-4ba7-b0f2-a1a330f75855",
     "title": "Data Science Project Intern - Advertising Team - 2026 Start",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],

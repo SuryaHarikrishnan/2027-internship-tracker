@@ -1,4 +1,4 @@
-# Quantitative Finance (141)
+# Quantitative Finance (140)
 
 [← back to index](../README.md)
 
@@ -50,7 +50,6 @@
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | Quantitative Research Intern - Markets - Analyst | NYC | Summer 2027 | 2026-08-03 | 15 | simplify-2026 |
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/13945) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-02 | 16 | simplify-2026 |
 | [Maven Securities](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) | Quant Trader Intern | London, UK | Winter 2027, Summer 2027 | 2026-07-31 | 18 | simplify-2026 |
-| [Trillium](https://www.trlm.com/apply/5191110007?gh_jid=5191110007) | Equity Trader | Miami, FL, Chicago, IL, NYC | N/A | 2026-07-30 | 19 | simplify-2026 |
 | [University of Virginia Investment Management Company (UVIMCO)](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) | Investment Analyst Intern | Charlottesville, VA | Summer 2027 | 2026-07-29 | 20 | simplify-2026 |
 | [Squarepoint Capital](https://boards.greenhouse.io/embed/job_app?token=243853) | Intern Quant Researcher | London, UK, Paris, France, NYC | Fall 2026 | 2026-07-27 | 22 | simplify-2026 |
 | [BlackEdge Capital](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) | Quantitative Developer Intern | Chicago, IL | Winter 2028, Spring 2028, Summer 2028 | 2026-07-24 | 25 | simplify-2026 |
