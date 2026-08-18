@@ -1,15 +1,20 @@
-# Software Engineering (512)
+# Software Engineering (523)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [University of St. Thomas](https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false) | Digital Innovation & Learning Technology Intern | St Paul, MN | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
+| [John Deere](https://johndeere.eightfold.ai/careers/job/137482769210) | Product Engineering Student - Product Engineering | Fargo, ND, Illinois | N/A | 2026-08-18 | 0 | simplify-2026 |
+| [John Deere](https://johndeere.eightfold.ai/careers/job/137482779107) | Part-Time Student - IT - Technology | Champaign, IL | N/A | 2026-08-18 | 0 | simplify-2026 |
 | [Riveron](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true) | Technology & Innovation Intern | SF, San Jose, CA | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [RegDesk](https://jobs.smartrecruiters.com/RegDeskInc/92145731) | Front End Developer Intern | Philadelphia, PA | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [iFLIP4](https://jobs.smartrecruiters.com/iFLIP4/75391381) | PHP Programmer Intern - Social Enterprise | East Hanover, NJ | N/A | 2026-08-18 | 0 | simplify-2026 |
 | [SightCall](https://jobs.smartrecruiters.com/SightCall/80298252) | Web Developer Intern | SF | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [Encephalo Investments](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) | Software Developer Intern | Woodbury, MN | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
 | [Zoomifier](https://jobs.smartrecruiters.com/CustomShow/75886593) | Software Development Intern | NYC | Fall 2026 | 2026-08-18 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914) | Software Engineer Intern - Intelligent Software & Systems | Cambridge, MA | Summer 2027 | 2026-08-18 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698) | Software Engineering Intern | Cambridge, MA | Summer 2027 | 2026-08-18 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) | Software Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w) | Technology, Data and Innovation Intern - Technology, Data and Innovation | NYC | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1) | Aerospace Engineering Engines Co-op - Computer or Software Engineering | Lynn, MA, Evendale, OH | Fall 2027 | 2026-08-17 | 1 | simplify-2026 |
@@ -25,6 +30,12 @@
 | [Dmg Media](https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320) | Editorial Innovation Intern - Innovation Team | London, UK | Fall 2026 | 2026-08-17 | 1 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | Software Engineer Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555) | Software Developer Co-op - Technology & Operations | Toronto, ON, Canada | N/A | 2026-08-17 | 1 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491) | Technology and Operations Developer Co-op - Software Developer | Toronto, ON, Canada | N/A | 2026-08-17 | 1 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501) | Developer Co-op - Multiple Roles | Toronto, ON, Canada, Calgary, AB, Canada | N/A | 2026-08-17 | 1 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676) | Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | N/A | 2026-08-17 | 1 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-1) | Quantitative Technology Services Co-op - Qts - Software Developer | Toronto, ON, Canada | N/A | 2026-08-17 | 1 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146) | Software Engineer Intern - Spring 2027 | Melbourne, FL | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557) | GMU Scholar Program Intern | Sterling, VA | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [Dee Zee](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368) | Software Development Intern | Des Moines, IA | Summer 2027 | 2026-08-17 | 1 | simplify-2026 |
 | [American Fidelity](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Mobile-Intern--OKC-Local-Only-_JR1021) | Software Mobile Intern | Oklahoma City, OK | Winter 2027 | 2026-08-17 | 1 | simplify-2026 |
