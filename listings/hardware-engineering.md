@@ -1,9 +1,11 @@
-# Hardware Engineering (206)
+# Hardware Engineering (207)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Normal Computing](https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true) | Thermodynamic Hardware Resident | Palo Alto, CA, Silicon Valley, CA, NYC | Fall 2026 | 2026-08-19 | 0 | simplify-2026 |
+| [KBR](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Phoenix-Arizona/XMLNAME--SkillBridge-Only--Metrology-Technician_R2128295) | Metrology Technician | Torrance, CA, Phoenix, AZ, Rocky Mount, NC, Olathe, KS, South Bend, IN | N/A | 2026-08-19 | 0 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7891460003) | Long Range Platform Hardware Engineering Intern | South SF | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7891459003) | Long Range Platform Embedded Firmware Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32919/1420708400/?ats=successfactors) | Software Engineer Intern | Melbourne, FL | Fall 2026 | 2026-08-18 | 1 | simplify-2026 |
@@ -209,4 +211,3 @@
 | [Etched](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application) | RTL Intern | San Jose, CA | Summer 2026 | 2026-02-07 | 193 | simplify-2026 |
 | [Etched.ai](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application) | Firmware Intern - Firmware | San Jose, CA | Summer 2026 | 2026-02-07 | 193 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007) | Formal Verification Intern | Austin, TX | Summer 2026 | 2026-01-16 | 215 | simplify-2026 |
-| [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | Embedded Software Developer – Network/Payload Software Intern | SF | Fall 2026 | 2025-12-31 | 231 | simplify-2026 |

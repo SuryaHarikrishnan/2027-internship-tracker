@@ -1,9 +1,10 @@
-# Software Engineering (543)
+# Software Engineering (544)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556962891) | AI Software Engineer Intern | Redmond, WA, Mountain View, CA | Fall 2026 | 2026-08-19 | 0 | simplify-2026 |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/ViIK3m47ik/Student-Web-Developer-Assistant) | Web Developer Assistant - Enterprise Application Support | North Logan, UT | N/A | 2026-08-18 | 1 | simplify-2026 |
 | [Garda Capital Partners](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | Software Engineer Intern | NYC | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7893926003) | Enterprise Systems Software Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-18 | 1 | simplify-2026 |

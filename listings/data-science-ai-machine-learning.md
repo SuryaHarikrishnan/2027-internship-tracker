@@ -1,9 +1,11 @@
-# Data Science, AI & Machine Learning (648)
+# Data Science, AI & Machine Learning (651)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [ByteDance](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | 2026-08-19 | 0 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | 2026-08-19 | 0 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7675376319236311349/detail) | Immigration Data Analyst Intern - Hrops | Seattle, WA | Summer 2026 | 2026-08-19 | 0 | simplify-2026 |
 | [Nextiva](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002) | Marketing Intern - Data Science | Scottsdale, AZ | Fall 2026 | 2026-08-19 | 0 | simplify-2026 |
 | [Snorkel AI](https://job-boards.greenhouse.io/snorkelai/jobs/6146378004) | AI Researcher Intern | NYC | Fall 2026 | 2026-08-18 | 1 | simplify-2026 |
@@ -22,6 +24,8 @@
 | [Fannie Mae](https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704) | Business Analysis Associate Intern - Access Management | SF | Fall 2026 | 2026-08-18 | 1 | simplify-2026 |
 | [Clinical Ink](https://jobs.smartrecruiters.com/ClinicalInk/89163444) | Data Management Intern | Horsham, PA | Fall 2026 | 2026-08-18 | 1 | simplify-2026 |
 | [Huck Adventures](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Research Analyst Intern | Boulder, CO | Summer 2026, Fall 2026, Winter 2027 | 2026-08-18 | 1 | simplify-2026 |
+| [Continental Resources](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1) | Data Analyst Intern | Oklahoma City, OK | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
+| [Continental Resources](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1) | Geoscience Intern | Oklahoma City, OK | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
 | [PricewaterhouseCoopers (PwC)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/May-2027---Cloud--Data-and-AI---Summer-Intern---Vancouver_752583WD) | Cloud, Data and AI Intern - Cloud, Data and AI | Vancouver, BC, Canada | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
 | [PricewaterhouseCoopers (PwC)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) | Cloud, Data and AI Intern | Ottawa, ON, Canada | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
 | [PricewaterhouseCoopers (PwC)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---Cloud--Data-and-AI---Summer-Intern---Calgary_752586WD) | Cloud, Data and AI Intern | Calgary, AB, Canada | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
@@ -636,7 +640,6 @@
 | [RESPEC](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | Student Engineering Intern - Data Science | Rapid City, SD | Summer 2026 | 2026-02-03 | 197 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7602395891774802181) | Data Science Intern - Advertisement Team - 2026 Start','PhD | San Jose, CA | Summer 2026 | 2026-02-03 | 197 | simplify-2026 |
 | [Cresta](https://job-boards.greenhouse.io/cresta/jobs/5106468008) | Forward Deployed Engineering Intern - AI Agent | Remote in Canada | Summer 2026 | 2026-02-03 | 197 | simplify-2026 |
-| [ASM Global](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | Summer Associate - Enterprise AI & Insights - 8 Week Program | Remote in USA | Summer 2026 | 2026-02-03 | 197 | simplify-2026 |
 | [Equifax](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) | Data & Analytics Intern | Alpharetta, GA | Summer 2026 | 2026-01-29 | 202 | simplify-2026 |
 | [Black Box](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523) | AI Intern USA | Plano, TX | Spring 2026 | 2026-01-27 | 204 | simplify-2026 |
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56635) | AI Engineer Intern - BCG X | London, UK | Spring 2026 | 2026-01-24 | 207 | simplify-2026 |

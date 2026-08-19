@@ -1,6 +1,198 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "b5b15050-2287-4ebf-8a26-f0745c794fd3",
+    "title": "AI Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787128144,
+    "date_posted": 1787127974,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+    "locations": [
+      "Redmond, WA",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Normal Computing",
+    "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
+    "title": "Thermodynamic Hardware Resident",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787128138,
+    "date_posted": 1787127897,
+    "url": "https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true",
+    "locations": [
+      "Palo Alto, CA",
+      "Silicon Valley, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/NormalComputing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "20db6da0-8e69-4119-8287-080208c765ec",
+    "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787127841,
+    "date_posted": 1787127714,
+    "url": "https://jobs.bytedance.com/en/position/7675478684795881781/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "19652a32-abb6-4c77-8971-0c6514ed8034",
+    "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787127841,
+    "date_posted": 1787127715,
+    "url": "https://jobs.bytedance.com/en/position/7675477254269765941/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Continental Resources",
+    "id": "efcdcda1-4aa4-492b-a092-21d30c45cee1",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787120101,
+    "date_posted": 1787011200,
+    "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Continental-Resources",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Continental Resources",
+    "id": "9cb9b03d-58cf-4a89-ad3c-6b921fb45db5",
+    "title": "Geoscience Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787120101,
+    "date_posted": 1787011200,
+    "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Continental-Resources",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "KBR",
+    "id": "5773378a-e5f4-4eb4-88d3-e6ed08562a82",
+    "title": "Metrology Technician",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787119888,
+    "date_posted": 1787097600,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Phoenix-Arizona/XMLNAME--SkillBridge-Only--Metrology-Technician_R2128295",
+    "locations": [
+      "Torrance, CA",
+      "Phoenix, AZ",
+      "Rocky Mount, NC",
+      "Olathe, KS",
+      "South Bend, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "ByteDance",
     "id": "4787855b-e024-4938-a00f-7829fac9f8db",
@@ -5198,7 +5390,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5490,7 +5682,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -5514,7 +5706,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -5538,7 +5730,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -5593,7 +5785,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -171182,7 +171374,7 @@
     "company_name": "Copart",
     "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
     "title": "Technology Product Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -273978,7 +274170,7 @@
     "company_name": "ASM Global",
     "id": "ae2d9193-c8c6-4c71-9933-75362edaf7cf",
     "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -333507,7 +333699,7 @@
     "company_name": "Astranis",
     "id": "6051b759-5f65-455e-874b-26ea6f910a34",
     "title": "Embedded Software Developer \u2013 Network/Payload Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
