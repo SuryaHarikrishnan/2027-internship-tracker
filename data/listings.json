@@ -2,6 +2,86 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Marmon Holdings",
+    "id": "b31bb072-a6b6-48b7-b762-03f1b353fdf8",
+    "title": "Data & Process Automation Intern - Duty Drawback",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787147281,
+    "date_posted": 1787097600,
+    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "InfiniteQuant",
+    "id": "480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
+    "title": "Quantitative Developer Internship - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787147178,
+    "date_posted": 1787139474,
+    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
+    "locations": [
+      "Dubai - United Arab Emirates",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/InfiniteQuant",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Flagright",
+    "id": "b5555ab8-6ef3-4ef5-9be9-74a2dfd8311f",
+    "title": "Product Operations Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787146381,
+    "date_posted": 1787146371,
+    "url": "https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Flagright",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "NVIDIA",
     "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
     "title": "Ph.D. Research Autonomous Vehicles Intern",
@@ -2338,7 +2418,7 @@
     "company_name": "National Reconnaissance Office",
     "id": "5fc86d18-cd9e-4d79-9edc-a162318dd4fb",
     "title": "Summer Internship - Dr. Chris Scolese",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4321,7 +4401,7 @@
     "company_name": "Thomson Reuters",
     "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
     "title": "Applied Research Intern - NLP/ML/GenAI",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -17708,7 +17788,7 @@
     "company_name": "Northrop Grumman",
     "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
     "title": "Software Engineer Intern - Aeronautics Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -19501,7 +19581,7 @@
     "company_name": "Magna",
     "id": "867db835-a4f8-43bf-85e3-5a7430b868f7",
     "title": "Warranty Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -33535,7 +33615,7 @@
     "company_name": "American University",
     "id": "a038ee64-00b2-435e-8318-90254ba95b10",
     "title": "Audiovisual Services Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -42162,7 +42242,7 @@
     "company_name": "Vega Investment Technologies",
     "id": "7dafcd00-57dc-437d-ad40-cc064eb2bea8",
     "title": "Product Operations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -114758,6 +114838,33 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "bcab2c09-0236-40bc-bd04-e337d63d4333",
+    "title": "Software Design Co-op/Intern",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1777511521,
+    "date_posted": 1777511345,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34731",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
     ],
     "_sources": [
       "simplify-2026"
@@ -329758,32 +329865,6 @@
     "sponsorship": "Does Not Offer Sponsorship",
     "active": false,
     "degrees": [
-      "Master's"
-    ],
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/03aa9fec-d569-4a57-9aae-67959e48fd74",
-    "company_name": "ServiceNow",
-    "title": "Technical AI Architect Intern (Master's Degree)",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "AlmondCroffle",
-    "id": "1c53749a-9d9f-442c-8e81-1361c5671954",
-    "date_posted": 1766410735,
-    "company_url": "",
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1767712029,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
       "Bachelor's"
     ],
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7471872",
@@ -340312,81 +340393,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Nokia",
-    "id": "6182ea66-1e56-4555-ae2a-ef6b6162888f",
-    "title": "Cloud AI-RAN R&D Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1766420551,
-    "date_posted": 1766420551,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28498",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "3e2790a0-da8d-4dbe-a24b-673bd4c639e1",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1766420534,
-    "date_posted": 1766420534,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000100086635",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Nokia",
-    "id": "3032eac0-d6f1-439a-aa74-0b69536094e0",
-    "title": "Software Design Co-op/Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766419770,
-    "date_posted": 1766419770,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28893",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

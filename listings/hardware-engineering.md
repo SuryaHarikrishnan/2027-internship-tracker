@@ -1,4 +1,4 @@
-# Hardware Engineering (214)
+# Hardware Engineering (215)
 
 [← back to index](../README.md)
 
@@ -103,6 +103,7 @@
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/73835/job?mobile=true&needsRedirect=false) | Embedded Software Engineer - HOH Fellows - Spouseworks Fellows | Burke, VA | N/A | 2026-07-28 | 22 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 23 | simplify-2026 |
 | [East Penn Manufacturing Company](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) | Product Engineer Intern | Ann Arbor, MI | Fall 2027 | 2026-07-27 | 23 | simplify-2026 |
+| [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Audiovisual-Services-Assistant--Student-_R4496) | Audiovisual Services Assistant - Student | Washington, DC | N/A | 2026-07-24 | 26 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1) | Surgery Field Engineer Apprentice | Austin, TX, San Antonio, TX | Fall 2026 | 2026-07-24 | 26 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-07-22 | 28 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | FPGA Engineer Intern | Austin, TX | Summer 2027 | 2026-07-21 | 29 | simplify-2026 |

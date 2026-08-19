@@ -1,9 +1,10 @@
-# Quantitative Finance (147)
+# Quantitative Finance (148)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | Quantitative Developer Internship - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-19 | 0 | simplify-2026 |
 | [Zuckerman Investment Group](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | Investment Analyst Intern - MBA | Chicago, IL | Fall 2026 | 2026-08-18 | 1 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830) | Quantitative Technology Services Co-op - QTS - Software Developer | Bedford, NS, Canada | N/A | 2026-08-18 | 1 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8721562002) | Quantitative Developer Intern | NYC | Winter 2027 | 2026-08-17 | 2 | simplify-2026 |

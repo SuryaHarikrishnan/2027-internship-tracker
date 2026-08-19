@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 1 | simplify-2026 |
 | [Filtration Group](https://careers-filtrationgroupcorp.icims.com/jobs/7379/job?mobile=true&needsRedirect=false) | Product Development Intern - Material Science | Chicopee, MA | Fall 2026 | 2026-08-18 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673895973460576517) | Product Manager Intern - Business Integrity | Seattle, WA | Summer 2026 | 2026-08-18 | 1 | simplify-2026 |
@@ -59,7 +60,6 @@
 | [k-ID](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | Product Intern | United States | Fall 2026 | 2026-07-21 | 29 | simplify-2026 |
 | [LightGuide, Inc.](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) | Product Innovation Co-op | Wixom, MI | Fall 2026 | 2026-07-21 | 29 | simplify-2026 |
 | [Hubs.is](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Product Intern | Remote in USA | Fall 2026 | 2026-07-21 | 29 | simplify-2026 |
-| [Vega Investment Technologies](https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-07-20 | 30 | simplify-2026 |
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 34 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) | Global Product Intern | Wilmington, DE | Fall 2026 | 2026-07-15 | 35 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657728959042046213) | Product Manager Intern - TikTok Ads Agent-Scaled Growth | San Jose, CA | Fall 2026 | 2026-07-07 | 43 | simplify-2026 |
