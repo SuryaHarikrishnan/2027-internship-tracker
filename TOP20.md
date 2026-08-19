@@ -8,12 +8,12 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) |
-| 2 | **Microsoft** | AI Software Engineer Intern | Redmond, WA, Mountain View, CA | Fall 2026 | 2026-08-19 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556962891) |
+| 1 | **Microsoft** | AI for Science Resident - Machine Learning | Cambridge, UK, Berlin, Germany | Fall 2026 | 2026-08-19 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556871066) |
+| 2 | **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) |
 | 3 | **Google** | Research Scientist PhD Intern | London, UK | Summer 2027 | 2026-08-17 (2d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) |
 | 4 | **Datadog** | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | 2026-08-17 (2d ago) | [Apply](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) |
-| 5 | **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | 2026-08-19 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7675478684795881781/detail) |
-| 6 | **TikTok** | Product Manager Intern - Business Integrity | Seattle, WA | Summer 2026 | 2026-08-18 (1d ago) | [Apply](https://lifeattiktok.com/search/7673895973460576517) |
+| 5 | **TikTok** | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA | Summer 2027 | 2026-08-19 (0d ago) | [Apply](https://lifeattiktok.com/search/7670875283026053381) |
+| 6 | **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | 2026-08-19 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7675478684795881781/detail) |
 | 7 | **Deloitte** | Forensic Analytics Summer Scholar Intern - Forensic Analytics | Atlanta, GA | Summer 2027 | 2026-08-18 (1d ago) | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251) |
 | 8 | **Notion** | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-15 (4d ago) | [Apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) |
 | 9 | **Jane Street** | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 (5d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (46d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
 
 ---
-*Generated 2026-08-19 17:28 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-19 21:32 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

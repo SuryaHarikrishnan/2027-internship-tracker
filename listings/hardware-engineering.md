@@ -1,9 +1,10 @@
-# Hardware Engineering (215)
+# Hardware Engineering (216)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Kepler Communications](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply) | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | Winter 2027 | 2026-08-19 | 0 | simplify-2026 |
 | [Normal Computing](https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true) | Thermodynamic Hardware Resident | Palo Alto, CA, Silicon Valley, CA, NYC | Fall 2026 | 2026-08-19 | 0 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | Hardware ASIC Design Intern - Hardware | Santa Clara, CA | Summer 2027 | 2026-08-19 | 0 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Hardware Engineering Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 0 | simplify-2026 |
@@ -33,7 +34,6 @@
 | [Brookhaven Lab](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---Machine-Learning-for-ASIC-Design_JR102642) | Student Assistant - Machine Learning for ASIC Design | Upton, Brookhaven, NY | N/A | 2026-08-18 | 1 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors) | Software Engineering Intern | Clifton, NJ | Fall 2026 | 2026-08-17 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500/?ats=successfactors) | Integration/Test Engineering Intern | Ashburn, VA | Fall 2026 | 2026-08-17 | 2 | simplify-2026 |
-| [Renesas Electronics](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) | Digital Design Engineer Intern | Duluth, GA | Fall 2026 | 2026-08-17 | 2 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Brookings, SD | N/A | 2026-08-17 | 2 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7492/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Rapid City, SD | N/A | 2026-08-17 | 2 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/32954?icims=1) | FPGA Design Intern - FPGA Design | Champaign, IL | Fall 2026 | 2026-08-17 | 2 | simplify-2026 |
@@ -45,6 +45,7 @@
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482724189) | Product Engineering Student - Product Engineering | Silvis, IL, Ames, IA | N/A | 2026-08-14 | 5 | simplify-2026 |
 | [MSA Safety](https://careers.msasafety.com/jobs/9992?icims=1) | Software Engineer Co-op - Product Development | Cranberry Township, PA | Spring 2027 | 2026-08-14 | 5 | simplify-2026 |
 | [True Anomaly](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) | GSE Engineering Intern | Long Beach, CA, Denver, CO | Fall 2026 | 2026-08-14 | 5 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281) | Electrical Engineering Intern | Tewksbury, MA | Summer 2027 | 2026-08-14 | 5 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) | Software Engineering Intern | Tucson, AZ | Summer 2027 | 2026-08-14 | 5 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) | Software Engineer Intern | East Hartford, CT | Summer 2027 | 2026-08-14 | 5 | simplify-2026 |
 | [Valeo](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) | Software Engineer Intern | Troy, MI | Fall 2026 | 2026-08-14 | 5 | simplify-2026 |
