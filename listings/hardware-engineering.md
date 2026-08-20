@@ -1,4 +1,4 @@
-# Hardware Engineering (216)
+# Hardware Engineering (212)
 
 [← back to index](../README.md)
 
@@ -29,7 +29,6 @@
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700/?ats=successfactors) | Software Engineer Intern | Herndon, VA | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors) | Software Engineer Intern 3 | Colorado Springs, CO | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors) | Software Engineer Intern | Colorado Springs, CO | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
-| [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214748007) | Hardware Engineer Intern | Bentonville, AR | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
 | [Avery Dennison](https://jobs.smartrecruiters.com/AveryDennison/744000144153141) | RFID Applications Engineer Co-op - Summer 2027 - Plus one semester | Miamisburg, OH | Summer 2027 | 2026-08-18 | 2 | simplify-2026 |
 | [Wabtec](https://jobs.smartrecruiters.com/Wabtec/3743990014655843) | Digital Intern | Erie, PA | Summer 2027 | 2026-08-18 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | Software Engineer Intern | Palm Bay, FL | Summer 2026 | 2026-08-18 | 2 | simplify-2026 |
@@ -73,7 +72,6 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | DRAM IP Circuits Design Engineer Intern - IP Development | Boise, ID | Fall 2026 | 2026-08-10 | 10 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | DRAM Design Engineer Intern | Boise, ID | Fall 2026 | 2026-08-10 | 10 | simplify-2026 |
 | [HyperLight](https://apply.workable.com/hyperlight/j/498D9988C8/apply) | Integrated Photonics Intern | Cambridge, MA | Summer 2026, Fall 2026 | 2026-08-08 | 12 | simplify-2026 |
-| [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) | Firmware Engineer Intern - Platform Firmware | Boston, MA, Seattle, WA | Summer 2026 | 2026-08-07 | 13 | simplify-2026 |
 | [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) | Flight Software Intern - Spring 2027 | El Segundo, CA | Spring 2027 | 2026-08-07 | 13 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/TXI-Tech-Intern--Texas-Immersive-Institute--Moody-College-of-Communication--Open-to-Work-Study-_R_00047950) | Technology Intern - Texas Immersive Institute - Moody College of Communication | Austin, TX | Summer 2026 | 2026-08-07 | 13 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Fall 2026 | 2026-08-07 | 13 | simplify-2026 |
@@ -109,7 +107,6 @@
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1) | Surgery Field Engineer Apprentice | Austin, TX, San Antonio, TX | Fall 2026 | 2026-07-24 | 27 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-07-22 | 29 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | FPGA Engineer Intern | Austin, TX | Summer 2027 | 2026-07-21 | 30 | simplify-2026 |
-| [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) | Firmware Engineering Internship | Boston, MA, Seattle, WA | Summer 2026 | 2026-07-21 | 30 | simplify-2026 |
 | [Revise Robotics](https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true) | Engineer Intern | NYC | Summer 2026, Fall 2026 | 2026-07-21 | 30 | simplify-2026 |
 | [Terranova](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da/application?embed=true) | Embedded Systems Intern | Berkeley, CA | Fall 2026 | 2026-07-21 | 30 | simplify-2026 |
 | [Odin Dynamics, Inc](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) | Engineering Intern | LA | Fall 2026 | 2026-07-21 | 30 | simplify-2026 |
@@ -165,7 +162,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/270618) | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270778) | Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms | Palo Alto, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271981) | Electronic Design Engineer Intern - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/272462) | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CA, Austin, TX | Summer 2026, Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272581) | Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270067) | Embedded Software Engineer Intern - Keys & Authentication | Palo Alto, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270354) | Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |

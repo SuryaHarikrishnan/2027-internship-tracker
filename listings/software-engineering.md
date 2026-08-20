@@ -1,4 +1,4 @@
-# Software Engineering (558)
+# Software Engineering (555)
 
 [← back to index](../README.md)
 
@@ -166,7 +166,6 @@
 | [Hiebing](http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern) | AI Agent Developer Intern | Madison, WI | Summer 2026 | 2026-08-10 | 10 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670839727059339525) | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | Summer 2027 | 2026-08-10 | 10 | simplify-2026 |
 | [LPL Financial Holdings](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | Software Engineer Intern | Austin, TX, Fort Mill, SC, Charlotte, NC | Summer 2027 | 2026-08-10 | 10 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158) | Software Engineer Intern - Summer 2027 | Marlborough, MA | Summer 2027 | 2026-08-10 | 10 | simplify-2026 |
 | [ProNexus](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply) | Software Engineer Intern | Remote in USA | Fall 2026 | 2026-08-08 | 12 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7671147251943213317/detail) | Software Development Engineer Intern - Network Automation - 2027 Summer | San Jose, CA | Summer 2027 | 2026-08-08 | 12 | simplify-2026 |
 | [Trillium](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) | Software Engineer Intern - Summer 2027 | NYC | Summer 2027 | 2026-08-07 | 13 | simplify-2026 |
@@ -298,7 +297,6 @@
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | Research Engineering Intern | State College, PA | Fall 2026 | 2026-07-22 | 29 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Software Engineer Intern - Software Engineer | Austin, TX, NYC | Summer 2027 | 2026-07-21 | 30 | simplify-2026 |
 | [ShyftLabs](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | AI Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-21 | 30 | simplify-2026 |
-| [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | Software Engineering Intern | Boston, MA, Seattle, WA | Summer 2027 | 2026-07-21 | 30 | simplify-2026 |
 | [SpreeAI ](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | Software Engineer Intern | SF | Fall 2026 | 2026-07-21 | 30 | simplify-2026 |
 | [SpreeAI ](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web | SF | Fall 2026 | 2026-07-21 | 30 | simplify-2026 |
 | [k-ID](https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true) | Engineering Intern - Program | United States | Fall 2026 | 2026-07-21 | 30 | simplify-2026 |
@@ -437,7 +435,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/257048) | Physics Engine Development Intern - Physics Engine Development Engineer - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/260382) | Software Engineer Intern - Software Engineer - AI Hardware Infrastructure | Palo Alto, CA | Fall 2026, Summer 2026, Winter 2027, Spring 2027 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272615) | Software Engineer Intern - Site Controller Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/270063) | Software Engineer Intern - Vehicle UI Development | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270497) | Software Engineer Intern - Software Engineer - Information Security | Bellevue, WA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/271209) | Software Engineer Intern - Software Engineer - IT Apps | Fremont, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/266986) | Software Engineer Intern - Linux Update Systems | Palo Alto, CA | Fall 2026 | 2026-06-07 | 74 | simplify-2026 |
