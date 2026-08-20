@@ -1,4 +1,4 @@
-# Quantitative Finance (153)
+# Quantitative Finance (150)
 
 [← back to index](../README.md)
 
@@ -17,7 +17,6 @@
 | [Goldman Sachs](https://higher.gs.com/roles/175424?type=students) | Quantitative Strategist Intern - Multiple Teams | London, UK | Summer 2027 | 2026-08-15 | 5 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/175423?type=students) | Quantitative Strategist Associate Intern - Asset and Wealth Management | London, UK | Summer 2027 | 2026-08-15 | 5 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171566?type=students) | Summer Associate Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 5 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/170675?type=students) | Summer Analyst Intern - FICC & Equities - Sales & Trading | London, UK | Summer 2027 | 2026-08-15 | 5 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171563?type=students) | Quantitative Strategist Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 5 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171437?type=students) | Intern - Multiple Teams | London, UK | N/A | 2026-08-15 | 5 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/175427?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | London, UK | Summer 2027 | 2026-08-15 | 5 | simplify-2026 |
@@ -25,7 +24,6 @@
 | [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 6 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 6 | simplify-2026 |
 | [Readystate Asset Management](https://job-boards.greenhouse.io/readystate/jobs/4171077008) | Investment Intern - Summer 2027 & 2028 | Chicago, IL | Summer 2027, Summer 2028 | 2026-08-13 | 7 | simplify-2026 |
-| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | Quantitative Developer Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-13 | 7 | simplify-2026 |
 | [VWH Capital Management](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | Quantitative Researcher Intern | Dallas, TX | Fall 2026 | 2026-08-13 | 7 | simplify-2026 |
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000141124349) | Quantitative Analytics Development Program Intern | SF | N/A | 2026-08-13 | 7 | simplify-2026 |
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) | Investment Analyst Intern | SF | Summer 2027 | 2026-08-13 | 7 | simplify-2026 |
@@ -94,7 +92,6 @@
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7668776) | Quantitative Trading Analyst Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 38 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) | Quantitative Trading Intern | London, UK, Paris, France | Summer 2026 | 2026-07-13 | 38 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | Rates Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 38 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | Investment & Trading Intern | London, UK, Paris, France | Fall 2026 | 2026-07-13 | 38 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Quantitative Research Engineer Intern | London, UK | Summer 2026 | 2026-07-13 | 38 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8050772) | Campus Quantitative Trader Intern | London, UK | Fall 2026 | 2026-07-13 | 38 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8059384) | Campus Quantitative Researcher M1/M2 Intern | London, UK | Fall 2026 | 2026-07-13 | 38 | simplify-2026 |

@@ -2,6 +2,84 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "a908b011-3049-4c5c-831e-b0a4e17ddebf",
+    "title": "Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787217481,
+    "date_posted": 1787217439,
+    "url": "https://lifeattiktok.com/search/7675847556668295429",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "79ddabd2-cd14-4fd6-8aec-f82858b2190e",
+    "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787217481,
+    "date_posted": 1787217444,
+    "url": "https://lifeattiktok.com/search/7675845333947812149",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SOCOTEC UK & Ireland",
+    "id": "02476878-55a1-477c-94ee-6d818bddf0af",
+    "title": "Summer Intern - Innovations Team",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787216581,
+    "date_posted": 1787216581,
+    "url": "https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989",
+    "locations": [
+      "Altrincham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SOCOTEC-UK-And-Ireland",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Boston Consulting Group",
     "id": "08532603-7472-48a9-a825-fef3a7108472",
     "title": "Forward Deployed AI Scientist",
@@ -412,7 +490,7 @@
     "company_name": "Boston Consulting Group",
     "id": "f6f17706-f32e-4624-8175-889945a160e5",
     "title": "Forward Deployed AI Engineer - Campus",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1467,7 +1545,7 @@
     "company_name": "NVIDIA",
     "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
     "title": "Ph.D. Research Autonomous Vehicles Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1849,7 +1927,7 @@
     "company_name": "NVIDIA",
     "id": "2698abcf-1f94-40b6-9881-1b14c416262f",
     "title": "Computer Architecture Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3508,7 +3586,7 @@
     "company_name": "Assurant",
     "id": "5e9fd1d4-a28c-46fb-96eb-f4a461df16b8",
     "title": "Digital & AI Transformation Intern 1 - Internship Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4272,7 +4350,7 @@
     "company_name": "RTX",
     "id": "40569998-45dc-4119-b2ea-2f11366a604f",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4510,7 +4588,7 @@
     "company_name": "Riveron",
     "id": "6359c80a-9d69-4dcc-9607-0b4506269693",
     "title": "Technology & Innovation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7479,7 +7557,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7764,7 +7842,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10824,7 +10902,7 @@
     "company_name": "InfiniteQuant",
     "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
     "title": "Quantitative Developer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13472,7 +13550,7 @@
     "company_name": "RTX",
     "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -40300,7 +40378,7 @@
     "company_name": "Keysight Technologies",
     "id": "94d15250-b26f-43ee-8091-069b19db76c3",
     "title": "AI/ML Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -41808,7 +41886,7 @@
     "company_name": "k-ID",
     "id": "a00e4b08-8ddd-417a-8de5-07d284def8c3",
     "title": "Product Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -48867,7 +48945,7 @@
     "company_name": "Citadel",
     "id": "78885859-7ae3-42cc-a2db-f5d8aff6bfc7",
     "title": "Investment & Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -262463,7 +262541,7 @@
     "company_name": "ByteDance",
     "id": "d682d247-adfc-4dad-8a92-2194c9d88119",
     "title": "Software Engineer Project Intern - Security Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
