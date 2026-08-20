@@ -1,4 +1,4 @@
-# Hardware Engineering (218)
+# Hardware Engineering (216)
 
 [← back to index](../README.md)
 
@@ -49,7 +49,6 @@
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482724189) | Product Engineering Student - Product Engineering | Silvis, IL, Ames, IA | N/A | 2026-08-14 | 6 | simplify-2026 |
 | [MSA Safety](https://careers.msasafety.com/jobs/9992?icims=1) | Software Engineer Co-op - Product Development | Cranberry Township, PA | Spring 2027 | 2026-08-14 | 6 | simplify-2026 |
 | [True Anomaly](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) | GSE Engineering Intern | Long Beach, CA, Denver, CO | Fall 2026 | 2026-08-14 | 6 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281) | Electrical Engineering Intern | Tewksbury, MA | Summer 2027 | 2026-08-14 | 6 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) | Software Engineering Intern | Tucson, AZ | Summer 2027 | 2026-08-14 | 6 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) | Software Engineer Intern | East Hartford, CT | Summer 2027 | 2026-08-14 | 6 | simplify-2026 |
 | [Valeo](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) | Software Engineer Intern | Troy, MI | Fall 2026 | 2026-08-14 | 6 | simplify-2026 |
@@ -102,7 +101,6 @@
 | [LightGuide, Inc.](https://ats.rippling.com/lightguide/jobs/37069bc9-a6ba-4841-97fb-b7d743826af0) | Application Engineering Co-op | Wixom, MI | Fall 2026 | 2026-07-30 | 21 | simplify-2026 |
 | [University of Rochester](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-1_R273410) | Research Co-op | Rochester, NY | Fall 2026 | 2026-07-30 | 21 | simplify-2026 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) | Engineering Intern | Kanata, Ottawa, ON, Canada | Fall 2026 | 2026-07-30 | 21 | simplify-2026 |
-| [Redwood Materials](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | Embedded Software Engineer Intern | SF | Fall 2026 | 2026-07-29 | 22 | simplify-2026 |
 | [Teledyne](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) | CMOS Co-op | Kitchener, ON, Canada | Fall 2026 | 2026-07-29 | 22 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/73835/job?mobile=true&needsRedirect=false) | Embedded Software Engineer - HOH Fellows - Spouseworks Fellows | Burke, VA | N/A | 2026-07-28 | 23 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 24 | simplify-2026 |

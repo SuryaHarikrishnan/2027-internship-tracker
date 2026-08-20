@@ -2,6 +2,213 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Freeform",
+    "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
+    "title": "Materials Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787238936,
+    "date_posted": 1787188150,
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/FreeformFuture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pivot Robotics",
+    "id": "eb82de33-71ee-43b9-ae92-39d23132fe53",
+    "title": "Robot Operator Internship",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787238901,
+    "date_posted": 1787238838,
+    "url": "https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application?embed=true",
+    "locations": [
+      "New Boston, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Pivot-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fifth Third Bank",
+    "id": "7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
+    "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787238416,
+    "date_posted": 1787184000,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "013fdd20-3235-4aca-8bd4-f5eb44a09c32",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787235628,
+    "date_posted": 1787184000,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fannie Mae",
+    "id": "09e061cd-a5e8-4059-bb6d-a0672a475328",
+    "title": "Data Science Intern - Analytics & Modeling Program",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787235624,
+    "date_posted": 1787184000,
+    "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Fannie-Mae",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Goldman Sachs",
+    "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
+    "title": "Summer Analyst Intern - Americas - AWM Product Management",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787235594,
+    "date_posted": 1787172277,
+    "url": "https://higher.gs.com/roles/182389?type=students",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Goldman Sachs",
+    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+    "title": "AWM Product Management Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787235591,
+    "date_posted": 1787172276,
+    "url": "https://higher.gs.com/roles/171513?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AbbVie",
+    "id": "8569a45d-e504-4cc5-897a-de907ab8e0f7",
+    "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787234889,
+    "date_posted": 1787234692,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "TikTok",
     "id": "a908b011-3049-4c5c-831e-b0a4e17ddebf",
     "title": "Machine Learning Engineer Intern",
@@ -921,7 +1128,7 @@
     "company_name": "Teledyne",
     "id": "83fcabf7-15f4-4213-8f40-a3a037dc3288",
     "title": "AI & Automation Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1385,7 +1592,7 @@
     "company_name": "RTX",
     "id": "ff77e8f4-7829-481b-a954-0fa6b86456dd",
     "title": "Electrical Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1545,7 +1752,7 @@
     "company_name": "NVIDIA",
     "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
     "title": "Ph.D. Research Autonomous Vehicles Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7473,7 +7680,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7499,7 +7706,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7528,7 +7735,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7557,7 +7764,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7583,7 +7790,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7765,7 +7972,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7789,7 +7996,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -7813,7 +8020,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7842,7 +8049,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7868,7 +8075,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13550,7 +13757,7 @@
     "company_name": "RTX",
     "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
     "title": "Software Development Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -28345,7 +28552,7 @@
     "company_name": "Centerstone",
     "id": "a5424485-a1a0-4ab2-adaa-286ac3620977",
     "title": "Bachelor Level Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -31814,7 +32021,7 @@
     "company_name": "Redwood Materials",
     "id": "42a4495c-329d-4277-8dcf-363d9fabcffd",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -48945,7 +49152,7 @@
     "company_name": "Citadel",
     "id": "78885859-7ae3-42cc-a2db-f5d8aff6bfc7",
     "title": "Investment & Trading Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -65080,7 +65287,7 @@
     "company_name": "Flagright",
     "id": "987779ef-3c25-4288-b559-7f8a99d2b578",
     "title": "Product Operations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -259396,30 +259603,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Nokia",
-    "id": "b307e36b-de36-4832-bafb-30d48dfbb6c4",
-    "title": "Photonic Circuit Test Development Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1770718911,
-    "date_posted": 1766507157,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176",
-    "locations": [
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Faculty AI",
     "id": "af167c7b-5780-4a52-ad60-7f665cece17b",
@@ -284806,6 +284989,32 @@
     "degrees": [
       "Master's",
       "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "c3d1d276-791c-42cc-ba05-10ddc3b5f663",
+    "title": "Software Development Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1769729152,
+    "date_posted": 1769729152,
+    "url": "https://job-boards.greenhouse.io/testnisc/jobs/7574565",
+    "locations": [
+      "Bismarck, ND"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
@@ -338840,31 +339049,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Vendelux",
-    "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
-    "title": "Part Time Data Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025"
-    ],
-    "date_updated": 1766570462,
-    "date_posted": 1766507162,
-    "url": "https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43/application",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Vendelux",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Archer",
     "id": "97c67d11-7750-40ca-bca6-8c9a540741b5",
@@ -340242,226 +340426,6 @@
       "Rockford, IL"
     ],
     "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "National Information Solutions Cooperative (NISC)",
-    "id": "1e9a976a-0c17-4577-b784-558dd7bb726d",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766510226,
-    "date_posted": 1766510226,
-    "url": "https://job-boards.greenhouse.io/nisc/jobs/7493815",
-    "locations": [
-      "Bismarck, ND"
-    ],
-    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Motional",
-    "id": "d4499a3e-2a69-4f3a-a2bf-69197577c0de",
-    "title": "Intern - MS/PhD - Motion Planning and Controls",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766509608,
-    "date_posted": 1766509608,
-    "url": "https://motional.com/open-positions/?gh_jid=7570047003#/7570047003",
-    "locations": [
-      "Boston, MA",
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Motional",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Motional",
-    "id": "3a2b196a-03b4-4f67-8176-15858e9163ef",
-    "title": "Intern - Perception",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766509598,
-    "date_posted": 1766509598,
-    "url": "https://motional.com/open-positions/?gh_jid=7570001003#/7570001003",
-    "locations": [
-      "Boston, MA",
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Motional",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Motional",
-    "id": "aa2f05e7-38f2-4372-b732-ae42030fe60c",
-    "title": "Intern - Master of Science/Doctor of Philosophy - Infrastructure",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766509596,
-    "date_posted": 1766509596,
-    "url": "https://motional.com/open-positions/?gh_jid=7570086003#/7570086003",
-    "locations": [
-      "Boston, MA",
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Motional",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Motional",
-    "id": "0c1a9ae1-0575-4e87-8cf4-3de0612a5c2b",
-    "title": "Intern - MS/PhD - Behaviors",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766509594,
-    "date_posted": 1766509594,
-    "url": "https://motional.com/open-positions/?gh_jid=7570040003#/7570040003",
-    "locations": [
-      "Boston, MA",
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Motional",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "NT Concepts",
-    "id": "e93560c6-08f4-4406-998b-629c59fb38bd",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766509577,
-    "date_posted": 1766509577,
-    "url": "https://job-boards.greenhouse.io/ntconcepts/jobs/5743018004",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/NTConcepts",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NT Concepts",
-    "id": "61174df6-9bbd-4206-85da-c0562c943349",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766509573,
-    "date_posted": 1766509573,
-    "url": "https://job-boards.greenhouse.io/ntconcepts/jobs/5742629004",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/NTConcepts",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Zoox",
-    "id": "e9ef886b-7a42-4f41-9d7c-e500a741f4f6",
-    "title": "Embedded Software Development Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766507063,
-    "date_posted": 1766507063,
-    "url": "https://jobs.lever.co/zoox/1fcd743b-6bba-4e6e-b926-a164fff73654/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "ASSA ABLOY",
-    "id": "e3db4568-562c-4883-976b-b2ef18163834",
-    "title": "Mobile App Developer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766506763,
-    "date_posted": 1766506763,
-    "url": "https://assaabloy.jobs2web.com/job/Kennesaw-Mobile-App-Developer-Intern-GA-30144/1278954101/?ats=successfactors",
-    "locations": [
-      "Kennesaw, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
