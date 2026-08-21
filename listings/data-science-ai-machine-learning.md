@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (681)
+# Data Science, AI & Machine Learning (679)
 
 [← back to index](../README.md)
 
@@ -140,7 +140,7 @@
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) | Data Intern | NYC | Fall 2026 | 2026-08-15 | 6 | simplify-2026 |
 | [Occidental Petroleum Corporation (Oxy)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Geophysics Intern | Houston, TX, The Woodlands, TX, Denver, CO | Summer 2026 | 2026-08-15 | 6 | simplify-2026 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) | Data Science & Machine Learning Fellow Intern | Washington, DC | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
-| [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) | AI Applied Research Intern | Washington, DC | Spring 2027 | 2026-08-14 | 7 | simplify-2026 |
+| [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) | AI Applied Research Intern | Washington, DC | Spring 2027 | 2026-08-14 | 7 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [WEC Energy Group](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors) | Renewables Data Analytics Intern | Milwaukee, WI, Green Bay, WI | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) | Planning Analytics Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [BerryDunn](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false) | Consulting Intern - Healthcare Data Management and Strategy | Portland, ME | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
@@ -204,7 +204,6 @@
 | [Zoox](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e/apply) | Machine Learning Engineer Student Worker - Data Mining & VLM | Foster City, CA | N/A | 2026-08-11 | 10 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX | Summer 2027 | 2026-08-11 | 10 | simplify-2026 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) | Machine Learning Research Engineer Intern | NYC | Summer 2027 | 2026-08-11 | 10 | simplify-2026 |
-| [Commence](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640) | Health Data Analyst Intern | Virginia Beach, VA | Fall 2026 | 2026-08-11 | 10 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark | Seattle, WA | Summer 2027 | 2026-08-11 | 10 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7672382828525832501/detail) | Machine Learning Engineer Intern - AML-Engine-Orchestration | Seattle, WA | Summer 2027 | 2026-08-11 | 10 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | Seattle, WA | Summer 2027 | 2026-08-11 | 10 | simplify-2026 |
@@ -647,7 +646,6 @@
 | [Meta](https://www.metacareers.com/jobs/1782902493113620) | Research Scientist Intern - AI Alignment | Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 169 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/771948392580541) | Research Scientist Intern - AI/ML - Core Ads Growth | London, UK | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 169 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1422892385992613) | Research Scientist Intern - Applied Vision and Image Quality - PhD | Redmond, WA | Spring 2026, Summer 2026, Fall 2026 | 2026-03-05 | 169 | simplify-2026 |
-| [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | Hunyuan Multimodal Algorithm Researcher Intern | Palo Alto, CA | Summer 2026 | 2026-03-05 | 169 | simplify-2026 |
 | [Occidental Petroleum](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) | Intern/Co-op Data - Well Servicing & Engineering | Midland, TX, Houston, TX, Fort Lupton, CO, Morton, TX, Denver, CO | Summer 2026 | 2026-03-05 | 169 | simplify-2026 |
 | [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Research-Assistant_REQ_0000075880-1) | Undergraduate Research Assistant | State College, PA | N/A | 2026-03-05 | 169 | simplify-2026 |
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | Data Engineering Intern/Co-op | Milwaukee, WI | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-03-04 | 170 | simplify-2026 |

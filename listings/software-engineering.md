@@ -1,4 +1,4 @@
-# Software Engineering (567)
+# Software Engineering (566)
 
 [← back to index](../README.md)
 
@@ -28,6 +28,7 @@
 | [Epic Games](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) | Tools Programmer Intern | Cary, NC | Fall 2026 | 2026-08-20 | 1 | simplify-2026 |
 | [General Matter](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) | Software Engineering Intern | LA | Summer 2027 | 2026-08-20 | 1 | simplify-2026 |
 | [Western Magnetics](https://apply.workable.com/western-magnetics/j/E366930F3F/apply) | Software Engineer Intern | South SF | Fall 2026 | 2026-08-20 | 1 | simplify-2026 |
+| [Boston Consulting Group](https://careers.bcg.com/global/en/job/59067) | Forward Deployed AI Engineer - Campus | Boston, MA, Seattle, WA, Washington, DC, SF, LA, Miami, FL, Dallas, TX, Chicago, IL, Pittsburgh, PA, NYC, Brooklyn, NY, Manhattan Beach, CA | N/A | 2026-08-20 | 1 | simplify-2026 |
 | [METECS](https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship) | Software Intern | Houston, TX | Summer 2026 | 2026-08-20 | 1 | simplify-2026 |
 | [Geico](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Technology-Development-Program---Software-Engineer-Development-Track_R0065373) | Technology Development Program Intern - Software Engineer Development Track | Palo Alto, CA, Bethesda, MD | Summer 2026 | 2026-08-20 | 1 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664) | Software Engineer Intern - Summer 2027 | Tucson, AZ | Summer 2027 | 2026-08-20 | 1 | simplify-2026 |
@@ -124,7 +125,7 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | 2026-08-15 | 6 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | 2026-08-15 | 6 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7672626707586746629/detail) | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | 2026-08-15 | 6 | simplify-2026 |
-| [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | Software Engineer Intern | Chicago, IL | Fall 2026 | 2026-08-14 | 7 | simplify-2026 |
+| [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | Software Engineer Intern | Chicago, IL | Fall 2026 | 2026-08-14 | 7 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://lifeattiktok.com/search/7673663349758675205) | Mobile Software Engineer Intern - Global E-Commerce | San Jose, CA | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [Composio](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true) | Fullstack Engineer Intern - Product Team | SF | Fall 2026, Winter 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [MPR Associates](https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false) | Engineer Co-op - Multiple Teams | Salt Lake City, UT, Alexandria, VA, Burlington, MA, East Lyme, CT | Spring 2026, Summer 2026, Fall 2026 | 2026-08-14 | 7 | simplify-2026 |
@@ -132,9 +133,7 @@
 | [KPMG](https://careers.kpmg.ca/jobs/33301?icims=1) | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [KPMG](https://careers.kpmg.ca/jobs/33306?icims=1) | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON, Canada | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [Crowe](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035) | Power Platform Business Solutions Intern - Consulting Practice | Chicago, IL, Sacramento, CA | Fall 2026 | 2026-08-14 | 7 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | Software Engineer Intern | San Jose, CA | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [Crowe](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) | ServiceNow Implementation Intern - ServiceNow Cloud Solutions | Chicago, IL | Fall 2026 | 2026-08-14 | 7 | simplify-2026 |
-| [Crowe](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) | NetSuite Implementation Intern - Consulting Practice | Chicago, IL | Fall 2026 | 2026-08-14 | 7 | simplify-2026 |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL, Plantation, FL | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [Interco](https://jobs.smartrecruiters.com/Interco/744000143346169) | Software Development Intern - React | St. Louis, MO | Fall 2026 | 2026-08-13 | 8 | simplify-2026 |
 | [Specter Aerospace](https://specteraerospace.bamboohr.com/careers/122/) | Full Stack Developer Co-op | Boston, MA, Peabody, MA | Summer 2027 | 2026-08-13 | 8 | simplify-2026 |

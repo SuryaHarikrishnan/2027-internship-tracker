@@ -28,7 +28,7 @@
 | [TikTok](https://lifeattiktok.com/search/7670529537944766773) | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-08-11 | 10 | simplify-2026 |
 | [OpusClip](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true) | AI Product Management Intern | Mountain View, CA | Fall 2026 | 2026-08-11 | 10 | simplify-2026 |
 | [Mujin](https://mujin.bamboohr.com/careers/168/) | Product Development Intern - Spring 2027 | Suwanee, GA | Spring 2027 | 2026-08-10 | 11 | simplify-2026 |
-| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | Product Management Intern | Westerville, OH | Summer 2027 | 2026-08-10 | 11 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | Product Management Intern | Westerville, OH | Summer 2027 | 2026-08-10 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [LPL Financial Holdings](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) | Product Intern - Product | Austin, TX, Fort Mill, SC | Summer 2027 | 2026-08-10 | 11 | simplify-2026 |
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Summer 2027 | 2026-08-10 | 11 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670010726514493749) | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | Summer 2027 | 2026-08-07 | 14 | simplify-2026 |
