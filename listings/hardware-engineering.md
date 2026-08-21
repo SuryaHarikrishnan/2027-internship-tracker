@@ -1,9 +1,22 @@
-# Hardware Engineering (215)
+# Hardware Engineering (226)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338) | Layout Design Intern | United States | Fall 2026 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90925?icims=1) | Research Engineer Intern/Co-op - AMD Research | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90820?icims=1) | Hardware Design Verification Engineering Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90810?icims=1) | Hardware Design Verification Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90813?icims=1) | Hardware Design Verification Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Winter 2027, Summer 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90801?icims=1) | Firmware Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Massachusetts | Winter 2027, Summer 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90807?icims=1) | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90894?icims=1) | Hardware Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90809?icims=1) | Firmware Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/91173?icims=1) | Hardware Engineering Intern/Co-op - Undergrad | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/91182?icims=1) | Hardware Engineer Intern/Co-op - Hardware Engineering | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/91228?icims=1) | Product Development Engineering Intern/Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/91239?icims=1) | Field Applications Engineer Intern - Masters | San Jose, CA | Summer 2027 | 2026-08-21 | 0 | simplify-2026 |
 | [SOCOTEC UK & Ireland](https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989) | Summer Intern - Innovations Team | Altrincham, UK | Summer 2026 | 2026-08-20 | 1 | simplify-2026 |
 | [E-Space](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | 2026-08-20 | 1 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7908677003) | Applications Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-20 | 1 | simplify-2026 |
@@ -52,9 +65,7 @@
 | [MSA Safety](https://careers.msasafety.com/jobs/9992?icims=1) | Software Engineer Co-op - Product Development | Cranberry Township, PA | Spring 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [True Anomaly](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) | GSE Engineering Intern | Long Beach, CA, Denver, CO | Fall 2026 | 2026-08-14 | 7 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) | Software Engineering Intern | Tucson, AZ | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) | Software Engineer Intern | East Hartford, CT | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509) | Physical Design Engineer Intern | Santa Clara, CA, Folsom, CA, Phoenix, AZ | Fall 2026 | 2026-08-14 | 7 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619) | Software Engineer Intern - Summer 2027 | El Segundo, CA | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681) | Software Engineer Intern - Summer 2027 | Burnsville, MN | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1) | Electrical Computer-Aided Design Engineer Intern | Tucson, AZ | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147) | Hardware Engineer Intern - Multiple Teams | Newtownabbey, UK | N/A | 2026-08-13 | 8 | simplify-2026 |
