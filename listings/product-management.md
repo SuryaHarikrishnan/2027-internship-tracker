@@ -1,19 +1,21 @@
-# Product Management (71)
+# Product Management (72)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047) | Product Management Intern - Product Marketing | Delaware, OH | Summer 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | Summer 2027 | 2026-08-21 | 0 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/182389?type=students) | Summer Analyst Intern - Americas - AWM Product Management | NYC | Summer 2027 | 2026-08-19 | 2 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171513?type=students) | AWM Product Management Analyst Intern | Dallas, TX | Summer 2027 | 2026-08-19 | 2 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 2 | simplify-2026 |
 | [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | 2026-08-19 | 2 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 3 | simplify-2026 |
 | [Filtration Group](https://careers-filtrationgroupcorp.icims.com/jobs/7379/job?mobile=true&needsRedirect=false) | Product Development Intern - Material Science | Chicopee, MA | Fall 2026 | 2026-08-18 | 3 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673895973460576517) | Product Manager Intern - Business Integrity | Seattle, WA | Summer 2026 | 2026-08-18 | 3 | simplify-2026 |
-| [Pelmorex](https://jobs.lever.co/pelmorex/014cd116-08b8-44d5-bf80-8f6494eb3bc0/apply) | Product Co-op - Digital Product | Oakville, ON, Canada | Fall 2026 | 2026-08-17 | 4 | simplify-2026 |
 | [Datadog](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | Product Management Intern | NYC | Winter 2027, Summer 2027 | 2026-08-17 | 4 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Digital-Product-Owner-Student--4-months----Fall-2026_JR164224) | Digital Product Owner Student | Oakville, ON, Canada | N/A | 2026-08-17 | 4 | simplify-2026 |
 | [Dedalus Labs](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) | Product Manager Intern | SF | Fall 2026 | 2026-08-15 | 6 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/170935?type=students) | Summer Analyst Intern - Wealth Management - Product Management and Design | London, UK | Summer 2027 | 2026-08-15 | 6 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673340525029673221) | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673337777708550405) | Product Manager Intern - Content and Services | San Jose, CA | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673559305519794437) | Product Manager Intern - Scaled Growth | San Jose, CA | Summer 2027 | 2026-08-14 | 7 | simplify-2026 |
@@ -74,4 +76,3 @@
 | [Sezzle](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Product Intern | Remote in Canada | Summer 2026 | 2026-05-13 | 100 | simplify-2026 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | Technology Product Analyst Intern | Dallas, TX | Summer 2026 | 2026-03-23 | 151 | simplify-2026 |
 | [Creatify Lab ](https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application) | Product Manager | Mountain View, CA | Summer 2026 | 2026-03-05 | 169 | simplify-2026 |
-| [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646448006) | Fall 2026: Product Development Co-op - Shark - July to December | Needham, MA | Fall 2026 | 2026-01-21 | 212 | simplify-2026 |
