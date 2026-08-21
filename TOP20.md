@@ -15,11 +15,11 @@ Ranked by freshness + company tier + role category.
 | 5 | **Citadel Securities** | Fundamental Analyst Intern | NYC | Fall 2026 | 2026-08-19 (2d ago) | [Apply](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/) |
 | 6 | **Microsoft** | AI for Science Resident - Machine Learning | Cambridge, UK, Berlin, Germany | Fall 2026 | 2026-08-19 (2d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556871066) |
 | 7 | **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 (2d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) |
-| 8 | **AMD** | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 (0d ago) | [Apply](https://careers.amd.com/jobs/91183?icims=1) |
-| 9 | **ByteDance** | Software Engineer Intern - CIS Knowledge Bank | San Jose, CA | Fall 2027 | 2026-08-21 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7675345626188335365/detail) |
-| 10 | **Zoox** | Data Scientist | Foster City, CA | N/A | 2026-08-20 (1d ago) | [Apply](https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply) |
-| 11 | **AbbVie** | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | Summer 2027 | 2026-08-20 (1d ago) | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) |
-| 12 | **TikTok** | Machine Learning Engineer Intern | Seattle, WA | Summer 2027 | 2026-08-20 (1d ago) | [Apply](https://lifeattiktok.com/search/7675847556668295429) |
+| 8 | **TikTok** | Data Engineer Intern - E-commerce | San Jose, CA | Summer 2026 | 2026-08-21 (0d ago) | [Apply](https://lifeattiktok.com/search/7676250516494436661) |
+| 9 | **AMD** | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 (0d ago) | [Apply](https://careers.amd.com/jobs/91183?icims=1) |
+| 10 | **ByteDance** | Software Engineer Intern - CIS Knowledge Bank | San Jose, CA | Fall 2027 | 2026-08-21 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7675345626188335365/detail) |
+| 11 | **Zoox** | Data Scientist | Foster City, CA | N/A | 2026-08-20 (1d ago) | [Apply](https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply) |
+| 12 | **AbbVie** | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | Summer 2027 | 2026-08-20 (1d ago) | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) |
 | 13 | **Google** | Research Scientist PhD Intern | London, UK | Summer 2027 | 2026-08-17 (4d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) |
 | 14 | **Datadog** | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | 2026-08-17 (4d ago) | [Apply](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) |
 | 15 | **Jane Street** | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 (7d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (6d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 
 ---
-*Generated 2026-08-21 09:22 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-21 13:38 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

@@ -2,10 +2,256 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "University of Texas at Austin",
+    "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
+    "title": "Graduate Assistant - AI-Powered Career Success Systems",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787317293,
+    "date_posted": 1787184000,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--AI-Powered-Career-Success-Systems_R_00048148",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "678b7339-d616-49e4-8023-7ab2273254fd",
+    "title": "Risk Intern - Total Fund Risk",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787316528,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Total-Fund-Risk--May-2027--12-months-_7195",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "6eed2e3d-bae2-4bba-82dc-8be571a93b1b",
+    "title": "Chemistry Materials Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787310248,
+    "date_posted": 1787184000,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Chemistry-Materials-Engineer-Intern--Onsite-_01868041",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Crowe",
+    "id": "6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14",
+    "title": "Power Platform Business Solutions Intern - Consulting Practice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787308561,
+    "date_posted": 1786665600,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035",
+    "locations": [
+      "Chicago, IL",
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cubic",
+    "id": "ae5500e9-bf44-4dd7-9a73-6b84de0fb777",
+    "title": "Field Services Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787306318,
+    "date_posted": 1787270400,
+    "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Greenford-Middlesex/Field-Services-Apprentice_REQ_49744",
+    "locations": [
+      "Greenford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cubic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Crowe",
+    "id": "440a78fd-1099-4f5d-9384-4cda25b60ab3",
+    "title": "AI Functional Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787306045,
+    "date_posted": 1787097600,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015",
+    "locations": [
+      "Lexington, KY",
+      "Boston, MA",
+      "Indianapolis, IN",
+      "Houston, TX",
+      "Louisville, KY",
+      "Knoxville, TN",
+      "Nashville, TN",
+      "Washington, DC",
+      "SF",
+      "Austin, TX",
+      "Cleveland, OH",
+      "LA",
+      "Tampa, FL",
+      "San Jose, CA",
+      "Livingston, NJ",
+      "Grand Rapids, MI",
+      "Miami, FL",
+      "Dallas, TX",
+      "The Woodlands, TX",
+      "Plano, TX",
+      "Chicago, IL",
+      "Tallahassee, FL",
+      "Charlotte, NC",
+      "Fort Lauderdale, FL",
+      "Oakbrook Terrace, IL",
+      "Burlington, VT",
+      "Sacramento, CA",
+      "Columbus, OH",
+      "Hartford, CT",
+      "Springfield, IL",
+      "NYC",
+      "Denver, CO",
+      "Atlanta, GA",
+      "Fort Wayne, IN",
+      "South Bend, IN",
+      "Sarasota, FL",
+      "Costa Mesa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "892947b6-4cac-464b-941a-7244615e4d0a",
+    "title": "Data Engineer Intern - E-commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787305862,
+    "date_posted": 1787305806,
+    "url": "https://lifeattiktok.com/search/7676250516494436661",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "563165c9-79ea-427e-a9f7-ac43878f12f6",
+    "title": "Portfolio Engineer Intern - Capital Markets - CMIA",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787305242,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--January-2027---8-months-_7193",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Ontario Teachers' Pension Plan",
     "id": "705aa0dc-9caf-4a10-8196-9c201a884e84",
     "title": "Finance Intern - Risk Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -2053,7 +2299,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -2234,7 +2480,7 @@
     "company_name": "Boston Consulting Group",
     "id": "08532603-7472-48a9-a825-fef3a7108472",
     "title": "Forward Deployed AI Scientist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -2562,7 +2808,7 @@
     "company_name": "StudyFetch",
     "id": "179e11a1-a541-4256-a6c3-e36544663802",
     "title": "AI Research Assistant - Machine Learning & AI",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -3483,7 +3729,7 @@
     "company_name": "RTX",
     "id": "1b75680e-460c-4f8d-99bd-d64c248c45ba",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -3510,7 +3756,7 @@
     "company_name": "RTX",
     "id": "3dc31c45-2bae-4f11-b283-deb7c9854dde",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7486,7 +7732,7 @@
     "company_name": "General Motors",
     "id": "1d43fc21-2de6-411c-8141-ec33e8fa8fed",
     "title": "Battery & Sustainability Intern - Battery Research and Development",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -7592,7 +7838,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "1babc71b-6886-48e4-9870-7503ec24824f",
     "title": "Technology & Operations Co-op - Software Developer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -9708,7 +9954,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -9734,7 +9980,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -9993,7 +10239,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -10048,7 +10294,7 @@
     "company_name": "RTX",
     "id": "dfbe29a3-2c22-426e-9544-2185963e401f",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10101,7 +10347,7 @@
     "company_name": "RTX",
     "id": "8fea2128-ad21-47ad-b431-eb973db4321e",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -11300,7 +11546,7 @@
     "company_name": "RTX",
     "id": "cf012f7c-ffe4-475e-ab48-18debac5047e",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -28099,7 +28345,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -31154,7 +31400,7 @@
     "company_name": "Cadence Design Systems",
     "id": "40dbbf5f-d4ad-493a-9644-4f4b0662556c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -48336,7 +48582,7 @@
     "company_name": "Old Mission",
     "id": "b31743bd-7fcf-42a4-aca1-0e6146dfb105",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -242665,7 +242911,7 @@
     "company_name": "Octaura",
     "id": "3ea65aaa-0297-4b8f-9378-51e35478fb95",
     "title": "Intern \u2013 Data Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -288327,7 +288573,7 @@
     "company_name": "Equifax",
     "id": "48dd6a63-40af-40ff-9a7d-14897fd0a342",
     "title": "Data & Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
