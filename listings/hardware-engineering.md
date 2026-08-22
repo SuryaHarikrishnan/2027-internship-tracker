@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305) | Systems Integration Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-22 | 0 | simplify-2026 |
 | [H3X Technologies](https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40/application?embed=true) | Embedded Controls Intern | Louisville, CO | Spring 2026 | 2026-08-21 | 1 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338) | Layout Design Intern | United States | Fall 2026 | 2026-08-21 | 1 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/90925?icims=1) | Research Engineer Intern/Co-op - AMD Research | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027 | 2026-08-21 | 1 | simplify-2026 |
@@ -24,7 +25,6 @@
 | [SOCOTEC UK & Ireland](https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989) | Summer Intern - Innovations Team | Altrincham, UK | Summer 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [E-Space](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7908677003) | Applications Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-20 | 2 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Chemistry-Materials-Engineer-Intern--Onsite-_01868041) | Chemistry Materials Engineer Intern | Andover, MA | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) | SoC RTL Design Engineer Intern - HBM | Folsom, CA | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---YE-Physical-Failure-Analysis-Engineer_JR109154) | Physical Failure Analysis Engineer Intern - Yield Enhancement | Boise, ID | Summer 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299) | Mixed Signal Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
@@ -185,9 +185,9 @@
 | [Fluxergy](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply) | Firmware Engineer Intern | Irvine, CA | Summer 2026 | 2026-06-02 | 81 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) | Firmware Engineer Intern | Vancouver, BC, Canada | Summer 2026 | 2026-06-02 | 81 | simplify-2026 |
 | [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-St-Louis-North/Automotive-ADAS-Calibration-Technician-Apprentice_R0218912) | Automotive ADAS Calibration Technician Apprentice | Chesterfield, MO, St. Louis, MO, Creve Coeur, MO | Summer 2026 | 2026-06-01 | 82 | simplify-2026 |
+| [AMERICAN SYSTEMS](https://careers-americansystems.icims.com/jobs/3856/job?mobile=true&needsRedirect=false) | Field Service Technician Intern - Transitioning Military | Orlando, FL | N/A | 2026-05-28 | 86 | simplify-2026 |
 | [Diversified Automation](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply) | Hardware Engineering Co-op | Louisville, KY | Summer 2026 | 2026-05-28 | 86 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Firmware Engineer Intern | Austin, TX | Fall 2026 | 2026-05-27 | 87 | simplify-2026 |
-| [Periodic Labs](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a/application) | Nanofabrication Intern | Menlo Park, CA | Summer 2026 | 2026-05-26 | 88 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663968) | Undergrad Engineering Intern | United States | Summer 2026 | 2026-05-22 | 92 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663981) | Hardware Engineering Intern | United States | Summer 2026 | 2026-05-22 | 92 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664414) | Hardware Technologies PhD Intern | United States | Summer 2026 | 2026-05-22 | 92 | simplify-2026 |

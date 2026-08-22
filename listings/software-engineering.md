@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556979054) | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | 2026-08-22 | 0 | simplify-2026 |
 | [Elevate Semiconductor](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply) | Product Engineering Intern | San Diego, CA | Fall 2026 | 2026-08-22 | 0 | simplify-2026 |
+| [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571) | Engineering Intern | Raleigh, NC | Summer 2027 | 2026-08-22 | 0 | simplify-2026 |
 | [Ambrook](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application?embed=true) | Software Engineer Intern | NYC | Summer 2026 | 2026-08-21 | 1 | simplify-2026 |
 | [Eaton](https://eaton.eightfold.ai/careers/job/687238323389) | Application Engineer Co-op - Marketing | Ellisville, MO | Fall 2026 | 2026-08-21 | 1 | simplify-2026 |
 | [Solid Power](https://job-boards.greenhouse.io/solidpower/jobs/6150710004) | Product Engineer Intern | Thornton, CO | Fall 2026 | 2026-08-21 | 1 | simplify-2026 |
@@ -100,7 +101,6 @@
 | [Datadog](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | 2026-08-17 | 5 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7493/job?mobile=true&needsRedirect=false) | Software Design Student | Brookings, SD, Rapid City, SD | N/A | 2026-08-17 | 5 | simplify-2026 |
 | [W.W. Grainger](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors) | Software Engineer Intern - Grainger Technology Group | Chicago, IL | Summer 2027 | 2026-08-17 | 5 | simplify-2026 |
-| [Dmg Media](https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320) | Editorial Innovation Intern - Innovation Team | London, UK | Fall 2026 | 2026-08-17 | 5 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | 2026-08-17 | 5 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | Software Engineer Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-08-17 | 5 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555) | Software Developer Co-op - Technology & Operations | Toronto, ON, Canada | N/A | 2026-08-17 | 5 | simplify-2026 |
