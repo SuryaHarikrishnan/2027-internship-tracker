@@ -1,4 +1,4 @@
-# Hardware Engineering (218)
+# Hardware Engineering (217)
 
 [← back to index](../README.md)
 
@@ -21,7 +21,6 @@
 | [AMD](https://careers.amd.com/jobs/91239?icims=1) | Field Applications Engineer Intern - Masters | San Jose, CA | Summer 2027 | 2026-08-21 | 1 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | Software Engineer Intern | Tulsa, OK | Summer 2026 | 2026-08-21 | 1 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179) | Lighting Software Development & Test Co-op | Markham, ON, Canada | Winter 2027 | 2026-08-21 | 1 | simplify-2026 |
-| [Cubic](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Greenford-Middlesex/Field-Services-Apprentice_REQ_49744) | Field Services Apprentice | Greenford, UK | Fall 2026 | 2026-08-21 | 1 | simplify-2026 |
 | [SOCOTEC UK & Ireland](https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989) | Summer Intern - Innovations Team | Altrincham, UK | Summer 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [E-Space](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7908677003) | Applications Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-20 | 2 | simplify-2026 |

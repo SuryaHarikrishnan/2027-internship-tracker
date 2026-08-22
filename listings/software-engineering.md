@@ -1,9 +1,10 @@
-# Software Engineering (570)
+# Software Engineering (571)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false) | Application Engineering Intern - Summer 2027 | Long Island City, Queens, NY | Summer 2027 | 2026-08-22 | 0 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556979054) | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | 2026-08-22 | 0 | simplify-2026 |
 | [Elevate Semiconductor](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply) | Product Engineering Intern | San Diego, CA | Fall 2026 | 2026-08-22 | 0 | simplify-2026 |
 | [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571) | Engineering Intern | Raleigh, NC | Summer 2027 | 2026-08-22 | 0 | simplify-2026 |
