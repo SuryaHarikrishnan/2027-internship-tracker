@@ -1,4 +1,4 @@
-# Software Engineering (571)
+# Software Engineering (570)
 
 [← back to index](../README.md)
 
@@ -31,7 +31,6 @@
 | [Blue Shield of California](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580) | Data Full Stack Engineer Intern | Oakland, CA | Summer 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7907191003) | Software Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-20 | 2 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/280820) | Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-08-20 | 2 | simplify-2026 |
-| [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007) | AI Software Engineer Intern | Durham, NC | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8118855) | Software Engineer Intern - Fall 2026 | London, UK | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004) | Engine Programmer Intern - Unreal Engine | London, UK | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
 | [McWane](https://jobs.smartrecruiters.com/McWaneInc/3743990014702976) | Programmer Apprentice | Oskaloosa, IA | Fall 2026 | 2026-08-20 | 2 | simplify-2026 |
