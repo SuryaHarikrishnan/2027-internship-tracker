@@ -1,4 +1,4 @@
-# Hardware Engineering (216)
+# Hardware Engineering (214)
 
 [← back to index](../README.md)
 
@@ -56,8 +56,6 @@
 | [University of St. Thomas](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false) | Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub | St Paul, MN | Fall 2026 | 2026-08-18 | 5 | simplify-2026 |
 | [KOSTAL Group](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225) | Systems Engineering Intern | Troy, MI | Fall 2026 | 2026-08-18 | 5 | simplify-2026 |
 | [Brookhaven Lab](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---Machine-Learning-for-ASIC-Design_JR102642) | Student Assistant - Machine Learning for ASIC Design | Upton, Brookhaven, NY | N/A | 2026-08-18 | 5 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors) | Software Engineering Intern | Clifton, NJ | Fall 2026 | 2026-08-17 | 6 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500/?ats=successfactors) | Integration/Test Engineering Intern | Ashburn, VA | Fall 2026 | 2026-08-17 | 6 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Brookings, SD | N/A | 2026-08-17 | 6 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7492/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Rapid City, SD | N/A | 2026-08-17 | 6 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/32954?icims=1) | FPGA Design Intern - FPGA Design | Champaign, IL | Fall 2026 | 2026-08-17 | 6 | simplify-2026 |

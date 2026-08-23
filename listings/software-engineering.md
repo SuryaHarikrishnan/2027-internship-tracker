@@ -1,4 +1,4 @@
-# Software Engineering (569)
+# Software Engineering (568)
 
 [← back to index](../README.md)
 
@@ -56,7 +56,6 @@
 | [Humana](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451) | Technology Intern - Early ID Participants | Louisville, KY | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2) | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691) | Software Engineer Intern - Summer 2027 | Sterling, VA | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892) | Software Engineer Intern - Summer 2027 | Aurora, CO | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Systems Software Engineering Intern | Santa Clara, CA | Fall 2026 | 2026-08-19 | 4 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Software Engineering Intern | Canada, Santa Clara, CA | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/ViIK3m47ik/Student-Web-Developer-Assistant) | Web Developer Assistant - Enterprise Application Support | North Logan, UT | N/A | 2026-08-18 | 5 | simplify-2026 |
