@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (707)
+# Data Science, AI & Machine Learning (706)
 
 [← back to index](../README.md)
 
@@ -283,7 +283,6 @@
 | [WSP](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) | Business Intelligence Intern | Toronto, ON, Canada, Ottawa, ON, Canada | Fall 2026 | 2026-08-07 | 16 | simplify-2026 |
 | [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/7824822003) | Applications Engineer Intern | El Segundo, CA | Spring 2027 | 2026-08-07 | 16 | simplify-2026 |
 | [GCI](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640) | Telecommunications Intern - Computer Science/Data Analytics | Anchorage, AK | Fall 2026 | 2026-08-07 | 16 | simplify-2026 |
-| [Canva](https://jobs.smartrecruiters.com/Canva/6000000001295782) | PhD Research Scientist Intern - Edge AI | London, UK | Fall 2026 | 2026-08-07 | 16 | simplify-2026 |
 | [City of Manhattan Kansas](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377573) | GIS Planning Intern | Manhattan, KS | Fall 2026 | 2026-08-07 | 16 | simplify-2026 |
 | [Canva](https://jobs.smartrecruiters.com/Canva/6000000001295209) | PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling | London, UK | Fall 2026 | 2026-08-07 | 16 | simplify-2026 |
 | [Luminance](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | AI Engineering Intern | Cambridge, UK | Fall 2026 | 2026-08-07 | 16 | simplify-2026 |
