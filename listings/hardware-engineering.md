@@ -1,4 +1,4 @@
-# Hardware Engineering (214)
+# Hardware Engineering (213)
 
 [← back to index](../README.md)
 
@@ -31,7 +31,6 @@
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7894349003) | Hardware Test Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7903483003) | Hardware Test Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply) | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | Winter 2027 | 2026-08-19 | 4 | simplify-2026 |
-| [Normal Computing](https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true) | Thermodynamic Hardware Resident | Palo Alto, CA, Silicon Valley, CA, NYC | Fall 2026 | 2026-08-19 | 4 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | Hardware ASIC Design Intern - Hardware | Santa Clara, CA | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Hardware Engineering Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854) | Computer Architecture and Systems Intern - Research | Santa Clara, CA | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |

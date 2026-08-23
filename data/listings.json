@@ -5,7 +5,7 @@
     "company_name": "RTX",
     "id": "740d3c67-d925-48d7-995a-410073f010e8",
     "title": "Industrialization Intern - Industrialization Production Readiness",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -6986,7 +6986,7 @@
     "company_name": "RTX",
     "id": "1b75680e-460c-4f8d-99bd-d64c248c45ba",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7524,7 +7524,7 @@
     "company_name": "NVIDIA",
     "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7770,7 +7770,7 @@
     "company_name": "Normal Computing",
     "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
     "title": "Thermodynamic Hardware Resident",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13127,7 +13127,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13153,7 +13153,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13211,7 +13211,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13237,7 +13237,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13419,7 +13419,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13467,7 +13467,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13496,7 +13496,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -25868,7 +25868,7 @@
     "company_name": "GE Appliances",
     "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
     "title": "Software Engineer Co-op - Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -64177,7 +64177,7 @@
     "company_name": "thyssenkrupp",
     "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
     "title": "Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -106428,7 +106428,7 @@
     "company_name": "SOTI",
     "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -344239,30 +344239,6 @@
     "date_posted": 1766764298,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Reli",
-    "id": "9d6ed431-6953-4662-997c-c5c35824e4f2",
-    "title": "Data and Automation Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766743943,
-    "date_posted": 1766743943,
-    "url": "https://jobs.lever.co/shopreli/71b22e67-1f91-49c4-b85e-4f40d51649c7/apply",
-    "locations": [
-      "Norwalk, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Reli",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
