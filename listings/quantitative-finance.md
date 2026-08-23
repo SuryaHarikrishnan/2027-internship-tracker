@@ -1,4 +1,4 @@
-# Quantitative Finance (152)
+# Quantitative Finance (154)
 
 [← back to index](../README.md)
 
@@ -11,7 +11,6 @@
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) | Trading Analyst Intern | Newport Beach, CA | Summer 2027 | 2026-08-20 | 3 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/) | Fundamental Analyst Intern | NYC | Fall 2026 | 2026-08-19 | 4 | simplify-2026 |
 | [Detroit Lions](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005) | Quantitative Research Intern | Allen Park, MI | Fall 2026 | 2026-08-19 | 4 | simplify-2026 |
-| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | Quantitative Developer Internship - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-19 | 4 | simplify-2026 |
 | [Zuckerman Investment Group](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | Investment Analyst Intern - MBA | Chicago, IL | Fall 2026 | 2026-08-18 | 5 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830) | Quantitative Technology Services Co-op - QTS - Software Developer | Bedford, NS, Canada | N/A | 2026-08-18 | 5 | simplify-2026 |
 | [Point72](https://boards.greenhouse.io/point72/jobs/8721562002) | Quantitative Developer Intern | NYC | Winter 2027 | 2026-08-17 | 6 | simplify-2026 |
@@ -19,12 +18,15 @@
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 6 | simplify-2026 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | Quantitative Researcher Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 6 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-1) | Capital Markets Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | N/A | 2026-08-17 | 6 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/175423?type=students) | Quantitative Strategist Associate Intern - Asset and Wealth Management | London, UK | Summer 2027 | 2026-08-15 | 8 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171437?type=students) | Intern - Multiple Teams | London, UK | N/A | 2026-08-15 | 8 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/175427?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | London, UK | Summer 2027 | 2026-08-15 | 8 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/175424?type=students) | Quantitative Strategist Intern - Multiple Teams | London, UK | Summer 2027 | 2026-08-15 | 8 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171566?type=students) | Summer Associate Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 8 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170675?type=students) | Summer Analyst Intern - FICC & Equities - Sales & Trading | London, UK | Summer 2027 | 2026-08-15 | 8 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171563?type=students) | Quantitative Strategist Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 8 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/181628?type=students) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | 2026-08-15 | 8 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 | 9 | simplify-2026 |
 | [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 9 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 9 | simplify-2026 |
+| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | Quantitative Developer Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-13 | 10 | simplify-2026 |
 | [VWH Capital Management](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | Quantitative Researcher Intern | Dallas, TX | Fall 2026 | 2026-08-13 | 10 | simplify-2026 |
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000141124349) | Quantitative Analytics Development Program Intern | SF | N/A | 2026-08-13 | 10 | simplify-2026 |
 | [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) | Investment Analyst Intern | SF | Summer 2027 | 2026-08-13 | 10 | simplify-2026 |

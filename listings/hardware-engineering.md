@@ -1,4 +1,4 @@
-# Hardware Engineering (213)
+# Hardware Engineering (214)
 
 [← back to index](../README.md)
 
@@ -162,6 +162,7 @@
 | [Tesla](https://www.tesla.com/careers/search/job/273822) | Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-16 | 68 | simplify-2026 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2) | Analog/Mixed-Signal IC Design Co-Op/Intern | Montreal, QC, Canada | Summer 2026 | 2026-06-13 | 71 | simplify-2026 |
 | [NRG Energy](https://careers.nrgenergy.com/SMARTHOMES/job/Maumelle-Summer-Installation-Technician-Maumelle,-AR-AR-72113/1399149300/?ats=successfactors) | Installation Technician | Little Rock, AR | N/A | 2026-06-11 | 73 | simplify-2026 |
+| [Mach Industries](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application) | Engineering Co-op | Huntington Beach, CA | Fall 2026 | 2026-06-09 | 75 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273272) | Embedded Software Intern - Embedded Software Engineer - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-09 | 75 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | Design Verification Engineer Intern | Toronto, ON, Canada | Summer 2026 | 2026-06-08 | 76 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/270618) | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 77 | simplify-2026 |
