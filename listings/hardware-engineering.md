@@ -1,4 +1,4 @@
-# Hardware Engineering (213)
+# Hardware Engineering (210)
 
 [← back to index](../README.md)
 
@@ -85,7 +85,6 @@
 | [HyperLight](https://apply.workable.com/hyperlight/j/498D9988C8/apply) | Integrated Photonics Intern | Cambridge, MA | Summer 2026, Fall 2026 | 2026-08-08 | 16 | simplify-2026 |
 | [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) | Flight Software Intern - Spring 2027 | El Segundo, CA | Spring 2027 | 2026-08-07 | 17 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/TXI-Tech-Intern--Texas-Immersive-Institute--Moody-College-of-Communication--Open-to-Work-Study-_R_00047950) | Technology Intern - Texas Immersive Institute - Moody College of Communication | Austin, TX | Summer 2026 | 2026-08-07 | 17 | simplify-2026 |
-| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Fall 2026 | 2026-08-07 | 17 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670332179383699717/detail) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | Summer 2027 | 2026-08-06 | 18 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8683682002) | Controls Technician Apprentice - 2nd Shift | McGregor, TX | Fall 2026 | 2026-08-05 | 19 | simplify-2026 |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/jQWOTxtFY5/Student-Engineering-Assistant) | Engineering Assistant | North Logan, UT | N/A | 2026-08-05 | 19 | simplify-2026 |
@@ -114,7 +113,6 @@
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/73835/job?mobile=true&needsRedirect=false) | Embedded Software Engineer - HOH Fellows - Spouseworks Fellows | Burke, VA | N/A | 2026-07-28 | 27 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 28 | simplify-2026 |
 | [East Penn Manufacturing Company](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) | Product Engineer Intern | Ann Arbor, MI | Fall 2027 | 2026-07-27 | 28 | simplify-2026 |
-| [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Audiovisual-Services-Assistant--Student-_R4496) | Audiovisual Services Assistant - Student | Washington, DC | N/A | 2026-07-24 | 31 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1) | Surgery Field Engineer Apprentice | Austin, TX, San Antonio, TX | Fall 2026 | 2026-07-24 | 31 | simplify-2026 |
 | [Kepler Communications](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-07-22 | 33 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | FPGA Engineer Intern | Austin, TX | Summer 2027 | 2026-07-21 | 34 | simplify-2026 |
@@ -186,7 +184,6 @@
 | [Apple](https://jobs.apple.com/en-us/details/200663968) | Undergrad Engineering Intern | United States | Summer 2026 | 2026-05-22 | 94 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663981) | Hardware Engineering Intern | United States | Summer 2026 | 2026-05-22 | 94 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664414) | Hardware Technologies PhD Intern | United States | Summer 2026 | 2026-05-22 | 94 | simplify-2026 |
-| [Apple](https://jobs.apple.com/en-us/details/200664421) | Hardware PhD Intern | United States | Summer 2026 | 2026-05-22 | 94 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664383) | Hardware Technologies Engineering Intern | United States | Summer 2026 | 2026-05-22 | 94 | simplify-2026 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application) | Hardware Engineer Intern | Austin, TX | Summer 2026 | 2026-05-21 | 95 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | Autonomous Driving Applications Research Intern | Santa Clara, CA | Spring 2026 | 2026-05-21 | 95 | simplify-2026 |

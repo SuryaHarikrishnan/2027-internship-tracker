@@ -10989,7 +10989,7 @@
     "company_name": "General Motors",
     "id": "1d43fc21-2de6-411c-8141-ec33e8fa8fed",
     "title": "Battery & Sustainability Intern - Battery Research and Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -14358,7 +14358,7 @@
     "company_name": "Cenovus Energy",
     "id": "1efd9a41-d63b-4b5e-bd26-74ecbf7840bc",
     "title": "Workforce Analytics & Strategic Planning",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -23358,7 +23358,7 @@
     "company_name": "Ciena",
     "id": "63347020-90de-4daa-bacc-ff4e521ca908",
     "title": "Software Developer Intern - Fall 2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -40692,7 +40692,7 @@
     "company_name": "American University",
     "id": "a038ee64-00b2-435e-8318-90254ba95b10",
     "title": "Audiovisual Services Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -60083,7 +60083,7 @@
     "company_name": "Celonis",
     "id": "0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
     "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -95855,7 +95855,7 @@
     "company_name": "Apple",
     "id": "6def9049-74e8-421a-8971-f231e638e844",
     "title": "Hardware PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -106428,7 +106428,7 @@
     "company_name": "SOTI",
     "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -329564,7 +329564,7 @@
     "company_name": "Pine Rest",
     "id": "57069425-c65a-4977-9aa7-31b6c6e7fa62",
     "title": "Intern \u2013 Master's Level Social Worker - Inpatient and PHP",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -343911,30 +343911,6 @@
       "Denver, CO"
     ],
     "company_url": "https://simplify.jobs/c/Western-Union",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Qualcomm",
-    "id": "5183e112-7170-4c00-a047-89d2819a4b7d",
-    "title": "Intern \u2013 Automotive Engineering Intern - Canada - Or  months",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766819742,
-    "date_posted": 1766819742,
-    "url": "https://qualcomm.eightfold.ai/careers/job/446715696771",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Qualcomm",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

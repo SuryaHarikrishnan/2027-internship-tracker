@@ -1,4 +1,4 @@
-# Software Engineering (566)
+# Software Engineering (565)
 
 [← back to index](../README.md)
 
@@ -569,4 +569,3 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7600168555733027125/detail) | Security Software Engineer Project Intern - Network Security - 2026 Start | San Jose, CA | Spring 2026 | 2026-01-28 | 208 | simplify-2026 |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | Software Engineering Co-op Spring 2027 | Louisville, KY | Spring 2027 | 2026-01-23 | 213 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7572665884037826869) | Software Engineer Intern - Ads Infrastructure | San Jose, CA | Summer 2026 | 2026-01-15 | 221 | simplify-2026 |
-| [Pine Rest](https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Intern---Master-s-Level-Social-Worker--Inpatient-and-PHP_JR103945) | Intern – Master's Level Social Worker - Inpatient and PHP | Grand Rapids, MI | Spring 2026 | 2026-01-09 | 227 | simplify-2026 |
