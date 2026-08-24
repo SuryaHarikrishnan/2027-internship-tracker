@@ -21857,7 +21857,7 @@
     "company_name": "Sony Music Entertainment",
     "id": "08783e42-22f6-47ea-b391-ad53b2579350",
     "title": "Data Analytics Intern - A&R Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -22085,7 +22085,7 @@
     "company_name": "Flexion Robotics",
     "id": "11e5114f-3ac5-4d35-a25a-64c8f7661b81",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -40898,7 +40898,7 @@
     "company_name": "International Rescue Committee (IRC)",
     "id": "e3234588-2be6-40da-8aa3-d096c6574e76",
     "title": "Data Integration & Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -64177,7 +64177,7 @@
     "company_name": "thyssenkrupp",
     "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
     "title": "Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -95855,7 +95855,7 @@
     "company_name": "Apple",
     "id": "6def9049-74e8-421a-8971-f231e638e844",
     "title": "Hardware PhD Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -100736,7 +100736,7 @@
     "company_name": "Melotech",
     "id": "0ee42cec-fd2b-4ffa-8687-8c302e90fbcf",
     "title": "Full-Stack Developer Intern - Music & Audio",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
