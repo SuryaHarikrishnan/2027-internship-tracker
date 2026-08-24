@@ -1,9 +1,15 @@
-# Hardware Engineering (211)
+# Hardware Engineering (217)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [MAG Aerospace](https://careers-magaero.icims.com/jobs/8326/job?mobile=true&needsRedirect=false) | Systems Analyst Apprentice | Maryland | Fall 2026 | 2026-08-24 | 0 | simplify-2026 |
+| [Nomagic](https://jobs.lever.co/Nomagic/c7a6445d-3fd8-4bf1-90c0-ec01c2bef2af/apply) | Engineering Intern - Software or Hardware | Alpharetta, GA | Fall 2026 | 2026-08-24 | 0 | simplify-2026 |
+| [The Walt Disney Company](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467) | Show Control Hardware Intern | Orlando, FL, Celebration, FL, Glendale, CA | Spring 2027 | 2026-08-24 | 0 | simplify-2026 |
+| [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302) | Product Engineer Intern - Product Development | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-24 | 0 | simplify-2026 |
+| [The Walt Disney Company](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137) | Systems Software Engineer Intern | Glendale, CA | Winter 2027 | 2026-08-24 | 0 | simplify-2026 |
+| [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | Digital Design Engineer Intern | San Jose, CA, Durham, NC | Fall 2026 | 2026-08-24 | 0 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305) | Systems Integration Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-22 | 2 | simplify-2026 |
 | [H3X Technologies](https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40/application?embed=true) | Embedded Controls Intern | Louisville, CO | Spring 2026 | 2026-08-21 | 3 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338) | Layout Design Intern | United States | Fall 2026 | 2026-08-21 | 3 | simplify-2026 |
