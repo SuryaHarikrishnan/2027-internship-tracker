@@ -1,6 +1,34 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Polaris",
+    "id": "43314ea5-8533-4883-a5e5-5afdc6cff866",
+    "title": "Predictive Data Science Intern - Digital & IT",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787587612,
+    "date_posted": 1787529600,
+    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525",
+    "locations": [
+      "Medina, MN",
+      "Plymouth, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Polaris",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Motorola",
     "id": "40a73eb1-1878-4203-a116-82e2ad5c39c2",
@@ -1855,7 +1883,7 @@
     "company_name": "Availity",
     "id": "b364c68b-8fda-447b-b50d-dfa7fcd4039f",
     "title": "Software Engineer Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6302,7 +6330,7 @@
     "company_name": "RTX",
     "id": "a717fdef-0f39-4450-ba29-a63aa12f17ba",
     "title": "Systems Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -19974,7 +20002,7 @@
     "company_name": "Foxconn Industrial Internet",
     "id": "dd48b2e1-0256-4ecf-9af3-159fee2913bc",
     "title": "Data Visualization & Analytics Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -22531,7 +22559,7 @@
     "company_name": "Booz Allen",
     "id": "739b6998-abbe-4971-ac78-5de770dd33b3",
     "title": "AI RAN Telecommunications Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23130,7 +23158,7 @@
     "company_name": "InfiniteQuant",
     "id": "9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
     "title": "Quantitative Researcher Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -101953,7 +101981,7 @@
     "company_name": "Melotech",
     "id": "39d9c34d-25c2-4b63-b896-ad1ecb98c563",
     "title": "Data Science Intern - Music & Audio",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -109062,7 +109090,7 @@
     "company_name": "TSC",
     "id": "3bfb4bf7-06c9-49ef-afe3-cb05435f4792",
     "title": "Hardware Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
