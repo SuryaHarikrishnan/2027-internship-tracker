@@ -1,9 +1,15 @@
-# Quantitative Finance (136)
+# Quantitative Finance (141)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | Quantitative Developer Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
+| [Picton Mahoney Asset Management](https://pictonmahoney.bamboohr.com/careers/350/) | Quantitative Research & Risk Intern | Toronto, ON, Canada | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
+| [VWH Capital Management](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | Quantitative Researcher Intern | Dallas, TX | Fall 2026 | 2026-08-13 | 0 | simplify-2026 |
+| [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000141124349) | Quantitative Analytics Development Program Intern | SF | N/A | 2026-08-13 | 0 | simplify-2026 |
+| [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) | Investment Analyst Intern | SF | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
+| [Wells Fargo](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) | Quantitative Analytics Intern - Capital Markets - Masters | Charlotte, NC | Summer 2027 | 2026-08-13 | 0 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | Trading Intern | London, UK | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8113986) | Quantitative Research Intern - Central Execution Research | London, UK | Fall 2026 | 2026-08-12 | 1 | simplify-2026 |
 | [Northwestern Mutual](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | Quantitative Analyst Intern - Public Investments | Milwaukee, WI | Summer 2027 | 2026-08-12 | 1 | simplify-2026 |
@@ -14,10 +20,8 @@
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | Data Trading Analyst Intern | NYC | Summer 2027 | 2026-08-11 | 2 | simplify-2026 |
 | [ConocoPhillips](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | Trading Analytics Intern | Houston, TX | Summer 2027 | 2026-08-11 | 2 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | Quantitative Analyst Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-08-11 | 2 | simplify-2026 |
-| [Truist Bank](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | Analyst Intern - Equity Research - Sales, Trading & Research | NYC, Atlanta, GA | Fall 2026 | 2026-08-11 | 2 | simplify-2026 |
 | [ExxonMobil](https://jobs.exxonmobil.com/job/Spring-Students-Seeking-InternshipCo-op-Opportunities-in-Trading-TX-77389/1417886900/?ats=successfactors) | Trading Intern/Co-op | Spring, TX | Summer 2026 | 2026-08-10 | 3 | simplify-2026 |
 | [Montenson](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | Investment Analyst Intern | Minnesota | Summer 2027 | 2026-08-10 | 3 | simplify-2026 |
-| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129) | Quantitative Researcher Intern - Summer 2027 | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-08-10 | 3 | simplify-2026 |
 | [Capula](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Trading and Research Intern | London, UK | Summer 2027 | 2026-08-08 | 5 | simplify-2026 |
 | [WallStreetQuants](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | Quantitative Researcher Intern | NYC | Fall 2026 | 2026-08-08 | 5 | simplify-2026 |
 | [WallStreetQuants](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) | Quantitative Trading Intern | Miami, FL | Fall 2026 | 2026-08-08 | 5 | simplify-2026 |
@@ -99,6 +103,7 @@
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false) | Trading System Engineer Intern | United States | Summer 2027 | 2026-07-06 | 38 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Philadelphia, PA | Summer 2027 | 2026-07-06 | 38 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8024138) | Quantitative Trader Intern | NYC | Summer 2026 | 2026-07-05 | 39 | simplify-2026 |
+| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8024128) | Quantitative Trader Intern | Chicago, IL, NYC | Summer 2027 | 2026-07-05 | 39 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Quantitative Developer Intern | Chicago, IL, NYC | Summer 2027 | 2026-07-05 | 39 | simplify-2026 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819) | Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern | London, UK | Summer 2027 | 2026-07-02 | 42 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | Relationship Manager Commercial Markets Intern | Madawaska County, NB, Canada | Summer 2026 | 2026-07-02 | 42 | simplify-2026 |
