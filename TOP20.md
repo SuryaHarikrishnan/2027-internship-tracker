@@ -8,13 +8,13 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Apple** | Design Verification Intern | Santa Clara, CA | N/A | 2026-08-25 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200679789) |
-| 2 | **Microsoft** | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | 2026-08-22 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556979054) |
-| 3 | **Northrop Grumman** | Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel | Huntsville, AL | Summer 2027 | 2026-08-25 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
-| 4 | **AMD** | ASIC Package Engineer Intern Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-25 (0d ago) | [Apply](https://careers.amd.com/jobs/91469?icims=1) |
-| 5 | **Genentech** | Machine Learning Intern - OpRegen Machine Learning | South SF | Spring 2027 | 2026-08-24 (1d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---OpRegen-Machine-Learning_202608-121800) |
-| 6 | **TikTok** | Client Solutions Intern - Global Business Solutions | NYC | Summer 2027 | 2026-08-24 (1d ago) | [Apply](https://lifeattiktok.com/search/7677467375486765317) |
-| 7 | **Susquehanna International Group** | Quantitative Strategy Developer Intern | London, UK, Dublin, Ireland | Summer 2027 | 2026-08-21 (4d ago) | [Apply](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) |
+| 1 | **Susquehanna International Group** | AI Co-op - Drexel University | Bala Cynwyd, PA | Fall 2026 | 2026-08-25 (0d ago) | [Apply](https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false) |
+| 2 | **Apple** | Design Verification Intern | Santa Clara, CA | N/A | 2026-08-25 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200679789) |
+| 3 | **Microsoft** | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | 2026-08-22 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556979054) |
+| 4 | **Northrop Grumman** | Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel | Huntsville, AL | Summer 2027 | 2026-08-25 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
+| 5 | **AMD** | ASIC Package Engineer Intern Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-25 (0d ago) | [Apply](https://careers.amd.com/jobs/91469?icims=1) |
+| 6 | **Genentech** | Machine Learning Intern - OpRegen Machine Learning | South SF | Spring 2027 | 2026-08-24 (1d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---OpRegen-Machine-Learning_202608-121800) |
+| 7 | **TikTok** | Client Solutions Intern - Global Business Solutions | NYC | Summer 2027 | 2026-08-24 (1d ago) | [Apply](https://lifeattiktok.com/search/7677467375486765317) |
 | 8 | **Figma** | Software Engineer Intern | San Francisco, CA, New York, NY |  | 2026-08-21 (4d ago) | [Apply](https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
 | 9 | **Databricks** | Software Engineering Intern | Bellevue, Washington, Mountain View, California, San Francisco, California |  | 2026-08-21 (4d ago) | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) |
 | 10 | **Tesla** | Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-08-20 (5d ago) | [Apply](https://www.tesla.com/careers/search/job/280820) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (10d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 
 ---
-*Generated 2026-08-25 17:33 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-25 21:35 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
