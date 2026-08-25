@@ -1,4 +1,4 @@
-# Product Management (87)
+# Product Management (86)
 
 [← back to index](../README.md)
 
@@ -48,7 +48,6 @@
 | [LPL Financial Holdings](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) | Product Intern - Product | Austin, TX, Fort Mill, SC | Summer 2027 | 2026-08-10 | 15 | simplify-2026 |
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Summer 2027 | 2026-08-10 | 15 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670010726514493749) | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | Summer 2027 | 2026-08-07 | 18 | simplify-2026 |
-| [tarte cosmetics](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | Product Development Intern | NYC | Fall 2026 | 2026-08-07 | 18 | simplify-2026 |
 | [Amcor](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654) | Product Development Engineer Intern | Evansville, IN | Fall 2026 | 2026-08-07 | 18 | simplify-2026 |
 | [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) | MBA Intern - Product Management | Chicago, IL, Northfield, IL | Summer 2027 | 2026-08-07 | 18 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668820702623467781) | Product Operations Intern - TikTok Shop Apps and API - MBA | Seattle, WA | Summer 2027 | 2026-08-06 | 19 | simplify-2026 |

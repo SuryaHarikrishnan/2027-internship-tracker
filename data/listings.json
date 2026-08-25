@@ -1,6 +1,219 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Appliances",
+    "id": "bd5a92c9-7503-495c-a022-ad6970c624c8",
+    "title": "People & Workforce Analytics Intern - Culture",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787674747,
+    "date_posted": 1787616000,
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/People--Culture----Workforce-Analytics-Intern_REQ-26584",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog",
+    "id": "008ef8ff-5c16-4e21-b76e-c3556a58708d",
+    "title": "Hardware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787674739,
+    "date_posted": 1787616000,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
+    "locations": [
+      "Mineral Wells, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "7998c30b-63f7-41de-9fc4-d0402adf18aa",
+    "title": "Strategic Insights & Analytics Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1787674549,
+    "date_posted": 1787616000,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717",
+    "locations": [
+      "Horsham, PA",
+      "Hopewell Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "f2ca9508-2adb-4b58-8b67-30ca90534cb1",
+    "title": "Commercial Portfolio Risk & Credit Analytics Intern - Grm",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787674010,
+    "date_posted": 1787616000,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "d68b9bbb-6fb8-469c-b051-f90591e5c746",
+    "title": "Commercial Portfolio Risk & Credit Analytics Intern - Group Risk Management",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787673637,
+    "date_posted": 1787616000,
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "dbb6251b-a60a-494e-aa2b-3d680b0e0b47",
+    "title": "Software Engineer Co-op - Avionics Platform Software",
+    "active": true,
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787669353,
+    "date_posted": 1787616000,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
+    "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787669346,
+    "date_posted": 1787616000,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bosch Home Comfort",
+    "id": "4338e55f-78ed-4a37-8c3d-482e13c4cff0",
+    "title": "AI Security Research Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787667121,
+    "date_posted": 1787667120,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145507908",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Cadence Design Systems",
     "id": "aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
@@ -661,7 +874,7 @@
     "company_name": "Multnomah County",
     "id": "a11f0950-7a8c-4529-aa0d-e295f4aca1fb",
     "title": "Public Health Tobacco Control and Prevention Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1287,7 +1500,7 @@
     "company_name": "Philips",
     "id": "327ffcc9-d306-44ce-8b6d-ddbdeb204304",
     "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -1632,7 +1845,7 @@
     "company_name": "Atoms",
     "id": "3d9f6139-bedb-4b94-9e84-1b542b3250ac",
     "title": "Robotics Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -8212,7 +8425,7 @@
     "company_name": "Micron Technology",
     "id": "1117caa7-3295-43c8-a83c-b44e449d40eb",
     "title": "Physical Failure Analysis Engineer Intern - Yield Enhancement",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -11509,7 +11722,7 @@
     "company_name": "NVIDIA",
     "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
     "title": "Hardware Design for Test Intern - DFT",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -15234,7 +15447,7 @@
     "company_name": "Intel",
     "id": "2d8fe16e-0d23-496c-9f2a-a5a1dd0f386a",
     "title": "Software Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -25731,7 +25944,7 @@
     "company_name": "InfiniteQuant",
     "id": "9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
     "title": "Quantitative Researcher Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26144,7 +26357,7 @@
     "company_name": "Axon",
     "id": "6eff9788-f38e-4357-8646-cd6f5984f3cb",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26171,7 +26384,7 @@
     "company_name": "Atoms",
     "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -27438,7 +27651,7 @@
     "company_name": "tarte cosmetics",
     "id": "e3c2315a-4781-449f-9fe9-17d3d76d7b82",
     "title": "Product Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -95469,7 +95682,7 @@
     "company_name": "University of Virginia",
     "id": "7dc5c5a8-3a1b-4c63-ac80-e2dd4b336f29",
     "title": "TFWS Research and Insights Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -314873,7 +315086,7 @@
     "company_name": "Autodesk",
     "id": "244b5d51-7fee-44da-9192-dd642b0387f9",
     "title": "PhD Intern - AI Researcher for CAD - B-Rep",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
