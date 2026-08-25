@@ -2,6 +2,319 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Kodiak Robotics",
+    "id": "078b686b-ef5b-4803-a291-b3762d2b81b9",
+    "title": "Behavior Planning Intern - Motion Planning",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787647069,
+    "date_posted": 1787603743,
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4377721009",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Multnomah County",
+    "id": "d3abbe01-5fad-408d-a9d1-083f5c0c09a2",
+    "title": "Immunization & Community Health Intern - Prevention and Health Promotion",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787641023,
+    "date_posted": 1787529600,
+    "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Immunization---Community-Health-Intern_R-20139",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Multnomah-County",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wex",
+    "id": "90639373-d769-48b3-8ac2-94d63829c638",
+    "title": "Artificial Intelligence Intern - AI/ML/NLP Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787640076,
+    "date_posted": 1787529600,
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "SF",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Portland, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/Wex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Apple",
+    "id": "acff4e3e-72e2-4540-80d6-874ced15ab5a",
+    "title": "Design Verification Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787639618,
+    "date_posted": 1787639465,
+    "url": "https://jobs.apple.com/en-us/details/200679789",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Meridian Partners",
+    "id": "2b427c48-848f-4f28-b666-9136b44ba757",
+    "title": "Embedded Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "7a0e26e4-7787-42a2-8128-e496212ae724",
+    "title": "Full Stack Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
+    "title": "Cloud Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meridian Partners",
+    "id": "bc77c289-ab13-4062-adf6-da8e0aa72034",
+    "title": "Machine Learning Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "8d8ee1d2-7639-4b3a-a595-6be2478476c4",
+    "title": "ASIC Package Engineer Intern Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787638845,
+    "date_posted": 1787638570,
+    "url": "https://careers.amd.com/jobs/91469?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "ddae6979-7fcd-4b8d-97c8-36d02bd02f06",
+    "title": "ASIC Package Engineering Intern Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787638840,
+    "date_posted": 1787638564,
+    "url": "https://careers.amd.com/jobs/91466?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "06673e9a-5d65-4652-9ea8-f673b24c85a5",
+    "title": "ASIC Package Engineering Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787638827,
+    "date_posted": 1787638564,
+    "url": "https://careers.amd.com/jobs/91463?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Genentech",
     "id": "bdf86aea-50d0-4dc0-a171-8784bc37c4bb",
     "title": "Machine Learning Intern - OpRegen Machine Learning",
@@ -926,7 +1239,7 @@
     "company_name": "Kodiak Robotics",
     "id": "21abe7e3-285d-4817-a48a-557228cb2228",
     "title": "AI/ML Intern - Artificial Intelligence/Machine Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -2507,7 +2820,7 @@
     "company_name": "BNY",
     "id": "2f4c5900-989e-4b19-afdd-c5d973e9b552",
     "title": "Data Science Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3091,7 +3404,7 @@
     "company_name": "The Walt Disney Company",
     "id": "10360e05-db49-4c1b-a62d-7e0038f835fd",
     "title": "Geographic Information Systems Intern - GIS",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -3536,7 +3849,7 @@
     "company_name": "Springs Window Fashions",
     "id": "3ba0ee0f-9499-46e0-a269-8b7c01b0adf3",
     "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4088,7 +4401,7 @@
     "company_name": "Solid Power",
     "id": "214fc73f-c4d9-4c6d-8455-16b74d79ce68",
     "title": "Product Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -6859,7 +7172,7 @@
     "company_name": "Databricks",
     "id": "1a0df397-2083-456f-9ecb-137eec7603ef",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -7192,7 +7505,7 @@
     "company_name": "AMD",
     "id": "16ab9e56-fd38-43a4-a048-7cca73f13c2d",
     "title": "Hardware Design Verification Engineering Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027",
@@ -7441,7 +7754,7 @@
     "company_name": "AMD",
     "id": "3a7a0552-99e6-49df-a934-5f5f8e97109b",
     "title": "Firmware Engineering Intern Co-op - Undergrad",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027",
@@ -8751,7 +9064,7 @@
     "company_name": "Freeform",
     "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
     "title": "Materials Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -15081,7 +15394,7 @@
     "company_name": "SharkNinja",
     "id": "cf68c1ba-7041-4bca-bf76-d41bac3fad43",
     "title": "Performance Data Co-op - Marketplace Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -16536,7 +16849,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -26759,7 +27072,7 @@
     "company_name": "Canva",
     "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
     "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -27467,7 +27780,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -27958,7 +28271,7 @@
     "company_name": "Canva",
     "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
     "title": "PhD Research Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -28064,7 +28377,7 @@
     "company_name": "Canva",
     "id": "b42d28f6-494f-4b0a-8e40-29dd669c4846",
     "title": "PhD Research Scientist Intern - Generative AI",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -46914,7 +47227,7 @@
     "company_name": "Optiver",
     "id": "9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
     "title": "Institutional Trader Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -54668,7 +54981,7 @@
     "company_name": "Databricks",
     "id": "ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -55156,7 +55469,7 @@
     "company_name": "The Trade Desk",
     "id": "1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
     "title": "Software Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -55459,7 +55772,7 @@
     "company_name": "Citadel Securities",
     "id": "a869b3f7-71bd-4b08-9c7e-8c6706e98035",
     "title": "Quantitative Research Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -62368,7 +62681,7 @@
     "company_name": "Astranis",
     "id": "d5cec203-67b4-4970-8718-20bdbbe30e43",
     "title": "Radiation Effects Associate Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -62421,7 +62734,7 @@
     "company_name": "Astranis",
     "id": "691cf244-d5c5-4077-969a-e3f3f9af4bb4",
     "title": "Radiation Effects Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -62806,7 +63119,7 @@
     "company_name": "Jane Street",
     "id": "24534a41-4bd7-4c4d-9ae9-8eb9bbc7c79c",
     "title": "Machine Learning Researcher",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -67192,7 +67505,7 @@
     "company_name": "Citadel Securities",
     "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
     "title": "Machine Learning Researcher PhD Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -74105,7 +74418,7 @@
     "company_name": "Adaption Labs",
     "id": "9999c788-4faa-43a0-9300-8fef2f45873d",
     "title": "Modelling Resident",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -80768,7 +81081,7 @@
     "company_name": "Block",
     "id": "11aaf289-dda4-4297-8b78-8998a2d45e2f",
     "title": "Applied Research Intern Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -120153,7 +120466,7 @@
     "company_name": "Astranis",
     "id": "a4f598b7-9523-41bf-a91b-7ef4589ac1ea",
     "title": "Reliability Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -123991,7 +124304,7 @@
     "company_name": "DoorDash",
     "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
     "title": "AI Research Fellowship Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -125428,7 +125741,7 @@
     "company_name": "Astranis",
     "id": "358237a9-7866-40f8-98fc-affcbbc15651",
     "title": "Flight Software Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],

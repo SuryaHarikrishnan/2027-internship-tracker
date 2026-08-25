@@ -1,9 +1,11 @@
-# Software Engineering (590)
+# Software Engineering (592)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Meridian Partners](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003) | Full Stack Software Engineer Co-op | Cambridge, MA, Seattle, WA, Arlington County, Arlington, VA | Fall 2026 | 2026-08-25 | 0 | simplify-2026 |
+| [Meridian Partners](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003) | Cloud Software Engineer Co-op | Cambridge, MA | Fall 2026 | 2026-08-25 | 0 | simplify-2026 |
 | [Rivet Industries](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true) | Software Engineer Intern - XR Team - Fall 2026 | Bellevue, WA | Fall 2026 | 2026-08-25 | 0 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137483008064) | Robotics Engineer Intern | Ames, IA | N/A | 2026-08-25 | 0 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482782400) | Robotics Engineer Part-Time Student - Product Engineering | Urbandale, IA, Ames, IA | N/A | 2026-08-25 | 0 | simplify-2026 |
@@ -23,6 +25,7 @@
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253) | Software Developer Intern - Engineering | NYC | Summer 2027 | 2026-08-24 | 1 | simplify-2026 |
 | [Gulfstream](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors) | Software Engineer Intern - Innovation, Engineering and Flight | Savannah, GA | Spring 2027 | 2026-08-24 | 1 | simplify-2026 |
 | [Gulfstream](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors) | Software Engineer Intern - IEF | Savannah, GA | Summer 2027 | 2026-08-24 | 1 | simplify-2026 |
+| [Multnomah County](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Immunization---Community-Health-Intern_R-20139) | Immunization & Community Health Intern - Prevention and Health Promotion | Portland, OR | Fall 2026 | 2026-08-24 | 1 | simplify-2026 |
 | [Multnomah County](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1) | Public Health Tobacco Control and Prevention Intern | Portland, OR | Fall 2026 | 2026-08-24 | 1 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325) | Computer Graphics Engineer Intern | Champaign, IL | Fall 2026 | 2026-08-24 | 1 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316) | Software Engineer Intern - Boating Intelligence Design Lab | Champaign, IL | Fall 2026 | 2026-08-24 | 1 | simplify-2026 |
@@ -47,12 +50,10 @@
 | [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571) | Engineering Intern | Raleigh, NC | Summer 2027 | 2026-08-22 | 3 | simplify-2026 |
 | [Ambrook](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application?embed=true) | Software Engineer Intern | NYC | Summer 2026 | 2026-08-21 | 4 | simplify-2026 |
 | [Eaton](https://eaton.eightfold.ai/careers/job/687238323389) | Application Engineer Co-op - Marketing | Ellisville, MO | Fall 2026 | 2026-08-21 | 4 | simplify-2026 |
-| [Solid Power](https://job-boards.greenhouse.io/solidpower/jobs/6150710004) | Product Engineer Intern | Thornton, CO | Fall 2026 | 2026-08-21 | 4 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137482894611) | Product Engineering Student - Product Engineering | Urbandale, IA | N/A | 2026-08-21 | 4 | simplify-2026 |
 | [Fullbay](https://fullbay.bamboohr.com/careers/131/) | Software Engineer Intern | Phoenix, AZ | Fall 2026 | 2026-08-21 | 4 | simplify-2026 |
 | [Syska Hennessy Group](https://job-boards.greenhouse.io/syskahennessy/jobs/8147733) | Innovations Intern - Full Stack/Front End Engineering | NYC | Fall 2026 | 2026-08-21 | 4 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7929236003) | Software Engineer Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-21 | 4 | simplify-2026 |
-| [Databricks](https://boards.greenhouse.io/embed/job_app?token=8732364002) | Software Engineer Intern | SF, Bellevue, WA, Mountain View, CA | Winter 2027 | 2026-08-21 | 4 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91176?icims=1) | Software Engineer Intern/Co-op - Masters | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-21 | 4 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/90891?icims=1) | Software Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 | 4 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91180?icims=1) | Software Engineer Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-21 | 4 | simplify-2026 |
@@ -376,6 +377,7 @@
 | [Chevron Corporation](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) | Software Engineer Intern - Information Technology - Software Engineer | Houston, TX | Fall 2026 | 2026-07-16 | 40 | simplify-2026 |
 | [Solar Turbines](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293) | Gas Turbine Products Engineering Intern | San Diego, CA | Summer 2026 | 2026-07-16 | 40 | simplify-2026 |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-15 | 41 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [The Trade Desk](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | Software Engineering Intern | Seattle, WA, Irvine, CA, NYC, Bellevue, WA, Denver, CO, Boulder, CO | Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028 | 2026-07-15 | 41 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8626260002) | Linux Engineer | NYC | N/A | 2026-07-15 | 41 | simplify-2026 |
 | [Beacon Software](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true) | Software Engineer Intern | SF | Fall 2026 | 2026-07-15 | 41 | simplify-2026 |
 | [Circleback](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | Software Engineer Intern | SF | Summer 2027 | 2026-07-15 | 41 | simplify-2026 |
