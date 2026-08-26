@@ -1,12 +1,15 @@
-# Hardware Engineering (232)
+# Hardware Engineering (234)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Tesla](https://www.tesla.com/careers/search/job/281233) | AI Hardware Physical Design Engineer Intern - AI Hardware | Palo Alto, CA, Austin, TX, Fort Collins, CO | Spring 2027 | 2026-08-26 | 0 | simplify-2026 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556958170) | Silicon Engineer Intern | Raleigh, NC, Santa Clara, CA, Mountain View, CA | Fall 2026 | 2026-08-26 | 0 | simplify-2026 |
 | [Eight Sleep](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true) | Hardware Support & Test Intern | SF | Fall 2026 | 2026-08-26 | 0 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7974897003) | Embedded Software Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-26 | 0 | simplify-2026 |
 | [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421) | Software Engineer Intern | Bohemia, NY | Fall 2026 | 2026-08-26 | 0 | simplify-2026 |
+| [QTS](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892) | Data Center Infrastructure Management Intern - DCIM | Ashburn, VA, Suwanee, GA | Summer 2027 | 2026-08-26 | 0 | simplify-2026 |
 | [Smiths Detection Group](https://jobs.smartrecruiters.com/SmithsGroup2/744000145533267) | Technical Service Engineer Intern | Pine Brook, Montville, NJ | N/A | 2026-08-25 | 1 | simplify-2026 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) | Embedded Engineer Intern | United States | Summer 2027 | 2026-08-25 | 1 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/73841/job?mobile=true&needsRedirect=false) | Engineering Technician Co-op - Nanoready | Manassas, VA | Fall 2026 | 2026-08-25 | 1 | simplify-2026 |
@@ -20,7 +23,6 @@
 | [Fortive](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270) | Field Service Engineer Co-op | United States | Winter 2027 | 2026-08-25 | 1 | simplify-2026 |
 | [Meridian Partners](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003) | Flight Software Engineer Co-op | Cambridge, MA | Fall 2026 | 2026-08-25 | 1 | simplify-2026 |
 | [Moog](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417) | Hardware Engineer Intern | Mineral Wells, TX | Summer 2027 | 2026-08-25 | 1 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518) | Software Engineer Co-op - Avionics Platform Software | Cedar Rapids, IA | Summer 2027, Fall 2027 | 2026-08-25 | 1 | simplify-2026 |
 | [MSA Safety](https://careers.msasafety.com/jobs/9993?icims=1) | Software Engineer Intern - Product Development - Summer 2027 | Cranberry Township, PA | Summer 2027 | 2026-08-24 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Wilmington-Intern-D,-Software-Engineer-MA-01887/1422529400/?ats=successfactors) | Software Engineer Intern | Wilmington, MA | Fall 2026 | 2026-08-24 | 2 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) | Hardware Design Co-op Intern - Firmware | Brookings, SD | Summer 2027 | 2026-08-24 | 2 | simplify-2026 |

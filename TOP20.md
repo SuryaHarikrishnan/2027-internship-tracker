@@ -8,16 +8,16 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Susquehanna International Group** | AI Co-op - Drexel University | Bala Cynwyd, PA | Fall 2026 | 2026-08-25 (1d ago) | [Apply](https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false) |
-| 2 | **Apple** | Design Verification Intern | Santa Clara, CA | N/A | 2026-08-25 (1d ago) | [Apply](https://jobs.apple.com/en-us/details/200679789) |
-| 3 | **AbbVie** | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | South SF | Summer 2027 | 2026-08-26 (0d ago) | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014860391) |
-| 4 | **TikTok** | AI Infrastructure Engineer Intern - Recommendation & LLM | San Jose, CA | Summer 2027 | 2026-08-26 (0d ago) | [Apply](https://lifeattiktok.com/search/7672671220798818613) |
-| 5 | **Northrop Grumman** | Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel | Huntsville, AL | Summer 2027 | 2026-08-25 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
-| 6 | **AMD** | ASIC Package Engineer Intern Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-25 (1d ago) | [Apply](https://careers.amd.com/jobs/91469?icims=1) |
-| 7 | **Microsoft** | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | 2026-08-22 (4d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556979054) |
-| 8 | **Figma** | Software Engineer Intern | San Francisco, CA, New York, NY |  | 2026-08-21 (5d ago) | [Apply](https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
-| 9 | **Databricks** | Software Engineering Intern | Bellevue, Washington, Mountain View, California, San Francisco, California |  | 2026-08-21 (5d ago) | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) |
-| 10 | **Tesla** | Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-08-20 (6d ago) | [Apply](https://www.tesla.com/careers/search/job/280820) |
+| 1 | **Tesla** | AI Hardware Physical Design Engineer Intern - AI Hardware | Palo Alto, CA, Austin, TX, Fort Collins, CO | Spring 2027 | 2026-08-26 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/281233) |
+| 2 | **Microsoft** | Silicon Engineer Intern | Raleigh, NC, Santa Clara, CA, Mountain View, CA | Fall 2026 | 2026-08-26 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556958170) |
+| 3 | **Susquehanna International Group** | AI Co-op - Drexel University | Bala Cynwyd, PA | Fall 2026 | 2026-08-25 (1d ago) | [Apply](https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false) |
+| 4 | **Apple** | Design Verification Intern | Santa Clara, CA | N/A | 2026-08-25 (1d ago) | [Apply](https://jobs.apple.com/en-us/details/200679789) |
+| 5 | **AbbVie** | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | South SF | Summer 2027 | 2026-08-26 (0d ago) | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014860391) |
+| 6 | **TikTok** | AI Infrastructure Engineer Intern - Recommendation & LLM | San Jose, CA | Summer 2027 | 2026-08-26 (0d ago) | [Apply](https://lifeattiktok.com/search/7672671220798818613) |
+| 7 | **Northrop Grumman** | Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel | Huntsville, AL | Summer 2027 | 2026-08-25 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
+| 8 | **AMD** | ASIC Package Engineer Intern Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-25 (1d ago) | [Apply](https://careers.amd.com/jobs/91469?icims=1) |
+| 9 | **Figma** | Software Engineer Intern | San Francisco, CA, New York, NY |  | 2026-08-21 (5d ago) | [Apply](https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
+| 10 | **Databricks** | Software Engineering Intern | Bellevue, Washington, Mountain View, California, San Francisco, California |  | 2026-08-21 (5d ago) | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) |
 | 11 | **Cloudflare** | Software Engineer Intern - Fall 2026 | London, UK | Fall 2026 | 2026-08-20 (6d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8118855) |
 | 12 | **Notion** | Data Science Intern | SF | Winter 2027 | 2026-08-20 (6d ago) | [Apply](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true) |
 | 13 | **Citadel Securities** | Fundamental Analyst Intern | NYC | Fall 2026 | 2026-08-19 (7d ago) | [Apply](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (11d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 
 ---
-*Generated 2026-08-26 13:46 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-26 19:04 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
