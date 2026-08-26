@@ -1,4 +1,4 @@
-# Quantitative Finance (166)
+# Quantitative Finance (164)
 
 [← back to index](../README.md)
 
@@ -120,13 +120,11 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7848371) | Campus Quantitative Trader Intern | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 49 | simplify-2026 |
 | [Flow Traders](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | Quantitative Trading Intern | NYC | Summer 2027 | 2026-07-08 | 49 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8621450002) | Trading Desk Operations Engineer | NYC | N/A | 2026-07-07 | 50 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | Quantitative Trader: Equity Quantitative Research Intern | NYC | Fall 2026 | 2026-07-07 | 50 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8347385002) | Sales and Trading | NYC | N/A | 2026-07-06 | 51 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8617344002) | Quantitative Trader | NYC | N/A | 2026-07-06 | 51 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) | Quantitative Researcher Intern | NYC | N/A | 2026-07-06 | 51 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Quantitative Research Analyst Bachelor's or master's degree Intern | London, UK, Paris, France | Summer 2026 | 2026-07-06 | 51 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | Quantitative Research Analyst Intern | Greenwich, CT, Miami, FL, NYC | Summer 2026 | 2026-07-06 | 51 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | Trader: Fixed Income & Macro Intern | Greenwich, CT, Miami, FL, NYC | Fall 2026 | 2026-07-06 | 51 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false) | Trading System Engineer Intern | United States | Summer 2027 | 2026-07-06 | 51 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Philadelphia, PA | Summer 2027 | 2026-07-06 | 51 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8024138) | Quantitative Trader Intern | NYC | Summer 2026 | 2026-07-05 | 52 | simplify-2026 |

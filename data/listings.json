@@ -1,6 +1,33 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GrayMatter Robotics",
+    "id": "27a6ad01-fe1e-43d5-b073-0910ba54f479",
+    "title": "AI Research Intern - Foundation Models",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787734893,
+    "date_posted": 1787734629,
+    "url": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true",
+    "locations": [
+      "LA",
+      "Carson, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Brunswick",
     "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
@@ -12536,7 +12563,7 @@
     "company_name": "RTX",
     "id": "d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26161,7 +26188,7 @@
     "company_name": "Citadel",
     "id": "de926b0a-99e7-4dbd-94cd-334ec565be9f",
     "title": "Sector Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -40760,7 +40787,7 @@
     "company_name": "Citadel",
     "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
     "title": "Sector Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -64028,7 +64055,7 @@
     "company_name": "Citadel",
     "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
     "title": "Quantitative Trader: Equity Quantitative Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -65744,7 +65771,7 @@
     "company_name": "Citadel",
     "id": "79ceb913-ca59-4a50-9fa9-18c378d86c3e",
     "title": "Trader: Fixed Income & Macro Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -85587,7 +85614,7 @@
     "company_name": "Tesla",
     "id": "73ed244d-cc7c-4920-8097-19a925c97233",
     "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -337892,34 +337919,6 @@
       "Remote in Canada"
     ],
     "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Weston & Sampson",
-    "id": "b59408f2-51dc-4bc5-8de5-49563abe2f4b",
-    "title": "Staff Scientist/Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767860925,
-    "date_posted": 1767006846,
-    "url": "https://careers-wseinc.icims.com/jobs/3311/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Boston, MA",
-      "Lowell, MA",
-      "Wakefield, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Weston-And-Sampson",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
