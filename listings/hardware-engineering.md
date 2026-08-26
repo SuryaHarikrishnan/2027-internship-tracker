@@ -1,4 +1,4 @@
-# Hardware Engineering (232)
+# Hardware Engineering (233)
 
 [← back to index](../README.md)
 
@@ -48,6 +48,7 @@
 | [AMD](https://careers.amd.com/jobs/91182?icims=1) | Hardware Engineer Intern/Co-op - Hardware Engineering | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Winter 2027, Summer 2027, Fall 2027 | 2026-08-21 | 5 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91228?icims=1) | Product Development Engineering Intern/Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027, Fall 2027 | 2026-08-21 | 5 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91239?icims=1) | Field Applications Engineer Intern - Masters | San Jose, CA | Summer 2027 | 2026-08-21 | 5 | simplify-2026 |
+| [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320) | Transducer Engineering Intern | Tulsa, OK | Summer 2026 | 2026-08-21 | 5 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | Software Engineer Intern | Tulsa, OK | Summer 2026 | 2026-08-21 | 5 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179) | Lighting Software Development & Test Co-op | Markham, ON, Canada | Winter 2027 | 2026-08-21 | 5 | simplify-2026 |
 | [SOCOTEC UK & Ireland](https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989) | Summer Intern - Innovations Team | Altrincham, UK | Summer 2026 | 2026-08-20 | 6 | simplify-2026 |

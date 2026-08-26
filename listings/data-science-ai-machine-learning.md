@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (759)
+# Data Science, AI & Machine Learning (758)
 
 [← back to index](../README.md)
 
@@ -35,7 +35,6 @@
 | [TikTok](https://lifeattiktok.com/search/7677467375486765317) | Client Solutions Intern - Global Business Solutions | NYC | Summer 2027 | 2026-08-24 | 2 | simplify-2026 |
 | [Intuitive Surgical](https://jobs.smartrecruiters.com/Intuitive/744000145329669) | Computer Vision Engineer Intern - Fall 2026 | Sunnyvale, CA | Fall 2026 | 2026-08-24 | 2 | simplify-2026 |
 | [Mackenzie Investments](https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false) | Data Engineering Intern | Toronto, ON, Canada | Winter 2027 | 2026-08-24 | 2 | simplify-2026 |
-| [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak/jobs/4378402009) | Controls Intern | Mountain View, CA | Winter 2027 | 2026-08-24 | 2 | simplify-2026 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak/jobs/4377721009) | Behavior Planning Intern - Motion Planning | Mountain View, CA | Winter 2027 | 2026-08-24 | 2 | simplify-2026 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak/jobs/4377407009) | AI/ML Intern - Artificial Intelligence/Machine Learning | Mountain View, CA | Winter 2027 | 2026-08-24 | 2 | simplify-2026 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak/jobs/4378548009) | Planning Intern - Mission Planning | Mountain View, CA | Winter 2027 | 2026-08-24 | 2 | simplify-2026 |

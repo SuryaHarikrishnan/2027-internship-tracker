@@ -1,5 +1,31 @@
 [
   {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Brunswick",
+    "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
+    "title": "Transducer Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787733402,
+    "date_posted": 1787270400,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "date_updated": 1787706974,
     "sponsorship": "Offers Sponsorship",
     "active": true,
@@ -1786,7 +1812,7 @@
     "company_name": "Kodiak Robotics",
     "id": "915b30af-2938-4d48-8548-bc6ea6190333",
     "title": "Controls Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -127000,6 +127026,59 @@
   },
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "f651df72-a281-46bb-a2fe-17d318ace73c",
+    "title": "Embedded Software Development Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529238,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "bfc5a5ab-dbf7-4494-9fd7-1627df80f51f",
+    "title": "Data Analyst Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529238,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR110780",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Intelcom | Dragonfly",
     "id": "7aaea1f3-741c-48f1-aac4-1a8d34a5bcc5",
@@ -127011,6 +127090,111 @@
     "date_updated": 1777530781,
     "date_posted": 1777529239,
     "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Developer-in-Test-Intern_JR110774-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "dd0b0000-dba3-409e-abda-d8c49cf58e34",
+    "title": "Software Development Intern - Route Optimization",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529240,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Route-Optimization_JR110746-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "71ef1ea2-48d0-4611-94f1-69125211303c",
+    "title": "Software Development Intern - Client and Partner Integration",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529239,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR110742-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "60956514-0af3-42e3-97dc-b4e69d693b20",
+    "title": "Data Engineering Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529240,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR110748-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "5f261994-e1e1-4e98-9dd3-76b8602427e2",
+    "title": "Software Development Intern - Mobile Application",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529240,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Mobile-Application_JR110747-1",
     "locations": [
       "Montreal, QC, Canada"
     ],
@@ -127089,6 +127273,32 @@
     "date_updated": 1777530781,
     "date_posted": 1777529238,
     "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR110781-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "737a77a0-b1a1-4897-ab56-0ea7298e7b11",
+    "title": "Software Development Intern - Business Platform",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529239,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Business-Platform_JR110745-1",
     "locations": [
       "Montreal, QC, Canada"
     ],
@@ -150505,6 +150715,32 @@
     "date_updated": 1776120499,
     "date_posted": 1776118167,
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Fall-2026-_R_1483970-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TD Bank",
+    "id": "83be449d-42b6-4426-87a9-0ddfe75bd7c2",
+    "title": "Mobile Software Engineer Intern/Co-op",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1776120499,
+    "date_posted": 1776118169,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op--Fall-2026-_R_1481070",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -320116,6 +320352,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "TD Bank",
+    "id": "4b7637d2-743a-40aa-86d2-67147be566bd",
+    "title": "Software Engineer Intern/Co-op",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1768865593,
+    "date_posted": 1768865593,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op_R_1467905",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Hitachi",
     "id": "e3d2586b-44a3-4396-b64c-c88a86d29e87",
@@ -348600,850 +348862,6 @@
       "Toronto, ON, Canada"
     ],
     "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "da14345a-8f19-47d1-9ad1-dfc170c35c20",
-    "title": "Software Development Intern - Mobile Application",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766996604,
-    "date_posted": 1766996604,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Mobile-Application_JR110090",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "State Street",
-    "id": "b39ea14b-f5b8-4035-99e6-df3b86d5c4f0",
-    "title": "State Street Enterprise Risk Management \u2013 Credit Risk Analytics Internship - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766995032,
-    "date_posted": 1766995032,
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Stamford-Connecticut/State-Street-Enterprise-Risk-Management---Credit-Risk-Analytics-Internship----Summer-2026_R-782287",
-    "locations": [
-      "Stamford, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/State-Street",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "7c57c0a8-a2d0-4713-92b5-07904743f6f3",
-    "title": "Software Development Intern - Last Mile",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993305,
-    "date_posted": 1766993305,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Last-Mile_JR110092",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "19fbb746-bbc7-4c37-8152-3ca5d7bb0c66",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025"
-    ],
-    "date_updated": 1766993304,
-    "date_posted": 1766993304,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Consumer-Interactions_JR110101",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "f1293bfc-2d07-4c82-aced-cad83f3e290e",
-    "title": "Software Development Intern - Route Optimization",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993304,
-    "date_posted": 1766993304,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Route-Optimization_JR110105",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "87ffce1b-535e-412b-abd7-3e349eeab2c1",
-    "title": "Process Automation Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993304,
-    "date_posted": 1766993304,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Proccess-Automation-Intern_JR110096",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "eb5b996a-c059-4666-9cdd-7088b1e4952a",
-    "title": "GHG Data Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993303,
-    "date_posted": 1766993303,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Intern_JR110082-1",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "0891b0cf-096f-4ac8-8903-8dee06006b05",
-    "title": "Business Intelligence Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993301,
-    "date_posted": 1766993301,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence-Analyst-Intern_JR110089",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "99b0b401-bec6-41b0-aed4-3ceecfaa2544",
-    "title": "Product Management Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993301,
-    "date_posted": 1766993301,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Product-Management-Intern_JR110108",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "f5bb2066-5119-4ca2-ad58-703e8342b1d4",
-    "title": "Software Development Intern - Client and Partner Integration",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993300,
-    "date_posted": 1766993300,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR110078",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "aee4c418-6abf-4e3c-935a-3a3a3f5749e8",
-    "title": "Software Development Intern - Business Platform",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993300,
-    "date_posted": 1766993300,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Business-Platform_JR110086",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "2316c175-4dc3-4222-aa19-89fc8378f361",
-    "title": "Data Analyst Intern - Returns",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993299,
-    "date_posted": 1766993299,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR110104-1",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "f922bcfd-c7ee-4c23-91a5-ae5391767cd0",
-    "title": "Data Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993298,
-    "date_posted": 1766993298,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR110097",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "b4a66f5b-f370-464f-9f90-f7fcf374b139",
-    "title": "Data Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766993295,
-    "date_posted": 1766993295,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern_JR110094",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "565990cf-cf79-448a-bcf7-96b792bb9bad",
-    "title": "Embedded Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1766993291,
-    "date_posted": 1766993291,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110084",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TD Bank",
-    "id": "1de86df1-aaca-488f-b120-63b7f1bafc00",
-    "title": "Software Developer Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992657,
-    "date_posted": 1766992657,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Terrace---160-Front-Street-West-Corporate-Toronto-Ontario/Software-Developer-Intern-Co-op_R_1460611",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TD Bank",
-    "id": "5d9d7a27-887b-410a-97a3-bbc737bc9039",
-    "title": "Software Engineer Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992654,
-    "date_posted": 1766992654,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op--Intern_R_1456893",
-    "locations": [
-      "Toronto, ON, Canada",
-      "London, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TD Bank",
-    "id": "7d84f2ac-acf4-4750-99bd-0703014aa95a",
-    "title": "Everyday Savings & Investing \u2013 Everyday Advice Journey Co-op/Intern - Everyday Savings & Investing - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992649,
-    "date_posted": 1766992649,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Everyday-Savings---Investing--ES-I---Everyday-Advice-Journey-Co-op-Intern--SUMMER-2026-_R_1458255",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "04322851-0d07-4583-a1b2-0c689fd317c0",
-    "title": "Colleague Capability \u2013 Enablement & Experience Co-op/Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992648,
-    "date_posted": 1766992648,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Colleague-Capability--Enablement---Experience-Co-op-Intern--SUMMER-2026-_R_1458228",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "9f54aa19-cd00-46d1-b175-84b1cb83c561",
-    "title": "Risk Management \u2013 Model Management and Analytics Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766992647,
-    "date_posted": 1766992647,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Model-Management-and-Analytics-Intern-Co-op--Summer-2026-_R_1461061",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TD Bank",
-    "id": "875dafca-f9a8-46f7-881e-ea8dfb5f7fd3",
-    "title": "Innovation Analyst Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992647,
-    "date_posted": 1766992647,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Terrace---160-Front-Street-West-Corporate-Toronto-Ontario/Innovation-Analyst-Intern-Co-op--SUMMER-2026-_R_1460609",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "2a52d6ef-6847-46ca-bb6c-fe0adc2f81da",
-    "title": "Distribution & Geospatial Intelligence Intern/Co-op - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992646,
-    "date_posted": 1766992646,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Distribution---Geospatial-Intelligence-Intern-Co-op--SUMMER-2026-_R_1460747",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "95dfe104-a33e-4ac8-85b1-a16c36948e4f",
-    "title": "Risk Management Intern/Co-op - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992645,
-    "date_posted": 1766992645,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Business-Intelligence--Enterprise-Conduct--Insider-and-Fraud-Risk-Management--Intern-Co-op--Summer-2026-_R_1461098-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "e5f9dbe7-fa5b-4dbf-8075-d092e8409c0b",
-    "title": "Risk Management \u2013 Model Validation Intern/Co-op - Applied Machine Learning Scientist - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992643,
-    "date_posted": 1766992643,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Applied-Machine-Learning-Scientist--Model-Validation-Intern-Co-op--Summer-2026-_R_1461618",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "a8a37c9d-445e-4beb-b73f-cb4bf5e6eb20",
-    "title": "Intern/Co-Op - Treasury Data Analyst",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992643,
-    "date_posted": 1766992643,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Intern-Co-Op---Treasury-Data-Analyst_R_1460137-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "f8720eb2-9e0d-4a48-a85d-ccda27e0f703",
-    "title": "Risk Management \u2013 Market Risk & Counterparty Analytics Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992642,
-    "date_posted": 1766992642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk---Counterparty-Analytics-Intern-Co-op--Summer-2026-_R_1461084-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "091ccbc3-229f-4ca9-aad5-7a020e6d8f7b",
-    "title": "Data Engineer Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992640,
-    "date_posted": 1766992640,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op_R_1456891",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TD Bank",
-    "id": "e85291a1-a8aa-4e35-8469-bb9fecdc624e",
-    "title": "AI2 Software Engineer Co-op/Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766992640,
-    "date_posted": 1766992640,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Software-Engineer-Co-op-Intern--SUMMER-2026-_R_1460707",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TD Bank",
-    "id": "9720caa4-5c9b-4cb3-9224-ac59e59e167a",
-    "title": "Mobile Software Engineer Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992640,
-    "date_posted": 1766992640,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op--Summer-2026-_R_1458258",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TD Bank",
-    "id": "b4757a06-5c8f-4b59-8a62-557194625a90",
-    "title": "Canadian Card Payments \u2013 Intern/Co-op - Loyalty & Personal Lending - Ccpl&PL",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992640,
-    "date_posted": 1766992640,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Canadian-Card-Payments--Loyalty---Personal-Lending--CCPL-PL--Intern-Co-op--Summer-2026-_R_1459746",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "b30b74d4-224f-4bb9-a3e5-75a39e9b8410",
-    "title": "Data Analytics & Insights Intern/Co-Op - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992638,
-    "date_posted": 1766992638,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-Op--SUMMER-2026-_R_1459747",
-    "locations": [
-      "Montreal, QC, Canada",
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "970f0f33-205b-4560-b641-2f54100736c4",
-    "title": "Data Analyst Intern/Co-op - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992638,
-    "date_posted": 1766992638,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Intern-Co-op--Summer-2026-_R_1456890",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "0f88d15c-4877-4944-b5a4-aff251f497aa",
-    "title": "Applied Machine Learning Scientist Co-op/Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992638,
-    "date_posted": 1766992638,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-Co-op-Intern--SUMMER-2026-_R_1460655",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "801acf89-c5a9-4b0f-bdcf-e0cb321c9284",
-    "title": "Data Science Intern/Co-op - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766992637,
-    "date_posted": 1766992637,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Science-Intern-Co-op--SUMMER-2026-_R_1460649",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "RTX",
-    "id": "963b5a15-19c8-4abf-9bf8-95fa92c24956",
-    "title": "Systems Engineering Intern - Hardware In the Loop",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1766992360,
-    "date_posted": 1766992360,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2026-Systems-Engineering-Intern---Hardware-in-the-Loop---Onsite---Tucson--AZ_01810503",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
