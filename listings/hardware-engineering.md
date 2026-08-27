@@ -1,11 +1,17 @@
-# Hardware Engineering (246)
+# Hardware Engineering (251)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [CesiumAstro](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411/apply) | Software Engineering Intern - Advanced Projects Group | Austin, TX | Summer 2027, Spring 2027 | 2026-08-27 | 0 | simplify-2026 |
+| [CesiumAstro](https://jobs.lever.co/CesiumAstro/47333595-c85f-4b06-965c-ad4429dde0f0/apply) | Test Engineer Intern | Austin, TX | Spring 2027 | 2026-08-27 | 0 | simplify-2026 |
+| [CesiumAstro](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7/apply) | Embedded Software Engineer Intern | Austin, TX | Summer 2027 | 2026-08-27 | 0 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7978843003) | Embedded Systems Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-27 | 0 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003) | Embedded Engineer Intern | Boston, MA, Seattle, WA | Summer 2027 | 2026-08-27 | 0 | simplify-2026 |
+| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756) | Computer Engineering Co-op | Bethesda, MD | Winter 2027, Summer 2027 | 2026-08-27 | 0 | simplify-2026 |
+| [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Applications-_R3714-26) | Engineering Intern - Applications | Houston, TX | Fall 2026 | 2026-08-27 | 0 | simplify-2026 |
+| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587) | Layout Design Intern - Fall 2026 | Ottawa, ON, Canada | Fall 2026 | 2026-08-27 | 0 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) | Software Architecture Intern | United States | Fall 2026 | 2026-08-27 | 0 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957) | Firmware Engineer Intern - Summer 2027 | Delaware, OH | Summer 2027 | 2026-08-26 | 1 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423747400/?ats=successfactors) | Software Engineer Intern | Northampton, MA | Fall 2026 | 2026-08-26 | 1 | simplify-2026 |
@@ -249,4 +255,3 @@
 | [Etched.ai](https://jobs.ashbyhq.com/Etched/dacedaca-c4ca-4964-85a7-8df1738005bb/application) | DV Intern | San Jose, CA | Summer 2026 | 2026-02-07 | 201 | simplify-2026 |
 | [Etched](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application) | RTL Intern | San Jose, CA | Summer 2026 | 2026-02-07 | 201 | simplify-2026 |
 | [Etched.ai](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application) | Firmware Intern - Firmware | San Jose, CA | Summer 2026 | 2026-02-07 | 201 | simplify-2026 |
-| [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007) | Formal Verification Intern | Austin, TX | Summer 2026 | 2026-01-16 | 223 | simplify-2026 |
