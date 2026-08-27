@@ -1,6 +1,217 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Deloitte",
+    "id": "a69da076-e18a-42b5-9a88-0838d7941959",
+    "title": "Software Engineering Summer Scholar Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787849013,
+    "date_posted": 1787848822,
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Software-Engineering/364670",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "b5849ab7-6000-47b6-847d-99300b7d8722",
+    "title": "Data Scientist Intern - University",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787849000,
+    "date_posted": 1787788800,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "8a398659-4aa5-4cf4-a9d1-222302c48e50",
+    "title": "Software Developer Intern - University",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787848999,
+    "date_posted": 1787788800,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Booz Allen",
+    "id": "84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
+    "title": "Software Developer Intern - Summer Games",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787848998,
+    "date_posted": 1787788800,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Booz Allen",
+    "id": "841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
+    "title": "Software Developer Intern - Summer Games",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787848998,
+    "date_posted": 1787788800,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "e7293c88-f396-415f-920c-742686dde2e3",
+    "title": "Data Scientist Intern - University",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787848997,
+    "date_posted": 1787788800,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Phoenix Contact",
+    "id": "ba997393-daa9-4477-9391-5eb428918ddb",
+    "title": "Data Science & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787848921,
+    "date_posted": 1787848798,
+    "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003",
+    "locations": [
+      "Middletown, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Phoenix-Contact",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMI",
+    "id": "cd6f32c7-2c66-4423-8ff5-b998f48126e0",
+    "title": "Computer Vision Scientist Intern - Geometry and 3D Vision",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787848810,
+    "date_posted": 1787848643,
+    "url": "https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Paris, France",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/d0a5ced4-e1be-4e32-9cdf-75dfd5318bca",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "U.S. Venture",
     "id": "078d1ad5-4cba-4e87-9d8f-206aa1540f43",
@@ -1365,7 +1576,7 @@
     "company_name": "Ameren",
     "id": "39304d92-2b98-45ee-9a39-8f4f5ac43185",
     "title": "Meteorology Intern - Crisis Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1447,7 +1658,7 @@
     "company_name": "Ameren",
     "id": "5022bef0-ef20-4549-8823-95bd6b2141f5",
     "title": "Crisis Management Meteorology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4436,7 +4647,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "4338e55f-78ed-4a37-8c3d-482e13c4cff0",
     "title": "AI Security Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13731,7 +13942,7 @@
     "company_name": "Freeform",
     "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
     "title": "Materials Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -70405,7 +70616,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "eb6abc1f-b44d-436b-a6ab-6ab6af1e18c6",
     "title": "A.1. Integration Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -70429,7 +70640,7 @@
     "company_name": "Aramark",
     "id": "5e6b49a0-6e9b-4f33-ba59-dad824c4a405",
     "title": "Student Barista",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -129957,6 +130168,35 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "d17ead29-d484-4239-8ae1-8e0c475ad01f",
+    "title": "AI Data Analyst Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529238,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR110739-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
     ],
     "_sources": [
       "simplify-2026"
@@ -273561,7 +273801,7 @@
     "company_name": "Exa Labs",
     "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -350838,152 +351078,6 @@
       "Vienna, VA"
     ],
     "company_url": "https://simplify.jobs/c/SteerBridge",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "3c1987ef-54e8-42a8-9799-0c42120007b6",
-    "title": "AI Data Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767114729,
-    "date_posted": 1767114729,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR110116",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "T-Mobile",
-    "id": "c9361398-2916-4fa4-9ccd-de49ef9dadeb",
-    "title": "2026 Summer Product Management Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767114191,
-    "date_posted": 1767114191,
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/XMLNAME-2026-Summer-Product-Management-Intern_REQ340836",
-    "locations": [
-      "Overland Park, KS"
-    ],
-    "company_url": "https://simplify.jobs/c/T-Mobile",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Altera Corporation",
-    "id": "46c71047-9ccd-4237-b84c-19cd1767259f",
-    "title": "AI/ML Intern in Design Automation",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767114095,
-    "date_posted": 1767114095,
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-ML-Intern-in-Design-Automation_R01748",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Geotab",
-    "id": "b2d6b89b-5c2a-4807-beed-8cbc2ae9826d",
-    "title": "Data Analysis and Communications Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767113426,
-    "date_posted": 1767113426,
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5032629008",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Oakville, ON, Canada",
-      "Kitchener, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "HBK Capital Management",
-    "id": "be896a02-b5ce-46d7-90a3-3f5650d31c3a",
-    "title": "Software Engineer Strategy Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767112597,
-    "date_posted": 1767112597,
-    "url": "https://www.hbk.com/careers/careers-openings?gh_jid=7235449",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/HBK-CM",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
-    "title": "Multi-Modal Cyber-Physical Sensing Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767112433,
-    "date_posted": 1767112433,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000101039532",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
