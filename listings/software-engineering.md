@@ -1,9 +1,10 @@
-# Software Engineering (617)
+# Software Engineering (618)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fab2](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true) | Automation Software Engineer Intern - Winter | SF, Austin, TX | Winter 2027 | 2026-08-28 | 0 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696) | AI Innovation Summer Scholar Intern - AI Innovation | McLean, VA | Summer 2027 | 2026-08-27 | 1 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008043) | Application Engineer Intern | Austin, TX | Fall 2026 | 2026-08-27 | 1 | simplify-2026 |
 | [TELUS Digital](https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true) | Software Engineer Intern - US - Summer 2027 | Durham, NC, Columbus, OH, Charlottesville, VA | Summer 2027 | 2026-08-27 | 1 | simplify-2026 |
@@ -379,7 +380,6 @@
 | [TechInsights](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Software Developer Co-op | Ottawa, ON, Canada | N/A | 2026-07-24 | 35 | simplify-2026 |
 | [PDT Partners](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | Software Engineer Intern | NYC | Summer 2027 | 2026-07-24 | 35 | simplify-2026 |
 | [Quadrillion](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) | Software Engineering Intern | NYC | Summer 2027 | 2026-07-24 | 35 | simplify-2026 |
-| [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4699071006) | Software Engineer Intern - Enterprise Systems | SF | Fall 2026 | 2026-07-23 | 36 | simplify-2026 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8041237) | Software Engineer Intern | McLean, VA | Summer 2026, Summer 2027 | 2026-07-23 | 36 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | Software Engineer Intern - Power Modeling & AI Tools | Santa Clara, CA | Winter 2027, Summer 2026, Fall 2026 | 2026-07-23 | 36 | simplify-2026 |
 | [Montgomery Investment Technology, Inc.](https://fintools.applytojob.com/apply/o7r6gV8IMh/Computer-Programming-Internship-Summer-2026) | Montgomery Investment Technology | Delanco, NJ | N/A | 2026-07-23 | 36 | simplify-2026 |
@@ -609,6 +609,7 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7595756835349973253/detail) | Software Engineer Intern - AI Infrastructure | San Jose, CA | Summer 2026 | 2026-02-13 | 196 | simplify-2026 |
 | [Fanatics](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727) | Collectibles - Software Engineer | NYC, LA, Coppell, TX | Summer 2026 | 2026-02-12 | 197 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran) | Software Development Engineer Intern - Military Veteran | NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY | Summer 2026 | 2026-02-11 | 198 | simplify-2026 |
+| [Exa Labs](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application) | Software Engineer Intern | SF | Summer 2026 | 2026-02-10 | 199 | simplify-2026 |
 | [Hunt Oil Company](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) | SAP BTP Application Developer Intern - Summer 2026 | Dallas, TX | Summer 2026 | 2026-02-09 | 200 | simplify-2026 |
 | [Dryft](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application) | Full-Stack Engineer Intern | SF | Summer 2026 | 2026-02-05 | 204 | simplify-2026 |
 | [Auctor](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application) | Software Engineering Intern | NYC | Summer 2026 | 2026-02-05 | 204 | simplify-2026 |

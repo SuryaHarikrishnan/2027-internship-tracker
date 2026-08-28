@@ -1,9 +1,11 @@
-# Hardware Engineering (253)
+# Hardware Engineering (255)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fab2](https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?embed=true) | Rust Software Engineer Intern - Chip Design Tools - Winter | SF, Austin, TX | Winter 2026 | 2026-08-28 | 0 | simplify-2026 |
+| [Fab2](https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application?embed=true) | Embedded Software Engineer Intern - Winter | SF, Austin, TX | Winter 2027 | 2026-08-28 | 0 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16/application?embed=true) | Packaging Engineer Intern - Winter | Austin, TX | Winter 2027 | 2026-08-27 | 1 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/281607) | Product Support Engineer Intern - Service Engineering | Palo Alto, CA | Spring 2027 | 2026-08-27 | 1 | simplify-2026 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411/apply) | Software Engineering Intern - Advanced Projects Group | Austin, TX | Summer 2027, Spring 2027 | 2026-08-27 | 1 | simplify-2026 |

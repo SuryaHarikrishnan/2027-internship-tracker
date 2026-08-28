@@ -1,6 +1,136 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Blockhouse",
+    "id": "07dba309-b9d0-493d-88e2-38957e2b4a65",
+    "title": "Applied AI Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787887134,
+    "date_posted": 1787886964,
+    "url": "https://jobs.ashbyhq.com/blockhouse/2e9fbde8-709c-4c1f-b908-cd51a53c8529/application?embed=true",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Blockhouse",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fab2",
+    "id": "0859ff2b-28b7-4854-90bb-9147bf5be674",
+    "title": "Rust Software Engineer Intern - Chip Design Tools - Winter",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1787886961,
+    "date_posted": 1787886883,
+    "url": "https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?embed=true",
+    "locations": [
+      "SF",
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Fab2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fab2",
+    "id": "dd9872ea-6a55-4724-9b58-908b225567fd",
+    "title": "Automation Software Engineer Intern - Winter",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787886954,
+    "date_posted": 1787886883,
+    "url": "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true",
+    "locations": [
+      "SF",
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Fab2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fab2",
+    "id": "fe8d6250-c4c0-4fb3-b256-8ad1b487a711",
+    "title": "Embedded Software Engineer Intern - Winter",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787886953,
+    "date_posted": 1787886883,
+    "url": "https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application?embed=true",
+    "locations": [
+      "SF",
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Fab2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dimensional Fund Advisors",
+    "id": "2dd7e557-6d6f-4e8e-881c-5fa5d8be48d2",
+    "title": "Investment Solutions Intern - Undergraduate & Master's",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787879760,
+    "date_posted": 1787788800,
+    "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Solutions--Undergraduate---Master-s-_2026-9041",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Dimensional-Fund-Advisors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Deloitte",
     "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
@@ -1956,7 +2086,7 @@
     "company_name": "General Motors",
     "id": "54158bff-7d6c-4b8e-a623-6abf438bbaa9",
     "title": "Battery & Sustainability Intern - Physics-Based Battery Modeling",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -1982,7 +2112,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5378,7 +5508,7 @@
     "company_name": "Nokia",
     "id": "59b202cd-fa24-4379-a08c-73de8711a9a9",
     "title": "Data Analytics & AI Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -15397,7 +15527,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -15424,7 +15554,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -22968,7 +23098,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -22994,7 +23124,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -23023,7 +23153,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -23052,7 +23182,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -23078,7 +23208,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -23260,7 +23390,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23284,7 +23414,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -23308,7 +23438,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -23337,7 +23467,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -23363,7 +23493,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -36375,7 +36505,7 @@
     "company_name": "Louisiana Blue",
     "id": "0c0ff931-7496-432b-8fed-37be9e38b8e7",
     "title": "Provider Reimbursement Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -39707,7 +39837,7 @@
     "company_name": "Vitalant",
     "id": "a8de70cc-4a6f-4f62-a560-4b7baef84d9b",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -43445,7 +43575,7 @@
     "company_name": "Clyde Companies",
     "id": "0ad21b0e-b334-4f46-a502-e75492ac01b2",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -52900,7 +53030,7 @@
     "company_name": "Astranis",
     "id": "f00fc66c-967f-457b-8706-d3f0c5a5c874",
     "title": "Software Engineer Intern - Enterprise Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -113266,33 +113396,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Susquehanna International Group (SIG)",
-    "id": "74ba1fe3-ca71-4260-b251-29fa1d840279",
-    "title": "Quantitative Systematic Trader - Master's",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1778835421,
-    "date_posted": 1767148330,
-    "url": "https://careers-sig.icims.com/jobs/9442/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Philadelphia, PA",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Susquehanna",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
     "_sources": [
       "simplify-2026"
     ]
@@ -275152,7 +275255,7 @@
     "company_name": "Exa Labs",
     "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -351894,151 +351997,6 @@
       "Washington, DC"
     ],
     "company_url": "https://simplify.jobs/c/DC-Water",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "The Aerospace Corporation",
-    "id": "21494e96-4059-4b54-8d5a-20fe43cb713f",
-    "title": "Software Implementation and Integration Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767149018,
-    "date_posted": 1767149018,
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Software-Implementation-and-Integration-Grad-Intern_R013991",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Samsung Research America",
-    "id": "5cfa4ca6-73c7-49f0-8669-cf09cdd2e248",
-    "title": "Intern - Research Engineer - Mobile Platform and Solutions",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1767147545,
-    "date_posted": 1767147545,
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8350395002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TikTok",
-    "id": "4ed16fa8-1667-4bfb-bfdc-fbeb05498e14",
-    "title": "Operations Project Intern - Tiktok Live-Ams - BS/MS",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767147517,
-    "date_posted": 1767147517,
-    "url": "https://lifeattiktok.com/search/7589499857627498757",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TikTok",
-    "id": "5ca6f7a3-055b-4a84-b4c7-14d91246afd8",
-    "title": "Operations Project Intern - Tiktok Live-Ams - 2026 Start,BS/MS",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767147516,
-    "date_posted": 1767147516,
-    "url": "https://lifeattiktok.com/search/7589500133147773237",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Sandisk",
-    "id": "b929f0ac-29d8-4e74-b84f-b3228f1da861",
-    "title": "Intern - Firmware Verification Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767146713,
-    "date_posted": 1767146713,
-    "url": "https://jobs.smartrecruiters.com/Sandisk/744000101111465",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sandisk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "S&P Global ",
-    "id": "2ef99700-9310-44bf-8795-6ded828e4b48",
-    "title": "Research Analyst Intern \u2013 Early Career - Fuels - Chemicals & Resource Solutions",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767144062,
-    "date_posted": 1767144062,
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Houston-TX/Research-Analyst-Intern---Fuels--Chemicals---Resource-Solutions--Early-Career-_320543-1",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
