@@ -8,7 +8,7 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Tesla** | Software Engineer Intern - Information Security - Spring 2027 | Bellevue, WA | Winter 2027, Fall 2027 | 2026-08-27 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/281473) |
+| 1 | **Tesla** | Backend Engineer Intern - Infrastructure Engineering | Fremont, CA | Winter 2027, Spring 2027 | 2026-08-28 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/281467) |
 | 2 | **Jane Street** | Windows Engineer Intern | London, UK | N/A | 2026-08-27 (1d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002) |
 | 3 | **Amazon** | Software Development Engineer Intern - Annapurna Labs | Seattle, WA, Austin, TX, NYC, Cupertino, CA | Fall 2026 | 2026-08-27 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
 | 4 | **Netflix** | Machine Learning Scientist Intern - AI | Los Gatos, CA | Winter 2027 | 2026-08-26 (2d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (13d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 
 ---
-*Generated 2026-08-28 05:11 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-28 17:44 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
