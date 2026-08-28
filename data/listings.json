@@ -1,6 +1,704 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Deloitte",
+    "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
+    "title": "AI Innovation Summer Scholar Intern - AI Innovation",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787873970,
+    "date_posted": 1787873798,
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bland AI",
+    "id": "bdbf71c5-d680-4923-90cf-5550fdf3679d",
+    "title": "Machine Learning Research Intern - Audio",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787873941,
+    "date_posted": 1787873781,
+    "url": "https://jobs.ashbyhq.com/bland/bd8743ff-9e18-4f79-9c9a-288f384921f3/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Bland",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Emerson Electric",
+    "id": "a6026254-bdf4-49e3-82e7-94a39fd78c7d",
+    "title": "Application Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787873793,
+    "date_posted": 1787873679,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008043",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Repsol",
+    "id": "9da7c688-402f-4666-9f23-7ab1a3ed0fc4",
+    "title": "Geology & Geophysics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787873761,
+    "date_posted": 1787788800,
+    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/G-G-Intern_83639-1",
+    "locations": [
+      "The Woodlands, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Repsol",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lennox International",
+    "id": "1e8a10ee-4f7e-4a42-84fe-6fcdbcb739b9",
+    "title": "MES & Industrial Automation Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787873761,
+    "date_posted": 1787873686,
+    "url": "https://uscareers-lennox.icims.com/jobs/54562/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennox-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TELUS Digital",
+    "id": "445f9e1d-29ba-4695-b3b0-60111cfbd03b",
+    "title": "Software Engineer Intern - US - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787873609,
+    "date_posted": 1787873425,
+    "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true",
+    "locations": [
+      "Durham, NC",
+      "Columbus, OH",
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/TELUS-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TELUS Digital",
+    "id": "25fa3cf0-19e1-48c4-a10b-cd91ace49138",
+    "title": "Product Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787873581,
+    "date_posted": 1787873421,
+    "url": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/TELUS-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RJ Lee Group",
+    "id": "37384e6e-e33d-4d9e-978b-68157cdf4c51",
+    "title": "Artificial Intelligence Software Modernization Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787873348,
+    "date_posted": 1787873204,
+    "url": "https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg/Internship-Artificial-Intelligence-Software-Modernization",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/RJ-Lee-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fab2",
+    "id": "73fe59bd-6ea1-4126-b2c2-83f766ca2520",
+    "title": "Packaging Engineer Intern - Winter",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787873338,
+    "date_posted": 1787873168,
+    "url": "https://jobs.ashbyhq.com/fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16/application?embed=true",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Fab2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AnaVation",
+    "id": "d50e0c94-1355-4bbe-a720-1a1937f238f7",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787873267,
+    "date_posted": 1787873046,
+    "url": "https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819/apply",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/AnaVation-LLC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Honeywell",
+    "id": "bd86cfc5-e752-49ec-b0d7-3b891d4780c4",
+    "title": "Offering Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787873153,
+    "date_posted": 1787872879,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hoffman Construction",
+    "id": "47aa8cc5-ef85-4dfe-8a06-89c593ea541a",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787872861,
+    "date_posted": 1787872776,
+    "url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1498",
+    "locations": [
+      "Amarillo, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hoffman-Construction",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tesla",
+    "id": "615b2214-ffde-44ff-b1af-d08cea6fe865",
+    "title": "Software Engineer Intern - Information Security - Spring 2027",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787870737,
+    "date_posted": 1787870530,
+    "url": "https://www.tesla.com/careers/search/job/281473",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tesla",
+    "id": "c5bd1b3f-c4a1-4606-b687-e4afcc112363",
+    "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787870732,
+    "date_posted": 1787870608,
+    "url": "https://www.tesla.com/careers/search/job/281097",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "96a80fff-d4c9-467e-b9f7-80924676ceca",
+    "title": "Product Support Engineer Intern - Service Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1787870572,
+    "date_posted": 1787870478,
+    "url": "https://www.tesla.com/careers/search/job/281607",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Royal Bank of Canada",
+    "id": "68bc721a-09e5-4cdb-89af-2f24f3f59984",
+    "title": "Quantitative Risk Intern - Grm",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787870012,
+    "date_posted": 1787788800,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "b273bb27-6dcd-4b3f-9655-1e65dc080ae2",
+    "title": "Data Analyst Developer Intern - Group Risk Management",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787870011,
+    "date_posted": 1787788800,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000185825",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "aff12058-21b0-4489-ba44-3634afe09da9",
+    "title": "Global AML Metrics Reporting Analyst Co-op - Group Risk Management",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787870011,
+    "date_posted": 1787788800,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Global-AML-Metrics-Reporting-Analyst--4-Months-_R-0000185608",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Commerce Bank",
+    "id": "91d2adab-28fa-4563-b4ba-2a64e372dbed",
+    "title": "IT Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787869942,
+    "date_posted": 1787788800,
+    "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Commerce-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jane Street",
+    "id": "148e3318-5e31-4e70-a0a0-6b779ec4accf",
+    "title": "Windows Engineer Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787869909,
+    "date_posted": 1787869512,
+    "url": "https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jane-Street",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Micron Technology",
+    "id": "8cecca7e-2f21-4ae1-a558-68cd502f95b0",
+    "title": "Technical Customer Management Intern - AI",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787869832,
+    "date_posted": 1787788800,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "cc3d43bc-e91d-4fb7-9ec7-e684f60ad268",
+    "title": "Data Analyst Developer Intern - 8 Months - Group Risk Management",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787869818,
+    "date_posted": 1787788800,
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000185825-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IMC Trading",
+    "id": "81f31a55-3c12-476c-bb99-e74e63986e74",
+    "title": "Performance Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787869802,
+    "date_posted": 1787869657,
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/IMC-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wells Fargo",
+    "id": "b65737b1-c2b8-4f39-b037-a5467fd163ff",
+    "title": "Applied Computational Intelligence Intern - ACI Masters - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787869790,
+    "date_posted": 1787788800,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-571698",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wells Fargo",
+    "id": "ca0c5404-ebf7-4cc4-b300-841268447817",
+    "title": "Quantitative Analytics Intern - Applied Computational Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787869778,
+    "date_posted": 1787788800,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-571703",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Leidos",
+    "id": "13c82543-49b6-4293-ac18-052fd0889c76",
+    "title": "Data Engineering & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787869777,
+    "date_posted": 1787788800,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1",
+    "locations": [
+      "Shiloh, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "596a789f-9d3f-4275-91f3-da77d86fc246",
+    "title": "Data Scientist Intern - University - Summer Games",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787869776,
+    "date_posted": 1787788800,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Leidos",
     "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
@@ -948,7 +1646,7 @@
     "company_name": "Centene",
     "id": "efef75e4-afa3-43c8-b969-c4058c9f6e12",
     "title": "People Analytics Intern - Undergraduate",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1526,7 +2224,7 @@
     "company_name": "Lightcast",
     "id": "0b926dfc-d03c-4a6d-9ed1-fb53005cb7a4",
     "title": "Software Engineer Intern - API Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -14569,7 +15267,7 @@
     "company_name": "Freeform",
     "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
     "title": "Materials Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26655,7 +27353,7 @@
     "company_name": "Oracle",
     "id": "685487cc-2bf1-41f3-9324-4441e3ba0475",
     "title": "Platform Software Engineer 1 Intern - Full-time Intern Conversion",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -31466,7 +32164,7 @@
     "company_name": "Atoms",
     "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -56412,7 +57110,7 @@
     "company_name": "Onware",
     "id": "47396485-020d-4723-a0eb-84364424bc72",
     "title": "Full Stack Developer-Intern Opportunity",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -130868,6 +131566,32 @@
     "date_updated": 1777530781,
     "date_posted": 1777529238,
     "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR110781-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "793e242e-794d-4a4a-babe-f2aec9888fb4",
+    "title": "R&D Solution Builder Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529239,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR110749-1",
     "locations": [
       "Montreal, QC, Canada"
     ],
@@ -320489,7 +321213,7 @@
     "company_name": "Autodesk",
     "id": "244b5d51-7fee-44da-9192-dd642b0387f9",
     "title": "PhD Intern - AI Researcher for CAD - B-Rep",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -321686,6 +322410,39 @@
     "date_updated": 1768956414,
     "date_posted": 1768956414,
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Marketing-Applications-Development-Intern_2532181",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KLA",
+    "id": "9cb8cf2f-70d6-45ba-9122-7f3cf2073ca0",
+    "title": "Application Engineer Intern",
+    "active": false,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1768956411,
+    "date_posted": 1768956411,
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Application-Engineer-Intern_2532180",
     "locations": [
       "Milpitas, CA"
     ],
@@ -328854,32 +329611,6 @@
     "degrees": [
       "Bachelor's",
       "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tencent",
-    "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
-    "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-    "active": true,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768518770,
-    "date_posted": 1767136415,
-    "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
@@ -342316,32 +343047,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cotiviti",
-    "id": "a785abe5-ba03-4388-af75-d74873170340",
-    "title": "Intern \u2013 Generative AI Research Engineer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767828578,
-    "date_posted": 1767137397,
-    "url": "https://careers-cotiviti.icims.com/jobs/17454/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cotiviti",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Barclays",
     "id": "a8fb2cf7-5308-4dfe-a0ce-007423736bcd",
@@ -350057,6 +350762,30 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Altom Transport",
+    "id": "5c228bcf-87ed-4a34-96c0-90a32949a98f",
+    "title": "Software Development Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1767395353,
+    "date_posted": 1767395353,
+    "url": "https://apply.workable.com/altom-transport/j/E444879C9E/apply",
+    "locations": [
+      "Markham, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Altom-Transport",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Zoetis",
     "id": "7d0d02d8-8858-47ab-8a16-1d14e1f59758",
@@ -351310,401 +352039,6 @@
       "Houston, TX"
     ],
     "company_url": "https://simplify.jobs/c/SP-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Apollo Global",
-    "id": "da45775b-94ac-4780-b55e-6b440c98e494",
-    "title": "2026 Summer Associate \u2013 Investment Portfolio Management & Analytics Intern - Apollo Aligned Alternatives Fund - Aaa",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767141161,
-    "date_posted": 1767141161,
-    "url": "https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/XMLNAME-2026-Summer-Associate--Investment-Portfolio-Management---Analytics-Intern---Apollo-Aligned-Alternatives-Fund--AAA-_R253919-1",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Apollo-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Plug Power",
-    "id": "f687730f-e6bd-46db-a865-41d134419249",
-    "title": "Test Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767140408,
-    "date_posted": 1767140408,
-    "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Rochester-Innovation-Center/Test-Engineering-Intern_R6741",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/Plug-Power",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Plug Power",
-    "id": "52137002-3ecc-492c-9e15-eaad7728fa95",
-    "title": "Embedded Software Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767140389,
-    "date_posted": 1767140389,
-    "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Albany-NY/Embedded-Software-Intern_R6739",
-    "locations": [
-      "Albany, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/Plug-Power",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Geotab",
-    "id": "ee817dd1-fbd4-4e72-a9d3-ca4da301e0d8",
-    "title": "Embedded Developer Intern - GO Anywhere - Summer/May 2026 Months",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767140332,
-    "date_posted": 1767140332,
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5011702008",
-    "locations": [
-      "Oakville, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Teledyne",
-    "id": "d796fecb-eb7a-486c-9daf-7d8192a0e6ff",
-    "title": "New Product Development Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767138981,
-    "date_posted": 1767138981,
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Daytona-Beach-FL-TDY/New-Product-Development-Engineering-Intern_REQ32634",
-    "locations": [
-      "Daytona Beach, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GlobalFoundries",
-    "id": "e2fa5f1b-1ec4-4ed3-ae7f-8b4657dbe333",
-    "title": "Field Application Engineering Intern - Austin - TX",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767138636,
-    "date_posted": 1767138636,
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/GlobalFoundries",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The Aerospace Corporation",
-    "id": "d20484f4-70e0-44c9-8ce3-2d6d801ecd09",
-    "title": "2026 Data and Software Engineering Grad Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767137924,
-    "date_posted": 1767137924,
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-and-Software-Engineering-Grad-Intern_R014219",
-    "locations": [
-      "Chantilly, VA",
-      "El Segundo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "CommScope",
-    "id": "024f513e-a182-4abc-b8b4-d4f397ff65de",
-    "title": "Intern-Field Application Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767137903,
-    "date_posted": 1767137903,
-    "url": "https://jobs.commscope.com/job/Catawba-Intern-Field-Application-Engineering-Nort/1352606600/?ats=successfactors",
-    "locations": [
-      "Denver, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/CommScope",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "f7c273cb-7d49-46eb-a142-3028b2982aa2",
-    "title": "R&D Solution Builder Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767137691,
-    "date_posted": 1767137691,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR110133-1",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "a85686e5-c756-4661-96c1-7fba2a7e917b",
-    "title": "Performance and Analysis Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767137684,
-    "date_posted": 1767137684,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Performance-and-Analysis-Intern_JR110135",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Draper",
-    "id": "18f1a901-f21b-4cdb-90f9-84b2db9bcd58",
-    "title": "Simulation Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767137542,
-    "date_posted": 1767137542,
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern_JR002078",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Draper",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Altom Transport",
-    "id": "097e26ff-4b4b-484f-8cc0-8a46356f81fb",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767137364,
-    "date_posted": 1767137364,
-    "url": "https://apply.workable.com/altom-transport/j/DEADBB3616/apply",
-    "locations": [
-      "Markham, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Altom-Transport",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TikTok",
-    "id": "4777948c-e970-420c-bec4-aaa6eaa917e6",
-    "title": "Backend Software Engineer Intern - Tiktok-PGC-Creator Strategy - 2026 Summer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767137223,
-    "date_posted": 1767137223,
-    "url": "https://lifeattiktok.com/search/7533096848266709266",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Brookhaven Lab",
-    "id": "cf8f91d4-3ca4-4e4c-8413-7989d269561a",
-    "title": "Student Assistant - Lightshowai - Temporary/Part-time",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1767136904,
-    "date_posted": 1767136904,
-    "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---LightshowAI-Temporary-Part-time-_JR102215",
-    "locations": [
-      "Shirley, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "KLA",
-    "id": "fd5d3c48-0c2b-4c54-924a-e8e7f3789c6b",
-    "title": "Application Engineer Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027",
-      "Fall 2027"
-    ],
-    "date_updated": 1767136607,
-    "date_posted": 1767136607,
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Application-Engineer-Intern_2532180-1",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/KLA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "SteerBridge",
-    "id": "38a4bfc3-d79e-42ad-8c5a-6ba443491f1b",
-    "title": "Intern Program",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767136575,
-    "date_posted": 1767136575,
-    "url": "https://jobs.lever.co/steerbridge/8e04075a-0565-404a-bd25-941a5458df53/apply",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/SteerBridge",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
