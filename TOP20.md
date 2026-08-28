@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (13d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 
 ---
-*Generated 2026-08-28 17:44 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-28 20:26 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
