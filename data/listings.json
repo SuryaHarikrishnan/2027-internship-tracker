@@ -2,6 +2,32 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Emerging Tech",
+    "id": "1dd628e7-87f3-4ce2-84bc-aeeba8862f1a",
+    "title": "Integration Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787957281,
+    "date_posted": 1787957154,
+    "url": "https://emergingtech.applytojob.com/apply/fWkZYtYG65/Integration-Analyst-Intern-Florida-Residents-Only",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerging-Tech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Jabil",
     "id": "44e26efc-e077-4e32-953f-bb89c4e8b21b",
     "title": "Supply Chain Data Analyst Intern",
@@ -2151,7 +2177,7 @@
     "company_name": "CesiumAstro",
     "id": "896b0108-cef7-4d08-a0b3-a8969f63f4dc",
     "title": "Software Engineering Intern - Advanced Projects Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Spring 2027"
@@ -3125,7 +3151,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -3270,7 +3296,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10868,7 +10894,7 @@
     "company_name": "The Walt Disney Company",
     "id": "fd566011-9892-458b-844e-88c411b782f3",
     "title": "Systems Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -12581,7 +12607,7 @@
     "company_name": "General Motors",
     "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
     "title": "Lighting Software Development & Test Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -16685,7 +16711,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -16712,7 +16738,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24256,7 +24282,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24282,7 +24308,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24311,7 +24337,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24340,7 +24366,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24366,7 +24392,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24548,7 +24574,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24572,7 +24598,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -24596,7 +24622,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24625,7 +24651,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24651,7 +24677,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -65578,7 +65604,7 @@
     "company_name": "Persona AI",
     "id": "12c71417-7d4c-4820-a1dc-e69c433eb686",
     "title": "Teleoperation Software Engineering Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Spring 2027"
@@ -78744,7 +78770,7 @@
     "company_name": "Later",
     "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
     "title": "AI Automation Engineer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -156185,7 +156211,7 @@
     "company_name": "Marvell",
     "id": "5554c80f-ceeb-4a82-8ca0-1c82e6c6313c",
     "title": "Model Correlation & SI Intern - PhD Degree",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -352170,30 +352196,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Product",
-    "company_name": "Legrand",
-    "id": "5d8a71d4-4716-4e46-969d-6600f6208640",
-    "title": "Product Marketing Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767284239,
-    "date_posted": 1767222775,
-    "url": "https://jobs-legrand.icims.com/jobs/9622/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Farmington, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/Legrand",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "AccuWeather",
     "id": "e31ca028-1d4b-452e-9f03-6f81c9b01950",
@@ -352717,252 +352719,6 @@
       "Huntsville, AL"
     ],
     "company_url": "https://simplify.jobs/c/Amentum",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cambria",
-    "id": "5ed16cc0-21af-43a6-a08f-808e78e73b5b",
-    "title": "IT Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1767225376,
-    "date_posted": 1767225376,
-    "url": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/IT-Developer-Intern_R-102780",
-    "locations": [
-      "Shakopee, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Cambria",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cambria",
-    "id": "8e92a925-6e48-4113-8e25-c57241a958fb",
-    "title": "Data Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1767225367,
-    "date_posted": 1767225367,
-    "url": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/Data-Developer-Intern_R-102779",
-    "locations": [
-      "Shakopee, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Cambria",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Franklin Templeton",
-    "id": "835fe8f5-3c80-441b-bf87-f11eb64c7c9b",
-    "title": "Fund Administration & Oversight",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1767224702,
-    "date_posted": 1767224702,
-    "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Stamford-Connecticut-United-States-of-America/US-Fund-Admin---Oversight_866036",
-    "locations": [
-      "Rancho Cordova, CA",
-      "Stamford, CT",
-      "San Mateo, CA",
-      "San Ramon, CA",
-      "Fort Lauderdale, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Franklin Templeton",
-    "id": "2fdfdf6c-1007-4d3c-8bc5-1690b045052e",
-    "title": "Investment Management Data Science",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1767224696,
-    "date_posted": 1767224696,
-    "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-BAL1201-Baltimore/Investment-Management-Data-Science_866040",
-    "locations": [
-      "Baltimore, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astranis",
-    "id": "d3ea489f-f4ba-4607-bb94-8728c3c05fd0",
-    "title": "Embedded Software Developer \u2013 Network/Payload Software Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767224380,
-    "date_posted": 1767224380,
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4601134006",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Astranis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astranis",
-    "id": "02f1ad1b-de46-40e0-a367-683c3c01f6ec",
-    "title": "Embedded Software Developer \u2013 Network/Payload Software Intern 2026",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767224380,
-    "date_posted": 1767224380,
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4601132006",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Astranis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astranis",
-    "id": "6051b759-5f65-455e-874b-26ea6f910a34",
-    "title": "Embedded Software Developer \u2013 Network/Payload Software Intern",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1767224379,
-    "date_posted": 1767224379,
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4601135006",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Astranis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "BMO ",
-    "id": "79b12380-7333-4eaa-abfa-1d1e48a19bf2",
-    "title": "Data Analyst Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767222939,
-    "date_posted": 1767222939,
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst-Intern--Co-op-Internship---Summer-2026--Toronto---4-months_R250033033",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/BMO-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Marmon Holdings",
-    "id": "aab8397d-6b39-4df0-b60b-5677da96dcc2",
-    "title": "Data Engineer \u2013 Co-op",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767222935,
-    "date_posted": 1767222935,
-    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Oakville-ON/Data-Engineer--Co-op-_JR0000040051",
-    "locations": [
-      "Oakville, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Marmon-Holdings",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Public Service Enterprise Group",
-    "id": "0c8f1251-0489-495b-9081-31fed5d507d5",
-    "title": "Technical Intern - Centralized Work Planning and Scheduling",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767222663,
-    "date_posted": 1767222663,
-    "url": "https://jobs.pseg.com/job/Clifton-Summer-2026-Technical-Intern-Centralized-Work-Planning-and-Scheduling-NJ-07011/1352771200/?ats=successfactors",
-    "locations": [
-      "Paterson, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
