@@ -5002,7 +5002,7 @@
     "company_name": "RTX",
     "id": "c5d402c5-8735-4b94-86b9-a3a00c94c027",
     "title": "Engine Performance Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -10621,7 +10621,7 @@
     "company_name": "Google",
     "id": "e3dc5e7f-9828-4121-8b6f-6d45091a92a4",
     "title": "Research Intern - PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23745,7 +23745,7 @@
     "company_name": "Suncor",
     "id": "9a19ddc0-978b-4f92-832f-f0b96df5af93",
     "title": "Automation Intern - Software or Computer Engineering Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -38785,7 +38785,7 @@
     "company_name": "PNC Financial Services",
     "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
     "title": "Data and Analytics Intern - Modeling",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -81859,7 +81859,7 @@
     "company_name": "Sony",
     "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],

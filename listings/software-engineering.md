@@ -1,4 +1,4 @@
-# Software Engineering (621)
+# Software Engineering (623)
 
 [← back to index](../README.md)
 
@@ -216,6 +216,7 @@
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Livonia/Digital-Technology-Intern---US---Livonia--MI---Summer-2027_R5038079-1) | Digital Technology Intern - Summer 2027 | Livonia, MI | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382) | Technology Track Intern - Key Technology and Services | Brooklyn, OH | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [Argonne National Laboratory](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Python-Developer_423278) | Python Developer Predoctoral Appointee - Vehicle and Mobility Systems | Lemont, IL | N/A | 2026-08-17 | 12 | simplify-2026 |
+| [Suncor](https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525) | Automation Intern - Software or Computer Engineering Student | Calgary, AB, Canada, St. John's, NL, Canada, Fort McMurray, AB, Canada | N/A | 2026-08-17 | 12 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) | Backend Software Engineer Intern - Team Interstellar | Toronto, ON, Canada | Winter 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) | Mobile Software Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) | Full Stack Software Engineer Intern - Team Integrated Sprout | Toronto, ON, Canada | Winter 2027 | 2026-08-17 | 12 | simplify-2026 |
@@ -499,6 +500,7 @@
 | [Muru](https://www.murumed.com/job-listings/software-engineer-intern) | Mobile Software Engineer Intern | New York, NY | Fall 2026 | 2026-06-23 | 67 | simplify-2026 |
 | [Berkshire Hathaway Energy](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005280) | Sys & Development Analyst | Las Vegas, NV, Des Moines, IA, Sioux City, IA, Portland, OR | N/A | 2026-06-22 | 68 | simplify-2026 |
 | [SDSU Research Foundation](https://careers-sdsurf.icims.com/jobs/20550/job?mobile=true&needsRedirect=false) | NIWC – Undergraduate Student 2 or 3 - Communications Division Engineering Support | San Diego, CA | N/A | 2026-06-22 | 68 | simplify-2026 |
+| [Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | Software Engineer Intern | San Diego, CA | Summer 2026 | 2026-06-17 | 73 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply) | Software Engineer | San Mateo, CA | N/A | 2026-06-17 | 73 | simplify-2026 |
 | [Viridien](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1) | Software Engineer Intern | Crawley, UK | Summer 2026 | 2026-06-17 | 73 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/273933) | Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization | Palo Alto, CA | Fall 2026 | 2026-06-16 | 74 | simplify-2026 |

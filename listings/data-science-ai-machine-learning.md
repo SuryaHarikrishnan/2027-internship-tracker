@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (829)
+# Data Science, AI & Machine Learning (826)
 
 [← back to index](../README.md)
 
@@ -99,7 +99,6 @@
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648) | Data Engineer Intern - Technology, Data, AI, and Operations | Charlotte, NC | Summer 2027 | 2026-08-26 | 3 | simplify-2026 |
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) | Data Engineer Intern - Technology, Data, AI, and Operations | Chicago, IL | Summer 2027 | 2026-08-26 | 3 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) | Software Developer/Data Scientist Intern - Summer 2027 | Sterling, VA, Denver, CO, Sarasota, FL | Summer 2027 | 2026-08-26 | 3 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01862220) | Engine Performance Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-26 | 3 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932) | Customer Data Management and Analysis Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-26 | 3 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Fraud-Strategy-Student--4-months----Winter-2027_JR164531) | Fraud Strategy Student - 4 months | Welland, ON, Canada | N/A | 2026-08-26 | 3 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194) | Technical Intern - Federal Reserve - National IT | Richmond, VA | Summer 2027 | 2026-08-26 | 3 | simplify-2026 |
@@ -143,7 +142,6 @@
 | [Audax Group](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005) | Data Engineer Co-op | NYC | Winter 2027 | 2026-08-24 | 5 | simplify-2026 |
 | [Audax Group](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005) | Data Analyst Co-op - Business Solutions | Boston, MA | Winter 2027 | 2026-08-24 | 5 | simplify-2026 |
 | [Audax Group](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005) | AI Engineer Co-op | Boston, MA | Winter 2027, Spring 2027 | 2026-08-24 | 5 | simplify-2026 |
-| [Google](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Research Intern - PhD | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-08-24 | 5 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241) | Data Science Intern - Engineering | Pittsburgh, PA | Summer 2027 | 2026-08-24 | 5 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238) | Data Science Intern - Engineering | Jersey City, NJ | Summer 2027 | 2026-08-24 | 5 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322) | Engineering Intern - Data Science | Manchester, UK | Summer 2027 | 2026-08-24 | 5 | simplify-2026 |
@@ -474,7 +472,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/278620) | Cell Engineering Intern - Cell Qualification | Palo Alto, CA, San Diego, CA | Winter 2027, Spring 2027 | 2026-08-04 | 25 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) | Warranty Co-op | Newmarket, ON, Canada | Summer 2026 | 2026-08-04 | 25 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931) | Graduate Statistical Analysis Intern - Regional & Community Outreach | Boston, MA | Fall 2026 | 2026-08-04 | 25 | simplify-2026 |
-| [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) | Data and Analytics Intern - Modeling | Pittsburgh, PA | Summer 2026 | 2026-08-04 | 25 | simplify-2026 |
 | [StepStone Group](https://boards.greenhouse.io/embed/job_app?token=8096268) | AI Intern | La Jolla, San Diego, CA | Summer 2027 | 2026-08-03 | 26 | simplify-2026 |
 | [Persona AI](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08/application?embed=true) | Autonomy Software Engineer Intern - World Modeling | Houston, TX | Fall 2026 | 2026-08-03 | 26 | simplify-2026 |
 | [NTT DATA AIVista](https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true) | AI Scientist Intern | Palo Alto, CA, SF | Fall 2026 | 2026-08-03 | 26 | simplify-2026 |
