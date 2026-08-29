@@ -1,9 +1,14 @@
-# Hardware Engineering (251)
+# Hardware Engineering (257)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true) | Embedded Software Engineer Intern | LA, Torrance, CA | Summer 2027 | 2026-08-29 | 0 | simplify-2026 |
+| [Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true) | RF Engineer Intern - Summer Internship | LA, Torrance, CA | Summer 2027 | 2026-08-29 | 0 | simplify-2026 |
+| [Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace/632f463c-94a4-4e83-839d-825e63b75788/application?embed=true) | Site Engineer Intern - Sites | LA, Torrance, CA | Summer 2026 | 2026-08-29 | 0 | simplify-2026 |
+| [Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace/1951df5b-c84e-47d9-860d-53e5d3045f6f/application?embed=true) | Fleet Reliability Intern - Summer Internship | LA, Torrance, CA | Summer 2026 | 2026-08-29 | 0 | simplify-2026 |
+| [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2025-18137) | Engineering Intern - Protection Systems Forensics | Pullman, WA | Fall 2026 | 2026-08-29 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/281634) | Optimus Technician Intern - Tesla AI | Fremont, CA | N/A | 2026-08-28 | 1 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200680200) | Camera Hardware Engineering Intern | Cupertino, CA | N/A | 2026-08-28 | 1 | simplify-2026 |
 | [Wabtec](https://jobs.smartrecruiters.com/Wabtec/3743990014915476) | Engineering Co-op - Multiple Teams | Erie, PA, Grove City, PA | Winter 2027 | 2026-08-28 | 1 | simplify-2026 |
@@ -12,7 +17,6 @@
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782) | Mission Critical Networks Software Engineer Co-op | Chicago, IL, Schaumburg, IL | Fall 2026 | 2026-08-28 | 1 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16/application?embed=true) | Packaging Engineer Intern - Winter | Austin, TX | Winter 2027 | 2026-08-27 | 2 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/281607) | Product Support Engineer Intern - Service Engineering | Palo Alto, CA | Spring 2027 | 2026-08-27 | 2 | simplify-2026 |
-| [CesiumAstro](https://jobs.lever.co/CesiumAstro/47333595-c85f-4b06-965c-ad4429dde0f0/apply) | Test Engineer Intern | Austin, TX | Spring 2027 | 2026-08-27 | 2 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7978843003) | Embedded Systems Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-27 | 2 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003) | Embedded Engineer Intern | Boston, MA, Seattle, WA | Summer 2027 | 2026-08-27 | 2 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Applications-_R3714-26) | Engineering Intern - Applications | Houston, TX | Fall 2026 | 2026-08-27 | 2 | simplify-2026 |
@@ -70,6 +74,7 @@
 | [AMD](https://careers.amd.com/jobs/91239?icims=1) | Field Applications Engineer Intern - Masters | San Jose, CA | Summer 2027 | 2026-08-21 | 8 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312) | Engineering Validation Intern | Tulsa, OK | Summer 2026 | 2026-08-21 | 8 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | Software Engineer Intern | Tulsa, OK | Summer 2026 | 2026-08-21 | 8 | simplify-2026 |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179) | Lighting Software Development & Test Co-op | Markham, ON, Canada | Winter 2027 | 2026-08-21 | 8 | simplify-2026 |
 | [SOCOTEC UK & Ireland](https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989) | Summer Intern - Innovations Team | Altrincham, UK | Summer 2026 | 2026-08-20 | 9 | simplify-2026 |
 | [E-Space](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | 2026-08-20 | 9 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7908677003) | Applications Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-20 | 9 | simplify-2026 |
@@ -240,6 +245,7 @@
 | [Apptronik](https://boards.greenhouse.io/apptronik/jobs/5985132004) | Robotics Software Intern - Real-Time Controls | Austin, TX | Summer 2026 | 2026-04-30 | 121 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4619283006) | Flight Software Intern | SF | Fall 2026 | 2026-04-29 | 122 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2) | Embedded Systems and Hardware Co-Op | Horsham, PA | Summer 2026 | 2026-04-18 | 133 | simplify-2026 |
+| [Zoox](https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38/apply) | Student Worker Intern - Firmware Engineer - Firmware Thermal/Body | San Mateo, CA | N/A | 2026-04-15 | 136 | simplify-2026 |
 | [Etched](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application) | DFT Intern | San Jose, CA | Summer 2026 | 2026-04-13 | 138 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Design Verification Engineer Intern | Boston, MA | Winter 2026, Summer 2026, Fall 2026 | 2026-04-09 | 142 | simplify-2026 |
 | [SoloPulse](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | Systems Engineering Intern | Norcross, GA | Summer 2026 | 2026-04-02 | 149 | simplify-2026 |
