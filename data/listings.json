@@ -2380,7 +2380,7 @@
     "company_name": "Leidos",
     "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
     "title": "Computer Engineering Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -3514,7 +3514,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -3659,7 +3659,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -6605,7 +6605,7 @@
     "company_name": "Zip",
     "id": "82583da7-e72f-4b4f-aabb-0066a8951ba5",
     "title": "Software Engineer Intern - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -7622,7 +7622,7 @@
     "company_name": "Northrop Grumman",
     "id": "4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
     "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17074,7 +17074,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17101,7 +17101,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -18119,7 +18119,7 @@
     "company_name": "Humana",
     "id": "3cac9449-de39-427f-a7fd-9b22e0d04497",
     "title": "Technology Intern - Early ID Participants",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -19260,7 +19260,7 @@
     "company_name": "Microsoft",
     "id": "b5b15050-2287-4ebf-8a26-f0745c794fd3",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -20597,7 +20597,7 @@
     "company_name": "National Laboratory of the Rockies",
     "id": "06976030-2482-48d6-8234-5d6c7f88c587",
     "title": "Agricultural Energy Intern - Year-Round",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -24645,7 +24645,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24671,7 +24671,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24700,7 +24700,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24729,7 +24729,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24937,7 +24937,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24961,7 +24961,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -24985,7 +24985,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -25014,7 +25014,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -25040,7 +25040,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -25096,7 +25096,7 @@
     "company_name": "Dallas College",
     "id": "cec6b144-6a34-4f46-b66b-286ebe63fabd",
     "title": "SAS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -44756,6 +44756,30 @@
     "date_updated": 1785662101,
     "date_posted": 1783163277,
     "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
+    "locations": [
+      "University Park, State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pennsylvania State University",
+    "id": "c9537cb3-f4e3-41b6-871f-ca361354dd73",
+    "title": "Physics Research Support - Ultrahigh Energy Neutrinos",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785662101,
+    "date_posted": 1783167945,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1",
     "locations": [
       "University Park, State College, PA"
     ],
@@ -65311,7 +65335,7 @@
     "company_name": "Duracell",
     "id": "a00d36e2-97e7-4df7-9732-450b605fe4d6",
     "title": "Electronics Tech Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -65941,7 +65965,7 @@
     "company_name": "Citadel",
     "id": "bd8719b9-2be8-458c-ad81-df18b03a5ef2",
     "title": "Quantitative Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -71744,7 +71768,7 @@
     "company_name": "Citadel",
     "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
     "title": "Quantitative Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -75170,7 +75194,7 @@
     "company_name": "Citadel",
     "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
     "title": "Quantitative Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -75227,7 +75251,7 @@
     "company_name": "Citadel",
     "id": "1f74ca3f-e832-45e6-bc13-b8222034e373",
     "title": "Quantitative Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -81835,7 +81859,7 @@
     "company_name": "Sony",
     "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -83093,7 +83117,7 @@
     "company_name": "Tesla",
     "id": "c8a9a8fd-0dc4-4cb7-bf50-c8fbbc390a82",
     "title": "Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -83248,7 +83272,7 @@
     "company_name": "Tesla",
     "id": "8422ee5e-41c5-42df-93e9-13a2f1f8efda",
     "title": "Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -85430,7 +85454,7 @@
     "company_name": "Tesla",
     "id": "58f15152-4d52-4c28-8a28-b8ec717ba3b0",
     "title": "Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -92289,7 +92313,7 @@
     "company_name": "Tesla",
     "id": "513c29f5-023b-4e36-98fa-0c921ddddaa2",
     "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -97300,7 +97324,7 @@
     "company_name": "Clerkie",
     "id": "71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2024",
       "Spring 2024",
@@ -111565,7 +111589,7 @@
     "company_name": "Microsoft",
     "id": "5407f428-b513-492f-97d0-d2bd020610b6",
     "title": "Research Intern - Self-Improving AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -195883,7 +195907,7 @@
     "company_name": "Etched",
     "id": "cce7f674-04ef-491a-8e8d-9adbfff6a06f",
     "title": "RTL Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -267146,6 +267170,35 @@
   },
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lumentum",
+    "id": "87ccb5f4-a686-433e-adaf-5609dc3d8f02",
+    "title": "Optical Verification Engineer Intern/Co-op",
+    "active": false,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "date_updated": 1771026121,
+    "date_posted": 1771026121,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026145",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Lumentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Gelber Group",
     "id": "541441e9-da1e-46ec-a94c-eba14d7affc2",
@@ -319135,7 +319188,7 @@
     "company_name": "Citadel",
     "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
     "title": "Machine Learning Researcher \u2013 PhD Intern - US",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -352580,176 +352633,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AccuWeather",
-    "id": "e31ca028-1d4b-452e-9f03-6f81c9b01950",
-    "title": "Forecasting Intern - State College - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767254703,
-    "date_posted": 1767254703,
-    "url": "https://job-boards.greenhouse.io/accuweather/jobs/7485118",
-    "locations": [
-      "State College, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/AccuWeather",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Textron",
-    "id": "b4ca942f-38f2-40be-99f7-21613f65119d",
-    "title": "High School Intern - Manufacturing - Business",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767251828,
-    "date_posted": 1767251828,
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=338472",
-    "locations": [
-      "Independence, KS"
-    ],
-    "company_url": "https://simplify.jobs/c/Textron",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Textron",
-    "id": "111d699c-e246-40b2-8c12-f2e735cb68a9",
-    "title": "High School Intern - Data Analytics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767251823,
-    "date_posted": 1767251823,
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=338473",
-    "locations": [
-      "Independence, KS"
-    ],
-    "company_url": "https://simplify.jobs/c/Textron",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Evercore",
-    "id": "73f2a6a1-42b0-42e0-83b5-d44e276b2a30",
-    "title": "2027 Equities: Sales & Trading Summer Intern Program - New York",
-    "active": false,
-    "terms": [
-      "Summer 2027"
-    ],
-    "date_updated": 1767251818,
-    "date_posted": 1767251818,
-    "url": "https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2926-2027-Equities-Sales-Trading-Summer-Intern-Program-New-York/en-GB",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Evercore",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Lumentum",
-    "id": "5ffd4f18-64eb-45d8-a39e-00e37eb8a515",
-    "title": "Optical Verification Engineer Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767251720,
-    "date_posted": 1767251720,
-    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20251883",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Lumentum",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Lumentum",
-    "id": "3f24d559-6ee2-42b8-b55b-544dcf20f5d9",
-    "title": "Embedded Software DevSecOps Co-op/Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767251717,
-    "date_posted": 1767251717,
-    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Co-op-Intern_20251859",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Lumentum",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PennState University",
-    "id": "c9537cb3-f4e3-41b6-871f-ca361354dd73",
-    "title": "Physics Department - Research Support - Ultrahigh Energy Neutrinos",
-    "active": true,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1767251073,
-    "date_posted": 1767251073,
-    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1",
-    "locations": [
-      "State College, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Penn-State",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
     "_sources": [
       "simplify-2026"
     ]

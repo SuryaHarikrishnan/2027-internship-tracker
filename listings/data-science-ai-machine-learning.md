@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (832)
+# Data Science, AI & Machine Learning (829)
 
 [← back to index](../README.md)
 
@@ -304,7 +304,6 @@
 | [Dimensional Fund Advisors](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002) | Global Client Group Operations Insights Intern - Undergraduate & Master's | Austin, TX | Summer 2027 | 2026-08-18 | 11 | simplify-2026 |
 | [Dimensional Fund Advisors](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003) | Global Client Group Intern - Data and Tools - Undergraduate and Master's | Austin, TX | Summer 2027 | 2026-08-18 | 11 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-1) | AI Applications Intern | Toronto, ON, Canada | Winter 2027 | 2026-08-18 | 11 | simplify-2026 |
-| [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Graduate--Year-Round--Intern---Agricultural-Energy_R14459) | Agricultural Energy Intern - Year-Round | Golden, CO | Fall 2026 | 2026-08-18 | 11 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [WEC Energy Group](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Energy-Analytics-WI-53203/1420267800/?ats=successfactors) | Energy Analytics Intern | Milwaukee, WI | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [Artisan Partners](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641) | Data Engineer Intern - Platform & Product | Milwaukee, WI | Fall 2026 | 2026-08-17 | 12 | simplify-2026 |
@@ -336,6 +335,7 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [Ryan Companies](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | Business Intelligence Intern - Mission Critical | Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 14 | simplify-2026 |
 | [Unify](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true) | GTM Engineering Intern | SF | Fall 2026 | 2026-08-15 | 14 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) | Data Intern | NYC | Fall 2026 | 2026-08-15 | 14 | simplify-2026 |
 | [Occidental Petroleum Corporation (Oxy)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Geophysics Intern | Houston, TX, The Woodlands, TX, Denver, CO | Summer 2026 | 2026-08-15 | 14 | simplify-2026 |
@@ -356,7 +356,6 @@
 | [Bank of China USA](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false) | Enterprise Risk Management Risk Data Aggregation Intern | NYC | Fall 2026 | 2026-08-14 | 15 | simplify-2026 |
 | [Analysis Group](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) | Research Professional Intern - Generalist | Montreal, QC, Canada, Toronto, ON, Canada | Summer 2027 | 2026-08-14 | 15 | simplify-2026 |
 | [KPMG](https://careers.kpmg.ca/jobs/33307?icims=1) | Technical Consultant Intern Co-op - Global Compliance and Transformation | Toronto, ON, Canada | Winter 2027, Summer 2027 | 2026-08-14 | 15 | simplify-2026 |
-| [Dallas College](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/SAS-Intern_R13709) | SAS Intern | El Centro, CA | Fall 2026 | 2026-08-14 | 15 | simplify-2026 |
 | [ONEOK](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Sidney-MT/Engineering-Intern---Sidney--MT_R8601) | Engineering Intern | Sidney, MT | Summer 2026 | 2026-08-14 | 15 | simplify-2026 |
 | [ONEOK](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156) | Engineering Intern | Dallas, TX | Summer 2026 | 2026-08-14 | 15 | simplify-2026 |
 | [ONEOK](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Engineering-Intern---Tulsa--OK_R8155) | Engineering Intern | Tulsa, OK | Summer 2026 | 2026-08-14 | 15 | simplify-2026 |
@@ -628,6 +627,7 @@
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | Machine Learning Research Intern | London, UK | Summer 2027 | 2026-07-06 | 54 | simplify-2026 |
 | [Verne Robotics](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 | 56 | simplify-2026 |
 | [Droyd Robotics](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | Machine Learning Intern | SF | Fall 2026 | 2026-07-04 | 56 | simplify-2026 |
+| [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1) | Physics Research Support - Ultrahigh Energy Neutrinos | University Park, State College, PA | N/A | 2026-07-04 | 56 | simplify-2026 |
 | [iHeartMedia](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Research-Intern_Req37325) | Research Intern | Florida | Fall 2026 | 2026-07-04 | 56 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2) | Research Assistant - FAIR Lab | University Park, State College, PA | N/A | 2026-07-04 | 56 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Student-Researcher---Mohney-Group---Materials-Science-and-Engineering_REQ_0000076727-1) | Graduate Student Researcher - Mohney Group - Materials Science and Engineering | State College, PA | N/A | 2026-07-04 | 56 | simplify-2026 |
@@ -726,7 +726,6 @@
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388) | Customer Solutions Analyst Intern - Ovip | United States | Fall 2026 | 2026-05-21 | 100 | simplify-2026 |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) | Academy Performance Analyst Intern - Academy Performance Analysis | Cincinnati, OH | Winter 2027 | 2026-05-20 | 101 | simplify-2026 |
 | [Medpace, Inc.](https://careers.medpace.com/jobs/12767?lang=en-us&icims=1) | Data Engineer Intern | Cincinnati, OH | Fall 2026 | 2026-05-20 | 101 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556867858) | Research Intern - Self-Improving AI | Cambridge, MA, NYC | Summer 2026 | 2026-05-19 | 102 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4031379009) | AI Resident - Material Science | Cambridge, MA | Winter 2026, Summer 2026, Fall 2026 | 2026-05-19 | 102 | simplify-2026 |
 | [thyssenkrupp](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | Sustainability Systems Intern | Cleveland, OH | Fall 2026 | 2026-05-16 | 105 | simplify-2026 |
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Data Engineering Intern Co-op | Milwaukee, WI | Winter 2027, Spring 2027, Summer 2027 | 2026-05-16 | 105 | simplify-2026 |
@@ -830,9 +829,7 @@
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56635) | AI Engineer Intern - BCG X | London, UK | Spring 2026 | 2026-01-24 | 217 | simplify-2026 |
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56634) | Data Scientist Intern | London, UK | Spring 2026 | 2026-01-24 | 217 | simplify-2026 |
 | [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Student-Cartographer-in-the-GeoGraphics-Laboratory-INCOME-ACCT_REQ_0000075138-1) | Undergraduate Cartographer | State College, PA | N/A | 2026-01-22 | 219 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | Machine Learning Researcher – PhD Intern - US | NYC | Summer 2026 | 2026-01-22 | 219 | simplify-2026 |
 | [Apogee Engineering](https://careers-apogeeusa.icims.com/jobs/1443/job?mobile=true&needsRedirect=false) | Technical Intelligence Analyst | Wright-Patterson AFB, OH | Summer 2026 | 2026-01-21 | 220 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662) | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Spring 2026 | 2026-01-21 | 220 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | NLP Research Intern | London, UK | Spring 2026 | 2026-01-19 | 222 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | Research Scientist Intern - Security for AI - 2026 Start | San Jose, CA | Spring 2026 | 2026-01-16 | 225 | simplify-2026 |
-| [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1) | Physics Department - Research Support - Ultrahigh Energy Neutrinos | State College, PA | N/A | 2026-01-01 | 240 | simplify-2026 |
