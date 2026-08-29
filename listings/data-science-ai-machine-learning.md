@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (826)
+# Data Science, AI & Machine Learning (829)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/193377) | Data Developer Co-op | North Vancouver, BC, Canada | Fall 2026 | 2026-08-29 | 0 | simplify-2026 |
 | [Thea Energy](https://jobs.lever.co/thea.energy/a2396f89-49c9-4ff4-adc5-37b91e227df5/apply) | Physics Intern | Kearny, NJ | Fall 2026 | 2026-08-29 | 0 | simplify-2026 |
 | [Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) | Supply Chain Data & Analytics Intern | LA, Torrance, CA | Summer 2027 | 2026-08-29 | 0 | simplify-2026 |
 | [Charles Schwab](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Data Engineering Intern - Data Engineering | Austin, TX, Westlake, TX, Southlake, TX | Summer 2027 | 2026-08-29 | 0 | simplify-2026 |
@@ -334,6 +335,7 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
 | [Ryan Companies](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | Business Intelligence Intern - Mission Critical | Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA | Summer 2027 | 2026-08-17 | 12 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 14 | simplify-2026 |
 | [Unify](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true) | GTM Engineering Intern | SF | Fall 2026 | 2026-08-15 | 14 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) | Data Intern | NYC | Fall 2026 | 2026-08-15 | 14 | simplify-2026 |
 | [Occidental Petroleum Corporation (Oxy)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Geophysics Intern | Houston, TX, The Woodlands, TX, Denver, CO | Summer 2026 | 2026-08-15 | 14 | simplify-2026 |
@@ -826,6 +828,7 @@
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56635) | AI Engineer Intern - BCG X | London, UK | Spring 2026 | 2026-01-24 | 217 | simplify-2026 |
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56634) | Data Scientist Intern | London, UK | Spring 2026 | 2026-01-24 | 217 | simplify-2026 |
 | [PennState University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Student-Cartographer-in-the-GeoGraphics-Laboratory-INCOME-ACCT_REQ_0000075138-1) | Undergraduate Cartographer | State College, PA | N/A | 2026-01-22 | 219 | simplify-2026 |
+| [Citadel](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | Machine Learning Researcher – PhD Intern - US | NYC | Summer 2026 | 2026-01-22 | 219 | simplify-2026 |
 | [Apogee Engineering](https://careers-apogeeusa.icims.com/jobs/1443/job?mobile=true&needsRedirect=false) | Technical Intelligence Analyst | Wright-Patterson AFB, OH | Summer 2026 | 2026-01-21 | 220 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662) | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Spring 2026 | 2026-01-21 | 220 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | NLP Research Intern | London, UK | Spring 2026 | 2026-01-19 | 222 | simplify-2026 |
