@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (826)
+# Data Science, AI & Machine Learning (827)
 
 [← back to index](../README.md)
 
@@ -472,6 +472,7 @@
 | [Tesla](https://www.tesla.com/careers/search/job/278620) | Cell Engineering Intern - Cell Qualification | Palo Alto, CA, San Diego, CA | Winter 2027, Spring 2027 | 2026-08-04 | 25 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) | Warranty Co-op | Newmarket, ON, Canada | Summer 2026 | 2026-08-04 | 25 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931) | Graduate Statistical Analysis Intern - Regional & Community Outreach | Boston, MA | Fall 2026 | 2026-08-04 | 25 | simplify-2026 |
+| [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) | Data and Analytics Intern - Modeling | Pittsburgh, PA | Summer 2026 | 2026-08-04 | 25 | simplify-2026 |
 | [StepStone Group](https://boards.greenhouse.io/embed/job_app?token=8096268) | AI Intern | La Jolla, San Diego, CA | Summer 2027 | 2026-08-03 | 26 | simplify-2026 |
 | [Persona AI](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08/application?embed=true) | Autonomy Software Engineer Intern - World Modeling | Houston, TX | Fall 2026 | 2026-08-03 | 26 | simplify-2026 |
 | [NTT DATA AIVista](https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true) | AI Scientist Intern | Palo Alto, CA, SF | Fall 2026 | 2026-08-03 | 26 | simplify-2026 |
