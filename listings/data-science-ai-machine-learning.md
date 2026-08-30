@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (824)
+# Data Science, AI & Machine Learning (826)
 
 [← back to index](../README.md)
 
@@ -85,6 +85,7 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie---outils-d-intgrit-des-produits-et-amlioration-des-processus---Internship---Winter-2027---Engineering-Product-Integrity-tools-and-process-improvements_01863379) | Product Integrity Tools and Process Improvement Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-26 | 4 | simplify-2026 |
 | [Chemours](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013) | Generative AI and Data Science Intern - AI & Data Science | Wilmington, DE | Fall 2026 | 2026-08-26 | 4 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Banking-Analytics-Student--4-months----Winter-2027_JR164756) | Banking Analytics Student - 4 months | Oakville, ON, Canada | N/A | 2026-08-26 | 4 | simplify-2026 |
+| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648) | Software Engineer Intern - Artificial Intelligence | Remote in USA, Shiloh, IL, Odenton, MD | Summer 2027 | 2026-08-26 | 4 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Research-Assistant---Redwing-Group---Materials-Science-and-Engineering_REQ_0000081974-1) | Undergraduate Research Assistant - Materials Science and Engineering | University Park, State College, PA | N/A | 2026-08-26 | 4 | simplify-2026 |
 | [Repsol](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1) | Development Planning Engineer Intern | The Woodlands, TX | Summer 2027 | 2026-08-26 | 4 | simplify-2026 |
 | [Alberta Investment Management Corporation](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/XMLNAME--Student--Data-Governance--Fall-2026-_JR100890) | Data Governance Student | Calgary, AB, Canada, Edmonton, AB, Canada | N/A | 2026-08-26 | 4 | simplify-2026 |
@@ -274,6 +275,7 @@
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184) | Data & Process Automation Intern - Duty Drawback | Newark, NJ | Fall 2026 | 2026-08-19 | 11 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 11 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | Generative AI Ph.D. Research Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 11 | simplify-2026 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries | Santa Clara, CA | Fall 2026 | 2026-08-19 | 11 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) | Large Language Models Intern - Research | Santa Clara, CA | Summer 2027 | 2026-08-19 | 11 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) | Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation | Santa Clara, CA | Summer 2027 | 2026-08-19 | 11 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | Deep Learning Computer Architecture Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 11 | simplify-2026 |
