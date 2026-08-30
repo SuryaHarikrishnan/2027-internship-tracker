@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (826)
+# Data Science, AI & Machine Learning (827)
 
 [← back to index](../README.md)
 
@@ -333,6 +333,7 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-17 | 13 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | Summer 2027 | 2026-08-17 | 13 | simplify-2026 |
 | [Ryan Companies](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | Business Intelligence Intern - Mission Critical | Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA | Summer 2027 | 2026-08-17 | 13 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 15 | simplify-2026 |
 | [Unify](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true) | GTM Engineering Intern | SF | Fall 2026 | 2026-08-15 | 15 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) | Data Intern | NYC | Fall 2026 | 2026-08-15 | 15 | simplify-2026 |
 | [Occidental Petroleum Corporation (Oxy)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Geophysics Intern | Houston, TX, The Woodlands, TX, Denver, CO | Summer 2026 | 2026-08-15 | 15 | simplify-2026 |
@@ -438,9 +439,9 @@
 | [Samsung Research America](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8678880002) | Digital Health Algorithms Intern | Mountain View, CA | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
 | [Canva](https://jobs.smartrecruiters.com/Canva/6000000001292768) | PhD Research Scientist Intern - Reinforcement Learning - Images | London, UK | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
 | [Open Road Integrated Media](https://openroadmedia.applytojob.com/apply/k0wJxCZspo/Marketing-Analytics-Intern-PTPaid) | Marketing Analytics Intern - Paid | NYC | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
-| [Canva](https://jobs.smartrecruiters.com/Canva/6000000001291655) | PhD Research Scientist Intern | SF | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670247810111768837) | Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | Seattle, WA | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670009669494704437/detail) | Applied Machine Learning Production Engineer Intern - AML Production Engineer | San Jose, CA | Summer 2027 | 2026-08-06 | 24 | simplify-2026 |
+| [Canva](https://jobs.smartrecruiters.com/Canva/6000000001289897) | PhD Research Scientist Intern - Generative AI | SF | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670285031018432773) | LLM Post-training Engineer Intern - Research & Product | San Jose, CA | Summer 2027 | 2026-08-06 | 24 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7669969771686775045/detail) | AI/LLM Network Research Intern - High Speed Network - PhD | San Jose, CA | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670281454740818181/detail) | AI/LLM Network Research Intern - High Speed Network | Seattle, WA | Fall 2026 | 2026-08-06 | 24 | simplify-2026 |
