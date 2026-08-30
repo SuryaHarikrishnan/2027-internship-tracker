@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "b06bb8f0-2561-491a-833c-68686d80da8e",
+    "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1788087262,
+    "date_posted": 1784268536,
+    "url": "https://www.tesla.com/careers/search/job/277192",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Koch Industries",
     "id": "d7653110-4f3d-4eb3-87d9-02a024571973",
@@ -4085,7 +4111,7 @@
     "company_name": "Leidos",
     "id": "cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
     "title": "Software Engineer Intern - Artificial Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5134,7 +5160,7 @@
     "company_name": "RTX",
     "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
     "title": "Customer Data Management and Analysis Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -18985,7 +19011,7 @@
     "company_name": "NVIDIA",
     "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
     "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -352665,30 +352691,6 @@
       "Kalamazoo, MI"
     ],
     "company_url": "https://simplify.jobs/c/Zoetis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Nokia",
-    "id": "6da7e4e6-b7ea-43a7-a78a-849338142df7",
-    "title": "Summer Intern in Novel Computing for AI",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767351022,
-    "date_posted": 1767351022,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27757",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
