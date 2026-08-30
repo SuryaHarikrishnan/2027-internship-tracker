@@ -3620,7 +3620,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5134,7 +5134,7 @@
     "company_name": "RTX",
     "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
     "title": "Customer Data Management and Analysis Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -8075,7 +8075,7 @@
     "company_name": "Apple",
     "id": "acff4e3e-72e2-4540-80d6-874ced15ab5a",
     "title": "Design Verification Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -8358,7 +8358,7 @@
     "company_name": "L3Harris Technologies",
     "id": "8fe0fbae-59cc-4985-8962-d62969501a29",
     "title": "Configuration Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11390,7 +11390,7 @@
     "company_name": "The Walt Disney Company",
     "id": "10360e05-db49-4c1b-a62d-7e0038f835fd",
     "title": "Geographic Information Systems Intern - GIS",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -24751,7 +24751,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24777,7 +24777,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24806,7 +24806,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24835,7 +24835,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -25091,7 +25091,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -25120,7 +25120,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67655,7 +67655,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -79261,7 +79261,7 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Later",
-    "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
+    "id": "119ba1cb-df5a-4b95-9bed-4d76527e4280",
     "title": "AI Automation Engineer Co-op",
     "active": true,
     "terms": [
@@ -336413,6 +336413,33 @@
   {
     "source": "Simplify",
     "category": "Software",
+    "company_name": "Sigma Computing",
+    "id": "334fbd19-26cd-4df2-9c4c-767bf9514348",
+    "title": "Software Engineering Intern - Summer 2026",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1768289229,
+    "date_posted": 1768289229,
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7588094003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Sigma-Computing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
     "company_name": "Commvault",
     "id": "c6de2776-dffd-48d6-a05e-3e84d0e0bbad",
     "title": "Technical Enablement Intern",
@@ -352662,80 +352689,6 @@
       "Cambridge, UK"
     ],
     "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Royal Bank of Canada",
-    "id": "496aaefe-6bb4-41f7-ac02-88c95cfb2471",
-    "title": "Capital Markets QTS",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1767347352,
-    "date_posted": 1767347352,
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Capital-Markets-QTS--Software-Developer--Summer-2026--Halifax---4-Months-_R-0000152728",
-    "locations": [
-      "Halifax Regional Municipality, NS, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "CME Group",
-    "id": "cbd42822-ead6-49bc-9b85-82eea9f32a0e",
-    "title": "Degree Apprentice - Computing Systems / Software Engineering",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1767320509,
-    "date_posted": 1767320509,
-    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/Degree-Apprentice---Computing-Systems---Software-Engineering_33678",
-    "locations": [
-      "Belfast, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/CME-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Sigma Computing",
-    "id": "90215abb-2818-4f0d-89a7-1cc60ee6ae26",
-    "title": "Software Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767310648,
-    "date_posted": 1767310648,
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7575892003",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Sigma-Computing",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
