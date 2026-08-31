@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (833)
+# Data Science, AI & Machine Learning (830)
 
 [← back to index](../README.md)
 
@@ -99,7 +99,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie---outils-d-intgrit-des-produits-et-amlioration-des-processus---Internship---Winter-2027---Engineering-Product-Integrity-tools-and-process-improvements_01863379) | Product Integrity Tools and Process Improvement Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-26 | 5 | simplify-2026 |
 | [Chemours](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013) | Generative AI and Data Science Intern - AI & Data Science | Wilmington, DE | Fall 2026 | 2026-08-26 | 5 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Banking-Analytics-Student--4-months----Winter-2027_JR164756) | Banking Analytics Student - 4 months | Oakville, ON, Canada | N/A | 2026-08-26 | 5 | simplify-2026 |
-| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648) | Software Engineer Intern - Artificial Intelligence | Remote in USA, Shiloh, IL, Odenton, MD | Summer 2027 | 2026-08-26 | 5 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Research-Assistant---Redwing-Group---Materials-Science-and-Engineering_REQ_0000081974-1) | Undergraduate Research Assistant - Materials Science and Engineering | University Park, State College, PA | N/A | 2026-08-26 | 5 | simplify-2026 |
 | [Repsol](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1) | Development Planning Engineer Intern | The Woodlands, TX | Summer 2027 | 2026-08-26 | 5 | simplify-2026 |
 | [Alberta Investment Management Corporation](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/XMLNAME--Student--Data-Governance--Fall-2026-_JR100890) | Data Governance Student | Calgary, AB, Canada, Edmonton, AB, Canada | N/A | 2026-08-26 | 5 | simplify-2026 |
@@ -541,12 +540,10 @@
 | [TikTok](https://lifeattiktok.com/search/7667613782697232693) | Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency | San Jose, CA | Fall 2026 | 2026-07-29 | 33 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8089379) | Research Engineer Intern | Austin, TX | Fall 2026 | 2026-07-28 | 34 | simplify-2026 |
 | [Modal](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) | Machine Learning Research Intern | SF, NYC | Fall 2026 | 2026-07-28 | 34 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/278249) | Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer | Palo Alto, CA | Fall 2026 | 2026-07-28 | 34 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200673612) | Applied Data Solutions Program Intern | Austin, TX | Fall 2026 | 2026-07-28 | 34 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667248888103782661) | Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency | NYC | Fall 2026 | 2026-07-28 | 34 | simplify-2026 |
 | [Axis Capital](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1) | Renewable Energy Engineer Intern | London, UK | Fall 2026 | 2026-07-28 | 34 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259) | Consultative Offerings Intern - Government & Public Services - Cyber Analytics | Arlington, VA | Summer 2026 | 2026-07-27 | 35 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/278203) | Vehicle Software Intern - Vehicle Controls | Palo Alto, CA | Fall 2026 | 2026-07-27 | 35 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8647385002) | Data/Analytics Co-op | Vancouver, BC, Canada | Fall 2026 | 2026-07-27 | 35 | simplify-2026 |
 | [East Penn Manufacturing Company](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) | Power BI & Analytics Intern | Ann Arbor, MI | Fall 2026 | 2026-07-27 | 35 | simplify-2026 |
 | [FTI Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339) | Technology Intern - Technology | Houston, TX, Washington, DC, SF, LA, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-07-27 | 35 | simplify-2026 |

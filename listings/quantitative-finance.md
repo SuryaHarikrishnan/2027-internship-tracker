@@ -1,4 +1,4 @@
-# Quantitative Finance (173)
+# Quantitative Finance (172)
 
 [← back to index](../README.md)
 
@@ -16,7 +16,6 @@
 | [Alberta Investment Management Corporation](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891) | Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | N/A | 2026-08-26 | 5 | simplify-2026 |
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Houston-Texas/Commodities-Quantitative-Research-Extern_JR100560) | Quantitative Research Extern - Rice University | Houston, TX | N/A | 2026-08-26 | 5 | simplify-2026 |
 | [Fannie Mae](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) | Treasury & Capital Markets Intern - Quantitative Research Track | Washington, DC | Summer 2027 | 2026-08-26 | 5 | simplify-2026 |
-| [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1) | Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk | Chicago, IL | Summer 2027 | 2026-08-25 | 6 | simplify-2026 |
 | [ExxonMobil](https://jobs.exxonmobil.com/job/London-Commercial-Industrial-Placement-Global-Trading-London-LND-SE10SU/1422465900/?ats=successfactors) | Commercial Industrial Placement - Global Trading | London, UK | N/A | 2026-08-24 | 7 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350) | Trading Intern - Trading | NYC | Summer 2027 | 2026-08-24 | 7 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560) | Capital Markets Intern - Summer 2027 | McLean, VA | Summer 2027 | 2026-08-24 | 7 | simplify-2026 |

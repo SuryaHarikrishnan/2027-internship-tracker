@@ -1,4 +1,4 @@
-# Hardware Engineering (265)
+# Hardware Engineering (264)
 
 [← back to index](../README.md)
 
@@ -239,7 +239,6 @@
 | [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-St-Louis-North/Automotive-ADAS-Calibration-Technician-Apprentice_R0218912) | Automotive ADAS Calibration Technician Apprentice | Chesterfield, MO, St. Louis, MO, Creve Coeur, MO | Summer 2026 | 2026-06-01 | 91 | simplify-2026 |
 | [AMERICAN SYSTEMS](https://careers-americansystems.icims.com/jobs/3856/job?mobile=true&needsRedirect=false) | Field Service Technician Intern - Transitioning Military | Orlando, FL | N/A | 2026-05-28 | 95 | simplify-2026 |
 | [Diversified Automation](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply) | Hardware Engineering Co-op | Louisville, KY | Summer 2026 | 2026-05-28 | 95 | simplify-2026 |
-| [Base Power](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Firmware Engineer Intern | Austin, TX | Fall 2026 | 2026-05-27 | 96 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663968) | Undergrad Engineering Intern | United States | Summer 2026 | 2026-05-22 | 101 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200663981) | Hardware Engineering Intern | United States | Summer 2026 | 2026-05-22 | 101 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664414) | Hardware Technologies PhD Intern | United States | Summer 2026 | 2026-05-22 | 101 | simplify-2026 |

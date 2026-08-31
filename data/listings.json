@@ -5858,7 +5858,7 @@
     "company_name": "Leidos",
     "id": "cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
     "title": "Software Engineer Intern - Artificial Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -8538,7 +8538,7 @@
     "company_name": "BP",
     "id": "fe2c156b-32bd-46d5-b724-6b352345c2fb",
     "title": "Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48143,7 +48143,7 @@
     "company_name": "Base Power",
     "id": "55f6de1b-c6ba-4ae1-a357-c089a2c549ac",
     "title": "Firmware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -51701,7 +51701,7 @@
     "company_name": "Tesla",
     "id": "b9a81086-50d0-4ea0-bd8e-97fd33f70311",
     "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -52656,7 +52656,7 @@
     "company_name": "Tesla",
     "id": "498eccae-caa0-431f-8c04-ffd7922d92a6",
     "title": "Vehicle Software Intern - Vehicle Controls",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -58020,7 +58020,7 @@
     "company_name": "Amazon",
     "id": "c44d58c3-05e3-470a-9f21-4722f9d8522d",
     "title": "Software Development Engineer Internship - Fall 2026 - US",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -81010,7 +81010,7 @@
     "company_name": "Tesla",
     "id": "cd64a5ea-e39f-46da-9968-2118ff190093",
     "title": "Product Management Intern - Product Engineer - Applications Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -85177,7 +85177,7 @@
     "company_name": "Tesla",
     "id": "4ad87d63-2221-4e93-9644-1fafb2275d88",
     "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -247197,7 +247197,7 @@
     "company_name": "Truveta",
     "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
     "title": "Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
