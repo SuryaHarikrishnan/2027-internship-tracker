@@ -1,9 +1,11 @@
-# Hardware Engineering (263)
+# Hardware Engineering (265)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Qorvo](https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors) | IC Layout Engineer Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
+| [Qorvo](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424797000/?ats=successfactors) | Test Engineer Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors) | Analog Design Engineer Intern - High Performance Analog - Advanced Cellular | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Device-Engineering-Intern-TX-75080/1424700000/?ats=successfactors) | Device Engineering Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Greensboro-Test-Engineering-Intern-NC-27409/1422393300/?ats=successfactors) | Test Engineering Intern | Greensboro, NC | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |

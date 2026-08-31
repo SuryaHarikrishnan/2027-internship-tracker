@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (834)
+# Data Science, AI & Machine Learning (833)
 
 [← back to index](../README.md)
 
@@ -10,6 +10,7 @@
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Sales-Data-Analyst-Intern-OR-97124/1421951500/?ats=successfactors) | Sales Data Analyst Intern | Hillsboro, OR | Summer 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676652813409552645) | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | San Jose, CA | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676650607912601861) | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | Seattle, WA | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1) | Data Analyst Intern - Group Risk Management | Toronto, ON, Canada | Winter 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792) | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [Intelcom | Dragonfly](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555) | Business Intelligence Developer Intern - BI | Montreal, QC, Canada | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Intelcom | Dragonfly](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567) | Data Engineer Intern | Montreal, QC, Canada | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
@@ -140,7 +141,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337) | Business Intelligence and Governance Analyst Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-25 | 6 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238) | Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence | Fond du Lac, WI | Summer 2027 | 2026-08-25 | 6 | simplify-2026 |
 | [Cigna Group](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) | Legal Operations Financial Data & AI Analytics Intern | St. Louis, MO | Summer 2027 | 2026-08-25 | 6 | simplify-2026 |
-| [GE Appliances](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/People--Culture----Workforce-Analytics-Intern_REQ-26584) | People & Workforce Analytics Intern - Culture | Louisville, KY | Summer 2026 | 2026-08-25 | 6 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717) | Strategic Insights & Analytics Co-op | Horsham, PA, Hopewell Township, NJ | Spring 2027 | 2026-08-25 | 6 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201) | Commercial Portfolio Risk & Credit Analytics Intern - Grm | Toronto, ON, Canada | Winter 2027 | 2026-08-25 | 6 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201-1) | Commercial Portfolio Risk & Credit Analytics Intern - Group Risk Management | Toronto, ON, Canada | Winter 2027 | 2026-08-25 | 6 | simplify-2026 |
@@ -576,7 +576,6 @@
 | [NeoCognition](https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76/application?embed=true) | Research Intern | Palo Alto, CA | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
 | [Vmax AI Corp](https://jobs.ashbyhq.com/vmax/7344d5fd-6fa3-4bce-b7bd-e73aa4dd568b/application?embed=true) | Research Fellow - Mechanistic Interpretability | SF | N/A | 2026-07-21 | 41 | simplify-2026 |
 | [Gritt Robotics Inc](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true) | Robot Learning Engineer Intern | San Bruno, CA | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
-| [Oligo Space](https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true) | ML/AI/CS Intern | West Athens, CA | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
 | [Zuru](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) | Data Analyst Intern | LA | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) | Data Science Machine Learning Intern | Houston, TX, Stamford, CT | Summer 2027 | 2026-07-21 | 41 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Data Engineering Intern | Houston, TX, Stamford, CT, NYC | Summer 2027 | 2026-07-21 | 41 | simplify-2026 |

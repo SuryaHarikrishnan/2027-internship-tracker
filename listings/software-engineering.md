@@ -1,9 +1,10 @@
-# Software Engineering (630)
+# Software Engineering (629)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Qorvo](https://careers.qorvo.com/job/Richardson-Product-Engineer-D&A-Intern-TX-75081/1424806900/?ats=successfactors) | Product Engineer Intern - Design and Applications | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421453600/?ats=successfactors) | Software Engineer Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern,-SWR-FL-32703/1423577900/?ats=successfactors) | Software Engineer Intern - Software R&D | Apopka, FL | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors) | Electrical Engineer Intern - Physical Verification | Greensboro, NC | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
@@ -78,7 +79,6 @@
 | [Ancestry](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434) | Software Engineer Co-op - Observability | Remote in USA | Fall 2026 | 2026-08-26 | 5 | simplify-2026 |
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649) | Software Engineer Intern - Technology, Data, AI, and Operations | Charlotte, NC | Summer 2027 | 2026-08-26 | 5 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472) | Automation Solutions Developer Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-26 | 5 | simplify-2026 |
-| [Parsons](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388) | Software Intern - Summer 2027 | Denver, CO | Summer 2027 | 2026-08-26 | 5 | simplify-2026 |
 | [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272) | Analytics Web Systems Developer Intern | Lansing, MI | Summer 2026 | 2026-08-26 | 5 | simplify-2026 |
 | [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) | Full Stack Engineer Intern Co-op - Data Cognition Team | Toronto, ON, Canada | Winter 2027 | 2026-08-26 | 5 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869) | Software Engineer Intern - Summer 2027 | Richardson, TX | Summer 2027 | 2026-08-26 | 5 | simplify-2026 |
@@ -406,7 +406,6 @@
 | [Montgomery Investment Technology, Inc.](https://fintools.applytojob.com/apply/o7r6gV8IMh/Computer-Programming-Internship-Summer-2026) | Montgomery Investment Technology | Delanco, NJ | N/A | 2026-07-23 | 39 | simplify-2026 |
 | [CloudFit Software](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027) | CloudFit Software Internship - Company name withheld | Lynchburg, VA | N/A | 2026-07-23 | 39 | simplify-2026 |
 | [Later](https://job-boards.greenhouse.io/later/jobs/8643138002) | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Fall 2026 | 2026-07-22 | 40 | simplify-2026 |
-| [Trend Micro](https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997) | Malware Research Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-22 | 40 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Software Engineer Intern - Software Engineer | Austin, TX, NYC | Summer 2027 | 2026-07-21 | 41 | simplify-2026 |
 | [ShyftLabs](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | AI Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
 | [SpreeAI ](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | Software Engineer Intern | SF | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
