@@ -8,21 +8,21 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Tesla** | Optimus Technician Intern - Tesla AI | Fremont, CA | N/A | 2026-08-28 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/281634) |
-| 2 | **Apple** | Camera Hardware Engineering Intern | Cupertino, CA | N/A | 2026-08-28 (3d ago) | [Apply](https://jobs.apple.com/en-us/details/200680200) |
-| 3 | **TikTok** | Product Manager Intern - Business Integrity | San Jose, CA | Summer 2026 | 2026-08-31 (0d ago) | [Apply](https://lifeattiktok.com/search/7679147369590737205) |
-| 4 | **Jane Street** | Windows Engineer Intern | London, UK | N/A | 2026-08-27 (4d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002) |
-| 5 | **Amazon** | Software Development Engineer Intern - Annapurna Labs | Seattle, WA, Austin, TX, NYC, Cupertino, CA | Fall 2026 | 2026-08-27 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
-| 6 | **Netflix** | Machine Learning Scientist Intern - AI | Los Gatos, CA | Winter 2027 | 2026-08-26 (5d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
-| 7 | **Microsoft** | Silicon Engineer Intern | Raleigh, NC, Santa Clara, CA, Mountain View, CA | Fall 2026 | 2026-08-26 (5d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556958170) |
-| 8 | **Susquehanna International Group** | AI Co-op - Drexel University | Bala Cynwyd, PA | Fall 2026 | 2026-08-25 (6d ago) | [Apply](https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false) |
-| 9 | **Figma** | Software Engineer Intern | San Francisco, CA, New York, NY |  | 2026-08-21 (10d ago) | [Apply](https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
-| 10 | **Databricks** | Software Engineering Intern | Bellevue, Washington, Mountain View, California, San Francisco, California |  | 2026-08-21 (10d ago) | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) |
-| 11 | **Cloudflare** | Software Engineer Intern - Fall 2026 | London, UK | Fall 2026 | 2026-08-20 (11d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8118855) |
-| 12 | **Notion** | Data Science Intern | SF | Winter 2027 | 2026-08-20 (11d ago) | [Apply](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true) |
-| 13 | **Citadel Securities** | Fundamental Analyst Intern | NYC | Fall 2026 | 2026-08-19 (12d ago) | [Apply](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/) |
-| 14 | **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 (12d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) |
-| 15 | **Google** | Research Scientist PhD Intern | London, UK | Summer 2027 | 2026-08-17 (14d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) |
+| 1 | **Waymo** | Data Science Intern - Commercialization Testing | SF | Summer 2027 | 2026-08-31 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8167323) |
+| 2 | **Tesla** | Mobile App Intern - Mobile Applications - Automated Diagnostics | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-08-31 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/281625) |
+| 3 | **Apple** | Camera Hardware Engineering Intern | Cupertino, CA | N/A | 2026-08-28 (3d ago) | [Apply](https://jobs.apple.com/en-us/details/200680200) |
+| 4 | **TikTok** | Product Manager Intern - Business Integrity | San Jose, CA | Summer 2026 | 2026-08-31 (0d ago) | [Apply](https://lifeattiktok.com/search/7679147369590737205) |
+| 5 | **Jane Street** | Windows Engineer Intern | London, UK | N/A | 2026-08-27 (4d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002) |
+| 6 | **Amazon** | Software Development Engineer Intern - Annapurna Labs | Seattle, WA, Austin, TX, NYC, Cupertino, CA | Fall 2026 | 2026-08-27 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
+| 7 | **Netflix** | Machine Learning Scientist Intern - AI | Los Gatos, CA | Winter 2027 | 2026-08-26 (5d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
+| 8 | **Microsoft** | Silicon Engineer Intern | Raleigh, NC, Santa Clara, CA, Mountain View, CA | Fall 2026 | 2026-08-26 (5d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556958170) |
+| 9 | **Susquehanna International Group** | AI Co-op - Drexel University | Bala Cynwyd, PA | Fall 2026 | 2026-08-25 (6d ago) | [Apply](https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false) |
+| 10 | **Figma** | Software Engineer Intern | San Francisco, CA, New York, NY |  | 2026-08-21 (10d ago) | [Apply](https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
+| 11 | **Databricks** | Software Engineering Intern | Bellevue, Washington, Mountain View, California, San Francisco, California |  | 2026-08-21 (10d ago) | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) |
+| 12 | **Cloudflare** | Software Engineer Intern - Fall 2026 | London, UK | Fall 2026 | 2026-08-20 (11d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8118855) |
+| 13 | **Notion** | Data Science Intern | SF | Winter 2027 | 2026-08-20 (11d ago) | [Apply](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true) |
+| 14 | **Citadel Securities** | Fundamental Analyst Intern | NYC | Fall 2026 | 2026-08-19 (12d ago) | [Apply](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/) |
+| 15 | **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 (12d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (16d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 
 ---
-*Generated 2026-08-31 19:19 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-08-31 21:46 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
