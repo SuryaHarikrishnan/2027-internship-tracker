@@ -1,15 +1,27 @@
-# Data Science, AI & Machine Learning (830)
+# Data Science, AI & Machine Learning (841)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Exelon](https://careers.comed.com/jobs/30120?icims=1) | Data Science Intern - Data Science/Analytics | Washington, DC, Newark, DE, Philadelphia, PA, Chicago, IL, Oakbrook Terrace, IL, Hamilton, NJ, Baltimore, MD | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [State Farm](https://jobs.statefarm.com/jobs/45477?icims=1) | Financial Operations Data Analytics Intern | Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Grant Thornton](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115750) | AI, Data & Technology Intern - Summer 2027 | Minneapolis, MN | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Grant Thornton](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115733) | AI, Data & Technology Intern - Summer 2027 | Dallas, TX | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Grant Thornton](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115704) | AI, Data & Technology Intern - Summer 2027 | Charlotte, NC | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Protiviti](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-Technology-Consulting-Intern---2027_JR-258932) | Technology Consulting Intern - 2027 | NYC | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Protiviti](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/ATLANTA---PEACHTREE-RD/Atlanta-Technology-Consulting-Intern---2027_JR-258798-2) | Technology Consulting Intern | Atlanta, GA | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Engineering-Intern-TX-75081/1424705500/?ats=successfactors) | Engineering Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Greensboro-Data-Analytics-Intern-NC-27409/1421970400/?ats=successfactors) | Data Analytics Intern | Greensboro, NC | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75081/1424731100/?ats=successfactors) | Test Engineer Intern - RF Load Pull | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Sales-Data-Analyst-Intern-OR-97124/1421951500/?ats=successfactors) | Sales Data Analyst Intern | Hillsboro, OR | Summer 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676652813409552645) | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | San Jose, CA | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676650607912601861) | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | Seattle, WA | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Copart](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/AI-Engineer-Intern_JR110948) | AI Engineer Intern | Dallas, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--ALM-Risk-Data---Automation-Analyst-Intern--4-Months-_R-0000186330) | ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk | Toronto, ON, Canada | Winter 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Strategic-Delivery-Intern--4-Months-_R-0000185971-2) | Strategic Delivery Intern - MCCR | Toronto, ON, Canada | Winter 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Intelligence-Development-Analytics-Intern---Summer-2027_R2617383) | Business Intelligence Development/Analytics Intern | Northbrook, IL | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
+| [Synchrony Financial](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/University-of-Illinois-Hub/Emerging-Technology-Intern---Fall-2026_2601747-2) | Emerging Technology Intern - Fall 2026 | Champaign, IL | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1) | Data Analyst Intern - Group Risk Management | Toronto, ON, Canada | Winter 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792) | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [Intelcom | Dragonfly](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555) | Business Intelligence Developer Intern - BI | Montreal, QC, Canada | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
@@ -340,7 +352,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-17 | 14 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | Summer 2027 | 2026-08-17 | 14 | simplify-2026 |
 | [Ryan Companies](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | Business Intelligence Intern - Mission Critical | Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA | Summer 2027 | 2026-08-17 | 14 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 16 | simplify-2026 |
 | [Unify](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true) | GTM Engineering Intern | SF | Fall 2026 | 2026-08-15 | 16 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) | Data Intern | NYC | Fall 2026 | 2026-08-15 | 16 | simplify-2026 |
 | [Occidental Petroleum Corporation (Oxy)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Geophysics Intern | Houston, TX, The Woodlands, TX, Denver, CO | Summer 2026 | 2026-08-15 | 16 | simplify-2026 |

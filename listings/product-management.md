@@ -1,4 +1,4 @@
-# Product Management (106)
+# Product Management (105)
 
 [← back to index](../README.md)
 
@@ -11,6 +11,7 @@
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200/?ats=successfactors) | Product Management Engineer Intern - High Performance Analog | Richardson, TX | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/?ats=successfactors) | Product Management Intern | Greensboro, NC | Fall 2026 | 2026-08-31 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7679147369590737205) | Product Manager Intern - Business Integrity | San Jose, CA | Summer 2026 | 2026-08-31 | 0 | simplify-2026 |
+| [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) | Product Management Intern - Summer 2027 | Chicago, IL, Northfield, IL | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-1) | Product and Institutional Client Intern - Multiple Teams | Newark, NJ | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-2) | Product and Institutional Client Intern - Multiple Teams | Newark, NJ | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Product-Analyst--EMEA_R106780) | Product Analyst Intern | London, UK | Summer 2027 | 2026-08-31 | 0 | simplify-2026 |
@@ -43,8 +44,6 @@
 | [Eudia](https://job-boards.greenhouse.io/eudia/jobs/4379570009) | Product Intern | Palo Alto, CA | Fall 2026 | 2026-08-21 | 10 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047) | Product Management Intern - Product Marketing | Delaware, OH | Summer 2027 | 2026-08-21 | 10 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | Summer 2027 | 2026-08-21 | 10 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/182389?type=students) | Summer Analyst Intern - Americas - AWM Product Management | NYC | Summer 2027 | 2026-08-19 | 12 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171513?type=students) | AWM Product Management Analyst Intern | Dallas, TX | Summer 2027 | 2026-08-19 | 12 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 12 | simplify-2026 |
 | [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | 2026-08-19 | 12 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 13 | simplify-2026 |
@@ -52,7 +51,6 @@
 | [TikTok](https://lifeattiktok.com/search/7673895973460576517) | Product Manager Intern - Business Integrity | Seattle, WA | Summer 2026 | 2026-08-18 | 13 | simplify-2026 |
 | [Datadog](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | Product Management Intern | NYC | Winter 2027, Summer 2027 | 2026-08-17 | 14 | simplify-2026 |
 | [Dedalus Labs](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) | Product Manager Intern | SF | Fall 2026 | 2026-08-15 | 16 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/170935?type=students) | Summer Analyst Intern - Wealth Management - Product Management and Design | London, UK | Summer 2027 | 2026-08-15 | 16 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673340525029673221) | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA | Summer 2027 | 2026-08-14 | 17 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673337777708550405) | Product Manager Intern - Content and Services | San Jose, CA | Summer 2027 | 2026-08-14 | 17 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673559305519794437) | Product Manager Intern - Scaled Growth | San Jose, CA | Summer 2027 | 2026-08-14 | 17 | simplify-2026 |
@@ -93,6 +91,7 @@
 | [Pentair](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | Product Management Internship | Apex, NC, Brookfield, WI, Delavan, WI, North Aurora, IL, New Brighton, MN, Golden Valley, MN | Summer 2027 | 2026-08-03 | 28 | simplify-2026 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) | Product Management Intern | San Mateo, CA | Fall 2026 | 2026-07-31 | 31 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | Product Management Intern | Southfield, MI | Fall 2026 | 2026-07-29 | 33 | simplify-2026 |
+| [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) | Product Operations Analyst Intern | Dallas, TX | Fall 2026 | 2026-07-28 | 34 | simplify-2026 |
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8041243) | Product Manager Intern | McLean, VA | Summer 2027 | 2026-07-23 | 39 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [k-ID](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | Product Intern | United States | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
 | [LightGuide, Inc.](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) | Product Innovation Co-op | Wixom, MI | Fall 2026 | 2026-07-21 | 41 | simplify-2026 |
