@@ -1,16 +1,22 @@
-# Quantitative Finance (166)
+# Quantitative Finance (177)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342) | Quantitative Research Markets Analyst Intern - Quantitative Trading & Research Markets | London, UK | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860) | Quantitative Research Intern - Multiple Teams | London, UK | N/A | 2026-09-01 | 0 | simplify-2026 |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873) | Quantitative Research Intern - Risk and Treasury - Off-Cycle | London, UK | N/A | 2026-09-01 | 0 | simplify-2026 |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780) | Quantitative Research Markets Associate Intern - Quantitative Trading & Research Markets | London, UK | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770) | Quantitative Research Intern - Asset Management - Off-Cycle | London, UK | N/A | 2026-09-01 | 0 | simplify-2026 |
+| [Merchants Bank of Indiana](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464116) | Capital Markets Intern - Single-Family | Carmel, IN | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
+| [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358) | Quantitative Analyst Co-op Intern - Derivative and Asset Modeling | Toronto, ON, Canada | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [Intact](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Investment-Analyst--4-months-Internship-Coop--Winter-2027---_R155467) | Investment Analyst Intern Co-op | Montreal, QC, Canada | Winter 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Winter-Co-op---Quantitative-Analyst_JR26080353) | Quantitative Analyst Co-op - Derivative and Asset Modeling | Toronto, ON, Canada | Winter 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370-1) | Finance & Risk Intern - Supply, Trading, & Shipping | Chicago, IL | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372) | Finance & Risk Intern - Supply, Trading, & Shipping | Houston, TX | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Associate---Quantitative-Rotation-Program_R_1508352) | Quantitative Associate - Quantitative Rotation Program | NYC | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Summer-Internship---Supply--Trading----Shipping---Calgary_RQ115340) | Supply, Trading, & Shipping Intern | Calgary, AB, Canada | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
-| [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344) | Commercial Intern - Supply, Trading, & Shipping | Chicago, IL | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Trading--Origination----Analytics--Houston--TX_RQ115366) | Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations | Houston, TX | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [Schroders](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941) | Public Markets Quants Intern - Quants (Public Markets) | London, UK | Summer 2027 | 2026-08-28 | 4 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-1) | Quantitative Risk Intern - Grm | Toronto, ON, Canada | Winter 2027 | 2026-08-27 | 5 | simplify-2026 |
@@ -38,6 +44,12 @@
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 15 | simplify-2026 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | Quantitative Researcher Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 15 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-1) | Capital Markets Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | N/A | 2026-08-17 | 15 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/175424?type=students) | Quantitative Strategist Intern - Multiple Teams | London, UK | Summer 2027 | 2026-08-15 | 17 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/175423?type=students) | Quantitative Strategist Associate Intern - Asset and Wealth Management | London, UK | Summer 2027 | 2026-08-15 | 17 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171552?type=students) | Summer Associate Intern | NYC | Summer 2027 | 2026-08-15 | 17 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170675?type=students) | Summer Analyst Intern - FICC & Equities - Sales & Trading | London, UK | Summer 2027 | 2026-08-15 | 17 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171437?type=students) | Intern - Multiple Teams | London, UK | N/A | 2026-08-15 | 17 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/175427?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | London, UK | Summer 2027 | 2026-08-15 | 17 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 | 18 | simplify-2026 |
 | [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 18 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 18 | simplify-2026 |
@@ -76,7 +88,6 @@
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | Quantitative Research Intern - Markets - Analyst | NYC | Summer 2027 | 2026-08-03 | 29 | simplify-2026 |
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/13945) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-02 | 30 | simplify-2026 |
 | [Maven Securities](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) | Quant Trader Intern | London, UK | Winter 2027, Summer 2027 | 2026-07-31 | 32 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) | Business Markets Relationship Manager Intern | Bathurst, NB, Canada | Fall 2026 | 2026-07-28 | 35 | simplify-2026 |
 | [Squarepoint Capital](https://boards.greenhouse.io/embed/job_app?token=243853) | Intern Quant Researcher | London, UK, Paris, France, NYC | Fall 2026 | 2026-07-27 | 36 | simplify-2026 |
 | [BlackEdge Capital](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) | Quantitative Developer Intern | Chicago, IL | Winter 2028, Spring 2028, Summer 2028 | 2026-07-24 | 39 | simplify-2026 |
 | [Trillium](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) | Equity Trader Intern | Chicago, IL | Summer 2027 | 2026-07-24 | 39 | simplify-2026 |

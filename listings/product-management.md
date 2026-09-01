@@ -1,9 +1,22 @@
-# Product Management (114)
+# Product Management (127)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [AMD](https://careers.amd.com/jobs/90411?icims=1) | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681) | Digital Product Management Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057) | Digital Product Management Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627) | Digital Product Management Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) | Product Development Intern - 2027 Product Development - US Consumer Services | NYC | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [Machina Labs](https://jobs.lever.co/MachinaLabs/c54d0857-09f3-479c-8d8d-cfa55d358be6/apply) | Product Manager Intern | Chatsworth, LA | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305) | Product Manager Intern - Chase Digital Development Programme | London, UK | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009634) | Product Management Engineering Intern | Shakopee, MN, Chanhassen, MN | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009685) | Product Management Engineer Intern | Boulder, CO | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009540) | Product Operations Engineer Intern | Shakopee, MN | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009610) | Product Management Engineer Co-op | Shakopee, MN | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Winter-2027-_R_1507625) | Direct Investing Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317) | Product Management Intern - Pmdp | Hartford, CT | Summer 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Upbring](https://careers-upbring.icims.com/jobs/7139/job?mobile=true&needsRedirect=false) | Product Manager Intern | Austin, TX | Fall 2026 | 2026-08-31 | 1 | simplify-2026 |
 | [Blackhawk Network Holdings](https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false) | Product Management Intern | Coppell, TX | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
 | [Blackhawk Network Holdings](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false) | Product Management Intern | Pleasanton, CA | Summer 2027 | 2026-08-31 | 1 | simplify-2026 |
