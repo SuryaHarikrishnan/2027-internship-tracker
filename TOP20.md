@@ -8,13 +8,13 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Stripe** | Software Engineer Intern - Summer or Winter | Seattle, WA, SF, NYC | Summer 2026, Winter 2027 | 2026-09-01 (0d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
-| 2 | **Tesla** | Software Engineer Intern - Core AI Compiler & Runtime | Palo Alto, CA | Spring 2027 | 2026-09-01 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/281951) |
+| 1 | **Tesla** | Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering | Fremont, CA | Winter 2027, Spring 2027 | 2026-09-01 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/281462) |
+| 2 | **Stripe** | Software Engineer Intern - Summer or Winter | Seattle, WA, SF, NYC | Summer 2026, Winter 2027 | 2026-09-01 (0d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
 | 3 | **Adobe** | Machine Learning Engineer Intern | Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT | Summer 2027 | 2026-08-31 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
 | 4 | **Google** | Software Engineer Intern - Multiple Teams | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-08-31 (1d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742) |
 | 5 | **Hudson River Trading** | Hardware Engineer Intern | NYC | Summer 2027 | 2026-08-31 (1d ago) | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
 | 6 | **Waymo** | Data Science Intern - Commercialization Testing | SF | Summer 2027 | 2026-08-31 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8167323) |
-| 7 | **AMD** | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | Summer 2027 | 2026-09-01 (0d ago) | [Apply](https://careers.amd.com/jobs/90411?icims=1) |
+| 7 | **AMD** | Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | Summer 2027 | 2026-09-01 (0d ago) | [Apply](https://careers.amd.com/jobs/90297?icims=1) |
 | 8 | **ByteDance** | Research Intern - AI Compute | Seattle, WA | Summer 2027 | 2026-08-31 (1d ago) | [Apply](https://jobs.bytedance.com/en/position/7679892629651310901/detail) |
 | 9 | **Sony** | Account Management & Business Analytics Intern | San Diego, CA | Fall 2026 | 2026-08-31 (1d ago) | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543) |
 | 10 | **TikTok** | Product Manager Intern - Business Integrity | San Jose, CA | Summer 2026 | 2026-08-31 (1d ago) | [Apply](https://lifeattiktok.com/search/7679147369590737205) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Product Manager Intern | SF | Fall 2026 | 2026-08-15 (17d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 
 ---
-*Generated 2026-09-01 10:33 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-01 13:43 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

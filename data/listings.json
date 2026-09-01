@@ -1,6 +1,191 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife Financial",
+    "id": "bcc22de6-a7a5-40be-af19-e082a86aa284",
+    "title": "Data & Analytics Co-op - 8 Months",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1788262979,
+    "date_posted": 1788134400,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Winter-Co-op---Data---Analytics--8-Months-_JR26081944",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Manulife-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TC Energy",
+    "id": "00e14de5-8782-4578-9d2f-b2de2e3d63f1",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788258678,
+    "date_posted": 1788220800,
+    "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Intern---Engineering_JR-10728",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TC-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TC Energy",
+    "id": "9482cef9-a466-4071-a482-6b9206236e32",
+    "title": "Engineering Intern - Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788257428,
+    "date_posted": 1788220800,
+    "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/TC-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tesla",
+    "id": "d6e09034-f1b8-496a-9b1c-ad916001fc4c",
+    "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "date_updated": 1788257238,
+    "date_posted": 1788256999,
+    "url": "https://www.tesla.com/careers/search/job/281462",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vermeer",
+    "id": "1e725c82-1935-4693-9438-52143ad5e19b",
+    "title": "Embedded Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788257049,
+    "date_posted": 1788220800,
+    "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165",
+    "locations": [
+      "Pella, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vermeer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "874ab97b-4128-4172-bb03-7699b5dbb328",
+    "title": "Firmware Engineer Intern/Co-op - Long Term",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788256873,
+    "date_posted": 1788256547,
+    "url": "https://careers.amd.com/jobs/90297?icims=1",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AMD",
+    "id": "93957738-d6d4-434f-bafe-6286a5b454d8",
+    "title": "Software Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1788256801,
+    "date_posted": 1788256546,
+    "url": "https://careers.amd.com/jobs/91367?icims=1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Product",
     "company_name": "AMD",
     "id": "a9bc71c2-1372-4b6c-a7e8-1562c9bbf631",
@@ -6022,7 +6207,7 @@
     "company_name": "Medline",
     "id": "f71509d5-e6a6-4016-a57d-e56cd20c0298",
     "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -6154,7 +6339,7 @@
     "company_name": "Copart",
     "id": "830ccf37-7c74-49d4-a859-b0e01238b7ab",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -7575,7 +7760,7 @@
     "company_name": "BP",
     "id": "41cbf8c9-8671-4c27-9e23-4d2a6f578a5a",
     "title": "Commercial Intern - Supply, Trading, & Shipping",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -8627,7 +8812,7 @@
     "company_name": "Jabil",
     "id": "44e26efc-e077-4e32-953f-bb89c4e8b21b",
     "title": "Supply Chain Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -11892,7 +12077,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -18826,7 +19011,7 @@
     "company_name": "Google",
     "id": "eb72a87e-f9d7-457b-8448-ae0bcdd0872b",
     "title": "Software Developer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -18854,7 +19039,7 @@
     "company_name": "Google",
     "id": "e3dc5e7f-9828-4121-8b6f-6d45091a92a4",
     "title": "Research Intern - PhD",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -21203,7 +21388,7 @@
     "company_name": "General Motors",
     "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
     "title": "Lighting Software Development & Test Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -25462,7 +25647,7 @@
     "company_name": "SOCOTEC UK & Ireland",
     "id": "02476878-55a1-477c-94ee-6d818bddf0af",
     "title": "Summer Intern - Innovations Team",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -27193,7 +27378,7 @@
     "company_name": "NVIDIA",
     "id": "79fa5677-0cf7-4393-b826-2aa0806bbcd9",
     "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -29041,7 +29226,7 @@
     "company_name": "Sherwin-Williams",
     "id": "ad91f84d-90ea-4295-ad64-7fc45756c54f",
     "title": "IT Database Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -32933,7 +33118,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -33170,7 +33355,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -33194,7 +33379,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -33273,7 +33458,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -123850,7 +124035,7 @@
     "company_name": "Facility Solutions Group",
     "id": "991a8f63-65fa-4790-8de1-d09deeed8643",
     "title": "AI Automation Intern - Electrical Construction Operations",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -219269,7 +219454,7 @@
     "company_name": "Nightwing Intelligence Solutions",
     "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
     "title": "Radio Frequency Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
