@@ -1,9 +1,10 @@
-# Product Management (130)
+# Product Management (132)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [United Airlines](https://careers.united.com/us/en/job/WHQ00026558) | Sales Product Intern | Chicago, IL | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Post Holdings](https://jobs.postholdings.com/jobs/31925?icims=1) | Product R&D Intern - Summer 2027 | Lakeville, MN | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/90411?icims=1) | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681) | Digital Product Management Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
@@ -16,6 +17,7 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009685) | Product Management Engineer Intern | Boulder, CO | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009540) | Product Operations Engineer Intern | Shakopee, MN | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009610) | Product Management Engineer Co-op | Shakopee, MN | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [Vanguard](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969) | Technical Product Manager Intern | Dallas, TX, Malvern, PA, Charlotte, NC | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019) | Communications Platform as a Service Product Management Intern | Palo Alto, CA | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020) | CPaaS Product Management Intern - Cloud & Smart Industries Group | LA | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Winter-2027-_R_1507625) | Direct Investing Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-01 | 0 | simplify-2026 |

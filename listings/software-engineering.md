@@ -1,9 +1,12 @@
-# Software Engineering (735)
+# Software Engineering (740)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Hermeus](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply) | Software Engineer Intern - Hardware in the Loop | Atlanta, GA | Spring 2027, Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [Hermeus](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply) | Software Engineer Intern - Modeling & Simulation - Multiple Teams | LA | Spring 2027, Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [Grass Valley](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development) | Software Development Intern | Montreal, QC, Canada | Winter 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59798?icims=1) | Systems Exploitation Intern - Reverse Engineer - Systems Exploitation | Laurel, MD | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Verisk](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722) | Technology Intern - Summer Internship Program | Holmdel, NJ, Jersey City, NJ, Lehi, UT | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Atlassian](https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job) | Software Engineer Intern | Seattle, WA, SF | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
@@ -55,6 +58,8 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510) | AI Engineering Co-op | Marshalltown, IA | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [ISN Software](https://isnetworld.com/en/about/careers/jobs?gh_jid=6176204004) | Software Developer Intern - Fall 2026 | Dallas, TX | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [IXL Learning](https://www.ixl.com/company/jobs?gh_jid=8765770002) | Software Engineer Intern | San Mateo, CA | Summer 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Global-Apparel-Materials--Undergraduate-Internship_R-91228) | Global Apparel Materials Developer Intern - Apparel Development - Global Apparel Materials | Beaverton, OR | Winter 2027, Spring 2028, Summer 2028 | 2026-09-01 | 0 | simplify-2026 |
+| [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Salesforce-Developer-Intern_R12215) | Salesforce Developer Intern | Boise, ID | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Intelcom | Dragonfly](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611) | Software Developer Intern - Address Intelligence Platform | Montreal, QC, Canada | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [US Foods](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---AI-Automation--Hybrid--Onsite---Remote-_R282109) | AI Automation Intern | Rosemont, IL | Summer 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Newrez](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390) | Software Developer Intern | Coppell, TX | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |

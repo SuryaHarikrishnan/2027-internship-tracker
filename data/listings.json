@@ -2,6 +2,380 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Clarios",
+    "id": "40b99c31-78d9-4ae9-aff3-a7c300843b1c",
+    "title": "Forward Deployed Engineer Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788292495,
+    "date_posted": 1788220800,
+    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Forward-Deployed-Engineering-Intern--Summer-2027-_WD49962",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Clarios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Vanguard",
+    "id": "d461ab1f-9694-48b1-ac26-5f67da3841a1",
+    "title": "Technical Product Manager Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788292318,
+    "date_posted": 1788220800,
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969",
+    "locations": [
+      "Dallas, TX",
+      "Malvern, PA",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanguard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hermeus",
+    "id": "768502d1-3bb6-48fe-8605-2c02c23d8e9e",
+    "title": "Software Engineer Intern - Modeling & Simulation - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1788292316,
+    "date_posted": 1788292193,
+    "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hermeus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hermeus",
+    "id": "f512dec5-b0ee-47f8-81e9-9104b2690937",
+    "title": "Software Engineer Intern - Hardware in the Loop",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1788292307,
+    "date_posted": 1788292196,
+    "url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hermeus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geico",
+    "id": "621638fe-3848-49a3-bd2d-da575b3e4454",
+    "title": "Artificial Intelligence Applied Research & Machine Learning Intern - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788291945,
+    "date_posted": 1788220800,
+    "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-CA/AI-Applied-Research---Machine-Learning-Internship--PhD---Summer-2026-Interns-Only-_R0065435",
+    "locations": [
+      "Palo Alto, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Geico",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "United Airlines",
+    "id": "20d71654-a299-454c-ac6e-21514456e92b",
+    "title": "Airport Operations Intern - Safety Strategy",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788291775,
+    "date_posted": 1788291574,
+    "url": "https://careers.united.com/us/en/job/WHQ00026456",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "United Airlines",
+    "id": "b2910d1a-df08-4c5a-9ad6-88cf9a60ff6f",
+    "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788291772,
+    "date_posted": 1788291574,
+    "url": "https://careers.united.com/us/en/job/WHQ00026613",
+    "locations": [
+      "Arlington Heights, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "United Airlines",
+    "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
+    "title": "Sales Product Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788291753,
+    "date_posted": 1788291190,
+    "url": "https://careers.united.com/us/en/job/WHQ00026558",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Corning",
+    "id": "1a7da7c1-9598-4404-83f2-332f74fe5544",
+    "title": "Raw Material Engineering Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788291541,
+    "date_posted": 1788291370,
+    "url": "https://corningjobs.corning.com/job/Painted-Post-Raw-Material-Engineering-Intern-Summer-2027-NY-14870/1425513800/?ats=successfactors",
+    "locations": [
+      "Painted Post, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Corning",
+    "id": "12404041-b2ea-4c6c-b0b9-89cdc8012ab5",
+    "title": "Digital & IT Intern - Analyst - Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788291541,
+    "date_posted": 1788291378,
+    "url": "https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Machine-Learning-Summer-2027-NC-28216/1425580100/?ats=successfactors",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Corning",
+    "id": "c27b7185-cc97-4a4a-8ddf-21fa7c6e2709",
+    "title": "Vision System Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788291541,
+    "date_posted": 1788291363,
+    "url": "https://corningjobs.corning.com/job/Painted-Post-Vision-System-Intern-Summer-2027-NY-14870/1425508200/?ats=successfactors",
+    "locations": [
+      "Painted Post, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nike",
+    "id": "d83bbe53-fd2f-4fdb-b01c-d7fafd7f1f40",
+    "title": "Global Apparel Materials Developer Intern - Apparel Development - Global Apparel Materials",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1788291229,
+    "date_posted": 1788220800,
+    "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Global-Apparel-Materials--Undergraduate-Internship_R-91228",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Nike",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Grass Valley",
+    "id": "8e8056c5-ec2e-4d06-b14b-4d3a0b68f993",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1788291103,
+    "date_posted": 1788290964,
+    "url": "https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Grass-Valley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Clearwater Analytics",
+    "id": "111b83dd-f4af-48ed-995c-983a822f6d4a",
+    "title": "Salesforce Developer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788291001,
+    "date_posted": 1788220800,
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Salesforce-Developer-Intern_R12215",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Clearwater-Analytics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Johnson & Johnson",
     "id": "c82530ca-dbef-4fab-9d6f-c3146e43aeb8",
     "title": "Data Science Co-op - Summer 2027",
@@ -1954,7 +2328,7 @@
     "company_name": "United Airlines",
     "id": "8af38e26-5b08-4441-a30d-65c007c9a21a",
     "title": "Digital Technology Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -34611,7 +34985,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "382baf9c-98ee-4c9c-a54d-19dd0192822e",
     "title": "Credit Model Analyst Intern - Group Risk Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -72802,7 +73176,7 @@
     "company_name": "Zoox",
     "id": "c57ba1d3-0591-408a-a691-b05626be84f0",
     "title": "Student Worker - Data Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
