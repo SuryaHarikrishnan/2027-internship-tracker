@@ -1,9 +1,13 @@
-# Hardware Engineering (298)
+# Hardware Engineering (302)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Apple](https://jobs.apple.com/en-us/details/200680980) | Design Verification Intern | Cupertino, CA | N/A | 2026-09-01 | 0 | simplify-2026 |
+| [OnLogic](https://apply.workable.com/onlogic-inc/j/10EC1527D8/apply) | Firmware Engineer Co-op | South Burlington, VT, Cary, NC | Winter 2027 | 2026-09-01 | 0 | simplify-2026 |
+| [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | Summer 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [HP IQ](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) | Software Engineer Intern - Connectivity | SF | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Wilmington-Intern,-Software-Engineer-MA-01887/1425515000/?ats=successfactors) | Software Engineer Intern - Digital Signal Processing | Wilmington, MA | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008) | Embedded Developer Intern - Multiple Teams | Oakville, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009004) | Digital Hardware Engineer Intern - RF R&D | Austin, TX | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
@@ -27,6 +31,8 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008761) | Firmware Engineer Co-op | Marshalltown, IA | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008443) | Embedded Software Co-op | Marshalltown, IA | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506475) | Image Sensor Development Intern | Hopewell Junction, NY | Summer 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582) | Electrical Engineer Intern | Boise, ID | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
+| [Protech Automotive Solutions](https://calibercollision.wd1.myworkdayjobs.com/protech/job/Lake-Oswego-OR/Automotive-ADAS-Calibration-Technician-Apprentice_R0223563) | Advanced Driver Assistance Systems Calibration Technician Apprentice | Lake Oswego, OR, Portland, OR | Winter 2026 | 2026-09-01 | 0 | simplify-2026 |
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434) | Software Developer Intern - Avionics Software | Washington, LA, Longmont, CO, Denver, CO | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) | Avionics Software Intern | Washington, LA, Denver, CO | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) | Avionics Software Intern - Undergraduate | Seattle, WA, LA, Longmont, CO, Denver, CO | Summer 2027 | 2026-09-01 | 0 | simplify-2026 |
@@ -108,7 +114,6 @@
 | [Fortive](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270) | Field Service Engineer Co-op | United States | Winter 2027 | 2026-08-25 | 7 | simplify-2026 |
 | [Meridian Partners](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003) | Flight Software Engineer Co-op | Cambridge, MA | Fall 2026 | 2026-08-25 | 7 | simplify-2026 |
 | [MSA Safety](https://careers.msasafety.com/jobs/9993?icims=1) | Software Engineer Intern - Product Development - Summer 2027 | Cranberry Township, PA | Summer 2027 | 2026-08-24 | 8 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Wilmington-Intern-D,-Software-Engineer-MA-01887/1422529400/?ats=successfactors) | Software Engineer Intern | Wilmington, MA | Fall 2026 | 2026-08-24 | 8 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) | Hardware Design Co-op Intern - Firmware | Brookings, SD | Summer 2027 | 2026-08-24 | 8 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/19693?icims=1) | Software Engineer Intern | Olathe, KS | Summer 2027 | 2026-08-24 | 8 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200679650) | GPU Intern | London, UK, Cambridge, UK, St Albans, UK | Winter 2026, Spring 2027, Summer 2027 | 2026-08-24 | 8 | simplify-2026 |
@@ -207,7 +212,6 @@
 | [Innovation Works, Inc.](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc) | Scale Prototyping Shop Intern | Pittsburgh, PA | Fall 2026 | 2026-08-03 | 29 | simplify-2026 |
 | [Novanta](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484) | Engineer Intern | Apex, NC | Fall 2026 | 2026-08-03 | 29 | simplify-2026 |
 | [HPR (Hyannis Port Research)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | FPGA Engineer Intern | Needham, MA | Summer 2027 | 2026-08-01 | 31 | simplify-2026 |
-| [Garmin](https://careers.garmin.com/jobs/18681?icims=1) | Technician Apprentice | Olathe, KS | Fall 2026 | 2026-08-01 | 31 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Hardware Engineer Intern - FPGA | Austin, TX | Summer 2027 | 2026-07-31 | 32 | simplify-2026 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | Hardware Engineering Intern | Fremont, CA, Rochester, MN, San Jose, CA, Irvine, CA, Colorado Springs, CO, Longmont, CO | Summer 2027 | 2026-07-31 | 32 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | WaveLogic Software Engineer Intern | Ottawa, ON, Canada | Fall 2026 | 2026-07-31 | 32 | simplify-2026 |
