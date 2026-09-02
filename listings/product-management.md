@@ -1,4 +1,4 @@
-# Product Management (144)
+# Product Management (143)
 
 [← back to index](../README.md)
 
@@ -122,7 +122,6 @@
 | [TikTok](https://lifeattiktok.com/search/7667874197682899205) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 29 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667578131150506293) | AI Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 29 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) | Product Management Intern | NYC | Summer 2027 | 2026-08-04 | 29 | simplify-2026 |
-| [StudyFetch](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | Product Intern | Beverly Hills, CA | Fall 2026 | 2026-08-03 | 30 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918) | Digital Product Analyst Intern | NYC | Summer 2027 | 2026-08-03 | 30 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992) | Product Management Intern - Product Innovation - Credit & Fraud Risk | NYC | Summer 2027 | 2026-08-03 | 30 | simplify-2026 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) | Product Management Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | 2026-08-03 | 30 | simplify-2026 |

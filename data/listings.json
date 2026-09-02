@@ -218,7 +218,7 @@
     "company_name": "Nokia",
     "id": "51e725b4-c103-46c1-8eea-0d03dbc29f66",
     "title": "Software Developer Co-op Intern - Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -326,7 +326,7 @@
     "company_name": "Nokia",
     "id": "d9fc79d8-b0e0-4d5b-b3bd-dbc216e2909a",
     "title": "Web Developer Co-op Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -5012,7 +5012,7 @@
     "company_name": "Geotab",
     "id": "c000d17c-b16e-450d-839c-842ffd8be4b3",
     "title": "Embedded Developer Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -17109,7 +17109,7 @@
     "company_name": "Motorola",
     "id": "4dc4645e-2c89-45a4-96ba-afcf66131bb7",
     "title": "Mission Critical Networks Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -18416,7 +18416,7 @@
     "company_name": "Leidos",
     "id": "083cfc54-1c27-4fc6-ab89-6606e06aca1f",
     "title": "Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -42361,7 +42361,7 @@
     "company_name": "RTX",
     "id": "39be2363-aaad-4bf0-9f3a-19906a6a8182",
     "title": "Electrical Computer-Aided Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -57499,7 +57499,7 @@
     "company_name": "StudyFetch",
     "id": "f010c8ee-806d-4f1c-96a4-0ad83bd900a7",
     "title": "Product Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -72553,7 +72553,7 @@
     "company_name": "Castleton Commodities International",
     "id": "d0dbf9a8-a0ca-45d2-b171-45c248cd72b6",
     "title": "Front Office Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72580,7 +72580,7 @@
     "company_name": "Castleton Commodities International",
     "id": "2c656f83-6247-4e1c-a019-3126608b9e23",
     "title": "Data Science Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72720,7 +72720,7 @@
     "company_name": "Castleton Commodities International",
     "id": "41018f36-15af-46ed-8719-1fb8d0abe78e",
     "title": "Full-Stack Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],

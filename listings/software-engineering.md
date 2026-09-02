@@ -1,4 +1,4 @@
-# Software Engineering (773)
+# Software Engineering (768)
 
 [← back to index](../README.md)
 
@@ -9,8 +9,6 @@
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39612) | Web Developer Co-op Intern - Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435) | Software Developer Co-op Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679) | Software Designer Co-op Intern - Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39821) | Web Developer Co-op Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39395) | Software Developer Co-op Intern - Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000146985399) | Software Developer Co-op - 16-Months | Calgary, AB, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [Winsupply](https://jobs.smartrecruiters.com/Winsupply1/3743990015014717) | Software Developer Intern | Moraine, OH | Winter 2026 | 2026-09-02 | 0 | simplify-2026 |
 | [Steel Dynamics](https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false) | Software Development Intern | Fort Wayne, IN | Summer 2027 | 2026-09-02 | 0 | simplify-2026 |
@@ -221,7 +219,6 @@
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Software-Engineering/364670) | Software Engineering Summer Scholar Intern | Atlanta, GA | Summer 2026 | 2026-08-27 | 6 | simplify-2026 |
 | [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121) | Software Developer Intern - Summer 2027 | Lansing, MI | Summer 2027 | 2026-08-27 | 6 | simplify-2026 |
 | [Commerce Bank](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395) | IT Intern - Summer 2027 | Kansas City, MO | Summer 2027 | 2026-08-27 | 6 | simplify-2026 |
-| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766) | Software Developer Co-op | Bethesda, MD | Winter 2027 | 2026-08-27 | 6 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) | Software Engineering Intern | Boston, MA | Summer 2027 | 2026-08-27 | 6 | simplify-2026 |
 | [Medtronic](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021) | Engineering Intern | Boston, MA, Santa Ana, CA, Santa Rosa, CA, Irvine, CA, Mansfield, MA, Mounds View, MN, Tempe, AZ, Memphis, TN, Brooklyn Center, MN, Plymouth, MN, Brooklyn Park, MN, Fort Worth, TX, Dexter, MI, North Haven, CT, Lafayette, CO, Minneapolis, MN, Newton, MA, Jacksonville, FL, Eatontown, NJ, Boulder, CO | Summer 2027 | 2026-08-27 | 6 | simplify-2026 |
 | [Air Products](https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953) | Information Technology/Digital Technology Intern - Infrastructure Services | Allentown, PA | Summer 2027 | 2026-08-27 | 6 | simplify-2026 |
@@ -579,8 +576,6 @@
 | [General Intuition &amp; Medal](https://jobs.ashbyhq.com/generalintuition-medal/aaa8928d-7d07-4859-86c1-eb39c4c4cbd3/application?embed=true) | Technical Intern and New Grad | London, UK, NYC | Fall 2026 | 2026-07-21 | 43 | simplify-2026 |
 | [Junior AI](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true) | Software Engineer Intern | NYC | Fall 2026 | 2026-07-21 | 43 | simplify-2026 |
 | [Denari](https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282) | Product & Software Internship | Madison, WI | Summer 2026 | 2026-07-21 | 43 | simplify-2026 |
-| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347) | Front Office Software Engineer Intern | London, UK | Summer 2027 | 2026-07-21 | 43 | simplify-2026 |
-| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) | Full-Stack Software Engineer Intern | Houston, TX, Stamford, CT | Summer 2027 | 2026-07-21 | 43 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | Software Engineering Intern | Chicago, IL | Summer 2027 | 2026-07-20 | 44 | simplify-2026 |
 | [Obsidian Solutions Group](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435) | Unity 3D Developer Intern | Fredericksburg, VA | Fall 2026 | 2026-07-17 | 47 | simplify-2026 |
 | [Cybernetic Labs](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | Software Engineer Intern - Agent Platform | SF | Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027 | 2026-07-16 | 48 | simplify-2026 |
