@@ -1,9 +1,12 @@
-# Product Management (141)
+# Product Management (144)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Product Management Intern - Growth & Marketplace | Oakville, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
+| [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
+| [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Product Management Intern | Oakville, ON, Canada | Winter 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [Atlassian](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | Product Management Intern | SF | Summer 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [Syngenta Group](https://jobs.smartrecruiters.com/SyngentaGroup/744000146744188) | Data Entry Intern - Product Safety | Greensboro, NC | Summer 2027 | 2026-09-01 | 1 | simplify-2026 |
 | [United Airlines](https://careers.united.com/us/en/job/WHQ00026558) | Sales Product Intern | Chicago, IL | Summer 2027 | 2026-09-01 | 1 | simplify-2026 |
