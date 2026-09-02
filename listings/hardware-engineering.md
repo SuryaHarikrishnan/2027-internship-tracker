@@ -1,9 +1,10 @@
-# Hardware Engineering (303)
+# Hardware Engineering (304)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Qorvo](https://careers.qorvo.com/job/Denver-MMIC-Design-Intern-CO-80014/1425889900/?ats=successfactors) | MMIC Design Intern - Defense & Aerospace Products | Denver, CO | Winter 2026 | 2026-09-02 | 0 | simplify-2026 |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813483105) | R&D Hardware Engineer Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Hardware Systems Integration Intern - Winter/Spring 2027 | Somerville, MA | Winter 2027, Spring 2027 | 2026-09-02 | 0 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200680980) | Design Verification Intern | Cupertino, CA | N/A | 2026-09-01 | 1 | simplify-2026 |

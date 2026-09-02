@@ -1,6 +1,89 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qorvo",
+    "id": "fbfa277c-e07d-4122-a980-c9364dbe899d",
+    "title": "Database Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788377221,
+    "date_posted": 1788377042,
+    "url": "https://careers.qorvo.com/job/Apopka-Database-Intern-FL-32703/1425883100/?ats=successfactors",
+    "locations": [
+      "Apopka, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qorvo",
+    "id": "5e1acef5-f1b5-4245-be98-c3d3b83e9de3",
+    "title": "MMIC Design Intern - Defense & Aerospace Products",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788377221,
+    "date_posted": 1788377047,
+    "url": "https://careers.qorvo.com/job/Denver-MMIC-Design-Intern-CO-80014/1425889900/?ats=successfactors",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Qorvo",
+    "id": "98621c93-f516-46e0-8eda-22230c879010",
+    "title": "Product Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788377041,
+    "date_posted": 1788377040,
+    "url": "https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400/?ats=successfactors",
+    "locations": [
+      "Chelmsford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Universal Health Services",
     "id": "af65cbd5-11f8-4a7d-a45a-939597dd3471",
@@ -3775,7 +3858,7 @@
     "company_name": "Geico",
     "id": "621638fe-3848-49a3-bd2d-da575b3e4454",
     "title": "Artificial Intelligence Applied Research & Machine Learning Intern - PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72553,7 +72636,7 @@
     "company_name": "Castleton Commodities International",
     "id": "e01898a9-7ee0-4abc-a2e4-d7973c542041",
     "title": "Data Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72581,7 +72664,7 @@
     "company_name": "Castleton Commodities International",
     "id": "ef340463-f818-4cd0-874c-2b1574493963",
     "title": "Data Science Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -110435,7 +110518,7 @@
     "company_name": "University System of New Hampshire",
     "id": "17d853eb-3412-4b94-a962-815fd64e1b6c",
     "title": "Broadband Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -120661,7 +120744,7 @@
     "company_name": "American Enterprise Institute",
     "id": "8e36a779-899f-4b82-a1ef-0a881ba99667",
     "title": "Intern: Economic Policy",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -367162,425 +367245,6 @@
       "Milpitas, CA"
     ],
     "company_url": "https://simplify.jobs/c/Sandisk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Royal Bank of Canada",
-    "id": "7ef11510-85e1-49d9-932b-cc5464d6afbe",
-    "title": "2026 Summer \u2013 AI Innovation Developer Intern - Grm - 8 Months",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767632508,
-    "date_posted": 1767632508,
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--AI-Innovation-Developer-Intern--8-Months-_R-0000150185",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "KBR",
-    "id": "dd11759a-bc6f-424c-a009-39eaff3f7cb3",
-    "title": "Software Developer Intern - Nss",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767632265,
-    "date_posted": 1767632265,
-    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Software-Developer-Intern_R2117027",
-    "locations": [
-      "Beavercreek, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/KBR",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Carpenter Technology",
-    "id": "c67e987c-4c2e-4674-8e8f-ece05ba7e90a",
-    "title": "Business Intelligence Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767631926,
-    "date_posted": 1767631926,
-    "url": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Intelligence-Intern_25968",
-    "locations": [
-      "Reading, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Carpenter-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NXP Semiconductors",
-    "id": "c7e0b10e-20e1-4916-b3e4-ea3af74999ff",
-    "title": "Radar Signal Processing and AI/ML Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767631816,
-    "date_posted": 1767631816,
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Rose-Orchard/Radar-Signal-Processing-and-AI-ML-Summer-Internship_R-10060008-1",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Hive Financial Systems",
-    "id": "2a0144a0-128e-42bc-b236-20379722b596",
-    "title": "Analytics Operations Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767631721,
-    "date_posted": 1767631721,
-    "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5014470007",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Hive-Financial-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Leidos",
-    "id": "c1338f74-0702-4fbe-bdb4-9b70461b6662",
-    "title": "Technical Graduate Apprentice",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1767631272,
-    "date_posted": 1767631272,
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Glasgow-Lanarkshire-Scotland/Technical-Graduate-Apprentice_R-00172904",
-    "locations": [
-      "Whiteley, UK",
-      "Aldershot, UK",
-      "Glasgow, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Ithaka",
-    "id": "2985bf2f-d76d-4e8d-ae3f-bdb749ef3737",
-    "title": "Intern Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767631123,
-    "date_posted": 1767631123,
-    "url": "https://www.ithaka.org/job/4645220005?gh_jid=4645220005",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Ithaka",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ithaka",
-    "id": "1c7008fa-f88d-43a5-9c75-95a9d3f618d1",
-    "title": "Intern or Machine Learning Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767631122,
-    "date_posted": 1767631122,
-    "url": "https://www.ithaka.org/job/4645218005?gh_jid=4645218005",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Ithaka",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "OpenTable",
-    "id": "b32e347e-eba1-4eb0-9cfa-0e67bf50fca6",
-    "title": "AI Automation Intern - Toronto",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767631059,
-    "date_posted": 1767631059,
-    "url": "https://job-boards.greenhouse.io/opentable/jobs/8348802002",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/OpenTable",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Medtronic",
-    "id": "52d3325c-fc24-4017-87bf-db65eaf13436",
-    "title": "Summer 2026 Women in Science and Engineering \u2013 Internship - Wise",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767631029,
-    "date_posted": 1767631029,
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Internship_R55478-2",
-    "locations": [
-      "Blaine, MN",
-      "Brooklyn Park, MN",
-      "Minneapolis, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Medtronic",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Medtronic",
-    "id": "cf7fce8c-583f-487d-9bde-1472b8883d65",
-    "title": "Summer 2026 Women in Science and Engineering \u2013 Internship - Wise",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767631018,
-    "date_posted": 1767631018,
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Internship_R56110",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/Medtronic",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Medtronic",
-    "id": "93fcd314-b2e9-4f29-805d-ac7adab057e6",
-    "title": "Women in Science and Engineering Intern - Wise",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767631016,
-    "date_posted": 1767631016,
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Jacksonville-Florida-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Intern_R56093",
-    "locations": [
-      "Jacksonville, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Medtronic",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Medtronic",
-    "id": "f0bfab78-1c0f-4422-b6d9-07aabc9bf839",
-    "title": "Summer 2026 Women in Science and Engineering \u2013 Internship - Wise",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767631015,
-    "date_posted": 1767631015,
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Boston-Massachusetts-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Internship_R56114",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Medtronic",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Medtronic",
-    "id": "7df7f619-f8fb-4e84-b6ca-4237d7ad1f02",
-    "title": "Women in Science and Engineering Intern - WISE",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767631014,
-    "date_posted": 1767631014,
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/North-Haven-Connecticut-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Internship_R56112",
-    "locations": [
-      "North Haven, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/Medtronic",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Bank",
-    "id": "a6413a83-e35f-4643-b7ca-831fdceb3942",
-    "title": "Business Insights & Analytics Intern/Co-op - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767630762,
-    "date_posted": 1767630762,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Centre---TD-Tower---66-Wellington-Street-West-Toronto-Ontario/Business-Insights---Analytics-Intern-Co-op---Summer-2026--_R_1463465",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Bandwidth",
-    "id": "0eda2a28-d3fa-41e1-a340-9f251b115ed8",
-    "title": "Go to Market Analytics Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767630753,
-    "date_posted": 1767630753,
-    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7485296",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Bandwidth",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
