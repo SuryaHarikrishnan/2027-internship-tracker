@@ -1,6 +1,161 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Andersen Corporation",
+    "id": "c9ff9182-9268-4f02-a005-5706911147d0",
+    "title": "Sustainability Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1788351713,
+    "date_posted": 1788220800,
+    "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/Sustainability-Intern_R-8207",
+    "locations": [
+      "Bayport, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Andersen-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Applied Materials",
+    "id": "d6dec408-afe2-4aaf-9758-f14a058524f6",
+    "title": "Materials Engineering Co-op - TCAD Modeling",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1788349701,
+    "date_posted": 1783158598,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
+    "locations": [
+      "Gloucester, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hormel Foods",
+    "id": "d5b9d173-6ab2-4e2d-8b42-f7e118c97ece",
+    "title": "Packaging Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788346721,
+    "date_posted": 1788256351,
+    "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35613",
+    "locations": [
+      "Austin, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Hormel-Foods",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Federal Reserve System",
+    "id": "95a7b652-afc6-4e87-b9c5-6c03ee47ff04",
+    "title": "Graduate Intern - Markets Group - New York Innovation Center",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788346719,
+    "date_posted": 1788220800,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Markets-Group---New-York-Innovation-Center---Graduate-Intern_R-0000033034",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "b9a67e9c-0015-4a4a-9f99-25b266976b64",
+    "title": "Tools and Automation Software Developer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1788344040,
+    "date_posted": 1788343899,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "78b93d81-ddbc-4b9f-847f-f352c09c5308",
+    "title": "Data Analyst and Business Projects Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788342121,
+    "date_posted": 1787264175,
+    "url": "https://lifeattiktok.com/search/7676124919956867333",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Armadin",
     "id": "a3985ea3-6b46-4283-ad5c-a7701cb38169",
@@ -5945,7 +6100,7 @@
     "company_name": "Vermeer",
     "id": "48e9a3b4-cb0a-4cfc-88f0-6591fee52ebb",
     "title": "Data Analytics and Corporate Strategy Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -7516,7 +7671,7 @@
     "company_name": "Sierra",
     "id": "1fc30c4a-d04e-419f-968c-083bb3fad9bb",
     "title": "APX New Grad",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -18821,7 +18976,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -20999,7 +21154,7 @@
     "company_name": "RTX",
     "id": "386e2728-ef0f-4332-86d8-df3f6627f509",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -21025,7 +21180,7 @@
     "company_name": "RTX",
     "id": "5eecec55-6e05-4898-acb6-2869c78bf30b",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -32236,7 +32391,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -32745,7 +32900,7 @@
     "company_name": "StudyFetch",
     "id": "179e11a1-a541-4256-a6c3-e36544663802",
     "title": "AI Research Assistant - Machine Learning & AI",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -39862,7 +40017,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -40147,7 +40302,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -40202,7 +40357,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -73559,7 +73714,7 @@
     "company_name": "iHeartMedia",
     "id": "dc07a772-7098-4944-850d-dd912b2426e1",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -79530,7 +79685,7 @@
     "company_name": "Ignite Digital Services",
     "id": "d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
     "title": "Engineer/Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -108134,7 +108289,7 @@
     "company_name": "Rippling",
     "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
     "title": "Machine Learning Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -359454,6 +359609,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "id": "fbdfd985-a325-484c-87c0-d40a09c2db0f",
+    "title": "Software Engineer Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1767838461,
+    "date_posted": 1767838461,
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-18139",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/SEL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Product",
     "company_name": "Microsoft",
     "id": "bc9aece7-d5e9-46ce-9f22-6afdf7e49cd7",
@@ -366960,253 +367141,6 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Gilead Sciences",
-    "id": "b8411a3b-4305-4a5b-b057-c15f3cdba319",
-    "title": "Intern \u2013 Pdm",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767615632,
-    "date_posted": 1767615632,
-    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern--PDM--DPP-Innovation---New-Product-Planning_R0048499",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Gilead Sciences",
-    "id": "cc21a986-6434-426d-becb-b204b9718aa6",
-    "title": "Intern \u2013 IT",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1767615603,
-    "date_posted": 1767615603,
-    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT---Employee-Experience_R0048423",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Gilead Sciences",
-    "id": "3dc80410-f2bf-4e03-a170-633a71decfa8",
-    "title": "Intern  Pdm - Quality - Data Scientist",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767615596,
-    "date_posted": 1767615596,
-    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Data-Science---Quality_R0048787",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA",
-      "PharmD",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Gilead Sciences",
-    "id": "81311c8f-2ed3-465e-b456-1dc0da342660",
-    "title": "Intern \u2013 Clinical Data Science - Biostatistics - Oncology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767615581,
-    "date_posted": 1767615581,
-    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Clinical-Development---Biostatistics--Oncology_R0048760",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Schweitzer Engineering Laboratories",
-    "id": "994898cd-3595-42f3-ab81-62024ecad932",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767614204,
-    "date_posted": 1767614204,
-    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-18699",
-    "locations": [
-      "Moscow, ID"
-    ],
-    "company_url": "https://simplify.jobs/c/SEL",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Roche",
-    "id": "bcfe65d1-c81b-431e-81ea-b477fda6e632",
-    "title": "Intern - Analytical Data Science",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767612075,
-    "date_posted": 1767612075,
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern---Analytical-Data-Science_202512-131901",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Roche",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Ontario Teachers' Pension Plan",
-    "id": "4bad7b5f-c624-4d06-8338-9ad41e04a242",
-    "title": "Intern Capital Markets - Quantitative Strategies and Research",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "date_updated": 1767607144,
-    "date_posted": 1767607144,
-    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2026---8-months-_6787",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ontario Teachers' Pension Plan",
-    "id": "ff7618c4-09e1-49b6-ae69-cc8b287ede30",
-    "title": "Intern \u2013 Product & Data Engineering - May 2026 - Months",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767607131,
-    "date_posted": 1767607131,
-    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6803",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Roche",
-    "id": "8a6ead90-1dee-48e0-a480-0fe0f0dd82e5",
-    "title": "Intern - Technical Specialist",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767606106,
-    "date_posted": 1767606106,
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern----Technical-Specialist_202512-131927",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Roche",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"

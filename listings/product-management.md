@@ -1,4 +1,4 @@
-# Product Management (140)
+# Product Management (141)
 
 [← back to index](../README.md)
 
@@ -79,6 +79,7 @@
 | [Eudia](https://job-boards.greenhouse.io/eudia/jobs/4379570009) | Product Intern | Palo Alto, CA | Fall 2026 | 2026-08-21 | 12 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047) | Product Management Intern - Product Marketing | Delaware, OH | Summer 2027 | 2026-08-21 | 12 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | Summer 2027 | 2026-08-21 | 12 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/182389?type=students) | Summer Analyst Intern - Americas - AWM Product Management | NYC | Summer 2027 | 2026-08-19 | 14 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 14 | simplify-2026 |
 | [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | 2026-08-19 | 14 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 15 | simplify-2026 |
