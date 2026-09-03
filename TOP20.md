@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (1d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-03 19:40 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-03 23:11 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
