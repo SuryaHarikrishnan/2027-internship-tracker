@@ -1658,7 +1658,7 @@
     "company_name": "Rockefeller Capital Management",
     "id": "9f1a3d4b-e719-4a8d-8675-c400a470b458",
     "title": "Summer Analyst Intern - Distribution",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -21434,7 +21434,7 @@
     "company_name": "Booz Allen",
     "id": "a04221b8-f136-4a5d-beb9-2807f67970c2",
     "title": "Data Scientist Intern - 2027 Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -291428,7 +291428,7 @@
     "company_name": "X Development",
     "id": "7906ae4b-a2bf-420a-a929-2b11f82819e8",
     "title": "2026 PhD Residency - Earth Scientist AI Resident - Early Stage Project",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
