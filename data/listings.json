@@ -2022,7 +2022,7 @@
     "company_name": "Chevron",
     "id": "c93524dd-bc17-42ae-b9d8-3c665ba1d8ca",
     "title": "Information Technology Intern - Information Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -32873,7 +32873,7 @@
     "company_name": "Booz Allen",
     "id": "1253e2b5-8a22-4c0e-bcd9-e44d32ecfc90",
     "title": "Software Developer Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -84242,7 +84242,7 @@
     "company_name": "Cloudflare",
     "id": "c97b1332-a2e5-4276-8d54-70df4b7c21e7",
     "title": "Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -85514,7 +85514,7 @@
     "company_name": "Cloudflare",
     "id": "02855d39-751b-42b4-909c-814d9d98b768",
     "title": "Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -91917,7 +91917,7 @@
     "company_name": "Castleton Commodities International",
     "id": "6c60c226-bf8b-45f1-b610-d9835abb7ce2",
     "title": "Commodities Trading Analyst Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -113479,7 +113479,7 @@
     "company_name": "Lila Sciences",
     "id": "2e18112f-57a1-49b7-875b-0cdd6cd55e8d",
     "title": "Next Gen Engineering Co-Op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -156757,6 +156757,34 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Desjardins Group",
+    "id": "b8011049-1548-4053-9e0a-5906cd2dbd3f",
+    "title": "Data Intern",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1778479949,
+    "date_posted": 1778479486,
+    "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Quebec City, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Desjardins-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Cenovus Energy",
     "id": "6da9f843-da27-44b0-85cb-b9ab1f9c44e0",
     "title": "Student Drilling Intern - Completions and Interventions",
@@ -164079,6 +164107,34 @@
     "date_posted": 1777933224,
     "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5182934008",
     "locations": [
+      "Oakville, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Geotab",
+    "id": "4774edb2-bba5-4efa-bd6a-367a653d07aa",
+    "title": "Software Developer Intern",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1777933981,
+    "date_posted": 1777933226,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008",
+    "locations": [
+      "Toronto, ON, Canada",
       "Oakville, ON, Canada",
       "Kitchener, ON, Canada"
     ],
@@ -183549,7 +183605,7 @@
     "company_name": "Tencent",
     "id": "1c141650-b107-465f-a7ed-290459b5da2a",
     "title": "Software Engineering Intern - PC Game Client Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -381939,202 +381995,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Geotab",
-    "id": "30d46a92-4556-42cc-a604-eb839113ba75",
-    "title": "Software Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767804775,
-    "date_posted": 1767804775,
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5014088008",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Oakville, ON, Canada",
-      "Kitchener, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Desjardins Group",
-    "id": "f6e347f4-2a86-4ea0-b288-1b1b69647796",
-    "title": "Data Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767804462,
-    "date_posted": 1767804462,
-    "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--t-2026_R2600064-1",
-    "locations": [
-      "Montreal, QC, Canada",
-      "Quebec City, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Desjardins-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "The Kinetic Group",
-    "id": "378451e4-f08b-4f6d-81fc-9b7ac52ec4ab",
-    "title": "Software & Automation Intern - Remington Ammunition",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1767804201,
-    "date_posted": 1767804201,
-    "url": "https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Software---Automation-Intern---Remington-Ammunition_R0012190",
-    "locations": [
-      "Jacksonville, AR"
-    ],
-    "company_url": "https://simplify.jobs/c/The-Kinetic-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Sun Life",
-    "id": "aac9e165-a3c8-48ed-9b96-b197bf95b6d7",
-    "title": "PFI Investment Analyst",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767803996,
-    "date_posted": 1767803996,
-    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/PFI-Investment-Analyst-Intern--SLC-Management---Toronto-MBA-Summer-Opportunities_JR00119081-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Sun-Life",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "MBA"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ASML",
-    "id": "ccdd81fe-7d93-475b-b1b2-93c7c669911c",
-    "title": "Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767803876,
-    "date_posted": 1767803876,
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Computer-Vision-Techniques-for-Optical-Metrology_J-00332429",
-    "locations": [
-      "Wilton, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/ASML",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ASML",
-    "id": "d5b9aa47-55c9-4005-8d32-40028ea44225",
-    "title": "Intern - Laser Computational Modeling Scientist",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767803865,
-    "date_posted": 1767803865,
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Laser-Computational-Modeling-Scientist_J-00331361",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ASML",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Microsoft",
-    "id": "7468ecd6-7cd4-40e7-9ccd-21d25a284f07",
-    "title": "Software Engineer Applied AI/ML Intern",
-    "active": false,
-    "terms": [
-      "Fall 2025",
-      "Winter 2026",
-      "Spring 2026"
-    ],
-    "date_updated": 1767803557,
-    "date_posted": 1767803557,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641992",
-    "locations": [
-      "Washington",
-      "California",
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"

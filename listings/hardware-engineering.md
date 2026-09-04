@@ -1,4 +1,4 @@
-# Hardware Engineering (398)
+# Hardware Engineering (397)
 
 [← back to index](../README.md)
 
@@ -346,7 +346,6 @@
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Hardware Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 65 | simplify-2026 |
 | [Human Computer Lab](https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application?embed=true) | Electrical Engineer Intern | Toronto, ON, Canada, SF | Fall 2026 | 2026-07-01 | 65 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426) | Analog Engineer Intern - PhD | Toronto, ON, Canada | Summer 2026 | 2026-06-27 | 69 | simplify-2026 |
-| [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) | Next Gen Engineering Co-Op | Cambridge, MA | Summer 2026 | 2026-06-25 | 71 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7695577003) | System Architecture Intern | Palo Alto, CA, Bristol, UK, Remote in USA, Warrington, UK | Summer 2026 | 2026-06-23 | 73 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern | San Jose, CA | Fall 2026 | 2026-06-23 | 73 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | 74 | simplify-2026 |
