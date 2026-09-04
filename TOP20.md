@@ -8,7 +8,7 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Tesla** | Audio & Sensor Software Engineer Intern - Vehicle Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-04 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/282301) |
+| 1 | **Tesla** | Electrical Engineer Intern - Energy Engineering | Palo Alto, CA, Austin, TX | Spring 2027 | 2026-09-04 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/279743) |
 | 2 | **Apple** | Formal Verification Intern | St Albans, UK | Winter 2026 | 2026-09-04 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200681934) |
 | 3 | **Amazon** | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027, Spring 2027, Fall 2027 | 2026-09-04 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | 4 | **Microsoft** | Data Scientist PhD Intern | Redmond, WA | Winter 2026 | 2026-09-03 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986137) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (2d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-04 19:20 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-04 22:57 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
