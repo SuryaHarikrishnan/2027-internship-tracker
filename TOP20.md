@@ -8,13 +8,13 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Amazon** | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027, Spring 2027, Fall 2027 | 2026-09-04 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
-| 2 | **Microsoft** | Data Scientist PhD Intern | Redmond, WA | Winter 2026 | 2026-09-03 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986137) |
-| 3 | **Tesla** | Software Engineer Intern - Torque Path & Chassis Controls - Vehicle Software | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/282255) |
-| 4 | **Adobe** | Software Engineer Intern | Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT | Summer 2027 | 2026-09-03 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) |
-| 5 | **Waymo** | Software Engineering Intern - Behavior Test - MS | SF | Summer 2027 | 2026-09-03 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
-| 6 | **Susquehanna International Group** | FPGA Engineer Intern | Bala Cynwyd, PA | Summer 2027 | 2026-09-03 (1d ago) | [Apply](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) |
-| 7 | **Apple** | Design Verification Engineer Intern | Cupertino, CA | N/A | 2026-09-03 (1d ago) | [Apply](https://jobs.apple.com/en-us/details/200681368) |
+| 1 | **Tesla** | Audio & Sensor Software Engineer Intern - Vehicle Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-04 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/282301) |
+| 2 | **Apple** | Formal Verification Intern | St Albans, UK | Winter 2026 | 2026-09-04 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200681934) |
+| 3 | **Amazon** | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027, Spring 2027, Fall 2027 | 2026-09-04 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
+| 4 | **Microsoft** | Data Scientist PhD Intern | Redmond, WA | Winter 2026 | 2026-09-03 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986137) |
+| 5 | **Adobe** | Software Engineer Intern | Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT | Summer 2027 | 2026-09-03 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) |
+| 6 | **Waymo** | Software Engineering Intern - Behavior Test - MS | SF | Summer 2027 | 2026-09-03 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
+| 7 | **Susquehanna International Group** | FPGA Engineer Intern | Bala Cynwyd, PA | Summer 2027 | 2026-09-03 (1d ago) | [Apply](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) |
 | 8 | **Google** | Data Analytics Apprentice - February 2027 Start | LA, Chicago, IL, NYC, Atlanta, GA | Winter 2027 | 2026-09-01 (3d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/132315893450318534) |
 | 9 | **Stripe** | Software Engineer Intern - Summer or Winter | Seattle, WA, SF, NYC | Summer 2026, Winter 2027 | 2026-09-01 (3d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
 | 10 | **Zoox** | Autonomy Safety Data Engineer | Foster City, CA | N/A | 2026-09-04 (0d ago) | [Apply](https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (2d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-04 12:57 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-04 16:40 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
