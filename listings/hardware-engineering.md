@@ -1,4 +1,4 @@
-# Hardware Engineering (419)
+# Hardware Engineering (420)
 
 [← back to index](../README.md)
 
@@ -14,6 +14,7 @@
 | [Apex](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true) | Simulation Software Engineering Intern | LA | Summer 2027, Fall 2027 | 2026-09-04 | 1 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/279743) | Electrical Engineer Intern - Energy Engineering | Palo Alto, CA, Austin, TX | Spring 2027 | 2026-09-04 | 1 | simplify-2026 |
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000147549219) | Systems Engineering Co-op - Multiple Teams | Ottawa, ON, Canada | Winter 2027 | 2026-09-04 | 1 | simplify-2026 |
+| [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000147552960) | Mobile Domain System Engineering Co-op - Months | Calgary, AB, Canada | Winter 2027 | 2026-09-04 | 1 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200681934) | Formal Verification Intern | St Albans, UK | Winter 2026 | 2026-09-04 | 1 | simplify-2026 |
 | [Entergy](https://jobs.entergy.com/job/New-Orleans-Student,-Intern-Engineering-Summer-2027-Loui/1426672400/?ats=successfactors) | Engineering Intern | New Orleans, LA | Summer 2027 | 2026-09-04 | 1 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517) | Physical Design Engineer Intern - BS | Morrisville, NC, Austin, TX, Rochester, MN, Santa Clara, CA, Boise, ID, Burlington, VT, Westborough, MA | Summer 2027 | 2026-09-04 | 1 | simplify-2026 |

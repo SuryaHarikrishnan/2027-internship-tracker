@@ -1,4 +1,4 @@
-# Software Engineering (855)
+# Software Engineering (856)
 
 [← back to index](../README.md)
 
@@ -386,6 +386,7 @@
 | [Gulfstream](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors) | Software Engineer Intern - IEF | Savannah, GA | Summer 2027 | 2026-08-24 | 12 | simplify-2026 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503) | IT Engineering Internship - Software, Platform, Network | Cincinnati, OH | Summer 2027 | 2026-08-24 | 12 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325) | Computer Graphics Engineer Intern | Champaign, IL | Fall 2026 | 2026-08-24 | 12 | simplify-2026 |
+| [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316) | Software Engineer Intern - Boating Intelligence Design Lab | Champaign, IL | Fall 2026 | 2026-08-24 | 12 | simplify-2026 |
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | Software Engineer Intern - Tech & Data Program | Hartford, CT | Summer 2027 | 2026-08-24 | 12 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) | Software Developer Intern - Single-Family | McLean, VA | Summer 2027 | 2026-08-24 | 12 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) | Technology Intern - Enterprise Operations + Technology | McLean, VA | Summer 2027 | 2026-08-24 | 12 | simplify-2026 |

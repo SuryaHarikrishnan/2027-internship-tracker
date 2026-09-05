@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (997)
+# Data Science, AI & Machine Learning (996)
 
 [← back to index](../README.md)
 
@@ -52,6 +52,7 @@
 | [DIRECTV](https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276) | Product Development Intern - DIRECTV for Business | Clarksburg, MD | Summer 2027 | 2026-09-04 | 1 | simplify-2026 |
 | [Simon Property Group](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976) | Data Engineering Intern - Multiple Teams | Indianapolis, IN | Summer 2026 | 2026-09-04 | 1 | simplify-2026 |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Scientific-Data-Support-Analyst---mRNA-Center-of-Excellence---Vaccines--Waltham--MA_R2853711) | Scientific Data Support Analyst Co-op - mRNA Center of Excellence - Vaccines | Waltham, MA | Spring 2027 | 2026-09-04 | 1 | simplify-2026 |
+| [Wealthsimple](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true) | Credit & Fraud Analytics Intern - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-03 | 2 | simplify-2026 |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---Macclesfield/XMLNAME-12-Month-University-Industrial-Placement-Student--Biometrics---AI-Science-Specialist_R-259210) | Biometrics AI Science Specialist - AI Science Specialist | Macclesfield, UK | N/A | 2026-09-03 | 2 | simplify-2026 |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---Macclesfield/XMLNAME-12-Month-University-Industrial-Placement-Student--Digital---Data-Improvement-Specialist_R-259280) | Digital & Data Improvement Specialist Intern - University Industrial Placement Student | Macclesfield, UK | N/A | 2026-09-03 | 2 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556986137) | Data Scientist PhD Intern | Redmond, WA | Winter 2026 | 2026-09-03 | 2 | simplify-2026 |
@@ -62,7 +63,6 @@
 | [Winsupply](https://jobs.smartrecruiters.com/Winsupply1/3743990015046116) | Data Analyst Intern | Moraine, OH | Winter 2026 | 2026-09-03 | 2 | simplify-2026 |
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Developer Intern Co-op - Machine Learning | Remote in Canada | Winter 2027 | 2026-09-03 | 2 | simplify-2026 |
 | [Ruekert & Mielke](https://ruekertmielke.bamboohr.com/careers/300/) | GIS Intern | Waukesha, WI | Summer 2026 | 2026-09-03 | 2 | simplify-2026 |
-| [Cisco](https://careers.cisco.com/global/en/job/2024683) | Machine Learning Engineer 2 Intern | SF | Winter 2026 | 2026-09-03 | 2 | simplify-2026 |
 | [Hadrian](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | Data Science/Data Engineer Intern | LA, Torrance, CA | Fall 2026, Spring 2027, Summer 2027 | 2026-09-03 | 2 | simplify-2026 |
 | [National Information Solutions Cooperative](https://job-boards.greenhouse.io/testnisc/jobs/8167884) | Data Engineer Intern | Lake St Louis, MO | Summer 2027 | 2026-09-03 | 2 | simplify-2026 |
 | [National Information Solutions Cooperative](https://job-boards.greenhouse.io/testnisc/jobs/8167886) | Data Engineer Intern | Mandan, ND | Summer 2027 | 2026-09-03 | 2 | simplify-2026 |
@@ -118,7 +118,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/281940) | Machine Learning Engineer Intern - Charging Data Modeling | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-02 | 3 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Assessment-Graduate-Student-Associate_R_00048574) | Assessment Graduate Student Associate | Austin, TX | N/A | 2026-09-02 | 3 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Undergrad-Education--Moody-College-of-Communication--GRADUTE-STUDENTS-ONLY-_R_00048586) | Graduate Assistant | Austin, TX | N/A | 2026-09-02 | 3 | simplify-2026 |
-| [Cisco](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683) | Machine Learning Engineer 2 Intern | Milpitas, CA, SF, San Jose, CA | Winter 2026 | 2026-09-02 | 3 | simplify-2026 |
 | [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417) | Business Intelligence Developer Intern - Summer 2027 | Lansing, MI | Summer 2027 | 2026-09-02 | 3 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807) | Business Analyst Co-op | Burnaby, BC, Canada | Winter 2027 | 2026-09-02 | 3 | simplify-2026 |
 | [Vermeer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164) | Data Analytics Intern | Pella, IA | Summer 2027 | 2026-09-02 | 3 | simplify-2026 |
@@ -137,6 +136,7 @@
 | [Wonder](https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Growth---Marketing-Analytics-Intern_JR101323) | Growth & Marketing Analytics Intern - Growth Analytics | NYC | Winter 2026 | 2026-09-02 | 3 | simplify-2026 |
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844) | Data Analyst Intern | Columbus, OH | Summer 2027 | 2026-09-02 | 3 | simplify-2026 |
 | [Zurich Insurance](https://www.careers.zurich.com/job/Toronto-IT-Data-Governance-Intern-ON/1370998357/?ats=successfactors) | IT Data Governance Intern | Toronto, ON, Canada | Winter 2026 | 2026-09-01 | 4 | simplify-2026 |
+| [Zurich Insurance](https://www.careers.zurich.com/job/Toronto-Data-Engineering-Intern-ON/1370995557/?ats=successfactors) | Data Engineering Intern | Toronto, ON, Canada | Winter 2026 | 2026-09-01 | 4 | simplify-2026 |
 | [Major League Baseball](https://jobs.lever.co/redsox/a5498ff9-824d-463b-89b4-8d68a7d685a8/apply) | Player Development Associate - Player Development | Fort Myers, FL | N/A | 2026-09-01 | 4 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data Scientist Intern | Redmond, WA | Winter 2026 | 2026-09-01 | 4 | simplify-2026 |
 | [Corning](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) | Artificial Intelligence and Machine Learning Intern | Wilmington, NC | Summer 2027 | 2026-09-01 | 4 | simplify-2026 |
@@ -365,7 +365,6 @@
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University---Applied-AI-Intern_R0248111) | Applied AI Intern - University | Washington, DC | Spring 2027, Summer 2027 | 2026-08-27 | 9 | simplify-2026 |
 | [Finastra](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) | AI Engineer Intern - Summer 2027 | Atlanta, GA | Summer 2027 | 2026-08-27 | 9 | simplify-2026 |
 | [Excellus BCBS](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Telecommunications-Team---Fall-2026_JR103882-2) | Telecommunications Intern - Telecommunications Team | Rochester, NY | Fall 2026 | 2026-08-27 | 9 | simplify-2026 |
-| [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037) | Data Scientist Intern - University | McLean, VA | Summer 2027 | 2026-08-27 | 9 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) | Software Developer Intern - University | McLean, VA | Summer 2027 | 2026-08-27 | 9 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045) | Data Scientist Intern - University | San Diego, CA | Summer 2027 | 2026-08-27 | 9 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790) | AI & Stress Testing Analytics Intern - Group Risk Management | Toronto, ON, Canada | Winter 2027 | 2026-08-27 | 9 | simplify-2026 |

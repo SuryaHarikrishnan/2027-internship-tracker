@@ -3,6 +3,58 @@
     "source": "Simplify",
     "category": "Hardware",
     "company_name": "General Dynamics UK",
+    "id": "d0909b73-ab4c-4cfe-9ff3-d1b9e1dc2929",
+    "title": "Mobile Domain System Engineering Co-op - Months",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1788608368,
+    "date_posted": 1788530935,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000147552960",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wealthsimple",
+    "id": "8e6234ef-f09e-4bd9-b4a9-2ca6c52f8657",
+    "title": "Credit & Fraud Analytics Intern - Winter 2027",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1788606901,
+    "date_posted": 1788477064,
+    "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Wealthsimple",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
     "id": "0d504ec1-4c20-45c1-95c9-bd8e7239a5b8",
     "title": "Software Engineering Co-op - Months",
     "active": true,
@@ -12473,7 +12525,7 @@
     "company_name": "Cisco",
     "id": "cc47ac63-57a2-4592-ad46-338af068e454",
     "title": "Machine Learning Engineer 2 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -13772,7 +13824,7 @@
     "company_name": "Cisco",
     "id": "2e2b9880-d6c9-4502-b647-d93be679e9a2",
     "title": "Machine Learning Engineer 2 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -21446,7 +21498,7 @@
     "company_name": "Zurich Insurance",
     "id": "17b7544f-c3be-49f8-838a-a79a4ed854e0",
     "title": "Data Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -38217,7 +38269,7 @@
     "company_name": "Booz Allen",
     "id": "b5849ab7-6000-47b6-847d-99300b7d8722",
     "title": "Data Scientist Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -44193,7 +44245,7 @@
     "company_name": "Brunswick",
     "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
     "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
