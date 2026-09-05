@@ -381150,6 +381150,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Experian",
+    "id": "72287c2e-cc32-497e-ace7-d9e7ac556b51",
+    "title": "Software Engineer Apprentice",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1767975134,
+    "date_posted": 1767975134,
+    "url": "https://jobs.smartrecruiters.com/Experian/744000102584561",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Experian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Nokia",
     "id": "2dca2ddf-8d63-43ee-85f1-3705c37dff8c",
@@ -383207,159 +383233,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Keysight Technologies",
-    "id": "f2c7e90f-1642-4ace-92ce-3be03a8547c0",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767890221,
-    "date_posted": 1767890221,
-    "url": "https://jobs.keysight.com/jobs/51216?lang=en-us&icims=1",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ramboll",
-    "id": "567971aa-993a-4528-b5c7-dfafee613428",
-    "title": "Intern \u2013 Air Quality",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767889764,
-    "date_posted": 1767889764,
-    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000102284825",
-    "locations": [
-      "Denver, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/Ramboll",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Unity",
-    "id": "8386a979-b004-4216-98e2-c7dfe93b8a00",
-    "title": "Software Engineer - Engine Support",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767889263,
-    "date_posted": 1767889263,
-    "url": "https://boards.greenhouse.io/embed/job_app?token=7392439",
-    "locations": [
-      "Brighton, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Unity",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Experian",
-    "id": "021cc33d-b9cd-4e2e-a6d7-95034ec977e7",
-    "title": "Software Engineer Apprentice",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767889010,
-    "date_posted": 1767889010,
-    "url": "https://jobs.smartrecruiters.com/Experian/744000102327375",
-    "locations": [
-      "Nottingham, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Experian",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "APEX Analytix",
-    "id": "926e2a24-504c-4649-8cf5-84eecf247865",
-    "title": "Data Analyst Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767888579,
-    "date_posted": 1767888579,
-    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/999da522-f122-4560-8e6e-152bc97f9342",
-    "locations": [
-      "Greensboro, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/APEX-Analytix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "APEX Analytix",
-    "id": "56a6bdf4-3ff1-4773-a65b-57786a24b950",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767888566,
-    "date_posted": 1767888566,
-    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/13266804-b931-4b28-a132-40c09e2c4a42",
-    "locations": [
-      "Greensboro, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/APEX-Analytix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Associate's"
     ],
     "_sources": [
       "simplify-2026"
