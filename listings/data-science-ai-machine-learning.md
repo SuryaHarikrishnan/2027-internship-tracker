@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (999)
+# Data Science, AI & Machine Learning (997)
 
 [← back to index](../README.md)
 
@@ -576,7 +576,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-17 | 20 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | Summer 2027 | 2026-08-17 | 20 | simplify-2026 |
 | [Ryan Companies](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | Business Intelligence Intern - Mission Critical | Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA | Summer 2027 | 2026-08-17 | 20 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 22 | simplify-2026 |
 | [Unify](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true) | GTM Engineering Intern | SF | Fall 2026 | 2026-08-15 | 22 | simplify-2026 |
 | [Vendelux](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) | Data Intern | NYC | Fall 2026 | 2026-08-15 | 22 | simplify-2026 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) | Data Science & Machine Learning Fellow Intern | Washington, DC | Summer 2027 | 2026-08-14 | 23 | simplify-2026 |
@@ -945,7 +944,6 @@
 | [Centific](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | Speech Intern 4 | Remote in USA | Summer 2026 | 2026-04-14 | 145 | simplify-2026 |
 | [Output Biosciences](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) | Research Intern, Machine Learning | New York, NY, San Francisco, CA | Summer 2026 | 2026-04-14 | 145 | simplify-2026 |
 | [Workato](https://job-boards.greenhouse.io/workato/jobs/8492935002) | Intern AI Engineering | SF | Winter 2026, Spring 2027 | 2026-04-10 | 149 | simplify-2026 |
-| [Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA, Remote in Canada | N/A | 2026-04-10 | 149 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false) | Machine Learning Intern | Ardmore, PA | Summer 2026 | 2026-04-09 | 150 | simplify-2026 |
 | [Perplexity AI](https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application) | Intern - Search Machine Learning Engineer | London, UK | Summer 2026 | 2026-04-08 | 151 | simplify-2026 |
 | [Cloudforce](https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4) | AI Agent Builder Intern | National Harbor, MD | Summer 2026 | 2026-04-08 | 151 | simplify-2026 |
