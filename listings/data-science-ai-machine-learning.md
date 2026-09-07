@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1023)
+# Data Science, AI & Machine Learning (1022)
 
 [← back to index](../README.md)
 
@@ -168,7 +168,6 @@
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844) | Data Analyst Intern | Columbus, OH | Summer 2027 | 2026-09-02 | 5 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) | Gas & Electric Design Analytics and Process Improvement Intern - MN | Minneapolis, MN | Summer 2027 | 2026-09-02 | 5 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2) | Geospatial Data Validation Intern | Minneapolis, MN, Denver, CO | Summer 2027 | 2026-09-02 | 5 | simplify-2026 |
-| [Zurich Insurance](https://www.careers.zurich.com/job/Toronto-Data-Engineering-Intern-ON/1370995557/?ats=successfactors) | Data Engineering Intern | Toronto, ON, Canada | Winter 2026 | 2026-09-01 | 6 | simplify-2026 |
 | [Major League Baseball](https://jobs.lever.co/redsox/a5498ff9-824d-463b-89b4-8d68a7d685a8/apply) | Player Development Associate - Player Development | Fort Myers, FL | N/A | 2026-09-01 | 6 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data Scientist Intern | Redmond, WA | Winter 2026 | 2026-09-01 | 6 | simplify-2026 |
 | [Corning](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) | Artificial Intelligence and Machine Learning Intern | Wilmington, NC | Summer 2027 | 2026-09-01 | 6 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (437)
+# Hardware Engineering (436)
 
 [← back to index](../README.md)
 
@@ -215,7 +215,6 @@
 | [Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace/1951df5b-c84e-47d9-860d-53e5d3045f6f/application?embed=true) | Fleet Reliability Intern - Summer Internship | LA, Torrance, CA | Summer 2026 | 2026-08-29 | 9 | simplify-2026 |
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2025-18137) | Engineering Intern - Protection Systems Forensics | Pullman, WA | Fall 2026 | 2026-08-29 | 9 | simplify-2026 |
 | [V2X](https://careers.gov2x.com/jobs/62685?icims=1) | Electrical Engineer Intern - Hardware Engineering | Indianapolis, IN | Summer 2027 | 2026-08-28 | 10 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556981744) | Optical Communications Resident | Cambridge, UK | Fall 2026 | 2026-08-28 | 10 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/281457) | Electrical Engineer Intern - Energy Service Tooling | Hayward, CA | Spring 2027 | 2026-08-28 | 10 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?embed=true) | Rust Software Engineer Intern - Chip Design Tools - Winter | SF, Austin, TX | Winter 2026 | 2026-08-28 | 10 | simplify-2026 |
 | [Fab2](https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application?embed=true) | Embedded Software Engineer Intern - Winter | SF, Austin, TX | Winter 2027 | 2026-08-28 | 10 | simplify-2026 |
