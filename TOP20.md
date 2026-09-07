@@ -22,7 +22,7 @@ Ranked by freshness + company tier + role category.
 | 12 | **Moderna** | Applied Technologies Intern | Norwood, MA | Summer 2027 | 2026-09-04 (3d ago) | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734) |
 | 13 | **Zoox** | Autonomy Safety Data Engineer | Foster City, CA | N/A | 2026-09-04 (3d ago) | [Apply](https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply) |
 | 14 | **Netflix** | Machine Learning Scientist Intern - AI | Los Gatos, CA | Winter 2027 | 2026-08-26 (12d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
-| 15 | **Dropbox** | Software Engineer Intern - Summer 2027 | Remote in USA | Summer 2027 | 2026-09-07 (0d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8106224) |
+| 15 | **Walmart** | Transportation Data Analyst 2 Intern - Intern Conversion | Bentonville, AR | Summer 2026 | 2026-09-07 (0d ago) | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/XMLNAME-2026-Intern-Conversion--2027-Transportation-Data-Analyst-II_R-2630083) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (5d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-07 20:23 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-07 23:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
