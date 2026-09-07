@@ -1309,7 +1309,7 @@
     "company_name": "Airbus",
     "id": "0af1cc0e-a58e-4da3-ba05-773b55177492",
     "title": "Full-Stack Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -31884,7 +31884,7 @@
     "company_name": "Manulife Financial",
     "id": "78fab1c2-9f47-412d-8659-873843843c0a",
     "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -56909,7 +56909,7 @@
     "company_name": "NVIDIA",
     "id": "790a9545-abe4-4bd0-af4b-55b368673465",
     "title": "Computer Architecture and Systems Intern - Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -57262,7 +57262,7 @@
     "company_name": "NVIDIA",
     "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
     "title": "Mixed Signal Design Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -180930,7 +180930,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -381231,33 +381231,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Woven",
-    "id": "1e2469ef-e9ea-420b-b1c9-00bc1dcdf61b",
-    "title": "Software Engineering Intern - Embedded",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768051749,
-    "date_posted": 1768051749,
-    "url": "https://jobs.lever.co/woven-by-toyota/77cac944-392e-4a8c-b427-532076f8521d/apply",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/Woven-Planet",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"

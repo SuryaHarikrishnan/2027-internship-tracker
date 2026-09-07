@@ -1,4 +1,4 @@
-# Quantitative Finance (187)
+# Quantitative Finance (188)
 
 [← back to index](../README.md)
 
@@ -35,6 +35,7 @@
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA | Summer 2027 | 2026-09-01 | 6 | simplify-2026 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) | Quantitative Portfolio Management Intern | Newport Beach, CA | Summer 2027 | 2026-09-01 | 6 | simplify-2026 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) | Quantitative Research Analyst Intern - Portfolio Management | Newport Beach, CA | Summer 2027 | 2026-09-01 | 6 | simplify-2026 |
+| [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358) | Quantitative Analyst Co-op Intern - Derivative and Asset Modeling | Toronto, ON, Canada | Summer 2027 | 2026-08-31 | 7 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Winter-Co-op---Quantitative-Analyst_JR26080353) | Quantitative Analyst Co-op - Derivative and Asset Modeling | Toronto, ON, Canada | Winter 2027 | 2026-08-31 | 7 | simplify-2026 |
 | [Mackenzie Investments](https://careersen-mackenzieinvestments.icims.com/jobs/5998/job?mobile=true&needsRedirect=false) | Quantitative Developer Intern - Investment Management - Fixed Income Platform Engineering | Ontario, Canada | Winter 2027 | 2026-08-28 | 10 | simplify-2026 |
 | [Schroders](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941) | Public Markets Quants Intern - Quants (Public Markets) | London, UK | Summer 2027 | 2026-08-28 | 10 | simplify-2026 |
