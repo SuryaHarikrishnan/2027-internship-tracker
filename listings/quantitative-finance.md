@@ -1,4 +1,4 @@
-# Quantitative Finance (203)
+# Quantitative Finance (202)
 
 [← back to index](../README.md)
 
@@ -46,7 +46,6 @@
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-1) | Quantitative Risk Intern - Grm | Toronto, ON, Canada | Winter 2027 | 2026-08-27 | 12 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | Summer 2027 | 2026-08-26 | 13 | simplify-2026 |
 | [Alberta Investment Management Corporation](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891) | Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | N/A | 2026-08-26 | 13 | simplify-2026 |
-| [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Houston-Texas/Commodities-Quantitative-Research-Extern_JR100560) | Quantitative Research Extern - Rice University | Houston, TX | N/A | 2026-08-26 | 13 | simplify-2026 |
 | [Fannie Mae](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) | Treasury & Capital Markets Intern - Quantitative Research Track | Washington, DC | Summer 2027 | 2026-08-26 | 13 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401) | Model Risk Management Intern - 2027 Internship Program | Jersey City, NJ | Summer 2027 | 2026-08-25 | 14 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | Summer 2027 | 2026-08-25 | 14 | simplify-2026 |

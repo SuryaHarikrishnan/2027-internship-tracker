@@ -8161,7 +8161,7 @@
     "company_name": "Hitachi",
     "id": "6c196363-fae8-4e72-a67f-eb0699a0dfc5",
     "title": "Embedded Systems Engineer Intern - IoT",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -12185,7 +12185,7 @@
     "company_name": "Venerable",
     "id": "635bfbf6-24d3-4da6-ad9e-75723baa62af",
     "title": "Product Management Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -14021,7 +14021,7 @@
     "company_name": "Red Bull",
     "id": "6c1b495d-c993-4a1e-80fc-bb8b295e7c8b",
     "title": "Academy Scouting Intern - Academy Scout",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -14047,7 +14047,7 @@
     "company_name": "Marquee Brands",
     "id": "cc58fac9-b0fa-47d6-8d76-5a9b5e373147",
     "title": "Consumer Insights Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -35574,7 +35574,7 @@
     "company_name": "PricewaterhouseCoopers (PwC)",
     "id": "3230c951-623b-444c-b001-114c9819cad7",
     "title": "Market Information and Data Analytics Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -45451,7 +45451,7 @@
     "company_name": "Jain Global",
     "id": "6b6c9174-7b35-478a-be6c-09c442dc9586",
     "title": "Quantitative Research Extern - Rice University",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -65291,7 +65291,7 @@
     "company_name": "Toyota Research Institute",
     "id": "e5f8a85e-932c-4e67-b965-44c9946b5a23",
     "title": "Robotics Research Intern - Post-Training",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -98187,7 +98187,7 @@
     "company_name": "Tenstorrent",
     "id": "3084c516-85ae-493d-a322-241adba5a8ed",
     "title": "Software Engineer Intern - Power Modeling & AI Tools",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2026",
@@ -216533,7 +216533,7 @@
     "company_name": "Haize Labs",
     "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -231941,7 +231941,7 @@
     "company_name": "SCOR",
     "id": "df3c511f-ea8d-40ab-9614-aebb2dedd305",
     "title": "Databricks & Palantir Analytics Graduate Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -278884,7 +278884,7 @@
     "company_name": "Oracle",
     "id": "6d571674-acba-44ce-b089-81a367473086",
     "title": "Advanced Degree Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2025",
       "Winter 2026",
@@ -384104,34 +384104,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "UiPath",
-    "id": "6e3e8655-203d-4fa8-aa49-ac4cfcb65769",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768152446,
-    "date_posted": 1768152446,
-    "url": "https://jobs.ashbyhq.com/uipath/18034904-7114-4efc-884b-66caf1adc1f3/application",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/UiPath",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
     ],
     "_sources": [
       "simplify-2026"

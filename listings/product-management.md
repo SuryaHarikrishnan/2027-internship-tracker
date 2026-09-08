@@ -1,4 +1,4 @@
-# Product Management (164)
+# Product Management (163)
 
 [← back to index](../README.md)
 
@@ -23,7 +23,6 @@
 | [TikTok](https://lifeattiktok.com/search/7677493272788683013) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | Summer 2027 | 2026-09-03 | 5 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Global Product Management Intern - Conferencing | Niles, IL | Summer 2027 | 2026-09-03 | 5 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Global Product Management Data Intern | Niles, IL | Summer 2027 | 2026-09-03 | 5 | simplify-2026 |
-| [Venerable](https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Product-Management-Co-op_REQ763) | Product Management Co-op | West Chester, PA | Winter 2026 | 2026-09-03 | 5 | simplify-2026 |
 | [JD.com](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Product-Management-Internship_JR103809) | Product Management Intern | London, UK | Winter 2026 | 2026-09-03 | 5 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Product Management Intern - Growth & Marketplace | Oakville, ON, Canada | Winter 2027 | 2026-09-02 | 6 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-02 | 6 | simplify-2026 |

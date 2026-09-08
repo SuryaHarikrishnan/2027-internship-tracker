@@ -1,4 +1,4 @@
-# Hardware Engineering (445)
+# Hardware Engineering (444)
 
 [← back to index](../README.md)
 
@@ -62,7 +62,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Analog--Mixed-Signal---Circuit-Design_2604142) | Analog Design Intern | Irvine, CA, Santa Clara, CA, Westlake Village, CA | Winter 2026 | 2026-09-04 | 4 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510) | Analog Design Intern | Santa Clara, CA, Burlington, VT | Summer 2027 | 2026-09-04 | 4 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514) | Functional Validation Intern - BS | Santa Clara, CA, Boise, ID, Westborough, MA | Summer 2027 | 2026-09-04 | 4 | simplify-2026 |
-| [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/I3X-Intern_R0143621) | Embedded Systems Engineer Intern - IoT | Texas | Winter 2026 | 2026-09-04 | 4 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Engineering-Co-Op_20261212) | Reliability Engineer Co-op | Ottawa, ON, Canada | Winter 2026 | 2026-09-04 | 4 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54138?icims=1) | Integrated Photonics Research Intern | Santa Clara, CA | Winter 2026 | 2026-09-03 | 5 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282255) | Software Engineer Intern - Torque Path & Chassis Controls - Vehicle Software | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 5 | simplify-2026 |
