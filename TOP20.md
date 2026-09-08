@@ -8,11 +8,11 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Microsoft** | Hardware Engineer Intern | Hillsboro, OR | Winter 2026 | 2026-09-05 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986143) |
-| 2 | **Tesla** | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | Spring 2027 | 2026-09-05 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/282598) |
-| 3 | **Susquehanna International Group** | Technology Co-op - Northeastern University | Bala Cynwyd, PA | Winter 2027 | 2026-09-04 (4d ago) | [Apply](https://careers-sig.icims.com/jobs/11377/job?mobile=true&needsRedirect=false) |
-| 4 | **Scale AI** | Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-04 (4d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
-| 5 | **Apple** | Formal Verification Intern | St Albans, UK | Winter 2026 | 2026-09-04 (4d ago) | [Apply](https://jobs.apple.com/en-us/details/200681934) |
+| 1 | **Apple** | GPU Intern - Multiple Teams | London, UK, Cambridge, UK, St Albans, UK | Fall 2026, Winter 2026, Spring 2027, Summer 2027 | 2026-09-08 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200682357) |
+| 2 | **Microsoft** | Hardware Engineer Intern | Hillsboro, OR | Winter 2026 | 2026-09-05 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986143) |
+| 3 | **Tesla** | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | Spring 2027 | 2026-09-05 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/282598) |
+| 4 | **Susquehanna International Group** | Technology Co-op - Northeastern University | Bala Cynwyd, PA | Winter 2027 | 2026-09-04 (4d ago) | [Apply](https://careers-sig.icims.com/jobs/11377/job?mobile=true&needsRedirect=false) |
+| 5 | **Scale AI** | Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-04 (4d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | 6 | **Amazon** | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027, Spring 2027, Fall 2027 | 2026-09-04 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | 7 | **Adobe** | Software Engineer Intern | Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT | Summer 2027 | 2026-09-03 (5d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) |
 | 8 | **Waymo** | Software Engineering Intern - Behavior Test - MS | SF | Summer 2027 | 2026-09-03 (5d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
@@ -20,9 +20,9 @@ Ranked by freshness + company tier + role category.
 | 10 | **Stripe** | Software Engineer Intern - Summer or Winter | Seattle, WA, SF, NYC | Summer 2026, Winter 2027 | 2026-09-01 (7d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
 | 11 | **Hudson River Trading** | Hardware Engineer Intern | NYC | Summer 2027 | 2026-08-31 (8d ago) | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
 | 12 | **Netflix** | Machine Learning Scientist Intern - AI | Los Gatos, CA | Winter 2027 | 2026-08-26 (13d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
-| 13 | **BNY** | Product Management Intern - Product Management | London, UK | Summer 2027 | 2026-09-08 (0d ago) | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) |
-| 14 | **Gilead Sciences** | Development Intern - CDS AI Research Center | Foster City, CA | Summer 2026 | 2026-09-08 (0d ago) | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625) |
-| 15 | **Zions Bank** | Process Automation Developer Intern | United States | Winter 2027 | 2026-09-08 (0d ago) | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580) |
+| 13 | **Coretek Services** | AI & Automation Development Intern | Farmington Hills, MI | Winter 2026 | 2026-09-08 (0d ago) | [Apply](https://apply.workable.com/coretek-services/j/8D69C6C871/apply) |
+| 14 | **Texas Instruments** | Test or Validation Engineering Intern | Knoxville, TN, Dallas, TX, Phoenix, AZ, Tucson, AZ | Winter 2026 | 2026-09-08 (0d ago) | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017578) |
+| 15 | **ConductorAI** | Software Engineer Intern | NYC | Summer 2026 | 2026-09-08 (0d ago) | [Apply](https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891/application?embed=true) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (6d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-08 13:06 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-08 16:56 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
