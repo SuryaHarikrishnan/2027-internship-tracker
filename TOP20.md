@@ -20,9 +20,9 @@ Ranked by freshness + company tier + role category.
 | 10 | **Stripe** | Software Engineer Intern - Summer or Winter | Seattle, WA, SF, NYC | Summer 2026, Winter 2027 | 2026-09-01 (7d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
 | 11 | **Hudson River Trading** | Hardware Engineer Intern | NYC | Summer 2027 | 2026-08-31 (8d ago) | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
 | 12 | **Netflix** | Machine Learning Scientist Intern - AI | Los Gatos, CA | Winter 2027 | 2026-08-26 (13d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
-| 13 | **Gilead Sciences** | Development Intern - CDS AI Research Center | Foster City, CA | Summer 2026 | 2026-09-08 (0d ago) | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625) |
-| 14 | **Zions Bank** | Process Automation Developer Intern | United States | Winter 2027 | 2026-09-08 (0d ago) | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580) |
-| 15 | **Kite Pharma** | Kite Development Intern - Tech Ops - Process Development | Santa Monica, CA | Summer 2026 | 2026-09-08 (0d ago) | [Apply](https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Tech-Ops--Process-Development-_R0054669) |
+| 13 | **BNY** | Product Management Intern - Product Management | London, UK | Summer 2027 | 2026-09-08 (0d ago) | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) |
+| 14 | **Gilead Sciences** | Development Intern - CDS AI Research Center | Foster City, CA | Summer 2026 | 2026-09-08 (0d ago) | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625) |
+| 15 | **Zions Bank** | Process Automation Developer Intern | United States | Winter 2027 | 2026-09-08 (0d ago) | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (6d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-08 10:07 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-08 13:06 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
