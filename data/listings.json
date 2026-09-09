@@ -1,6 +1,111 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hewlett Packard",
+    "id": "3724b7cc-4130-4342-8c6b-9df8f51c6e78",
+    "title": "Business Intelligence and Infrastructure Analyst Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788957573,
+    "date_posted": 1788739200,
+    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NiSource",
+    "id": "7b3ab200-a8aa-4170-877f-21d8c1d2a2b5",
+    "title": "Change Management Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788955742,
+    "date_posted": 1788134400,
+    "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/NiSource",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Reflect Orbital",
+    "id": "65d01a2b-3547-4a04-96ea-c5cc8fac13be",
+    "title": "Electrical Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788949664,
+    "date_posted": 1788407562,
+    "url": "https://jobs.ashbyhq.com/reflect-orbital/a0f12586-4821-4683-8983-c268e621ca0e/application?embed=true",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Reflect-Orbital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Fasanara",
+    "id": "ee7df455-7d62-4d63-a298-d8b4959c809b",
+    "title": "Quant Trading Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1788948206,
+    "date_posted": 1788948082,
+    "url": "https://apply.workable.com/fasanara/j/FC82BCC5C5/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Fasanara",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Hearst",
     "id": "0f01813c-18e9-48c2-9e47-4afaf74c1be9",
@@ -2683,7 +2788,7 @@
     "company_name": "AArete",
     "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
     "title": "Data Architecture & Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -4999,7 +5104,7 @@
     "company_name": "Airbus",
     "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
     "title": "Satellite Digital Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -6904,7 +7009,7 @@
     "company_name": "InfiniteQuant",
     "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
     "title": "Quantitative Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -11195,7 +11300,7 @@
     "company_name": "Marvell",
     "id": "54dcd1fc-97a6-477a-a5c4-fd602806eaf1",
     "title": "Firmware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -12054,7 +12159,7 @@
     "company_name": "RTX",
     "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
     "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -12955,7 +13060,7 @@
     "company_name": "Citi",
     "id": "6dc73acd-b55b-41dd-8103-a79c586a597a",
     "title": "Quantitative Risk Management Summer Analyst Intern - Functions",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13783,7 +13888,7 @@
     "company_name": "AQR Capital Management",
     "id": "da858cff-a5e2-4d14-802a-be39fa5cf5c0",
     "title": "Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13996,7 +14101,7 @@
     "company_name": "AQR Capital Management",
     "id": "a9556b44-6c39-4804-ac5f-23fcacd9520b",
     "title": "Risk Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -16941,7 +17046,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17020,7 +17125,7 @@
     "company_name": "Goldman Sachs",
     "id": "8f346a45-4490-4243-933e-264e3916e701",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17122,7 +17227,7 @@
     "company_name": "Goldman Sachs",
     "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17172,7 +17277,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17225,7 +17330,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17249,7 +17354,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17301,7 +17406,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17355,7 +17460,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -39303,7 +39408,7 @@
     "company_name": "PricewaterhouseCoopers (PwC)",
     "id": "4b6066cd-8c05-4586-80d1-c1500ceb094b",
     "title": "Diligence Analytics Intern - Deals",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -41522,7 +41627,7 @@
     "company_name": "Mastercard",
     "id": "e42ba45d-b2f8-4b3e-82ea-a28a0016584f",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -44736,7 +44841,7 @@
     "company_name": "Mastercard",
     "id": "466b932d-3cf0-4669-af9f-fa3d799a5a18",
     "title": "Data Scientist Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -47555,7 +47660,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48007,7 +48112,7 @@
     "company_name": "Alberta Investment Management Corporation",
     "id": "26dd4c1c-9a56-441c-8796-514ac7b5dcc4",
     "title": "Data Governance Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -51032,7 +51137,7 @@
     "company_name": "Brunswick",
     "id": "45a90628-8af8-4195-9f94-89cb5bbfe029",
     "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -59630,7 +59735,7 @@
     "company_name": "Ontario Teachers' Pension Plan",
     "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
     "title": "Business Insights and Analytics Intern - Member Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -70162,7 +70267,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -70502,7 +70607,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -73827,7 +73932,7 @@
     "company_name": "InfiniteQuant",
     "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
     "title": "Quantitative Developer Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -87705,7 +87810,7 @@
     "company_name": "CNO Financial Group ",
     "id": "4eea3ea9-aa50-418f-912f-105c7ecd705a",
     "title": "Artificial Intelligence Information Technology Intern - AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -115418,7 +115523,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -387235,30 +387340,6 @@
       "Newcastle upon Tyne, UK"
     ],
     "company_url": "https://simplify.jobs/c/Northumbria-University",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AstraZeneca",
-    "id": "0b07e9e8-5733-4784-a2a7-f08afe76b974",
-    "title": "Level 6 Digital & Technology Solutions Apprentice",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1768219132,
-    "date_posted": 1768219132,
-    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---Macclesfield/Level-6-Digital---Technology-Solutions-Apprentice_R-241422",
-    "locations": [
-      "Buxton, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/AstraZeneca",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
