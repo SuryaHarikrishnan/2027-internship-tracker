@@ -1,4 +1,4 @@
-# Product Management (174)
+# Product Management (173)
 
 [← back to index](../README.md)
 
@@ -61,7 +61,6 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009610) | Product Management Engineer Co-op | Shakopee, MN | Winter 2026 | 2026-09-01 | 8 | simplify-2026 |
 | [Williams-Sonoma](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062) | Merchandising Intern | Brooklyn, NY | Summer 2027 | 2026-09-01 | 8 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Product-and-Strategy---Client-Engagement-Intern-Co-op--Winter-2027-_R_1507384) | Direct Investing Product and Strategy – Client Engagement Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Fall 2026 | 2026-09-01 | 8 | simplify-2026 |
-| [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12058) | Software Engineer Intern - Technical Product Management | NYC | Winter 2026 | 2026-09-01 | 8 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12200) | Technical Product Manager Intern | NYC | Winter 2026 | 2026-09-01 | 8 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12198) | Technical Product Management Intern | NYC | Winter 2026 | 2026-09-01 | 8 | simplify-2026 |
 | [NJM Insurance Group](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) | Insurance Product Management Analyst Intern 3 | Trenton, NJ | Summer 2027 | 2026-09-01 | 8 | simplify-2026 |
