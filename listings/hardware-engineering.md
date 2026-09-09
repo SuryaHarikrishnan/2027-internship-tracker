@@ -1,9 +1,15 @@
-# Hardware Engineering (461)
+# Hardware Engineering (464)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Keysight Technologies](https://jobs.keysight.com/jobs/54259?icims=1) | IC Test Intern | Santa Rosa, CA | Summer 2026 | 2026-09-09 | 0 | simplify-2026 |
+| [Hexagon AB](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
+| [Formlabs](https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578) | Embedded Software Intern - Winter/Spring 2027 | Somerville, MA | Winter 2027, Spring 2027 | 2026-09-09 | 0 | simplify-2026 |
+| [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2) | Hardware Automation and Test Engineering Intern - Spring/Summer 2027 | Rochester, NY | Spring 2027, Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
+| [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-2) | Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications | Rochester, NY | Summer 2027, Fall 2027 | 2026-09-09 | 0 | simplify-2026 |
+| [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) | FPGA Design Engineering Intern | Schaumburg, IL | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1) | Electrical Engineer Co-op | Gloucester, MA | Spring 2027 | 2026-09-09 | 0 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
 | [Moog](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1) | Software Engineer Intern - Military Aircraft | Mineral Wells, TX | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
@@ -414,7 +420,6 @@
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern | San Jose, CA | Fall 2026 | 2026-06-23 | 78 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | 79 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000076869) | Research Engineering Intern - Strategic Systems Operations Division - Applied Research Laboratory | State College, PA, Reston, VA | Fall 2026 | 2026-06-20 | 81 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/274258) | Electrical Engineer Intern - Electronic Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-19 | 82 | simplify-2026 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2) | Analog/Mixed-Signal IC Design Co-Op/Intern | Montreal, QC, Canada | Summer 2026 | 2026-06-13 | 88 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1) | Analog Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-06-13 | 88 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469) | Silicon Photonics Intern - PhD - Fall 2026 Start Date | Ottawa, ON, Canada | Fall 2026 | 2026-06-13 | 88 | simplify-2026 |
@@ -423,9 +428,7 @@
 | [Tesla](https://www.tesla.com/careers/search/job/271981) | Electronic Design Engineer Intern - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 94 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/259950) | Actuator Test Engineer Intern - Optimus | Langley, BC, Canada | Fall 2026 | 2026-06-07 | 94 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272581) | Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 94 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/272601) | Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 94 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272912) | Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 94 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/271544) | Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-06 | 95 | simplify-2026 |
 | [Nightwing Intelligence Solutions](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer 2026 | 2026-06-03 | 98 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7761881003) | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | Summer 2026 | 2026-06-02 | 99 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | Research Intern - Virtual Network | San Jose, CA | Summer 2026 | 2026-06-02 | 99 | simplify-2026 |
