@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1164)
+# Data Science, AI & Machine Learning (1166)
 
 [← back to index](../README.md)
 
@@ -367,7 +367,6 @@
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266) | Data Science Intern - Global Decision Science - Credit & Fraud Risk | NYC | Summer 2027 | 2026-09-01 | 9 | simplify-2026 |
 | [Western & Southern Financial Group](https://careers-westernsouthern.icims.com/jobs/25106/job?mobile=true&needsRedirect=false) | Actuarial Intern - Summer 2027 | Cincinnati, OH | Summer 2027 | 2026-09-01 | 9 | simplify-2026 |
 | [Western & Southern Financial Group](https://careers-westernsouthern.icims.com/jobs/25211/job?mobile=true&needsRedirect=false) | Artificial Intelligence Developer Intern | Cincinnati, OH | Winter 2026 | 2026-09-01 | 9 | simplify-2026 |
-| [ZS](https://jobs.zs.com/jobs/63439?icims=1) | Decision Analytics Associate Intern - University Students | Boston, MA, South SF, Philadelphia, PA, Thousand Oaks, CA, Chicago, IL, Princeton, NJ, NYC, Bellevue, WA, Evanston, IL, San Diego, CA | Winter 2026 | 2026-09-01 | 9 | simplify-2026 |
 | [ZS](https://jobs.zs.com/jobs/63368?icims=1) | Advanced Data Science Associate Intern - University Students | South SF, Chicago, IL, Princeton, NJ, Bellevue, WA | Winter 2026 | 2026-09-01 | 9 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91363?icims=1) | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | Winter 2027, Summer 2027, Fall 2027 | 2026-09-01 | 9 | simplify-2026 |
 | [Hilton Worldwide](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/219176) | Data Management and Analysis Placement - Safety & Security | Watford, UK | N/A | 2026-09-01 | 9 | simplify-2026 |
@@ -468,6 +467,7 @@
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Sales-Data-Analyst-Intern-OR-97124/1421951500/?ats=successfactors) | Sales Data Analyst Intern | Hillsboro, OR | Summer 2026 | 2026-08-31 | 10 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676652813409552645) | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | San Jose, CA | Summer 2027 | 2026-08-31 | 10 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676650607912601861) | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | Seattle, WA | Summer 2027 | 2026-08-31 | 10 | simplify-2026 |
+| [Ohio State University](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Remote-Location/Metadata-Student-Assistant_R157294-2) | Metadata Student Assistant | Ohio | N/A | 2026-08-31 | 10 | simplify-2026 |
 | [NiSource](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378) | Change Management Analytics Intern | Columbus, OH | Summer 2027 | 2026-08-31 | 10 | simplify-2026 |
 | [Intelcom | Dragonfly](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Operations-Analyst-Intern_JR111559) | Operations Analyst Intern | Montreal, QC, Canada | Fall 2026 | 2026-08-31 | 10 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Intelligent-Supply-Chain-Intern--Year-Round-_R49907) | Supply Chain Data Analytics Intern - Year Round | Greenville, WI | Fall 2026 | 2026-08-31 | 10 | simplify-2026 |
@@ -586,6 +586,7 @@
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648) | Data Engineer Intern - Technology, Data, AI, and Operations | Charlotte, NC | Summer 2027 | 2026-08-26 | 15 | simplify-2026 |
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) | Data Engineer Intern - Technology, Data, AI, and Operations | Chicago, IL | Summer 2027 | 2026-08-26 | 15 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) | Software Developer/Data Scientist Intern - Summer 2027 | Sterling, VA, Denver, CO, Sarasota, FL | Summer 2027 | 2026-08-26 | 15 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932) | Customer Data Management and Analysis Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-26 | 15 | simplify-2026 |
 | [Sun Life](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Automation-Specialist--Winter-2027-_JR00127231) | Automation Specialist Student | Waterloo, ON, Canada | N/A | 2026-08-26 | 15 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-2) | Retail Risk Modeling Analyst Intern - 8 Months | Toronto, ON, Canada | Winter 2027 | 2026-08-26 | 15 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661) | Data & AI Intern - Balance Sheet and Liquidity Risk | Toronto, ON, Canada | Winter 2027 | 2026-08-26 | 15 | simplify-2026 |
@@ -680,6 +681,7 @@
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022) | Data Engineer Summer Analyst - Blackstone Technology & Innovations | Miami, FL | Summer 2027 | 2026-08-21 | 20 | simplify-2026 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862) | Data Science Summer Analyst | NYC | Summer 2027 | 2026-08-21 | 20 | simplify-2026 |
 | [Ontario Teachers' Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Finance--Risk-Analytics--January-2027--8-months-_7145) | Finance Intern - Risk Analytics | Toronto, ON, Canada | Winter 2027 | 2026-08-21 | 20 | simplify-2026 |
+| [Ontario Teachers' Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179) | Business Insights and Analytics Intern - Member Services | Toronto, ON, Canada | Winter 2027 | 2026-08-21 | 20 | simplify-2026 |
 | [Ontario Teachers' Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--January-2027---4-months-_7167) | Capital Markets Intern - Quantitative Strategies and Research | Toronto, ON, Canada | Winter 2026 | 2026-08-21 | 20 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7909570003) | Perception Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-20 | 21 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676124919956867333) | Data Analyst and Business Projects Intern | London, UK | Summer 2027 | 2026-08-20 | 21 | simplify-2026 |

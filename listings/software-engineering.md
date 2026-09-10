@@ -1,4 +1,4 @@
-# Software Engineering (1012)
+# Software Engineering (1014)
 
 [← back to index](../README.md)
 
@@ -40,6 +40,7 @@
 | [Publicis Groupe](https://careers.publicisgroupe.com/jobs/172577?icims=1) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-09-09 | 1 | simplify-2026 |
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899) | C++ Developer Intern | London, UK | Summer 2027 | 2026-09-09 | 1 | simplify-2026 |
 | [Gulfstream](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-SWAPP-Collegiate-Intern-GA-31401/1428204100/?ats=successfactors) | Flight Sciences / SWAPP Intern | Savannah, GA | Spring 2027 | 2026-09-09 | 1 | simplify-2026 |
+| [Domino Data Lab](https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534) | Forward Deployed Engineer Intern - Campus Recruiting 2027 | NYC | Spring 2027 | 2026-09-09 | 1 | simplify-2026 |
 | [Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false) | IT Intern | Owatonna, MN | Summer 2027 | 2026-09-09 | 1 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148591127) | Engineering Intern | Plymouth, MI | Winter 2026 | 2026-09-09 | 1 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/20081?icims=1) | Software Engineer Intern - Real Time Aviation Data | Chanhassen, MN | Winter 2026 | 2026-09-09 | 1 | simplify-2026 |
@@ -842,6 +843,7 @@
 | [Xsolla](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | AI Engineer Intern | Montreal, QC, Canada | Fall 2026 | 2026-07-10 | 62 | simplify-2026 |
 | [Clinton Foundation](https://www.clintonfoundation.org/careers/apply/?gh_jid=7800648003) | Communications Intern | Little Rock, AR | Fall 2026 | 2026-07-10 | 62 | simplify-2026 |
 | [Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application) | Software Engineer Intern | Carson, CA | Fall 2026 | 2026-07-09 | 63 | simplify-2026 |
+| [Pylon](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-09 | 63 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003019) | Campus UI Software Engineer Intern | Chicago, IL | Fall 2026 | 2026-07-08 | 64 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8002989) | Campus Software Engineer Intern | Chicago, IL | Summer 2026 | 2026-07-08 | 64 | simplify-2026 |
 | [NAV CANADA](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229) | Radar Systems Engineering Student Co-op | Ottawa, ON, Canada | Fall 2026, Winter 2027 | 2026-07-08 | 64 | simplify-2026 |
