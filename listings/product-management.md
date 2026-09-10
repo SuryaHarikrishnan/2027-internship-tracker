@@ -1,9 +1,11 @@
-# Product Management (178)
+# Product Management (180)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Hudl](https://job-boards.greenhouse.io/hudl/jobs/8155103) | Product Management Intern | Lincoln, NE | Summer 2027 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Lynchburg-Product-Management-Intern-VA-24501-6952/1414571100/?ats=successfactors) | Product Management Intern | Lynchburg, VA | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7683651421602433333) | Product Manager Project Intern - Business Integrity - MBA | San Jose, CA | Summer 2026 | 2026-09-10 | 0 | simplify-2026 |
 | [Charles Schwab](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false) | Product Management Intern - Thinkorswim | Austin, TX | Summer 2027 | 2026-09-10 | 0 | simplify-2026 |
 | [ITT](https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false) | Product Management Co-op - Spring/Summer 2027 | Seneca Falls, NY | Spring 2027, Summer 2027 | 2026-09-09 | 1 | simplify-2026 |
@@ -44,7 +46,6 @@
 | [Shure](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Global Product Management Intern - Conferencing | Niles, IL | Summer 2027 | 2026-09-03 | 7 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Global Product Management Data Intern | Niles, IL | Summer 2027 | 2026-09-03 | 7 | simplify-2026 |
 | [JD.com](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Product-Management-Internship_JR103809) | Product Management Intern | London, UK | Winter 2026 | 2026-09-03 | 7 | simplify-2026 |
-| [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Product Management Intern - Growth & Marketplace | Oakville, ON, Canada | Winter 2027 | 2026-09-02 | 8 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-02 | 8 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Product Management Intern | Oakville, ON, Canada | Winter 2027 | 2026-09-02 | 8 | simplify-2026 |
 | [Atlassian](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | Product Management Intern | SF | Summer 2027 | 2026-09-02 | 8 | simplify-2026 |
@@ -112,6 +113,7 @@
 | [TikTok](https://lifeattiktok.com/search/7675616554318596357) | AI Product Manager Intern - Product Social | San Jose, CA | Summer 2027 | 2026-08-22 | 19 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676283436713593093) | Product Manager Intern - Content and Service Ads | San Jose, CA | Summer 2027 | 2026-08-22 | 19 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | Summer 2027 | 2026-08-21 | 20 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/182389?type=students) | Summer Analyst Intern - Americas - AWM Product Management | NYC | Summer 2027 | 2026-08-19 | 22 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 22 | simplify-2026 |
 | [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | 2026-08-19 | 22 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 23 | simplify-2026 |

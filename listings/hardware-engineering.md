@@ -1,9 +1,22 @@
-# Hardware Engineering (474)
+# Hardware Engineering (487)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-CA-92009/1428454700/?ats=successfactors) | Software Engineer Intern | Carlsbad, CA | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Rochester-Software-Engineer-Intern-NY-14623/1428440700/?ats=successfactors) | Software Engineer Intern | Rochester, NY | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Melbourne-Software-Engineering-Intern-FL-32901/1428454500/?ats=successfactors) | Software Engineering Intern | Melbourne, FL | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Melbourne-IntegrationTest-Engineering-Intern-FL-32901/1428454000/?ats=successfactors) | Integration/Test Engineer Intern | Melbourne, FL | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors) | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1428457700/?ats=successfactors) | Software Engineer Intern | Salt Lake City, UT | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Lynchburg-Software-Engineer-Intern-VA-24501-6952/1428447700/?ats=successfactors) | Software Engineer Intern - Software Engineering | Lynchburg, VA | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/San-Diego-Software-Engineering-Intern-CA-92123/1428452400/?ats=successfactors) | Software Engineer Intern | San Diego, CA | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Bristol-Software-Engineering-Intern-PA-19007/1428452600/?ats=successfactors) | Software Engineer Intern | Bristol, PA | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Lynchburg-Software-Engineer-Intern-VA-24501-6952/1428447300/?ats=successfactors) | Software Engineer Intern | Lynchburg, VA | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Sunrise-Software-Engineer-Intern-FL-33323/1428446900/?ats=successfactors) | Software Engineer Intern | Sunrise, FL | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-NY-14610/1428444000/?ats=successfactors) | Software Engineering Intern | Rochester, NY | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
+| [Garmin](https://careers.garmin.com/jobs/19990?icims=1) | Reliability Engineer Intern - Operations | Olathe, KS | Winter 2026 | 2026-09-10 | 0 | simplify-2026 |
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003) | Electrical Engineer Intern - Space Systems Division | Toronto, ON, Canada | Summer 2027 | 2026-09-10 | 0 | simplify-2026 |
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) | Flight Software Intern | Littleton, CO | Summer 2027 | 2026-09-10 | 0 | simplify-2026 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59764?icims=1) | Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance | Laurel, MD | Summer 2027 | 2026-09-10 | 0 | simplify-2026 |
