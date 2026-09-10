@@ -1,4 +1,4 @@
-# Software Engineering (1023)
+# Software Engineering (1022)
 
 [← back to index](../README.md)
 
@@ -236,7 +236,6 @@
 | [Principal Financial Group](https://careers.principal.com/jobs/52513?icims=1) | Software Engineer Intern - Summer 2027 | Charlotte, NC | Summer 2027 | 2026-09-04 | 6 | simplify-2026 |
 | [Primer](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true) | Software Engineer Intern - Full Stack | SF | Winter 2027, Summer 2027 | 2026-09-04 | 6 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009194) | Product Engineer Intern | Round Rock, TX | Winter 2026 | 2026-09-04 | 6 | simplify-2026 |
-| [Wipfli](https://careers-wipfli.icims.com/jobs/8307/job?mobile=true&needsRedirect=false) | Product Development Intern | Milwaukee, WI | Summer 2027 | 2026-09-04 | 6 | simplify-2026 |
 | [Wipfli](https://careers-wipfli.icims.com/jobs/8305/job?mobile=true&needsRedirect=false) | Product Development Intern | Chicago, IL | Summer 2027 | 2026-09-04 | 6 | simplify-2026 |
 | [Wipfli](https://careers-wipfli.icims.com/jobs/8304/job?mobile=true&needsRedirect=false) | Product Development Intern - Summer 2027 | Minneapolis, MN | Summer 2027 | 2026-09-04 | 6 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027, Spring 2027, Fall 2027 | 2026-09-04 | 6 | simplify-2026 |

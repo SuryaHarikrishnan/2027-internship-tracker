@@ -20440,7 +20440,7 @@
     "company_name": "Wipfli",
     "id": "48a47871-0dd7-4632-893f-fd6c01e8d77c",
     "title": "Product Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -28579,7 +28579,7 @@
     "company_name": "Nokia",
     "id": "4b4991d9-71f6-40f8-9428-6310f4a53655",
     "title": "Embedded C/C++ IP Routing Software Developer Student Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -32893,7 +32893,7 @@
     "company_name": "Acumatica",
     "id": "5a875ca9-f702-430e-95ef-602f35afa359",
     "title": "AI & Automation Intern - Office of the CFO",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -34432,7 +34432,7 @@
     "company_name": "TikTok",
     "id": "78b93d81-ddbc-4b9f-847f-f352c09c5308",
     "title": "Data Analyst and Business Projects Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -37069,7 +37069,7 @@
     "company_name": "Syngenta Group",
     "id": "0b928614-7843-4af3-b8fa-36d9e03eb6d7",
     "title": "Data Entry Intern - Product Safety",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -52368,7 +52368,7 @@
     "company_name": "Booz Allen",
     "id": "19e6fe83-05e1-4408-9728-bcec83cd3daf",
     "title": "Applied AI Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -57971,7 +57971,7 @@
     "company_name": "AMD",
     "id": "a554688a-fa61-4d32-8d02-a22d0e78ac6a",
     "title": "Research Engineering Intern/Co-op - AMD Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -63038,7 +63038,7 @@
     "company_name": "Capacity",
     "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
     "title": "Speech Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -78841,7 +78841,7 @@
     "company_name": "Bank of China USA",
     "id": "fd2f0640-b221-4c71-bf6f-c57f8f5bc712",
     "title": "Enterprise Risk Management Risk Data Aggregation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -81785,7 +81785,7 @@
     "company_name": "L\u00e9ger",
     "id": "48f757b7-e402-4cf2-bbc5-0ab0560d8436",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -84512,7 +84512,7 @@
     "company_name": "Saint Leo University",
     "id": "89c1ce2d-139c-480e-a662-32a660975dc4",
     "title": "Student Worker - Institutional Research",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -144780,7 +144780,7 @@
     "company_name": "Tesla",
     "id": "eb82c528-1521-4b17-a1c4-5f5f979c84d9",
     "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -390362,30 +390362,6 @@
       "Mountain View, CA"
     ],
     "company_url": "https://simplify.jobs/c/LinkedIn",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PTC",
-    "id": "5725737f-d4b8-4d90-8b3e-1ec468b57bdf",
-    "title": "Pricing Data and Analytics Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768321970,
-    "date_posted": 1768321970,
-    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Pricing-Data-and-Analytics-Intern_JR111449",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/PTC",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],

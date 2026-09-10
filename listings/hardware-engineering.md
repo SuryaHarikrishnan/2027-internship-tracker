@@ -1,4 +1,4 @@
-# Hardware Engineering (487)
+# Hardware Engineering (486)
 
 [← back to index](../README.md)
 
@@ -143,7 +143,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/282227) | Embedded Software Engineer Intern - High Voltage Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282241) | Software Integration Engineer Intern - Battery Management Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282248) | Embedded Software Engineer Intern - Steering - Chassis Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 7 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39310) | Embedded C/C++ IP Routing Software Developer Student Intern | Ottawa, ON, Canada | N/A | 2026-09-03 | 7 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) | DSP Firmware Engineer Co-op/Intern | Ottawa, ON, Canada | Winter 2027, Spring 2027 | 2026-09-03 | 7 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91207?icims=1) | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | Summer 2027 | 2026-09-03 | 7 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/90743?icims=1) | Silicon Design Engineer Intern - Masters | Austin, TX | Fall 2027 | 2026-09-03 | 7 | simplify-2026 |
