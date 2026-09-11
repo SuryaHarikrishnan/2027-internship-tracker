@@ -8,21 +8,21 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Tesla** | Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus | Palo Alto, CA | Spring 2027 | 2026-09-11 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/283128) |
-| 2 | **Waymo** | Summer Intern - Multiple Teams | Mountain View, CA | Summer 2027 | 2026-09-11 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8193295) |
-| 3 | **Microsoft** | Postdoctoral Researcher Intern - Foundational AI: Theory and Architectures | Cambridge, UK | N/A | 2026-09-10 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556991730) |
-| 4 | **Coinbase** | Product Manager Intern - HR Technology | NYC | Summer 2027 | 2026-09-09 (2d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8175504) |
-| 5 | **Two Sigma** | Software Engineering Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-08 (3d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14016) |
-| 6 | **Datadog** | Software Engineer Intern - Summer | Boston, MA, NYC | Summer 2027 | 2026-09-08 (3d ago) | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
-| 7 | **Vercel** | Software Engineer Intern - Summer | SF | Summer 2026 | 2026-09-08 (3d ago) | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
-| 8 | **Apple** | GPU Intern - Multiple Teams | London, UK, Cambridge, UK, St Albans, UK | Fall 2026, Winter 2026, Spring 2027, Summer 2027 | 2026-09-08 (3d ago) | [Apply](https://jobs.apple.com/en-us/details/200682357) |
-| 9 | **Boeing** | Data Analytics Intern | Bristol, UK | Summer 2026 | 2026-09-11 (0d ago) | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---12-Month-Placement_JR2026523726) |
-| 10 | **Accenture** | Technology Summer Analyst - Multiple Teams | Boston, MA, Seattle, WA, SF, Austin, TX, Detroit, MI, LA, Morristown, NJ, Dallas, TX, Philadelphia, PA, Chicago, IL, Charlotte, NC, Arlington County, Arlington, VA, St. Louis, MO, NYC, Atlanta, GA, San Diego, CA | Summer 2026 | 2026-09-10 (1d ago) | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981) |
-| 11 | **Intel** | AI Software Engineer Intern - Artificial Intelligence | Hillsboro, OR, Phoenix, AZ | Winter 2026 | 2026-09-10 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
-| 12 | **Zoox** | Digital Engineer Student Worker | Foster City, CA | N/A | 2026-09-10 (1d ago) | [Apply](https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656/apply) |
-| 13 | **TikTok** | Product Manager Project Intern - Business Integrity - MBA | San Jose, CA | Summer 2026 | 2026-09-10 (1d ago) | [Apply](https://lifeattiktok.com/search/7683651421602433333) |
-| 14 | **Scale AI** | Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-04 (7d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
-| 15 | **Amazon** | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027, Spring 2027, Fall 2027 | 2026-09-04 (7d ago) | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
+| 1 | **Tesla** | Content Integration Engineer Intern - Vehicle Firmware | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-11 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/283220) |
+| 2 | **Amazon** | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | Summer 2027, Winter 2027, Fall 2027 | 2026-09-11 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
+| 3 | **Microsoft** | Software Engineer Intern | Redmond, WA | Winter 2026 | 2026-09-11 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556983221) |
+| 4 | **Lyft** | Software Developer Intern - Backend | Montreal, QC, Canada | N/A | 2026-09-11 (0d ago) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) |
+| 5 | **Waymo** | Summer Intern - Multiple Teams | Mountain View, CA | Summer 2027 | 2026-09-11 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8193295) |
+| 6 | **Coinbase** | Product Manager Intern - HR Technology | NYC | Summer 2027 | 2026-09-09 (2d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8175504) |
+| 7 | **Two Sigma** | Software Engineering Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-08 (3d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14016) |
+| 8 | **Datadog** | Software Engineer Intern - Summer | Boston, MA, NYC | Summer 2027 | 2026-09-08 (3d ago) | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
+| 9 | **Vercel** | Software Engineer Intern - Summer | SF | Summer 2026 | 2026-09-08 (3d ago) | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
+| 10 | **Apple** | GPU Intern - Multiple Teams | London, UK, Cambridge, UK, St Albans, UK | Fall 2026, Winter 2026, Spring 2027, Summer 2027 | 2026-09-08 (3d ago) | [Apply](https://jobs.apple.com/en-us/details/200682357) |
+| 11 | **AMD** | Machine Learning System Engineering Intern/Co-op | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027 | 2026-09-11 (0d ago) | [Apply](https://careers.amd.com/jobs/92342?icims=1) |
+| 12 | **Genentech** | Digital Sciences Intern - Product Technical Development | South SF | Spring 2027 | 2026-09-11 (0d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Product-Technical-Development---Digital-Sciences-Focus_202609-123436) |
+| 13 | **Boeing** | Data Analytics Intern | Bristol, UK | Summer 2026 | 2026-09-11 (0d ago) | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---12-Month-Placement_JR2026523726) |
+| 14 | **Accenture** | Technology Summer Analyst - Multiple Teams | Boston, MA, Seattle, WA, SF, Austin, TX, Detroit, MI, LA, Morristown, NJ, Dallas, TX, Philadelphia, PA, Chicago, IL, Charlotte, NC, Arlington County, Arlington, VA, St. Louis, MO, NYC, Atlanta, GA, San Diego, CA | Summer 2026 | 2026-09-10 (1d ago) | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981) |
+| 15 | **Intel** | AI Software Engineer Intern - Artificial Intelligence | Hillsboro, OR, Phoenix, AZ | Winter 2026 | 2026-09-10 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (9d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-11 19:28 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-11 23:09 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
