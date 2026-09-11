@@ -1,4 +1,4 @@
-# Software Engineering (1050)
+# Software Engineering (1049)
 
 [← back to index](../README.md)
 
@@ -48,7 +48,6 @@
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903) | C++ Distributed Systems Developer Intern - C++ Core Services | Jersey City, NJ | Summer 2027 | 2026-09-10 | 1 | simplify-2026 |
 | [Shield AI](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply) | Software Engineer Intern | San Diego, CA | Summer 2027 | 2026-09-10 | 1 | simplify-2026 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298782) | IT Undergraduate Intern | Texas | Summer 2026 | 2026-09-10 | 1 | simplify-2026 |
-| [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217) | Software Engineer Intern - Client Solutions Group Engineering | Austin, TX | Summer 2027 | 2026-09-10 | 1 | simplify-2026 |
 | [Thomson Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587) | Software Engineer Co-op | Rochester, NY | Winter 2026 | 2026-09-10 | 1 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188) | Systems Engineer Intern - Summer Games | Huntsville, AL | Summer 2027 | 2026-09-10 | 1 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) | Summer Internship Program - Systematic Trading Technology Software Engineer | NYC | Summer 2027 | 2026-09-10 | 1 | simplify-2026 |

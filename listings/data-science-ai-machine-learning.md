@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1215)
+# Data Science, AI & Machine Learning (1212)
 
 [← back to index](../README.md)
 
@@ -174,7 +174,6 @@
 | [Medpace](https://careers.medpace.com/jobs/12988?icims=1) | Clinical Informatics Intern | Cincinnati, OH | Summer 2027 | 2026-09-08 | 3 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/12987?icims=1) | Feasibility Informatics Intern/Co-op | Cincinnati, OH | Summer 2027 | 2026-09-08 | 3 | simplify-2026 |
 | [Fervo Energy](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482829) | Data Science & AI Engineering Intern | Houston, TX | Summer 2026 | 2026-09-08 | 3 | simplify-2026 |
-| [RRS Group](https://jobs.smartrecruiters.com/RRSGroup/744000148188340) | Data Engineering Intern | SF | N/A | 2026-09-08 | 3 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) | Data Engineer Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-08 | 3 | simplify-2026 |
 | [Intact](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Analyst-I---4-Month-Internship-Coop--Winter-2027--_R155138) | Data Analyst Intern Co-op - Winter 2027 | Montreal, QC, Canada | Winter 2027 | 2026-09-08 | 3 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) | Global Customer Research Intern | Washington, DC, Warren, MI | Summer 2027 | 2026-09-08 | 3 | simplify-2026 |
@@ -368,7 +367,6 @@
 | [Williams Racing](https://jobs.smartrecruiters.com/WilliamsRacing/744000146954769) | Data Engineer Intern | Grove, Wantage, UK | N/A | 2026-09-02 | 9 | simplify-2026 |
 | [Flagship Pioneering](https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002) | Agentic AI Co-op | Cambridge, MA | Winter 2026 | 2026-09-02 | 9 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008) | DataOps Developer Intern - Months | Atlanta, GA | Winter 2027 | 2026-09-02 | 9 | simplify-2026 |
-| [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008) | Data Analyst Intern | Toronto, ON, Canada, Oakville, ON, Canada | Winter 2027 | 2026-09-02 | 9 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7678985103851407669) | Ecosystem Analyst Intern - TikTok LIVE | LA | Summer 2027 | 2026-09-02 | 9 | simplify-2026 |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181) | Data Product & Analytics Intern | Augusta, GA | Summer 2027 | 2026-09-02 | 9 | simplify-2026 |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153) | Aftermarket Analyst Intern | Cartersville, GA | Summer 2027 | 2026-09-02 | 9 | simplify-2026 |
@@ -592,7 +590,6 @@
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869) | Data Scientist Intern - Summer 2027 | O'Fallon, MO | Summer 2027 | 2026-08-28 | 14 | simplify-2026 |
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Data-and-Analytics-Internship_R0075377) | Data and Analytics Intern | Detroit, MI, Dallas, TX, Charlotte, NC, Columbus, OH | Summer 2027 | 2026-08-28 | 14 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) | AI/ML Engineer Intern | Wilmington, MA | Fall 2026 | 2026-08-28 | 14 | simplify-2026 |
-| [The Walt Disney Company](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266) | Pricing & Product Development Intern - Spring 2027 | Lake Buena Vista, FL | Summer 2027 | 2026-08-28 | 14 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQsIAfwk?nl=1&nl=1&fr=false) | Technology Support Intern - Emerging Talent | Brooklyn, NY | Spring 2027 | 2026-08-27 | 15 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/54562/job?mobile=true&needsRedirect=false) | MES & Industrial Automation Intern | Richardson, TX | Fall 2026 | 2026-08-27 | 15 | simplify-2026 |
 | [RJ Lee Group](https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg/Internship-Artificial-Intelligence-Software-Modernization) | Artificial Intelligence Software Modernization Intern | Pittsburgh, PA | Summer 2026 | 2026-08-27 | 15 | simplify-2026 |

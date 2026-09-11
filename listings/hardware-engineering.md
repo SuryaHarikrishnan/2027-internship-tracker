@@ -1,4 +1,4 @@
-# Hardware Engineering (518)
+# Hardware Engineering (516)
 
 [← back to index](../README.md)
 
@@ -135,7 +135,6 @@
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000147549219) | Systems Engineering Co-op - Multiple Teams | Ottawa, ON, Canada | Winter 2027 | 2026-09-04 | 7 | simplify-2026 |
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000147552960) | Mobile Domain System Engineering Co-op - Months | Calgary, AB, Canada | Winter 2027 | 2026-09-04 | 7 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200681934) | Formal Verification Intern | St Albans, UK | Winter 2026 | 2026-09-04 | 7 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113) | Optical Test Co-op Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-04 | 7 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517) | Physical Design Engineer Intern - BS | Morrisville, NC, Austin, TX, Rochester, MN, Santa Clara, CA, Boise, ID, Burlington, VT, Westborough, MA | Summer 2027 | 2026-09-04 | 7 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505) | Design Verification Intern - BS - Summer 2027 | Morrisville, NC, Austin, TX, Santa Clara, CA, Boise, ID, Westborough, MA | Summer 2027 | 2026-09-04 | 7 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1) | Design Verification Intern - MS | Morrisville, NC, Austin, TX, Santa Clara, CA, Boise, ID, Westborough, MA | Summer 2027 | 2026-09-04 | 7 | simplify-2026 |
@@ -216,7 +215,6 @@
 | [OnLogic](https://apply.workable.com/onlogic-inc/j/10EC1527D8/apply) | Firmware Engineer Co-op | South Burlington, VT, Cary, NC | Winter 2027 | 2026-09-01 | 10 | simplify-2026 |
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | Summer 2026 | 2026-09-01 | 10 | simplify-2026 |
 | [HP IQ](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) | Software Engineer Intern - Connectivity | SF | Summer 2027 | 2026-09-01 | 10 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Wilmington-Intern,-Software-Engineer-MA-01887/1425515000/?ats=successfactors) | Software Engineer Intern - Digital Signal Processing | Wilmington, MA | Winter 2026 | 2026-09-01 | 10 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008) | Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months | Waterloo, ON, Canada | Winter 2027 | 2026-09-01 | 10 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008) | Embedded Developer Intern - Multiple Teams | Oakville, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-01 | 10 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Wilmington-Integration-and-Test-Engineering-Intern-MA-01887/1425339000/?ats=successfactors) | Integration and Test Engineering Intern - Test Engineering Support | Wilmington, MA | Winter 2026 | 2026-09-01 | 10 | simplify-2026 |
