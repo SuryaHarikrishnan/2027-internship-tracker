@@ -5979,7 +5979,7 @@
     "company_name": "Marvell",
     "id": "b993dfd1-18f6-4fe1-97b4-b37792dd18ae",
     "title": "Architecture, DSP & Systems Architecture Ph.D. Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -8128,7 +8128,7 @@
     "company_name": "The Toro Company",
     "id": "e13a168f-e9f4-443e-a4a8-201a41e45246",
     "title": "Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -21142,7 +21142,7 @@
     "company_name": "InfiniteQuant",
     "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
     "title": "Quantitative Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26292,7 +26292,7 @@
     "company_name": "RTX",
     "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
     "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -38873,7 +38873,7 @@
     "company_name": "Stryten",
     "id": "ff18a224-fab9-4b60-93c1-ca580f75a616",
     "title": "System Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -42175,7 +42175,7 @@
     "company_name": "Nio",
     "id": "da434a40-5732-4900-855f-676aa5cd10e7",
     "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -58923,7 +58923,7 @@
     "company_name": "Booz Allen",
     "id": "7cef83de-ff10-493e-abfb-9def6ada06d0",
     "title": "AI Software Developer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -65349,7 +65349,7 @@
     "company_name": "Brunswick",
     "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
     "title": "Product Management Intern - Oils & Lubricants",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -67090,7 +67090,7 @@
     "company_name": "TikTok",
     "id": "4890aa3f-9b23-4f72-8e21-fa891322a004",
     "title": "Product Manager Intern - Pgc",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -67117,7 +67117,7 @@
     "company_name": "TikTok",
     "id": "63b147f7-67e5-40ea-bf27-906ad1de151c",
     "title": "Product Operations Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -78126,7 +78126,7 @@
     "company_name": "NVIDIA",
     "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
     "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -139005,7 +139005,7 @@
     "company_name": "Liberty University",
     "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
     "title": "Business Analyst Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -210345,7 +210345,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -288058,7 +288058,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -395089,144 +395089,6 @@
       "Master's",
       "PhD"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Uline",
-    "id": "27ea59f9-2f7f-4ec8-b315-38329e246e31",
-    "title": "Software Developer Internship - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768479421,
-    "date_posted": 1768479421,
-    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R260582",
-    "locations": [
-      "Kenosha, WI",
-      "Waukegan, IL",
-      "Morton Grove, IL",
-      "Pleasant Prairie, WI",
-      "Milwaukee, WI"
-    ],
-    "company_url": "https://simplify.jobs/c/Uline",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Uline",
-    "id": "f1c7ce8b-5fe5-44e2-be4d-38cae6d52ece",
-    "title": "Business Intelligence Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768479420,
-    "date_posted": 1768479420,
-    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R260590",
-    "locations": [
-      "Kenosha, WI",
-      "Waukegan, IL",
-      "Morton Grove, IL",
-      "Pleasant Prairie, WI",
-      "Milwaukee, WI"
-    ],
-    "company_url": "https://simplify.jobs/c/Uline",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "RSM",
-    "id": "82a6ebc5-3c04-4041-954c-17b538fd592b",
-    "title": "D365 Consulting Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768478965,
-    "date_posted": 1768478965,
-    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/D365-Consulting-Intern---Summer-2026_JR111185",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/RSM",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "British Columbia Investment",
-    "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
-    "title": "Enterprise Solutions Software Engineer Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1768478683,
-    "date_posted": 1768478683,
-    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Summer-and-or-Fall-2026-_JR101373",
-    "locations": [
-      "Victoria, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "British Columbia Investment",
-    "id": "32c987cf-c90d-4b06-978c-2f21a9176323",
-    "title": "Software Engineering \u2013 Co-op/Internship - Miits - Summer & Fall 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "date_updated": 1768478679,
-    "date_posted": 1768478679,
-    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Software-Engineering--MIITS--Co-op-Internship--Summer---Fall-2026-_JR101364",
-    "locations": [
-      "Victoria, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
