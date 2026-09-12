@@ -1,6 +1,56 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Stand Together",
+    "id": "b8af3c73-ae72-4e65-9e91-d90b4215c39d",
+    "title": "Strategic Research Intern - Pacific Legal Foundation",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789212150,
+    "date_posted": 1788993129,
+    "url": "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stand-Together",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "USAA",
+    "id": "8b696511-3eb6-46d7-bd8a-1a07e56a2349",
+    "title": "Product Management Analyst Intern - Property and Casualty",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789208183,
+    "date_posted": 1789084800,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/USAA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Axon",
     "id": "f968b448-0edf-43ed-9f4c-8954bef0183b",
@@ -5929,7 +5979,7 @@
     "company_name": "Marvell",
     "id": "b993dfd1-18f6-4fe1-97b4-b37792dd18ae",
     "title": "Architecture, DSP & Systems Architecture Ph.D. Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -9512,7 +9562,7 @@
     "company_name": "Tradeweb",
     "id": "cfcf9dcd-330d-431b-8720-ccdbd7192fea",
     "title": "Credit Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -9824,7 +9874,7 @@
     "company_name": "Charles Schwab",
     "id": "a6063334-5bb1-4e13-b02e-d2d9b9c069fb",
     "title": "Product Management Intern - Thinkorswim",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10006,7 +10056,7 @@
     "company_name": "Northrop Grumman",
     "id": "ee67af4a-8753-4241-9b42-a9a820130aa6",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -16379,7 +16429,7 @@
     "company_name": "RTX",
     "id": "f99a0505-2be8-4e53-b830-b3183561a0a0",
     "title": "Mechanical Product Line Management Co-op - Spring/Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -26242,7 +26292,7 @@
     "company_name": "RTX",
     "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
     "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -30753,7 +30803,7 @@
     "company_name": "Walmart",
     "id": "9145a4f8-536c-4cf7-9763-5724c53579f1",
     "title": "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Summer 2027"
@@ -30808,7 +30858,7 @@
     "company_name": "Walmart",
     "id": "926d0b7b-a700-40fb-a9c0-6d9f5095bf8d",
     "title": "Software Engineer 2 Intern - Bellevue",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -36886,7 +36936,7 @@
     "company_name": "Hewlett Packard",
     "id": "185284ab-d314-416c-8a28-44c6b1938920",
     "title": "Quality Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -58873,7 +58923,7 @@
     "company_name": "Booz Allen",
     "id": "7cef83de-ff10-493e-abfb-9def6ada06d0",
     "title": "AI Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -63794,7 +63844,7 @@
     "company_name": "Sun Life",
     "id": "b2d3a293-02ed-4860-a76b-6098d2adfcfe",
     "title": "Automation Specialist Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -65299,7 +65349,7 @@
     "company_name": "Brunswick",
     "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
     "title": "Product Management Intern - Oils & Lubricants",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67040,7 +67090,7 @@
     "company_name": "TikTok",
     "id": "4890aa3f-9b23-4f72-8e21-fa891322a004",
     "title": "Product Manager Intern - Pgc",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67067,7 +67117,7 @@
     "company_name": "TikTok",
     "id": "63b147f7-67e5-40ea-bf27-906ad1de151c",
     "title": "Product Operations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -78076,7 +78126,7 @@
     "company_name": "NVIDIA",
     "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
     "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

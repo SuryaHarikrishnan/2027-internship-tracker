@@ -1,4 +1,4 @@
-# Hardware Engineering (530)
+# Hardware Engineering (529)
 
 [← back to index](../README.md)
 
@@ -66,7 +66,6 @@
 | [Garmin](https://careers.garmin.com/jobs/19937?icims=1) | Component Engineering Intern | Olathe, KS | Winter 2026 | 2026-09-10 | 2 | simplify-2026 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX | Summer 2027 | 2026-09-10 | 2 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232) | Engineering Software Intern | Southfield, MI | Winter 2026 | 2026-09-10 | 2 | simplify-2026 |
-| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Architecture--DSP---Systems-Architecture_2604415) | Architecture, DSP & Systems Architecture Ph.D. Intern | Austin, TX, Irvine, CA, Santa Clara, CA, Westlake Village, CA, Burlington, VT, Westborough, MA | Winter 2026 | 2026-09-10 | 2 | simplify-2026 |
 | [Masco](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) | Hardware Engineer Co-op - Electrical Engineering | Indianapolis, IN | Winter 2026 | 2026-09-10 | 2 | simplify-2026 |
 | [Delta Faucet](https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344) | Hardware Engineer Co-op - Electrical Engineering | Indianapolis, IN | Winter 2026 | 2026-09-10 | 2 | simplify-2026 |
 | [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Electrical-Engineering-Intern_R0023607) | Electrical Engineer Intern | Dayton, MN | Winter 2026 | 2026-09-10 | 2 | simplify-2026 |
