@@ -1,9 +1,11 @@
-# Software Engineering (1082)
+# Software Engineering (1084)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Klaviyo](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003) | Software Engineer Co-op | Boston, MA | Spring 2027 | 2026-09-12 | 0 | simplify-2026 |
+| [Klaviyo](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) | Software Engineer Intern - Summer 2027 | Boston, MA | Summer 2027 | 2026-09-12 | 0 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003) | Software Engineer Intern - R&D Program | Seattle, WA | N/A | 2026-09-12 | 0 | simplify-2026 |
 | [Kulicke & Soffa](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648) | Software Engineering Intern | Fort Washington, PA | Winter 2026 | 2026-09-12 | 0 | simplify-2026 |
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/138708?icims=1) | Information Technology Software Development Intern | Baltimore, MD | Summer 2027 | 2026-09-12 | 0 | simplify-2026 |

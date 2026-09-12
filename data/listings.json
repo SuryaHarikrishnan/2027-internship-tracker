@@ -1,6 +1,58 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Klaviyo",
+    "id": "90073809-4e42-4a91-9c65-c5750c320aba",
+    "title": "Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1789234741,
+    "date_posted": 1789234577,
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Klaviyo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Klaviyo",
+    "id": "155087e9-02c4-4e9c-af43-3d7e5a3a6091",
+    "title": "Software Engineer Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789234741,
+    "date_posted": 1789234577,
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Klaviyo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Stand Together",
     "id": "b8af3c73-ae72-4e65-9e91-d90b4215c39d",
@@ -38424,6 +38476,32 @@
     "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008",
     "locations": [
       "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geotab",
+    "id": "2cb65ac8-fbb4-488a-909b-a5fc855c1be6",
+    "title": "Data Scientist Intern",
+    "active": false,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1788413227,
+    "date_posted": 1788401470,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383409008",
+    "locations": [
+      "Atlanta, GA"
     ],
     "company_url": "https://simplify.jobs/c/Geotab",
     "is_visible": true,
@@ -386767,6 +386845,36 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KLA",
+    "id": "4a2843bc-0518-48bc-9327-67f5d5b671a4",
+    "title": "Prolith Applications",
+    "active": false,
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1768956416,
+    "date_posted": 1768956416,
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/PROLITH-Applications-Intern_2633688",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "BMO ",
     "id": "50839d0a-db55-4d91-8300-64c2489ab40f",
@@ -394819,273 +394927,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Geotab",
-    "id": "aa189ec4-6b0e-44d7-a2ad-8ff65ee4da63",
-    "title": "Data Scientist Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768495286,
-    "date_posted": 1768495286,
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5018105008",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Akuna Capital",
-    "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
-    "title": "Software Engineer Intern - Python",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768494701,
-    "date_posted": 1768494701,
-    "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Akuna-Capital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Highmark Health",
-    "id": "2234e237-f1dc-4151-809a-588a88936b89",
-    "title": "ETDP Intern - Software Engineering",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768494592,
-    "date_posted": 1768494592,
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Highmark-Health",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Highmark Health",
-    "id": "1238515d-0da0-4986-a22a-992b578619dd",
-    "title": "ETDP Associate - Software Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1768494575,
-    "date_posted": 1768494575,
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J269570",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Highmark-Health",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Auctane",
-    "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
-    "title": "Data Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768493988,
-    "date_posted": 1768493988,
-    "url": "https://job-boards.greenhouse.io/auctane/jobs/7485078003",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Auctane",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Auctane",
-    "id": "e2d5f00a-30c5-4c4a-b024-1cd95e347db8",
-    "title": "Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768493978,
-    "date_posted": 1768493978,
-    "url": "https://job-boards.greenhouse.io/auctane/jobs/7485087003",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Auctane",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "JP Morgan Chase",
-    "id": "7eeecbf2-9447-4cc8-85ea-99ceec599a97",
-    "title": "2026 Chase Digital Development Programme \u2013 Summer Internship - London",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768493877,
-    "date_posted": 1768493877,
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702292",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "PA Consulting",
-    "id": "d9c8476a-9a20-4b4e-bb43-c6643b4493f6",
-    "title": "Apprentice - Digital - Software Development",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1768493801,
-    "date_posted": 1768493801,
-    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000103726504",
-    "locations": [
-      "Manchester, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/PA-Consulting",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PA Consulting",
-    "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
-    "title": "2026 Apprentice - Digital - Data Science",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1768493797,
-    "date_posted": 1768493797,
-    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000103726585",
-    "locations": [
-      "Belfast, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/PA-Consulting",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "KLA",
-    "id": "f3ea3cc2-d727-4a4d-9032-c70f0c1768e8",
-    "title": "Prolith Applications",
-    "active": false,
-    "terms": [
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027"
-    ],
-    "date_updated": 1768493717,
-    "date_posted": 1768493717,
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/PROLITH-Applications-Intern_2633688-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/KLA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
       "Master's",
       "PhD"
     ],
