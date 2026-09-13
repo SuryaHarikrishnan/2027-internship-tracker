@@ -1,4 +1,4 @@
-# Product Management (190)
+# Product Management (189)
 
 [← back to index](../README.md)
 
@@ -22,7 +22,6 @@
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Associate-Co-Op_REQ-14443) | Product Associate Co-op | Colorado Springs, CO | Spring 2027 | 2026-09-10 | 3 | simplify-2026 |
 | [ITT](https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false) | Product Management Co-op - Spring/Summer 2027 | Seneca Falls, NY | Spring 2027, Summer 2027 | 2026-09-09 | 4 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-09-09 | 4 | simplify-2026 |
-| [Pomerleau](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3620) | AI Product Analyst Intern | Montreal, QC, Canada | Winter 2026 | 2026-09-09 | 4 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361) | Product Strategist Intern - Student Loans | Vienna, VA | Summer 2027 | 2026-09-09 | 4 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309) | Product Strategist Intern | Vienna, VA | Summer 2027 | 2026-09-09 | 4 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8175504) | Product Manager Intern - HR Technology | NYC | Summer 2027 | 2026-09-09 | 4 | simplify-2026 |

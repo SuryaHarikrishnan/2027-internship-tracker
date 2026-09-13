@@ -1,4 +1,4 @@
-# Software Engineering (1088)
+# Software Engineering (1083)
 
 [← back to index](../README.md)
 
@@ -194,7 +194,6 @@
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008) | Software Support Engineer Intern - Netsuite | Jacksonville, FL | Summer 2027 | 2026-09-08 | 5 | simplify-2026 |
 | [Viam](https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004) | Software Engineer Intern | NYC | Summer 2027 | 2026-09-08 | 5 | simplify-2026 |
 | [Syska Hennessy Group](https://job-boards.greenhouse.io/syskahennessy/jobs/8177938) | Software Developer Intern - Innovation | NYC | Summer 2026 | 2026-09-08 | 5 | simplify-2026 |
-| [Retell AI](https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48/application?embed=true) | Forward Deployed Engineer Intern | SF, Redwood City, CA | Winter 2026 | 2026-09-08 | 5 | simplify-2026 |
 | [Semgrep](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true) | Software Engineer Intern - Cloud Platform | SF | Summer 2027 | 2026-09-08 | 5 | simplify-2026 |
 | [Zaber Technologies](https://apply.workable.com/zaber/j/EAB5877DC3/apply) | Software Developer Co-op | Vancouver, BC, Canada | Winter 2027 | 2026-09-08 | 5 | simplify-2026 |
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/14016) | Software Engineering Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-08 | 5 | simplify-2026 |
@@ -732,10 +731,6 @@
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) | Full Stack Software Engineer Intern - Team Pickle | Toronto, ON, Canada | Winter 2027 | 2026-08-17 | 27 | simplify-2026 |
 | [Dedalus Labs](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true) | Design Engineer Intern | SF | Fall 2026 | 2026-08-15 | 29 | simplify-2026 |
 | [Abridge](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) | Software Engineer Intern | SF, NYC | Fall 2026 | 2026-08-15 | 29 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171565?type=students) | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | Summer 2027 | 2026-08-15 | 29 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171564?type=students) | Summer Analyst Intern - Americas - Engineering | NYC | Summer 2027 | 2026-08-15 | 29 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/170644?type=students) | Summer Analyst Intern - Engineering | London, UK | Summer 2027 | 2026-08-15 | 29 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/177808?type=students) | Summer Analyst Intern - Engineering | Seattle, WA | Summer 2027 | 2026-08-15 | 29 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-15 | 29 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | Software Engineer Intern - Summer 2027 | SF, NYC | Summer 2027 | 2026-08-15 | 29 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | 2026-08-15 | 29 | simplify-2026 |
