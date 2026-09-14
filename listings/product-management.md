@@ -1,12 +1,18 @@
-# Product Management (196)
+# Product Management (202)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [OpenGov](https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true) | Product Intern | Boston, MA | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [OpenGov](https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true) | Product Intern | Atlanta, GA | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Tesla](https://www.tesla.com/careers/search/job/283298) | Product Engineer Intern - Applications Engineering | Fremont, CA | Winter 2027, Spring 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Intuit](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) | Product Manager Intern | Mountain View, CA, San Diego, CA | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [Ulta Beauty](https://careers.ulta.com/jobs/423575?icims=1) | Digital Product Management Intern | Bolingbrook, IL | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | Product Manager Intern - Undergraduate | London, UK | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | Product Manager Intern - Undergraduate | Burgess Hill, UK | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811) | Residential Energy Product Strategy Intern | Minneapolis, MN | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1) | Residential Energy Product Strategy Intern | Eau Claire, WI, Minneapolis, MN | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [Lowe's](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845) | Digital Product Management Intern | Charlotte, NC | Summer 2026 | 2026-09-14 | 0 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414) | Product Management Intern | Hagerstown, MD | Winter 2026 | 2026-09-14 | 0 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276) | Product Intern | New Hudson, MI | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
