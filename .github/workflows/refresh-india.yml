@@ -1,0 +1,38 @@
+name: Domestic India roles refresh
+
+on:
+  schedule:
+    - cron: "0 9 */3 * *"  # every 3 days, 9am UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh domestic India listings
+        id: scrape
+        run: |
+          output=$(python scripts/scrape_india.py)
+          echo "$output"
+          echo "summary=$output" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "SuryaHarikrishnan"
+            git config user.email "suryanarayanan.harikrishnan@gmail.com"
+            git add -A
+            git commit -m "Domestic India roles refresh $(date -u +%Y-%m-%d) — ${{ steps.scrape.outputs.summary }}"
+            git push
+          else
+            echo "No changes since last refresh, skipping commit."
+          fi
