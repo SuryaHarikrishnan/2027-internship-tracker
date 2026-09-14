@@ -1,4 +1,4 @@
-# Hardware Engineering (534)
+# Hardware Engineering (533)
 
 [← back to index](../README.md)
 
@@ -228,7 +228,6 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Memory---System-Architecture-Research_JR110475) | Memory and System Architecture Research Intern | San Jose, CA, Folsom, CA | Winter 2026 | 2026-09-03 | 11 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1) | Electronic Warfare FPGA Engineer Intern | Beavercreek, OH | Summer 2027 | 2026-09-03 | 11 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Denver-MMIC-Design-Intern-CO-80014/1425889900/?ats=successfactors) | MMIC Design Intern - Defense & Aerospace Products | Denver, CO | Winter 2026 | 2026-09-02 | 12 | simplify-2026 |
-| [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450195) | Electrical Engineer Intern - Test Systems | Bohemia, NY | Fall 2026 | 2026-09-02 | 12 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Hardware Systems Integration Intern - Winter/Spring 2027 | Somerville, MA | Winter 2027, Spring 2027 | 2026-09-02 | 12 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226) | R&D Print Process Engineering Intern - Winter/Spring 2027 | Somerville, MA | Winter 2027, Spring 2027 | 2026-09-02 | 12 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Cell---Device-Technology_JR110172) | Advanced DRAM Cell & Device Technology Intern | Boise, ID | Winter 2026 | 2026-09-02 | 12 | simplify-2026 |
