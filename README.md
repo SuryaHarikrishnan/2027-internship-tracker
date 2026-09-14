@@ -25,21 +25,18 @@ python scripts/track.py render   # writes APPLICATIONS.md
 
 ## Listings
 
-**3316 active listings** across 6 categories. Last refreshed: 2026-09-10 01:50 UTC.
+**3555 active listings** across 6 categories. Last refreshed: 2026-09-14 11:00 UTC.
 
 Browse by category below, or go straight to **[today's Top 20 picks](TOP20.md)**.
 
 | Category | Active listings |
 |---|---|
-| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 1162 |
-| [Hardware Engineering](listings/hardware-engineering.md) | 472 |
+| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 1257 |
+| [Hardware Engineering](listings/hardware-engineering.md) | 525 |
 | [Other](listings/other.md) | 308 |
-| [Product Management](listings/product-management.md) | 177 |
-| [Quantitative Finance](listings/quantitative-finance.md) | 186 |
-| [Software Engineering](listings/software-engineering.md) | 1011 |
-
----
-**[Domestic India roles](listings/domestic-india.md)** -- a separate, auto-refreshed list of India-based postings pulled directly from a few big tech companies' own career-site APIs, every ~3 days. List only -- not part of the auto-refresh above and not integrated with the application tracker.
+| [Product Management](listings/product-management.md) | 190 |
+| [Quantitative Finance](listings/quantitative-finance.md) | 190 |
+| [Software Engineering](listings/software-engineering.md) | 1085 |
 
 ---
 *Sources and credits: [ATTRIBUTION.md](ATTRIBUTION.md) -- Scripts and usage: [USAGE.md](USAGE.md) -- Add a source: [CONTRIBUTING.md](CONTRIBUTING.md)*
