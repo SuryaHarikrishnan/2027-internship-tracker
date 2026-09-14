@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "LSEG",
+    "id": "574cf650-e6f4-42ae-a309-2bd87b5781da",
+    "title": "Engineering Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789394314,
+    "date_posted": 1789344000,
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/LSEG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "TD Bank",
     "id": "00b431d7-b27a-42f0-9b16-db2bb8402cf7",
@@ -2163,7 +2189,7 @@
     "company_name": "Amgen",
     "id": "811210da-553e-4d37-b262-9897450dc43d",
     "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -27195,7 +27221,7 @@
     "company_name": "RTX",
     "id": "81abb668-54a5-4399-998b-383a36dba872",
     "title": "Aerospace Engineering Intern - APU Programs Support",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -28975,7 +29001,7 @@
     "company_name": "Xcel Energy",
     "id": "d5fbb53e-5766-47f2-b39c-157d7184a35a",
     "title": "Corporate Impact Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -59104,7 +59130,7 @@
     "company_name": "Brunswick",
     "id": "7fd82049-4a30-48f9-ab6c-519e8c2b11fd",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -77992,7 +78018,7 @@
     "company_name": "Microsoft",
     "id": "1b2916de-7e46-4f2e-b790-241b1fd38a82",
     "title": "AI for Science Resident - Machine Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -78599,7 +78625,7 @@
     "company_name": "NVIDIA",
     "id": "832f302a-8bc2-45f2-8ada-37a23bf080a7",
     "title": "Hardware Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -93341,7 +93367,7 @@
     "company_name": "Sun Life",
     "id": "765f9438-c57a-4035-9229-8b41b835beeb",
     "title": "Digital Analytics Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -295012,7 +295038,7 @@
     "company_name": "PennState University",
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "title": "Research and Development Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Fall 2026",
