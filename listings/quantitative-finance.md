@@ -1,9 +1,16 @@
-# Quantitative Finance (192)
+# Quantitative Finance (198)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [ExodusPoint](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) | Quantitative Intern - Credit | Wynnewood, PA | Summer 2026 | 2026-09-14 | 0 | simplify-2026 |
+| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) | Trading and Technology Internship - Witti | NYC | Winter 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792) | Algorithmic Trading Developer Co-op - Global Equities | Toronto, ON, Canada | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742) | Quantitative Trading Analyst Co-op - Global Equities | Toronto, ON, Canada | Winter 2026 | 2026-09-14 | 0 | simplify-2026 |
+| [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3) | Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams | Toronto, ON, Canada | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638) | Multifamily Business Analysis Graduate Intern - Summer 2027 | McLean, VA | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) | Quantitative Analyst Intern - AI | NYC | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [Ameriprise Financial](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Quantitative-Investment-Research-Co-op--Equities-_R26_3532) | Quantitative Investment Research Co-op - Equities | Boston, MA | Winter 2026 | 2026-09-14 | 0 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837) | Data Strategist Intern - Global Data Strategists Team | NYC | N/A | 2026-09-14 | 0 | simplify-2026 |
 | [Energy Transfer Partners](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) | Commodity Trading Analyst Intern | Overland Park, KS | Summer 2027 | 2026-09-12 | 2 | simplify-2026 |
@@ -59,7 +66,6 @@
 | [Schroders](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941) | Public Markets Quants Intern - Quants (Public Markets) | London, UK | Summer 2027 | 2026-08-28 | 17 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-1) | Quantitative Risk Intern - Grm | Toronto, ON, Canada | Winter 2027 | 2026-08-27 | 18 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | Summer 2027 | 2026-08-26 | 19 | simplify-2026 |
-| [Fannie Mae](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) | Treasury & Capital Markets Intern - Quantitative Research Track | Washington, DC | Summer 2027 | 2026-08-26 | 19 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401) | Model Risk Management Intern - 2027 Internship Program | Jersey City, NJ | Summer 2027 | 2026-08-25 | 20 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | Summer 2027 | 2026-08-25 | 20 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) | Quantitative Risk Management Intern | McLean, VA | Summer 2027 | 2026-08-24 | 21 | simplify-2026 |

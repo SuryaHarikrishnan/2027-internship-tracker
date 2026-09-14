@@ -8,21 +8,21 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Waymo** | Software Engineer Intern - BS/MS | SF | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8193731) |
-| 2 | **Scale AI** | Software Engineer Intern - Summer 2027 | London, UK | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) |
-| 3 | **Robinhood** | Software Engineer Intern - Backend | Menlo Park, CA, NYC, Bellevue, WA | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123225) |
-| 4 | **NVIDIA** | Research Intern | Santa Clara, CA | Summer 2027 | 2026-09-13 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
-| 5 | **Tesla** | Content Integration Engineer Intern - Vehicle Firmware | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-11 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/283220) |
-| 6 | **Amazon** | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | Summer 2027, Winter 2027, Fall 2027 | 2026-09-11 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
-| 7 | **Microsoft** | Software Engineer Intern | Redmond, WA | Winter 2026 | 2026-09-11 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556983221) |
-| 8 | **Lyft** | Software Developer Intern - Backend | Montreal, QC, Canada | N/A | 2026-09-11 (3d ago) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) |
-| 9 | **Intel** | System Technology Research Engineer Intern - Foundry System Technology | Austin, TX, Hillsboro, OR | N/A | 2026-09-14 (0d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer_JR0286792) |
-| 10 | **Coinbase** | Product Manager Intern - HR Technology | NYC | Summer 2027 | 2026-09-09 (5d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8175504) |
-| 11 | **Two Sigma** | Software Engineering Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-08 (6d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14016) |
-| 12 | **Datadog** | Software Engineer Intern - Summer | Boston, MA, NYC | Summer 2027 | 2026-09-08 (6d ago) | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
-| 13 | **Vercel** | Software Engineer Intern - Summer | SF | Summer 2026 | 2026-09-08 (6d ago) | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
-| 14 | **Apple** | GPU Intern - Multiple Teams | London, UK, Cambridge, UK, St Albans, UK | Fall 2026, Winter 2026, Spring 2027, Summer 2027 | 2026-09-08 (6d ago) | [Apply](https://jobs.apple.com/en-us/details/200682357) |
-| 15 | **Qualcomm** | Machine Learning Compiler & Performance Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 | 2026-09-11 (3d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018) |
+| 1 | **Google** | Data Scientist Intern - Product | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) |
+| 2 | **Waymo** | Human Behavior Analytics Intern - Safety Research | Mountain View, CA | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
+| 3 | **Figma** | Software Engineer Intern - Multiple Teams | London, UK | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
+| 4 | **Hudson River Trading** | Trading and Technology Internship - Witti | NYC | Winter 2027 | 2026-09-14 (0d ago) | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) |
+| 5 | **Scale AI** | Software Engineer Intern - Summer 2027 | London, UK | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) |
+| 6 | **Robinhood** | Software Engineer Intern - Backend | Menlo Park, CA, NYC, Bellevue, WA | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123225) |
+| 7 | **NVIDIA** | Research Intern | Santa Clara, CA | Summer 2027 | 2026-09-13 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
+| 8 | **Tesla** | Content Integration Engineer Intern - Vehicle Firmware | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-11 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/283220) |
+| 9 | **Amazon** | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | Summer 2027, Winter 2027, Fall 2027 | 2026-09-11 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
+| 10 | **Microsoft** | Software Engineer Intern | Redmond, WA | Winter 2026 | 2026-09-11 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556983221) |
+| 11 | **Lyft** | Software Developer Intern - Backend | Montreal, QC, Canada | N/A | 2026-09-11 (3d ago) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) |
+| 12 | **Northrop Grumman** | Software Engineer Intern - Aeronautics Systems | Redondo Beach, CA, Palmdale, CA, San Diego, CA, El Segundo, CA | Summer 2027 | 2026-09-14 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669) |
+| 13 | **Intel** | System Technology Research Engineer Intern - Foundry System Technology | Austin, TX, Hillsboro, OR | N/A | 2026-09-14 (0d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer_JR0286792) |
+| 14 | **Coinbase** | Product Manager Intern - HR Technology | NYC | Summer 2027 | 2026-09-09 (5d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8175504) |
+| 15 | **Two Sigma** | Software Engineering Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-08 (6d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14016) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (12d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-14 18:16 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-14 20:45 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

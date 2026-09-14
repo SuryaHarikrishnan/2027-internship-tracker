@@ -7,6 +7,7 @@
 | [Ulta Beauty](https://careers.ulta.com/jobs/423575?icims=1) | Digital Product Management Intern | Bolingbrook, IL | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | Product Manager Intern - Undergraduate | London, UK | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | Product Manager Intern - Undergraduate | Burgess Hill, UK | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
+| [Lowe's](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845) | Digital Product Management Intern | Charlotte, NC | Summer 2026 | 2026-09-14 | 0 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414) | Product Management Intern | Hagerstown, MD | Winter 2026 | 2026-09-14 | 0 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276) | Product Intern | New Hudson, MI | Summer 2027 | 2026-09-14 | 0 | simplify-2026 |
 | [Cozey](https://ats.rippling.com/cozey-internships/jobs/2b4bb455-c5c3-41ee-9bc8-b9fd889d35ea) | Product Management Intern | Mount Royal, QC, Canada | N/A | 2026-09-11 | 3 | simplify-2026 |
@@ -142,7 +143,6 @@
 | [TikTok](https://lifeattiktok.com/search/7673337777708550405) | Product Manager Intern - Content and Services | San Jose, CA | Summer 2027 | 2026-08-14 | 31 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673559305519794437) | Product Manager Intern - Scaled Growth | San Jose, CA | Summer 2027 | 2026-08-14 | 31 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673547028387793205) | Product Solutions and Operations Project Intern - Scaled Growth | San Jose, CA | Summer 2026 | 2026-08-14 | 31 | simplify-2026 |
-| [Tuckernuck](https://tnuck.bamboohr.com/careers/273/) | Product Management Intern | Washington, DC | Fall 2026 | 2026-08-13 | 32 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669705525866383621) | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Summer 2027 | 2026-08-13 | 32 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | IT Systems Product Management Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-12 | 33 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Product Management Intern - MBA - Power Solutions & Distribution | Delaware, OH | Summer 2027 | 2026-08-12 | 33 | simplify-2026 |
