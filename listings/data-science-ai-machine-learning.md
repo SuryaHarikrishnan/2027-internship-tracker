@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1335)
+# Data Science, AI & Machine Learning (1333)
 
 [← back to index](../README.md)
 
@@ -44,7 +44,6 @@
 | [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/138735?icims=1) | PMO/Data Analyst Intern | Chicago, IL | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Highgate](https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false) | Revenue Management Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
-| [Reply](https://jobs.lever.co/reply/74422215-dd06-404a-a35c-3c9bd80e1f0b/apply) | AI/Machine Learning Intern | Detroit, MI | Winter 2026 | 2026-09-14 | 1 | simplify-2026 |
 | [Ulta Beauty](https://careers.ulta.com/jobs/527097?icims=1) | Supply Chain Data & Analytics Intern | Bolingbrook, IL | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Principal Financial Group](https://careers.principal.com/jobs/52574?icims=1) | Data and Analytics Intern - Multiple Teams | Des Moines, IA, Remote in USA, Raleigh, NC, Charlotte, NC | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Principal Financial Group](https://careers.principal.com/jobs/52561?icims=1) | Data Engineer Intern | Des Moines, IA | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
@@ -734,7 +733,6 @@
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901) | Data Engineer Intern | O'Fallon, MO | Summer 2027 | 2026-08-28 | 18 | simplify-2026 |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869) | Data Scientist Intern - Summer 2027 | O'Fallon, MO | Summer 2027 | 2026-08-28 | 18 | simplify-2026 |
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Data-and-Analytics-Internship_R0075377) | Data and Analytics Intern | Detroit, MI, Dallas, TX, Charlotte, NC, Columbus, OH | Summer 2027 | 2026-08-28 | 18 | simplify-2026 |
-| [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) | AI/ML Engineer Intern | Wilmington, MA | Fall 2026 | 2026-08-28 | 18 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQsIAfwk?nl=1&nl=1&fr=false) | Technology Support Intern - Emerging Talent | Brooklyn, NY | Spring 2027 | 2026-08-27 | 19 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/54562/job?mobile=true&needsRedirect=false) | MES & Industrial Automation Intern | Richardson, TX | Fall 2026 | 2026-08-27 | 19 | simplify-2026 |
 | [RJ Lee Group](https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg/Internship-Artificial-Intelligence-Software-Modernization) | Artificial Intelligence Software Modernization Intern | Pittsburgh, PA | Summer 2026 | 2026-08-27 | 19 | simplify-2026 |
