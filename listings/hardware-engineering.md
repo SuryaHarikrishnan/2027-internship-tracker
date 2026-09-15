@@ -1,12 +1,19 @@
-# Hardware Engineering (558)
+# Hardware Engineering (564)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) | Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | Winter 2027 | 2026-09-15 | 0 | simplify-2026 |
+| [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299088) | Undergraduate Engineering Intern | Round Rock, TX, Hopkinton, MA | Spring 2028 | 2026-09-15 | 0 | simplify-2026 |
+| [Apple](https://jobs.apple.com/en-us/details/200683293) | PMU Design Verification Intern | Swindon, UK | Winter 2026 | 2026-09-15 | 0 | simplify-2026 |
 | [Etched](https://jobs.ashbyhq.com/Etched/7d400861-c124-475f-8cef-73b9fd5199cf/application?embed=true) | Lab Operations Intern | San Jose, CA | Summer 2026 | 2026-09-15 | 0 | simplify-2026 |
 | [Rigetti](https://jobs.lever.co/rigetti/efe28dd4-f331-4738-b282-23106928c3a3/apply) | Research Intern | Berkeley, CA | Winter 2026 | 2026-09-15 | 0 | simplify-2026 |
 | [IonQ](https://job-boards.greenhouse.io/ionq/jobs/6188828004) | Research and Development Characterization Intern | Boston, MA | Winter 2026 | 2026-09-15 | 0 | simplify-2026 |
+| [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) | Design Engineer Intern - HBM | Richardson, TX | Winter 2026 | 2026-09-15 | 0 | simplify-2026 |
+| [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128) | Design Evaluation Engineer Intern | Wilmington, MA, Durham, NC, San Diego, CA | Winter 2026 | 2026-09-15 | 0 | simplify-2026 |
+| [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dexter-Michigan-USA/Electrical-Engineering-Intern_R0023525) | Electrical Engineering Intern | Dexter, MI | Winter 2026 | 2026-09-15 | 0 | simplify-2026 |
+| [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493) | Software Engineer Intern | SF | Winter 2026 | 2026-09-15 | 0 | simplify-2026 |
 | [Engenious Design](http://engeniousdesign.applytojob.com/apply/loqVRerwDa/Internship-2027-Electrical-Engineering) | Electrical Engineering Intern | Prairie Village, KS | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556995572) | Electrical Engineer Intern | Redmond, WA | Winter 2026 | 2026-09-14 | 1 | simplify-2026 |
 | [Samsung Research America](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8806469002) | SoC Modeling Intern - SOC Modeling | Mountain View, CA | Fall 2026 | 2026-09-14 | 1 | simplify-2026 |
@@ -395,7 +402,6 @@
 | [Garmin](https://careers.garmin.com/jobs/19693?icims=1) | Software Engineer Intern | Olathe, KS | Summer 2027 | 2026-08-24 | 22 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200679650) | GPU Intern | London, UK, Cambridge, UK, St Albans, UK | Winter 2026, Spring 2027, Summer 2027 | 2026-08-24 | 22 | simplify-2026 |
 | [RoboForce](https://job-boards.greenhouse.io/roboforce/jobs/5181214008) | Robotics Electrical Engineering Intern | Milpitas, CA | Fall 2026 | 2026-08-24 | 22 | simplify-2026 |
-| [Nomagic](https://jobs.lever.co/Nomagic/c7a6445d-3fd8-4bf1-90c0-ec01c2bef2af/apply) | Engineering Intern - Software or Hardware | Alpharetta, GA | Fall 2026 | 2026-08-24 | 22 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302) | Product Engineer Intern - Product Development | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-24 | 22 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | Digital Design Engineer Intern | San Jose, CA, Durham, NC | Fall 2026 | 2026-08-24 | 22 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305) | Systems Integration Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-22 | 24 | simplify-2026 |
