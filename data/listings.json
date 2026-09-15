@@ -1,6 +1,110 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Baird",
+    "id": "8bab5dd2-9265-4515-b6ba-b4ca2af51a80",
+    "title": "IT AI & Automation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789474526,
+    "date_posted": 1788825600,
+    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Baird",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tencent",
+    "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1789472226,
+    "date_posted": 1789344000,
+    "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Autostore",
+    "id": "d81bc1c9-aee7-4814-8ab8-598008962e65",
+    "title": "Electronics Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1789469874,
+    "date_posted": 1789257600,
+    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Autostore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Etched",
+    "id": "ca280838-311b-45d8-bc16-74d93c8462f8",
+    "title": "Core Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1789466775,
+    "date_posted": 1789466728,
+    "url": "https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8/application?embed=true",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Etched",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Tesla",
     "id": "044235a0-420e-4de8-b8f8-d03207616f48",
@@ -1161,7 +1265,7 @@
     "company_name": "Waymo",
     "id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
     "title": "Software Engineering Intern - Commercialization",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -1933,7 +2037,7 @@
     "company_name": "Oshkosh",
     "id": "66842e6a-844a-444e-b6f7-7c6403506740",
     "title": "Advanced Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3896,7 +4000,7 @@
     "company_name": "Marvell",
     "id": "f71cdae9-a282-43a7-a49d-7feca7c1b638",
     "title": "Architecture Intern - MS",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4215,7 +4319,7 @@
     "company_name": "Tive",
     "id": "9d613826-b169-4950-9be3-779d329aab98",
     "title": "Software Engineer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -4950,7 +5054,7 @@
     "company_name": "Enact Mortgage Insurance",
     "id": "c27aa2e9-dd87-4f06-91ee-4134e27b2e2d",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -8128,7 +8232,7 @@
     "company_name": "Cozey",
     "id": "9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
     "title": "Data Science Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -8896,7 +9000,7 @@
     "company_name": "Amgen",
     "id": "27460c05-e022-499c-bcc8-2783559d2639",
     "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -9741,7 +9845,7 @@
     "company_name": "Moog",
     "id": "47ede39b-99d8-4812-a001-6148ff88ca5d",
     "title": "Embedded Design Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -13004,7 +13108,7 @@
     "company_name": "John Deere",
     "id": "4d93e11e-4f7e-4fb2-a3e9-b58835c13dcd",
     "title": "Product Engineering Student - Product Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -25240,7 +25344,7 @@
     "company_name": "Vercel",
     "id": "940140be-314d-40e2-8614-14d3a19bb049",
     "title": "Software Engineer Intern - Summer",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -30270,7 +30374,7 @@
     "company_name": "Replit",
     "id": "211d1319-7021-4fda-abc6-6b2d24ffb794",
     "title": "Cohort 0",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -38495,7 +38599,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -38779,7 +38883,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -38909,7 +39013,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -44672,7 +44776,7 @@
     "company_name": "Amgen",
     "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
     "title": "Business Analyst Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -64409,7 +64513,7 @@
     "company_name": "Intelcom | Dragonfly",
     "id": "7457d468-4ac9-4c0d-996a-a9bf28362a0f",
     "title": "Front-end Developer Intern - Mobile Application",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -81239,7 +81343,7 @@
     "company_name": "Ontario Teachers' Pension Plan",
     "id": "705aa0dc-9caf-4a10-8196-9c201a884e84",
     "title": "Finance Intern - Risk Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -143480,7 +143584,7 @@
     "company_name": "Cloudflare",
     "id": "a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
     "title": "Systems Engineer \u2013 Data Residency Intern - Global Resource Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -217876,7 +217980,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -301909,7 +302013,7 @@
     "company_name": "PennState University",
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "title": "Research and Development Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026",
       "Fall 2026",

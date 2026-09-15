@@ -1,4 +1,4 @@
-# Product Management (203)
+# Product Management (202)
 
 [← back to index](../README.md)
 
@@ -26,7 +26,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/283137) | Vehicle Accessories & Merchandise Product Intern - Global Merchandise | Hawthorne, CA | Winter 2027, Spring 2027 | 2026-09-11 | 4 | simplify-2026 |
 | [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354) | Commercial Insurance Product Owner Co-op Intern | Waterloo, ON, Canada | Winter 2027 | 2026-09-11 | 4 | simplify-2026 |
 | [USAA](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949) | Product Management Analyst Intern - Property and Casualty | San Antonio, TX | Summer 2027 | 2026-09-11 | 4 | simplify-2026 |
-| [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) | Digital Product Intern - Digital Product - Technology & Medical Organizations | Remote in USA | Summer 2027 | 2026-09-11 | 4 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) | Digital Product Intern | Remote in USA | Summer 2027 | 2026-09-11 | 4 | simplify-2026 |
 | [Momentive](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) | Product Management Intern - Specialty Additives | Friendly, WV | Summer 2027 | 2026-09-11 | 4 | simplify-2026 |
 | [ISN Software](https://isnetworld.com/en/about/careers/jobs?gh_jid=6188490004) | Product Strategy Intern | Dallas, TX | Summer 2027 | 2026-09-10 | 5 | simplify-2026 |

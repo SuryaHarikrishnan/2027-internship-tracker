@@ -10,9 +10,9 @@ Ranked by freshness + company tier + role category.
 |---|---|---|---|---|---|---|
 | 1 | **Tesla** | Solar Hardware Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-15 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/283423) |
 | 2 | **DoorDash** | Software Engineer Intern - Summer 2027 | Seattle, WA, SF, LA, NYC, Sunnyvale, CA | Summer 2027 | 2026-09-15 (0d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| 3 | **Microsoft** | Electrical Engineer Intern | Redmond, WA | Winter 2026 | 2026-09-14 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556995572) |
-| 4 | **Google** | Data Scientist Intern - Product | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-09-14 (1d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) |
-| 5 | **Waymo** | Human Behavior Analytics Intern - Safety Research | Mountain View, CA | Summer 2027 | 2026-09-14 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
+| 3 | **Waymo** | Software Engineering Intern - Commercialization | SF, Mountain View, CA | Summer 2027 | 2026-09-14 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8198218) |
+| 4 | **Microsoft** | Electrical Engineer Intern | Redmond, WA | Winter 2026 | 2026-09-14 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556995572) |
+| 5 | **Google** | Data Scientist Intern - Product | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-09-14 (1d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) |
 | 6 | **Figma** | Software Engineer Intern - Multiple Teams | London, UK | Summer 2027 | 2026-09-14 (1d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
 | 7 | **Hudson River Trading** | Trading and Technology Internship - Witti | NYC | Winter 2027 | 2026-09-14 (1d ago) | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) |
 | 8 | **Scale AI** | Software Engineer Intern - Summer 2027 | London, UK | Summer 2027 | 2026-09-14 (1d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (13d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-15 10:30 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-15 13:54 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

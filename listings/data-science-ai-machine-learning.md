@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1319)
+# Data Science, AI & Machine Learning (1320)
 
 [← back to index](../README.md)
 
@@ -39,6 +39,7 @@
 | [State Farm](https://jobs.statefarm.com/jobs/45986?icims=1) | Technology Product Analyst Intern - Innovation Group | Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [URBN](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) | Data Science Intern | Philadelphia, PA | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [ABEC](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500632) | Project Engineer Intern | Bethlehem, PA | Winter 2026 | 2026-09-14 | 1 | simplify-2026 |
+| [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140) | Machine Learning Intern | Palo Alto, CA | Winter 2026 | 2026-09-14 | 1 | simplify-2026 |
 | [3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) | Business Analyst Intern - Consumer Business Group | Maplewood, MN | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1) | Robotics Controls & Autonomy Intern - Robotics R&D | Santa Clara, CA | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Repsol](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Energy-Assesment-Intern_84105) | Energy Assessment Intern | Houston, TX | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
@@ -53,7 +54,6 @@
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) | AI and Analytics Intern | Minneapolis, MN, Denver, CO | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1) | Energy Programs Strategy & Analytics Intern | Minneapolis, MN, Denver, CO | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Customer-Insight-Intern---MN--CO_JR115814-1) | Customer Insight Intern | Minneapolis, MN, Denver, CO | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
-| [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) | Advanced Analytics Intern | Frederick, MD | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [AtkinsRéalis](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) | Data Scientist Intern - Summer 2027 | Tempe, AZ | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Sun Life](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Medical-Intelligence-Co-op---Spring-2027_JR00127676) | Medical Intelligence Co-op | Wellesley, MA | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Internship_R-57187) | Category Technology Intern - MMSC | Wyoming, MI | Summer 2027 | 2026-09-14 | 1 | simplify-2026 |
@@ -96,6 +96,7 @@
 | [MegazoneCloud](https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa/application?embed=true) | Data Engineer Co-op | Rochester, NY | Winter 2026 | 2026-09-11 | 4 | simplify-2026 |
 | [Businessolver](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738) | Business Intelligence Intern - Innovation & Data Science | United States | Winter 2026 | 2026-09-11 | 4 | simplify-2026 |
 | [Cone Health](https://careers.conehealth.com/us/en/job/JR155166) | Healthcare Innovation Intern - AI | Greensboro, NC | Winter 2027 | 2026-09-11 | 4 | simplify-2026 |
+| [Cozey](https://ats.rippling.com/cozey-internships/jobs/d19a9f0b-e828-436b-890f-a6f2216c6888) | Data Science Intern | Mount Royal, QC, Canada | N/A | 2026-09-11 | 4 | simplify-2026 |
 | [Perpay](https://job-boards.greenhouse.io/perpay/jobs/4076978007) | Data Science Intern | Philadelphia, PA | Summer 2027 | 2026-09-11 | 4 | simplify-2026 |
 | [Perpay](https://job-boards.greenhouse.io/perpay/jobs/4076965007) | Data Engineering Intern | Philadelphia, PA | Summer 2027 | 2026-09-11 | 4 | simplify-2026 |
 | [Veeam Software](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101) | Data Analytics & Programs Intern | Georgia | Summer 2027 | 2026-09-11 | 4 | simplify-2026 |
@@ -512,7 +513,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/281940) | Machine Learning Engineer Intern - Charging Data Modeling | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-02 | 13 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Assessment-Graduate-Student-Associate_R_00048574) | Assessment Graduate Student Associate | Austin, TX | N/A | 2026-09-02 | 13 | simplify-2026 |
 | [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417) | Business Intelligence Developer Intern - Summer 2027 | Lansing, MI | Summer 2027 | 2026-09-02 | 13 | simplify-2026 |
-| [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807) | Business Analyst Co-op | Burnaby, BC, Canada | Winter 2027 | 2026-09-02 | 13 | simplify-2026 |
 | [Vermeer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164) | Data Analytics Intern | Pella, IA | Summer 2027 | 2026-09-02 | 13 | simplify-2026 |
 | [First National Bank](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) | Enterprise Data Governance Intern - Data Quality and Governance | Pittsburgh, PA | Summer 2027 | 2026-09-02 | 13 | simplify-2026 |
 | [HD Supply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) | Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science | Atlanta, GA | Summer 2027 | 2026-09-02 | 13 | simplify-2026 |
@@ -860,6 +860,7 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) | Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada | Winter 2027 | 2026-08-21 | 25 | simplify-2026 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022) | Data Engineer Summer Analyst - Blackstone Technology & Innovations | Miami, FL | Summer 2027 | 2026-08-21 | 25 | simplify-2026 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862) | Data Science Summer Analyst | NYC | Summer 2027 | 2026-08-21 | 25 | simplify-2026 |
+| [Ontario Teachers' Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Finance--Risk-Analytics--January-2027--8-months-_7145) | Finance Intern - Risk Analytics | Toronto, ON, Canada | Winter 2027 | 2026-08-21 | 25 | simplify-2026 |
 | [Ontario Teachers' Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179) | Business Insights and Analytics Intern - Member Services | Toronto, ON, Canada | Winter 2027 | 2026-08-21 | 25 | simplify-2026 |
 | [Ontario Teachers' Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--January-2027---4-months-_7167) | Capital Markets Intern - Quantitative Strategies and Research | Toronto, ON, Canada | Winter 2026 | 2026-08-21 | 25 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7909570003) | Perception Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-20 | 26 | simplify-2026 |
