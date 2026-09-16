@@ -1444,7 +1444,7 @@
     "company_name": "APEX Analytix",
     "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
     "title": "Automation Developer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -1871,7 +1871,7 @@
     "company_name": "Trane Technologies",
     "id": "781b4a1a-f2af-40b2-866b-03dcefc5245b",
     "title": "Software Development Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -4738,7 +4738,7 @@
     "company_name": "Verizon Communications",
     "id": "51022cd5-814f-411e-991c-86b9d9441d02",
     "title": "Marketing Technology Intern - Consumer Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5309,7 +5309,7 @@
     "company_name": "BlackRock",
     "id": "5ffffd18-94d5-468e-b6dd-6a45307801fe",
     "title": "Quantitative Master's Intern - Investments - Global Capital Markets",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -6156,7 +6156,7 @@
     "company_name": "Engenious Design",
     "id": "d5070939-efc6-4e4e-9d94-605bd818eb45",
     "title": "Electrical Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -8837,7 +8837,7 @@
     "company_name": "Marvell",
     "id": "f71cdae9-a282-43a7-a49d-7feca7c1b638",
     "title": "Architecture Intern - MS",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -10707,7 +10707,7 @@
     "company_name": "Principal Financial Group",
     "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -19518,7 +19518,7 @@
     "company_name": "Walmart",
     "id": "5f786704-9f4e-4137-8947-80614fba3b53",
     "title": "Data Science Intern 3",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -22688,7 +22688,7 @@
     "company_name": "Nova-Tech",
     "id": "844f8a1f-7749-49a6-8afe-6eaed5ef5d3b",
     "title": "Software Development Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -31859,7 +31859,7 @@
     "company_name": "Loblaw Companies",
     "id": "703287b2-4c66-439b-af82-01074bd3526e",
     "title": "Revenue Management Co-op Student",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -36899,7 +36899,7 @@
     "company_name": "Ingredion",
     "id": "59eeafd7-d976-4ac4-a145-c4d9d431a5c1",
     "title": "AI Solutions & Value MBA Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -43436,7 +43436,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43667,7 +43667,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43720,7 +43720,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43850,7 +43850,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -49508,7 +49508,7 @@
     "company_name": "Magna",
     "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
     "title": "Software Engineer Intern - Engineering Software",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -54936,7 +54936,7 @@
     "company_name": "WindBorne Systems",
     "id": "88ed3204-4d00-47e3-b41c-c62019949562",
     "title": "Embedded Electrical Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -58183,7 +58183,7 @@
     "company_name": "United Airlines",
     "id": "b2910d1a-df08-4c5a-9ad6-88cf9a60ff6f",
     "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -60397,7 +60397,7 @@
     "company_name": "United Airlines",
     "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
     "title": "Research Scholar Intern - Statistics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -62479,7 +62479,7 @@
     "company_name": "The Federal Reserve System",
     "id": "5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00",
     "title": "Statistics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -72152,7 +72152,7 @@
     "company_name": "Deloitte",
     "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
     "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -74129,7 +74129,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -92660,7 +92660,7 @@
     "company_name": "Tencent",
     "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
     "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -96297,7 +96297,7 @@
     "company_name": "Levi Strauss & Co.",
     "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
     "title": "Analytics Intern - eCommerce",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -96766,7 +96766,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -97106,7 +97106,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -113791,7 +113791,7 @@
     "company_name": "Tesla",
     "id": "dc98760f-d794-4d68-be4d-5639d2bcf3f3",
     "title": "Cell Engineering Intern - Cell Qualification",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -123412,7 +123412,7 @@
     "company_name": "Magna",
     "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
     "title": "IoT Systems Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -214728,7 +214728,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -222817,7 +222817,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -300530,7 +300530,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -402682,109 +402682,6 @@
     "degrees": [
       "Master's",
       "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The Walt Disney Company",
-    "id": "2136d7bd-4bc9-426d-b9a8-295e7f37dd46",
-    "title": "Disneyland Costuming Project Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768823873,
-    "date_posted": 1768823873,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Costuming-Project-Analyst-Intern--Summer-Fall-2026_10139692-1",
-    "locations": [
-      "Anaheim, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Acushnet Holdings",
-    "id": "0d5dfa1c-5a65-437e-9158-3f9b814a3047",
-    "title": "Summer 2026 Software Developer Intern - Vokey",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768823823,
-    "date_posted": 1768823823,
-    "url": "https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Carlsbad-California-United-States-of-America/Summer-2026-Software-Developer-Intern---Vokey_Req100831",
-    "locations": [
-      "Carlsbad, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Acushnet-Holdings",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Ocean Optics",
-    "id": "64546e1b-efb3-47dd-ab14-47d3044ccfa4",
-    "title": "Student Software Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1768823542,
-    "date_posted": 1768823542,
-    "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Havant/Student-Software-Engineer_JR26_000009",
-    "locations": [
-      "Portsmouth, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Ocean-Optics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "APL Logistics",
-    "id": "e22d9ce3-2852-4d63-b684-ea004964fb2c",
-    "title": "Intern - Technology Solutions and Digital Products",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768818708,
-    "date_posted": 1768818708,
-    "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3753",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/APL-Logistics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"
