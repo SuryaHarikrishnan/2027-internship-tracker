@@ -8,16 +8,16 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Citadel** | Quantitative Researcher Post-Doctoral Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-09-16 (0d ago) | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) |
-| 2 | **Amazon** | Junior Software Engineer Intern - Jr. Developer Program | San Luis Obispo, CA | N/A | 2026-09-16 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10544071/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program) |
-| 3 | **NVIDIA** | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Summer 2027 | 2026-09-15 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) |
-| 4 | **Citadel Securities** | Quantitative Researcher Intern - US | Miami, FL, NYC | Summer 2026 | 2026-09-15 (1d ago) | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) |
-| 5 | **Datadog** | Research Science Intern - PhD | Pittsburgh, PA, NYC | Winter 2026 | 2026-09-15 (1d ago) | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
-| 6 | **Anduril** | Flight Software Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-09-15 (1d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007) |
-| 7 | **Apple** | Design for Test Engineer | Austin, TX | N/A | 2026-09-15 (1d ago) | [Apply](https://jobs.apple.com/en-us/details/200683646) |
-| 8 | **Tesla** | Solar Hardware Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-15 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/283423) |
-| 9 | **DoorDash** | Software Engineer Intern - Summer 2027 | Seattle, WA, SF, LA, NYC, Sunnyvale, CA | Summer 2027 | 2026-09-15 (1d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| 10 | **Waymo** | Software Engineering Intern - Commercialization | SF, Mountain View, CA | Summer 2027 | 2026-09-14 (2d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8198218) |
+| 1 | **Waymo** | Quantitative Software Engineer Intern | SF, Mountain View, CA | Summer 2027 | 2026-09-16 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197554) |
+| 2 | **Tesla** | Electronic Design Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-16 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/283676) |
+| 3 | **NVIDIA** | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Toronto, ON, Canada | Summer 2027 | 2026-09-16 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
+| 4 | **Citadel** | Quantitative Researcher Post-Doctoral Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-09-16 (0d ago) | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) |
+| 5 | **Amazon** | Junior Software Engineer Intern - Jr. Developer Program | San Luis Obispo, CA | N/A | 2026-09-16 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10544071/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program) |
+| 6 | **Citadel Securities** | Quantitative Researcher Intern - US | Miami, FL, NYC | Summer 2026 | 2026-09-15 (1d ago) | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) |
+| 7 | **Datadog** | Research Science Intern - PhD | Pittsburgh, PA, NYC | Winter 2026 | 2026-09-15 (1d ago) | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
+| 8 | **Anduril** | Flight Software Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-09-15 (1d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007) |
+| 9 | **Apple** | Design for Test Engineer | Austin, TX | N/A | 2026-09-15 (1d ago) | [Apply](https://jobs.apple.com/en-us/details/200683646) |
+| 10 | **DoorDash** | Software Engineer Intern - Summer 2027 | Seattle, WA, SF, LA, NYC, Sunnyvale, CA | Summer 2027 | 2026-09-15 (1d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 11 | **Microsoft** | Electrical Engineer Intern | Redmond, WA | Winter 2026 | 2026-09-14 (2d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556995572) |
 | 12 | **Google** | Data Scientist Intern - Product | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-09-14 (2d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) |
 | 13 | **Figma** | Software Engineer Intern - Multiple Teams | London, UK | Summer 2027 | 2026-09-14 (2d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (14d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-16 19:52 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-16 23:36 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
