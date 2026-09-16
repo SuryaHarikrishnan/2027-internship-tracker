@@ -1,4 +1,4 @@
-# Hardware Engineering (591)
+# Hardware Engineering (590)
 
 [← back to index](../README.md)
 
@@ -533,7 +533,6 @@
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Digital Physical Design Intern - P&R | Chandler, AZ | Fall 2026 | 2026-07-13 | 65 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 68 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/76845566-1870-4836-91ee-ff8e27462f8d/apply) | Hardware Software Integration Engineer - Contract Student Worker | Hayward, CA | N/A | 2026-07-08 | 70 | simplify-2026 |
-| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286) | Wavelogic Systems Design Architecture Intern | Ottawa, ON, Canada | Fall 2026 | 2026-07-06 | 72 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) | FPGA Engineer Intern | Miami, FL, NYC | Fall 2026 | 2026-07-06 | 72 | simplify-2026 |
 | [Droyd Robotics](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) | Software Engineer Intern | SF | Fall 2026 | 2026-07-04 | 74 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1) | Embedded Systems Engineer Co-op | Long Island, New York | Spring 2027 | 2026-07-04 | 74 | simplify-2026 |

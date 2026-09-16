@@ -4949,7 +4949,7 @@
     "company_name": "Gulfstream",
     "id": "05244bdb-4f98-45ad-a93d-9b6e706b5060",
     "title": "AI Product Collegiate Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -6419,7 +6419,7 @@
     "company_name": "OpenGov",
     "id": "5bda221a-8620-420c-a38b-48bd4bdc58d3",
     "title": "Product Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24618,7 +24618,7 @@
     "company_name": "Gulfstream",
     "id": "314b957c-1bac-46a5-95c7-131e3dbb9c34",
     "title": "Flight Sciences / SWAPP Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -71942,7 +71942,7 @@
     "company_name": "Schroders",
     "id": "5c89b93e-45af-48be-aee5-6beb4870aa82",
     "title": "Product Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -82435,7 +82435,7 @@
     "company_name": "Gulfstream",
     "id": "03055ce7-1d96-46c4-861e-8c19404e1767",
     "title": "Software Engineer Intern - IEF",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -145765,7 +145765,7 @@
     "company_name": "Ciena",
     "id": "e30dc557-ab6e-4220-8150-5bcb7dcc4598",
     "title": "Wavelogic Systems Design Architecture Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -336520,7 +336520,7 @@
     "company_name": "Thomson Reuters",
     "id": "8f637d0b-eb09-4bfb-8875-fa6166bb6de2",
     "title": "Research Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",

@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1366)
+# Data Science, AI & Machine Learning (1365)
 
 [← back to index](../README.md)
 
@@ -1355,7 +1355,6 @@
 | [Northwestern Mutual](https://jobs.smartrecruiters.com/NorthwesternMutual/85751677) | Analytics Intern | Milwaukee, WI | Summer 2026 | 2026-02-25 | 203 | simplify-2026 |
 | [HCompany](https://jobs.ashbyhq.com/hcompany/856b1025-791f-46ed-9ea0-a88bb2f32ce5/application) | Research Scientist Intern - Model Team | London, UK | Summer 2026 | 2026-02-24 | 204 | simplify-2026 |
 | [Jobs for Humanity](https://jobs.smartrecruiters.com/JobsForHumanity/744000016293725) | Artificial Intelligence Manager | Atlanta, GA | N/A | 2026-02-24 | 204 | simplify-2026 |
-| [Thomson Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Scientist-Intern_JREQ198484) | Research Scientist Intern | London, UK | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-02-18 | 210 | simplify-2026 |
 | [Bree](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | Summer 2026 | 2026-02-17 | 211 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7605524889478842677/detail) | Benefits Operation Data Analyst Project Intern | San Jose, CA | Summer 2026 | 2026-02-13 | 215 | simplify-2026 |
 | [Prior Labs](https://jobs.ashbyhq.com/prior-labs/09410424-8e94-4747-8155-bbcd0b1d4f6e/application) | Research Scientist Intern - PhD | Freiburg im Breisgau, Germany, NYC, Berlin, Germany | Summer 2026 | 2026-02-05 | 223 | simplify-2026 |

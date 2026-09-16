@@ -1,4 +1,4 @@
-# Product Management (209)
+# Product Management (207)
 
 [← back to index](../README.md)
 
@@ -12,7 +12,6 @@
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Summer 2027 | 2026-09-15 | 1 | simplify-2026 |
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876) | Business Innovation & AI Products Intern | Austin, TX, Chicago, IL, Columbus, OH | Summer 2027 | 2026-09-15 | 1 | simplify-2026 |
 | [Acxiom](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1) | Product Manager Intern - Real Identity Product Team | Conway, AR | Winter 2027 | 2026-09-15 | 1 | simplify-2026 |
-| [OpenGov](https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true) | Product Intern | Boston, MA | Summer 2027 | 2026-09-14 | 2 | simplify-2026 |
 | [OpenGov](https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true) | Product Intern | Atlanta, GA | Summer 2027 | 2026-09-14 | 2 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283298) | Product Engineer Intern - Applications Engineering | Fremont, CA | Winter 2027, Spring 2027 | 2026-09-14 | 2 | simplify-2026 |
 | [Intuit](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) | Product Manager Intern | Mountain View, CA, San Diego, CA | Summer 2027 | 2026-09-14 | 2 | simplify-2026 |
@@ -121,7 +120,6 @@
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746) | Product Management Intern | Appleton, WI | Summer 2027 | 2026-08-31 | 16 | simplify-2026 |
 | [The Home Depot](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) | Product Management Intern | Atlanta, GA | Summer 2027 | 2026-08-31 | 16 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Product Management Intern - Controls Lifecare Services | Longmont, CO, Greenville, SC | Summer 2027, Winter 2027 | 2026-08-30 | 17 | simplify-2026 |
-| [Schroders](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952) | Product Intern | London, UK | Summer 2027 | 2026-08-28 | 19 | simplify-2026 |
 | [TELUS Digital](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true) | Product Analyst Intern | Columbus, OH | Summer 2027 | 2026-08-27 | 20 | simplify-2026 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594) | Offering Management Intern | United States | Summer 2027 | 2026-08-27 | 20 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279233) | Power Management Intern - Summer 2027 | Delaware, OH | Summer 2027 | 2026-08-27 | 20 | simplify-2026 |
