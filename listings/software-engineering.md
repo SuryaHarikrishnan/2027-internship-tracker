@@ -1,4 +1,4 @@
-# Software Engineering (1249)
+# Software Engineering (1247)
 
 [← back to index](../README.md)
 
@@ -853,7 +853,6 @@
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Software Engineering Intern | Canada, Santa Clara, CA | Summer 2027 | 2026-08-19 | 29 | simplify-2026 |
 | [Garda Capital Partners](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | Software Engineer Intern | NYC | Summer 2027 | 2026-08-18 | 30 | simplify-2026 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008) | Software Development Intensive Program - LINK | NYC | N/A | 2026-08-18 | 30 | simplify-2026 |
-| [By Light Professional IT Services](https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false) | AI Intern | Orlando, FL | Fall 2026 | 2026-08-18 | 30 | simplify-2026 |
 | [Foundation Finance](https://careers.foundationfinance.com/jobs/2097?icims=1) | Full Stack Developer Intern | Rothschild, WI | Fall 2026 | 2026-08-18 | 30 | simplify-2026 |
 | [Quantinuum](https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382/apply) | Quantum Error Correction Intern - Quantum Error Correction | London, UK, Cambridge, UK | Fall 2026 | 2026-08-18 | 30 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7675128776856029445) | Software Engineer Intern - TikTok Search Data Infra | San Jose, CA | Summer 2027 | 2026-08-18 | 30 | simplify-2026 |
@@ -1117,7 +1116,6 @@
 | [University of Nevada, Reno](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288) | Web Development Intern - Marketing & Communications | Reno, NV | Fall 2026 | 2026-06-27 | 82 | simplify-2026 |
 | [Equifax](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964) | Technology Intern | Alpharetta, GA | Summer 2026 | 2026-06-27 | 82 | simplify-2026 |
 | [kos.ai](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application) | Software Engineer Intern | SF | Summer 2026 | 2026-06-26 | 83 | simplify-2026 |
-| [Maxima](https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application) | Software Engineer Intern | San Mateo, CA | Summer 2026 | 2026-06-26 | 83 | simplify-2026 |
 | [Espa AI](https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application) | Software Engineer Intern | SF | Winter 2026, Spring 2026, Summer 2026 | 2026-06-26 | 83 | simplify-2026 |
 | [AfterQuery](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application) | Software Engineer Intern | SF | Summer 2026 | 2026-06-24 | 85 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply) | Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial | Chicago, IL | Summer 2026 | 2026-06-24 | 85 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1413)
+# Data Science, AI & Machine Learning (1409)
 
 [← back to index](../README.md)
 
@@ -351,7 +351,6 @@
 | [Delta Dental of Iowa](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491829) | Data Analyst Intern | Johnston, IA | Summer 2027 | 2026-09-09 | 8 | simplify-2026 |
 | [Delta Dental of Iowa](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491864) | Marketing Analyst Intern | Johnston, IA | Summer 2027 | 2026-09-09 | 8 | simplify-2026 |
 | [Stand Together](https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply) | Strategic Research Intern - Pacific Legal Foundation | Arlington County, Arlington, VA | Summer 2027 | 2026-09-09 | 8 | simplify-2026 |
-| [D2L](https://www.d2l.com/careers/jobs/?job_id=8188363&gh_jid=8188363) | Business Insights & Analytics Co-op | Kitchener, ON, Canada | Winter 2027 | 2026-09-09 | 8 | simplify-2026 |
 | [Immuta](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply) | Product Research Intern | College Park, MD | Summer 2027 | 2026-09-09 | 8 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017439) | Web Marketing Intern | Dallas, TX | Winter 2026 | 2026-09-09 | 8 | simplify-2026 |
 | [Smartly.io](https://job-boards.greenhouse.io/smartlyio/jobs/6186905004) | Business Analytics Intern | Chicago, IL | Fall 2026 | 2026-09-09 | 8 | simplify-2026 |
@@ -864,7 +863,6 @@
 | [Verisk](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) | AI Intern - Summer Internship Program | Jersey City, NJ | Summer 2027 | 2026-08-26 | 22 | simplify-2026 |
 | [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Data Engineering Intern - Summer 2027 | Lansing, MI | Summer 2027 | 2026-08-26 | 22 | simplify-2026 |
 | [WhiteWater Midstream](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Data Science Intern - Summer 2027 | Austin, TX | Summer 2027 | 2026-08-26 | 22 | simplify-2026 |
-| [Sabre Systems](https://careers.sabresystems.com/jobs/4759?icims=1) | AI Intern | Lexington Park, MD | Fall 2026 | 2026-08-26 | 22 | simplify-2026 |
 | [GrayMatter Robotics](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true) | AI Research Intern - Foundation Models | LA, Carson, CA | Fall 2026 | 2026-08-26 | 22 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7672671220798818613) | AI Infrastructure Engineer Intern - Recommendation & LLM | San Jose, CA | Summer 2027 | 2026-08-26 | 22 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors) | Image Science Engineer Intern | Rochester, NY | Fall 2026 | 2026-08-26 | 22 | simplify-2026 |
@@ -1344,7 +1342,6 @@
 | [Eluvio](https://apply.workable.com/eluvio/j/F70F3473E7/apply) | AI Machine Learning Intern - Gen AI - Multimodal | Berkeley, CA | Summer 2026 | 2026-05-09 | 131 | simplify-2026 |
 | [Cresta](https://job-boards.greenhouse.io/cresta/jobs/5213417008) | Data Science Intern - Customer Success | Remote in USA | Summer 2026 | 2026-05-07 | 133 | simplify-2026 |
 | [Cole Engineering Services](https://jobs-cesi.icims.com/jobs/10965/ai-intern/job) | AI Intern | Hanover, MD | Summer 2026 | 2026-05-07 | 133 | simplify-2026 |
-| [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5156504008) | Insights & Integrations Consultancy Data Scientist Intern | Oakville, ON, Canada | Fall 2026 | 2026-05-04 | 136 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7633670871815670069) | Applied Scientist Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-04-29 | 141 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7633668061979543813) | Research Scientist Intern - Nextgen LLM | San Jose, CA | Summer 2027 | 2026-04-29 | 141 | simplify-2026 |
 | [Netflix](https://explore.jobs.netflix.net/careers/job/790315673635) | Video Algorithms Intern - Video Coding - Gaussian Splatting | LA, Los Gatos, CA | Fall 2026 | 2026-04-28 | 142 | simplify-2026 |
@@ -1357,7 +1354,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7629166796528535813/detail) | AI Vision Research Scientist Intern | San Jose, CA | Summer 2026 | 2026-04-17 | 153 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | Applied Science Intern - Science Recruiting | Toronto, ON, Canada, Burnaby, BC, Canada, Pitt Meadows, BC, Canada, Vancouver, BC, Canada | Fall 2026 | 2026-04-16 | 154 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | Applied Science Intern - PhD Student Science Recruiting | Seattle, WA | Fall 2026 | 2026-04-16 | 154 | simplify-2026 |
-| [Amazon](https://amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | Applied Science Intern - Multiple Teams | Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA | Fall 2026 | 2026-04-16 | 154 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Corvallis, OR, NYC, Bellevue, WA, San Diego, CA | Fall 2026 | 2026-04-16 | 154 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7629159746370406661/detail) | Research Scientist Intern - Multiple Teams | San Jose, CA | Summer 2026 | 2026-04-16 | 154 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7629159699020024069/detail) | AI Vision Research Scientist Intern - Global Tech Research Program - PhD | San Jose, CA | Summer 2026 | 2026-04-16 | 154 | simplify-2026 |

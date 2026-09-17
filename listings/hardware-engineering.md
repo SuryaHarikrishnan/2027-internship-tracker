@@ -1,4 +1,4 @@
-# Hardware Engineering (601)
+# Hardware Engineering (600)
 
 [← back to index](../README.md)
 
@@ -115,7 +115,6 @@
 | [AMD](https://careers.amd.com/jobs/92358?icims=1) | Optical & Photonics Engineering Intern/Co-op | San Jose, CA, Santa Clara, CA | Spring 2027, Summer 2027 | 2026-09-11 | 6 | simplify-2026 |
 | [Quantinuum](https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107/apply) | Photonic Integrated Circuit Design Intern | Broomfield, CO | Winter 2026 | 2026-09-11 | 6 | simplify-2026 |
 | [Quantinuum](https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb/apply) | Electrical Engineer Intern | Broomfield, CO | Winter 2026 | 2026-09-11 | 6 | simplify-2026 |
-| [Quantinuum](https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf/apply) | Software Engineering Intern | Broomfield, CO | Winter 2026 | 2026-09-11 | 6 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) | Hardware Design Engineer Intern | Round Rock, TX | Summer 2027 | 2026-09-11 | 6 | simplify-2026 |
 | [TTP](https://jobs.smartrecruiters.com/TTP1/744000149038070) | Electronic Engineer Intern | Melbourn, Royston, UK | Summer 2027 | 2026-09-11 | 6 | simplify-2026 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000149105974) | Read/Write Channel Integration Engineer Co-op - Channel Integration | Rochester, MN | Summer 2027 | 2026-09-11 | 6 | simplify-2026 |
