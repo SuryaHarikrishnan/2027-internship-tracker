@@ -1,6 +1,188 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "British Columbia Investment",
+    "id": "19166e9a-cb4f-406a-9b04-ede1c6ee72e4",
+    "title": "Software Engineer Co-op Intern - Winter 2027",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1789650624,
+    "date_posted": 1789603200,
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Software-Engineer-Co-op-Internship--Winter-2027-_JR101590",
+    "locations": [
+      "Victoria, BC, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "British Columbia Investment",
+    "id": "b61abd66-a7ce-474e-b65b-858c33660c84",
+    "title": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1789649145,
+    "date_posted": 1789603200,
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
+    "locations": [
+      "Victoria, BC, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "British Columbia Investment",
+    "id": "a1924fb3-cead-47eb-97c9-8fba9c407a20",
+    "title": "Technology Solutions Engineer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1789645378,
+    "date_posted": 1789603200,
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Technology-Solutions-Engineer-Co-op-Internship--Winter-2027-_JR101601",
+    "locations": [
+      "Victoria, BC, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CMC Markets",
+    "id": "84931311-02f2-4eda-a858-88b3cd3612e2",
+    "title": "AI Agent Developer Intern - CMC Funded",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1789645321,
+    "date_posted": 1789603200,
+    "url": "https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/London/AI-Agent-Developer-Intern---CMC-Funded_CMC5709",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/CMC-Markets",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Penta Group",
+    "id": "ce3cb812-e28a-499e-ba44-5fe48a1d50ed",
+    "title": "Monitoring & Insights Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1789640204,
+    "date_posted": 1787616582,
+    "url": "https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penta-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "British Columbia Investment",
+    "id": "ac3447c3-504f-451a-b13d-06723cc96744",
+    "title": "Investment Risk Analytics Solutions Co-op Intern - Winter 2027",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1789639652,
+    "date_posted": 1789603200,
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608",
+    "locations": [
+      "Victoria, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "British Columbia Investment",
+    "id": "095cf7aa-8dee-4685-b19f-2d1df8abaa01",
+    "title": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1789639571,
+    "date_posted": 1789603200,
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1",
+    "locations": [
+      "Victoria, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "General Dynamics Mission Systems",
     "id": "2fe60cb9-2191-4584-9824-1cda213b3458",
@@ -903,7 +1085,7 @@
     "company_name": "Persona",
     "id": "b3b5a172-409f-4e54-9248-583177d1ac17",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3387,7 +3569,7 @@
     "company_name": "Brookfield",
     "id": "dfa6cc37-644b-4ff2-a4cc-73d19c88b20d",
     "title": "Business Management Intern - Tech & Data",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -5513,7 +5695,7 @@
     "company_name": "PerkinElmer",
     "id": "6c2a8e09-efa3-4608-9f96-7b3845760fee",
     "title": "Data Science Intern - Asset Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -12296,7 +12478,7 @@
     "company_name": "Northrop Grumman",
     "id": "c0f6cecd-813a-49a6-80bb-ab6d59391ec1",
     "title": "Software Engineer Intern - Aeronautics Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13773,7 +13955,7 @@
     "company_name": "CoStar Group",
     "id": "5e63a9e0-387b-437d-983c-017171f32eea",
     "title": "Technology Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -13877,7 +14059,7 @@
     "company_name": "Principal Financial Group",
     "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -15117,7 +15299,7 @@
     "company_name": "Boston Scientific",
     "id": "f9b5578c-e66c-4b11-a0e1-50809d9627eb",
     "title": "Software Engineer Intern - Interns/Graduates",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Summer 2028"
@@ -25121,7 +25303,7 @@
     "company_name": "Amentum",
     "id": "2685ab45-ae6b-465f-9f92-f1a9510a0966",
     "title": "Data Operations Intern - Ssfb",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -35868,7 +36050,7 @@
     "company_name": "Merck",
     "id": "70f4547c-0599-4bae-ae1f-b0ffcd3dd618",
     "title": "Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -36081,7 +36263,7 @@
     "company_name": "Merck",
     "id": "269c98bf-a12b-4ef0-a2c5-4b7d30d453e2",
     "title": "Business Intelligence Intern - Research Lab",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -39235,7 +39417,7 @@
     "company_name": "Man Group",
     "id": "6ec32705-a78d-4495-a1de-43e51dac3a57",
     "title": "Quantitative Researcher Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -39367,7 +39549,7 @@
     "company_name": "Super",
     "id": "ac7aeef5-fa3e-4e1a-bf34-19e5ac1a602c",
     "title": "Software Engineer Intern - Platform",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -46633,7 +46815,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -46864,7 +47046,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -46917,7 +47099,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -47047,7 +47229,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -70654,7 +70836,7 @@
     "company_name": "General Motors",
     "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
     "title": "Data Engineering Software Developer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -76595,7 +76777,7 @@
     "company_name": "Finastra",
     "id": "55b1bcd7-ce91-4f80-ab43-68598ccff174",
     "title": "AI Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -77326,7 +77508,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -93797,7 +93979,7 @@
     "company_name": "NVIDIA",
     "id": "60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
     "title": "Hardware Verification Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -95857,7 +96039,7 @@
     "company_name": "Tencent",
     "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
     "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -99963,7 +100145,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -100303,7 +100485,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -143966,7 +144148,7 @@
     "company_name": "Jump Trading",
     "id": "03fc254f-2b9e-4967-8b85-06408e320808",
     "title": "Campus Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -217952,7 +218134,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -226017,7 +226199,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -388495,6 +388677,32 @@
     "source": "Simplify",
     "category": "Hardware",
     "company_name": "The Walt Disney Company",
+    "id": "60141c7b-6487-49ae-9932-3c452749138d",
+    "title": "WDI Show Control Hardware Intern - Glendale - Summer/Fall 2026",
+    "active": false,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1769499055,
+    "date_posted": 1769499055,
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-Fall-2026_10140725-1",
+    "locations": [
+      "Glendale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Walt Disney Company",
     "id": "33ec7092-02be-4b35-a74c-a3b421658fda",
     "title": "WDI Show Control Hardware Intern",
     "active": false,
@@ -405012,58 +405220,6 @@
       "Atlanta, GA"
     ],
     "company_url": "https://simplify.jobs/c/PwC",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "The Walt Disney Company",
-    "id": "ef9b2908-8889-4c88-823a-c45b30690371",
-    "title": "WDI Show Control Hardware Intern - Glendale - Summer/Fall 2026",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768911356,
-    "date_posted": 1768911356,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-Fall-2026_10140725",
-    "locations": [
-      "Glendale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "VSP Vision",
-    "id": "39b2cacc-0e45-42bb-8639-f2b2bf6da6cd",
-    "title": "Intern - Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768911249,
-    "date_posted": 1768911249,
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-8882",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/VSP-Vision",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
