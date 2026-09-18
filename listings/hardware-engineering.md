@@ -1,4 +1,4 @@
-# Hardware Engineering (629)
+# Hardware Engineering (630)
 
 [← back to index](../README.md)
 
@@ -383,6 +383,7 @@
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434) | Software Developer Intern - Avionics Software | Washington, LA, Longmont, CO, Denver, CO | Summer 2027 | 2026-09-01 | 17 | simplify-2026 |
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) | Avionics Software Intern - Undergraduate | Seattle, WA, LA, Longmont, CO, Denver, CO | Summer 2027 | 2026-09-01 | 17 | simplify-2026 |
 | [Stanley Black & Decker](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) | Embedded Software Engineering Intern | Towson, MD | Summer 2027 | 2026-09-01 | 17 | simplify-2026 |
+| [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Software-Engineering-Student_R00259672) | Software Engineering Co-op | Troy, MI | N/A | 2026-09-01 | 17 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-Op---Fall-2027_331393) | Embedded Software Engineer Co-op - Fall 2027 | Danbury, CT | Fall 2027 | 2026-09-01 | 17 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368) | Embedded Software Engineer Co-op | Danbury, CT | Spring 2027 | 2026-09-01 | 17 | simplify-2026 |
 | [Vermeer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) | Embedded Software Engineer Intern | Pella, IA | Summer 2027 | 2026-09-01 | 17 | simplify-2026 |

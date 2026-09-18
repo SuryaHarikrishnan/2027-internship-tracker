@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1424)
+# Data Science, AI & Machine Learning (1422)
 
 [← back to index](../README.md)
 
@@ -49,7 +49,6 @@
 | [Fidelity National Information Services](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690) | Data Analytics and AI Intern - FIS University Program | Milwaukee, WI, Jacksonville, FL, Atlanta, GA | Summer 2027 | 2026-09-17 | 1 | simplify-2026 |
 | [Avis Budget Group](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389) | Data Analytics Intern | Parsippany-Troy Hills, NJ | Summer 2027 | 2026-09-17 | 1 | simplify-2026 |
 | [Visa](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2) | Research Scientist Intern - Quantum | Foster City, CA | Winter 2026 | 2026-09-17 | 1 | simplify-2026 |
-| [Visa](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1) | Staff Research Scientist Intern - Agentic AI | Austin, TX | Winter 2026 | 2026-09-17 | 1 | simplify-2026 |
 | [Visa](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Foundational-AI_REF088579W-1) | Staff Research Scientist Intern - Foundational AI | Foster City, CA | Winter 2026 | 2026-09-17 | 1 | simplify-2026 |
 | [British Columbia Investment](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608) | Investment Risk Analytics Solutions Co-op Intern - Winter 2027 | Victoria, BC, Canada | Winter 2027 | 2026-09-17 | 1 | simplify-2026 |
 | [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) | Data Science Intern - AI Center of Excellence | Pittsburgh, PA | Summer 2027 | 2026-09-17 | 1 | simplify-2026 |
@@ -181,7 +180,6 @@
 | [Arconic](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114184) | Data Engineering Intern | New Kensington, PA | Summer 2026 | 2026-09-14 | 4 | simplify-2026 |
 | [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-14 | 4 | simplify-2026 |
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/138735?icims=1) | PMO/Data Analyst Intern | Chicago, IL | Summer 2027 | 2026-09-14 | 4 | simplify-2026 |
-| [Highgate](https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false) | Revenue Management Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-14 | 4 | simplify-2026 |
 | [Ulta Beauty](https://careers.ulta.com/jobs/527097?icims=1) | Supply Chain Data & Analytics Intern | Bolingbrook, IL | Summer 2027 | 2026-09-14 | 4 | simplify-2026 |
 | [Principal Financial Group](https://careers.principal.com/jobs/52574?icims=1) | Data and Analytics Intern - Multiple Teams | Des Moines, IA, Remote in USA, Raleigh, NC, Charlotte, NC | Summer 2027 | 2026-09-14 | 4 | simplify-2026 |
 | [Principal Financial Group](https://careers.principal.com/jobs/52561?icims=1) | Data Engineer Intern | Des Moines, IA | Summer 2027 | 2026-09-14 | 4 | simplify-2026 |
