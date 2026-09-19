@@ -2,6 +2,32 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
+    "title": "Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789814233,
+    "date_posted": 1789689600,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "DatologyAI",
     "id": "f1aa6de1-3a54-4326-ac1b-83233e314a0b",
     "title": "Research Intern",
@@ -2881,7 +2907,7 @@
     "company_name": "RTX",
     "id": "a122ed0c-a472-4787-80bd-a028823e70bc",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -6635,7 +6661,7 @@
     "company_name": "Leidos",
     "id": "c378ab68-3965-4a8e-bcab-6b9125680eea",
     "title": "Technical Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -8410,7 +8436,7 @@
     "company_name": "nVent",
     "id": "8801ee08-2b1c-4858-9978-77ec6600fd87",
     "title": "Engineering Lab Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -14242,7 +14268,7 @@
     "company_name": "Verizon Communications",
     "id": "51022cd5-814f-411e-991c-86b9d9441d02",
     "title": "Marketing Technology Intern - Consumer Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -14605,7 +14631,7 @@
     "company_name": "RTX",
     "id": "8e2ae72c-1197-4234-9ceb-9e8f692add91",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Fall 2027"
@@ -29441,7 +29467,7 @@
     "company_name": "Dominion Energy",
     "id": "ab871e6a-bd35-48fb-9f35-0666ae890fbf",
     "title": "Business Intelligence Analyst Intern - Design COE",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -48052,7 +48078,7 @@
     "company_name": "RTX",
     "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
     "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -53022,7 +53048,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53101,7 +53127,7 @@
     "company_name": "Goldman Sachs",
     "id": "8f346a45-4490-4243-933e-264e3916e701",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53203,7 +53229,7 @@
     "company_name": "Goldman Sachs",
     "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53253,7 +53279,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53306,7 +53332,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53330,7 +53356,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53382,7 +53408,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53436,7 +53462,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -58726,7 +58752,7 @@
     "company_name": "Copart",
     "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
     "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -64096,7 +64122,7 @@
     "company_name": "Nio",
     "id": "da434a40-5732-4900-855f-676aa5cd10e7",
     "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -67821,7 +67847,7 @@
     "company_name": "United Airlines",
     "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
     "title": "Sales Product Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -81764,7 +81790,7 @@
     "company_name": "Deloitte",
     "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
     "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -83741,7 +83767,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -106378,7 +106404,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -106718,7 +106744,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -146446,7 +146472,7 @@
     "company_name": "CuspAI",
     "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
     "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -151429,7 +151455,7 @@
     "company_name": "Aptiv",
     "id": "a62910e6-5d07-4c79-b9be-d6c633815782",
     "title": "Working Student Interior Sensing ML",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -310483,7 +310509,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -361146,6 +361172,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "f475cc92-df02-4ec4-980c-f40bb58ff38d",
+    "title": "Research Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1770764925,
+    "date_posted": 1770764925,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556753747",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "UW Credit Union",
     "id": "5b2e9b3a-0b3b-4c01-b3ee-b2e35976410c",
@@ -404340,32 +404392,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "American Express",
-    "id": "0019aa00-913b-4393-8edd-61e92809a205",
-    "title": "Software Engineer Internship",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769115848,
-    "date_posted": 1769078091,
-    "url": "https://aexp.eightfold.ai/careers/job/39688514",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Cadence Design Systems",
     "id": "ea110c94-fea5-4fe5-afd5-fbc3d8e2e9c7",
@@ -404668,59 +404694,6 @@
     "sponsorship": "Other",
     "degrees": [
       "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "7cfbeb0c-af31-4f2f-be63-1929643b91f0",
-    "title": "Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769077919,
-    "date_posted": 1769077919,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556745603",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "APL Logistics",
-    "id": "e0fafefb-cdaa-41d6-ac01-53d66afad28a",
-    "title": "Apprentice/Intern - Data Science & BI - Wms",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769077776,
-    "date_posted": 1769077776,
-    "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3761",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/APL-Logistics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"

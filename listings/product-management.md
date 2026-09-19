@@ -1,4 +1,4 @@
-# Product Management (225)
+# Product Management (224)
 
 [← back to index](../README.md)
 
@@ -107,7 +107,6 @@
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) | Quality Engineer Intern | Spring, TX | Winter 2026 | 2026-09-02 | 17 | simplify-2026 |
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1) | Personal Systems Product Management Intern | Austin, TX | Winter 2026 | 2026-09-02 | 17 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | Product Management Intern - Risk Management | St Paul, MN | Summer 2027 | 2026-09-02 | 17 | simplify-2026 |
-| [United Airlines](https://careers.united.com/us/en/job/WHQ00026558) | Sales Product Intern | Chicago, IL | Summer 2027 | 2026-09-01 | 18 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/90411?icims=1) | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | Summer 2027 | 2026-09-01 | 18 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681) | Digital Product Management Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-09-01 | 18 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057) | Digital Product Management Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-09-01 | 18 | simplify-2026 |

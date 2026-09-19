@@ -1,4 +1,4 @@
-# Hardware Engineering (644)
+# Hardware Engineering (642)
 
 [← back to index](../README.md)
 
@@ -73,7 +73,6 @@
 | [Ensign-Bickford Aerospace & Defense Company](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) | Development Engineer Intern | Simsbury, CT | Summer 2027 | 2026-09-16 | 3 | simplify-2026 |
 | [Ensign-Bickford Industries](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) | Development Engineer Intern | Simsbury, CT | Summer 2027 | 2026-09-16 | 3 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/IC-Validation-Engineer-Intern_2603925) | IC Validation Engineer Intern | Ottawa, ON, Canada | Winter 2026 | 2026-09-16 | 3 | simplify-2026 |
-| [nVent](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Lab-Internship--June---August-2027-_R23537) | Engineering Lab Co-op | Anoka, MN | Winter 2027 | 2026-09-16 | 3 | simplify-2026 |
 | [Tokyo Electron](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Albany/Equipment-Engineer-Spring-2027-Co-Op_R26-01571) | Equipment Engineer Co-op | Albany, NY | Spring 2027 | 2026-09-16 | 3 | simplify-2026 |
 | [Jabil](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685) | Server Platform Intern | Austin, TX | Summer 2027 | 2026-09-16 | 3 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775) | Software Engineer Intern | Windsor Locks, CT | Summer 2027 | 2026-09-16 | 3 | simplify-2026 |
@@ -138,7 +137,6 @@
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) | Hardware Engineering Intern - Infrastructure Solutions Group | Round Rock, TX, Hopkinton, MA | Summer 2027 | 2026-09-14 | 5 | simplify-2026 |
 | [TTP](https://jobs.smartrecruiters.com/TTP1/744000149299660) | Electronic Engineering Consultant | Melbourn, Royston, UK | N/A | 2026-09-14 | 5 | simplify-2026 |
 | [TTP](https://jobs.smartrecruiters.com/TTP1/744000149301389) | Year In Industry Placement - Electronic Engineering Consultant | Melbourn, Royston, UK | N/A | 2026-09-14 | 5 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236) | Software Engineering Co-op | Wilsonville, OR | Summer 2027, Fall 2027 | 2026-09-14 | 5 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA | Summer 2027 | 2026-09-14 | 5 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Design-Architect---MS-or-PhD-Student_JR111452) | HBM Design Architect Intern - MS or PhD Student | Richardson, TX | Winter 2026 | 2026-09-14 | 5 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Electronics-Engineer---Undergraduate-Placement-2027_R38678) | Electronics Engineer | Stevenage, UK | N/A | 2026-09-14 | 5 | simplify-2026 |
