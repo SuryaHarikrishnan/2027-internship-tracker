@@ -1,9 +1,10 @@
-# Software Engineering (1304)
+# Software Engineering (1302)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI/af91b9bd-4452-42c0-93d5-e1943070618e/application?embed=true) | Forward Deployment Engineer Resident - Residency Program | Menlo Park, CA | Winter 2026 | 2026-09-19 | 0 | simplify-2026 |
 | [Bot Auto](https://job-boards.greenhouse.io/botauto/jobs/5429357008) | Software Engineer Intern - AI Agents | Houston, TX | Fall 2026, Winter 2027 | 2026-09-19 | 0 | simplify-2026 |
 | [Achievers](https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply) | Software Engineer Co-op - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-19 | 0 | simplify-2026 |
 | [Rundoo](https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application?embed=true) | Marketing Engineer Intern | Redwood City, CA | Winter 2026 | 2026-09-18 | 1 | simplify-2026 |
@@ -950,11 +951,8 @@
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | AI and Software Engineer Intern - Automotive MPUs | Glasgow, UK | Summer 2026 | 2026-08-17 | 33 | simplify-2026 |
 | [Dedalus Labs](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true) | Design Engineer Intern | SF | Fall 2026 | 2026-08-15 | 35 | simplify-2026 |
 | [Abridge](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) | Software Engineer Intern | SF, NYC | Fall 2026 | 2026-08-15 | 35 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171553?type=students) | Summer Analyst Intern - Engineering | Dallas, TX | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171565?type=students) | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171564?type=students) | Summer Analyst Intern - Americas - Engineering | NYC | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171567?type=students) | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/170637?type=students) | Summer Analyst Intern - Engineering | Birmingham, UK | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170644?type=students) | Summer Analyst Intern - Engineering | London, UK | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/177808?type=students) | Summer Analyst Intern - Engineering | Seattle, WA | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-15 | 35 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | Software Engineer Intern - Summer 2027 | SF, NYC | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | 2026-08-15 | 35 | simplify-2026 |

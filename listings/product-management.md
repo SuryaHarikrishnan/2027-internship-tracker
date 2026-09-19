@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) | Product Management Intern | Montreal, QC, Canada | Winter 2027 | 2026-09-19 | 0 | simplify-2026 |
 | [ASUS USA](https://jobs.jobvite.com/asus/job/oi7PAfwy?nl=1&nl=1&fr=false) | Product Manager Assistant | City of Industry, CA | N/A | 2026-09-18 | 1 | simplify-2026 |
 | [Publicis Groupe](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Product Manager Intern - Class of 2028 | Chicago, IL | Summer 2027 | 2026-09-18 | 1 | simplify-2026 |
 | [Klaviyo](https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003) | Product Manager Co-op - Spring 2027 | Boston, MA | Summer 2027 | 2026-09-18 | 1 | simplify-2026 |
@@ -160,7 +161,6 @@
 | [TikTok](https://lifeattiktok.com/search/7675616554318596357) | AI Product Manager Intern - Product Social | San Jose, CA | Summer 2027 | 2026-08-22 | 28 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676283436713593093) | Product Manager Intern - Content and Service Ads | San Jose, CA | Summer 2027 | 2026-08-22 | 28 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | Summer 2027 | 2026-08-21 | 29 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171513?type=students) | AWM Product Management Analyst Intern | Dallas, TX | Summer 2027 | 2026-08-19 | 31 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 31 | simplify-2026 |
 | [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | 2026-08-19 | 31 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 32 | simplify-2026 |
