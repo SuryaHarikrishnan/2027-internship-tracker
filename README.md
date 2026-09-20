@@ -25,7 +25,7 @@ python scripts/track.py render   # writes APPLICATIONS.md
 
 ## Listings
 
-**4145 active listings** across 6 categories. Last refreshed: 2026-09-20 16:38 UTC.
+**4145 active listings** across 6 categories. Last refreshed: 2026-09-20 19:17 UTC.
 
 Browse by category below, or go straight to **[today's Top 20 picks](TOP20.md)**.
 
