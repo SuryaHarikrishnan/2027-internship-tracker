@@ -6080,7 +6080,7 @@
     "company_name": "Visa",
     "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
     "title": "Research Scientist Intern - Quantum",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -10362,7 +10362,7 @@
     "company_name": "NVIDIA",
     "id": "ebdf452a-f6c6-46cb-beb0-fce7830344e4",
     "title": "Product Management MBA Intern - Data Center GPU",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12558,7 +12558,7 @@
     "company_name": "NVIDIA",
     "id": "647e0b46-cfaa-46bc-8d91-9aa2103d57d6",
     "title": "Generative AI Research Intern - Fundamental Generative AI",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -12791,7 +12791,7 @@
     "company_name": "NVIDIA",
     "id": "83a6fa1e-2e59-414e-9c23-5b68b7d11e8a",
     "title": "Physical Design and Timing Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -16005,7 +16005,7 @@
     "company_name": "General Motors",
     "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
     "title": "Summer Intern - Performance Analysis",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -18795,7 +18795,7 @@
     "company_name": "Tive",
     "id": "9d613826-b169-4950-9be3-779d329aab98",
     "title": "Software Engineer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -21177,7 +21177,7 @@
     "company_name": "Johnson & Johnson",
     "id": "6380881f-a45a-4afd-9856-5388dbf633d9",
     "title": "Postdoctoral Scientist - AI/ML",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -22210,7 +22210,7 @@
     "company_name": "Bank of Montreal",
     "id": "95a38e0f-5969-4e41-bc51-9a23c166c775",
     "title": "Software Engineer Co-op Intern - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -23506,7 +23506,7 @@
     "company_name": "Amgen",
     "id": "dc2aebf1-8c3c-4139-937e-f31dfd69950e",
     "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -29010,7 +29010,7 @@
     "company_name": "Marvell",
     "id": "c19ad514-a4fd-4e47-a2ae-ab57347804ad",
     "title": "Advanced Packaging & Physical Integration Intern - Advanced Packaging & Physical Integration",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -32142,7 +32142,7 @@
     "company_name": "Collier Aerospace",
     "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
     "title": "Software Engineer Intern - Web Applications - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -76918,7 +76918,7 @@
     "company_name": "Manulife Financial",
     "id": "5debe91f-f195-4bd0-a1c3-50c5bef17c2d",
     "title": "Quantitative Analyst Co-op - Derivative and Asset Modeling",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -177323,6 +177323,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "bb60533b-0cc5-45ea-85d6-51c9e4bd8903",
+    "title": "Data Analyst Intern - Competency Management",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1780668901,
+    "date_posted": 1780668592,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Data-Analyst-Intern---Competency-Management_R5044024-3",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Pennsylvania State University",
     "id": "f26bcb7d-a9e2-49e2-9866-15165d7dee4a",
@@ -224658,7 +224684,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -310696,7 +310722,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -401810,32 +401836,6 @@
     "degrees": [
       "Master's",
       "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "GE Vernova",
-    "id": "1e422945-c4ed-47f7-8b77-f706d6578f73",
-    "title": "Data Analyst Intern - Competency Management",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769171544,
-    "date_posted": 1769171544,
-    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Data-Analyst-Intern---Competency-Management_R5029366-1",
-    "locations": [
-      "Stoke-on-Trent, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/GE-Vernova",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
