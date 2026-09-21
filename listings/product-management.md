@@ -1,4 +1,4 @@
-# Product Management (226)
+# Product Management (224)
 
 [← back to index](../README.md)
 
@@ -163,7 +163,6 @@
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | Summer 2027 | 2026-08-21 | 31 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171513?type=students) | AWM Product Management Analyst Intern | Dallas, TX | Summer 2027 | 2026-08-19 | 33 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 33 | simplify-2026 |
-| [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | 2026-08-19 | 33 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 34 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673895973460576517) | Product Manager Intern - Business Integrity | Seattle, WA | Summer 2026 | 2026-08-18 | 34 | simplify-2026 |
 | [W.W. Grainger](https://jobs.grainger.com/job/LAKE-FOREST-Brand,-Online-Experience-and-Assortment-Intern-IL-60045-5202/1420163900/?ats=successfactors) | Online Experience and Assortment Intern - Brand | Lake Forest, IL | Summer 2026 | 2026-08-17 | 35 | simplify-2026 |
@@ -211,7 +210,6 @@
 | [Appian](https://job-boards.greenhouse.io/appian/jobs/8041243) | Product Manager Intern | McLean, VA | Summer 2027 | 2026-07-23 | 60 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [LightGuide, Inc.](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) | Product Innovation Co-op | Wixom, MI | Fall 2026 | 2026-07-21 | 62 | simplify-2026 |
 | [Hubs.is](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Product Intern | Remote in USA | Fall 2026 | 2026-07-21 | 62 | simplify-2026 |
-| [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) | Product Management Intern | Chicago, IL | Fall 2026 | 2026-07-21 | 62 | simplify-2026 |
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 67 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7660641959426132277) | Global Product Operations Manager Intern - Global Business Solutions | San Jose, CA | Fall 2026 | 2026-07-13 | 70 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657540410859948341) | SMB Operations Specialist Project Intern - Product Led Growth - 2026 Start - BS/MS | San Jose, CA | Fall 2026 | 2026-07-09 | 74 | simplify-2026 |

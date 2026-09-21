@@ -1,4 +1,4 @@
-# Hardware Engineering (640)
+# Hardware Engineering (639)
 
 [← back to index](../README.md)
 
@@ -187,7 +187,6 @@
 | [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq) | RF Test Engineer Intern - Summer 2027 | Redondo Beach, CA | Summer 2027 | 2026-09-10 | 11 | simplify-2026 |
 | [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7?ats=pinpointhq) | Flight Software Engineer Intern - Summer 2027 | Redondo Beach, CA | Summer 2027 | 2026-09-10 | 11 | simplify-2026 |
 | [Terranova](https://jobs.ashbyhq.com/terranova/fad001fb-2d4c-4a9c-b0da-b3161d66eacd/application?embed=true) | Lab Intern | Berkeley, CA | Fall 2026 | 2026-09-10 | 11 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1428512900/?ats=successfactors) | Software Engineer Intern | Clifton, NJ | Winter 2026 | 2026-09-10 | 11 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/20131?icims=1) | Software Engineer Intern | Cary, NC | Summer 2027 | 2026-09-10 | 11 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/19896?icims=1) | Electrical Design Engineer Intern | Tulsa, OK | Summer 2027 | 2026-09-10 | 11 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | Embedded Developer Intern - Engine Data Reliability | Oakville, ON, Canada | Winter 2027 | 2026-09-10 | 11 | simplify-2026 |
