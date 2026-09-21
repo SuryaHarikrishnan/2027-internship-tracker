@@ -1,4 +1,4 @@
-# Hardware Engineering (639)
+# Hardware Engineering (638)
 
 [← back to index](../README.md)
 
@@ -239,7 +239,6 @@
 | [Moog](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1) | Software Engineer Intern - Military Aircraft | Mineral Wells, TX | Summer 2027 | 2026-09-09 | 12 | simplify-2026 |
 | [Moog](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887) | Hardware Design Engineering Intern | Mineral Wells, TX | Summer 2027 | 2026-09-09 | 12 | simplify-2026 |
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true) | Sensor Hardware Test Engineer Intern | SF | Summer 2027 | 2026-09-08 | 13 | simplify-2026 |
-| [John Deere](https://johndeere.eightfold.ai/careers/job/137483302646) | Embedded Robotics Engineering Student - Product Engineering | Ames, IA | N/A | 2026-09-08 | 13 | simplify-2026 |
 | [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true) | Electrical Engineer Intern | Austin, TX | Summer 2027 | 2026-09-08 | 13 | simplify-2026 |
 | [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c/application?embed=true) | Software Engineer Intern | Austin, TX | N/A | 2026-09-08 | 13 | simplify-2026 |
 | [Zaber Technologies](https://apply.workable.com/zaber/j/1F627CC2BB/apply) | Embedded Software Co-op | Vancouver, BC, Canada | Winter 2027 | 2026-09-08 | 13 | simplify-2026 |

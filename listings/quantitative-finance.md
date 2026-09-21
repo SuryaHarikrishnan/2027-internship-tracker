@@ -1,4 +1,4 @@
-# Quantitative Finance (232)
+# Quantitative Finance (231)
 
 [← back to index](../README.md)
 
@@ -70,7 +70,6 @@
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-09-03 | 18 | simplify-2026 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg) | Quantitative Trading Intern - Fixed Income & Currencies | NYC | Summer 2027 | 2026-09-03 | 18 | simplify-2026 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/o6Cp44Ol7NVnH0MbcO81eA) | Quant Intern - Strategic Analytics | NYC | Summer 2027 | 2026-09-03 | 18 | simplify-2026 |
-| [Frost](https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern_R261626) | Model Risk Intern | San Antonio, TX | Winter 2026 | 2026-09-02 | 19 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1) | Quantitative Analyst Summer Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-09-02 | 19 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | Summer 2027 | 2026-09-01 | 20 | simplify-2026 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs | London, UK | Summer 2027 | 2026-09-01 | 20 | simplify-2026 |

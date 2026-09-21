@@ -1354,7 +1354,7 @@
     "company_name": "MetOx International",
     "id": "01adde08-7298-47e1-8394-bb946ac7ec13",
     "title": "Data Science Intern - Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23478,7 +23478,7 @@
     "company_name": "Commure",
     "id": "6a833744-e49d-4159-a168-e07ab82f981b",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -38329,7 +38329,7 @@
     "company_name": "John Deere",
     "id": "b1f194a0-7d0c-43a1-8341-064d5e8cb99e",
     "title": "Embedded Robotics Engineering Student - Product Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -48979,7 +48979,7 @@
     "company_name": "Invesco",
     "id": "6716499c-74a8-4108-ab04-012b58e19656",
     "title": "Early Career Intern - Corporate Functions Data Office",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -59384,7 +59384,7 @@
     "company_name": "Frost",
     "id": "6318ab90-8bcd-4d0c-af9b-00719bb66676",
     "title": "Model Risk Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -64602,7 +64602,7 @@
     "company_name": "Major League Baseball",
     "id": "6baf79c0-1bd1-4ef7-b360-b5f149641e81",
     "title": "Player Development Associate - Player Development",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -89940,7 +89940,7 @@
     "company_name": "Rystad Energy",
     "id": "d98abdd9-48bc-4767-ad87-4f39e8156cba",
     "title": "Analyst Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -94815,7 +94815,7 @@
     "company_name": "Cigna Group",
     "id": "024af855-b60d-44e5-8ca0-8446b24f70e7",
     "title": "Technology Apprentice - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -122406,7 +122406,7 @@
     "company_name": "NBT Bank",
     "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
     "title": "Data Warehouse & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
