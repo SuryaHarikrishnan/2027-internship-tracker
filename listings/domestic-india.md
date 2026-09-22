@@ -4,7 +4,7 @@
 
 **A standalone list, not part of the rest of this repo.** It is not fed by the auto-refresh pipeline used for the categories above and does not integrate with the application tracker (`scripts/track.py`). The companies below are checked directly against their own public career-site APIs every ~3 days -- no AI judgment, no aggregators, just a plain scraper like the one used for the rest of this repo.
 
-Last automated check: 2026-09-10 01:50 UTC
+Last automated check: 2026-09-19 12:48 UTC
 
 ## Confirmed open postings (auto-checked every 3 days)
 
@@ -19,6 +19,7 @@ Last automated check: 2026-09-10 01:50 UTC
 | Role | Location | Link |
 |---|---|---|
 | Intern - Returnship - RMO | Bangalore | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Intern---Returnship---RMO_R171621) |
+| Internal Product Manager 3 - Sales Performance Management | Bangalore | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Product-Manager-3_R169439) |
 
 ### Razorpay
 
