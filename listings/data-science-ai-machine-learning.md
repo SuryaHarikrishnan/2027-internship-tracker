@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1436)
+# Data Science, AI & Machine Learning (1435)
 
 [← back to index](../README.md)
 
@@ -142,7 +142,6 @@
 | [Clarios](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211) | Data Science Intern | Milwaukee, WI | Summer 2027 | 2026-09-17 | 5 | simplify-2026 |
 | [Insperity](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103293) | Rotational Data Analytics Intern | Kingwood, Houston, TX | Winter 2026 | 2026-09-17 | 5 | simplify-2026 |
 | [Insperity](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294) | Rotational AI Intern | Kingwood, Houston, TX | Winter 2026 | 2026-09-17 | 5 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103) | PhD Research Intern - Generalist Embodied Agents Research | Remote in USA, Santa Clara, CA | Summer 2027 | 2026-09-17 | 5 | simplify-2026 |
 | [Northwestern Mutual](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050) | Investment Data & Analytics Intern | Milwaukee, WI | Summer 2027 | 2026-09-17 | 5 | simplify-2026 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) | Data Engineering Intern - Atlanta Tech Hub - Data Engineering | Atlanta, GA | Summer 2027 | 2026-09-17 | 5 | simplify-2026 |
 | [Wellington Management](https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Business-Intelligence-Co-Op_R94872-1) | Business Intelligence Co-op | Boston, MA | Winter 2026 | 2026-09-17 | 5 | simplify-2026 |

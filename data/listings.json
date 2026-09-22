@@ -1413,7 +1413,7 @@
     "company_name": "General Motors",
     "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
     "title": "Software Engineer Intern - Digital Product: Software Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -5132,7 +5132,7 @@
     "company_name": "Microsoft",
     "id": "c7882e60-9d46-4536-8550-5308e78edb36",
     "title": "Hardware Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -10021,7 +10021,7 @@
     "company_name": "NVIDIA",
     "id": "e3878d12-f4a0-4e39-b2e8-322da6bb1115",
     "title": "Architecture Research Intern - Architecture - 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10049,7 +10049,7 @@
     "company_name": "NVIDIA",
     "id": "ea5ee9d4-b9cf-4ed2-b1ab-93db2d16e7bc",
     "title": "Research Intern - Hardware and Systems Architecture",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -10103,7 +10103,7 @@
     "company_name": "NVIDIA",
     "id": "55a28a09-e8b9-4af7-bec5-c02f4642f6f2",
     "title": "PhD Research Intern - Generalist Embodied Agents Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -52379,7 +52379,7 @@
     "company_name": "Marvell",
     "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
     "title": "Design for Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -229755,7 +229755,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],

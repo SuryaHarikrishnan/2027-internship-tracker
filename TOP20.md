@@ -11,12 +11,12 @@ Ranked by freshness + company tier + role category.
 | 1 | **Waymo** | Software Engineer Intern - MS/PhD - Simulation | Mountain View, CA | Summer 2027 | 2026-09-22 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221851) |
 | 2 | **Tesla** | Reliability Test Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-22 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/284278) |
 | 3 | **NVIDIA** | Networking Research Intern - Networking | Santa Clara, CA | Summer 2027 | 2026-09-21 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) |
-| 4 | **Microsoft** | Hardware Engineering Intern | Redmond, WA | Winter 2027 | 2026-09-19 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557002608) |
+| 4 | **Northrop Grumman** | Software Engineer Intern - Navigation Intelligence and Connectivity Division | San Diego, CA | Summer 2027 | 2026-09-22 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150) |
 | 5 | **Rivian** | Software Engineer Co-op Intern - Product Development Portal | Palo Alto, CA | Spring 2027 | 2026-09-22 (0d ago) | [Apply](https://careers.rivian.com/jobs/33745?icims=1) |
 | 6 | **ByteDance** | Product Management Project Intern - Global Payment | San Jose, CA | Summer 2027 | 2026-09-22 (0d ago) | [Apply](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
 | 7 | **AMD** | AI Research Infrastructure – Reinforcement Learning Post-Training Intern | Santa Clara, CA | Summer 2027 | 2026-09-21 (1d ago) | [Apply](https://careers.amd.com/jobs/90950?icims=1) |
-| 8 | **Northrop Grumman** | Embedded Software Engineer Intern | Camarillo, CA | Summer 2027 | 2026-09-21 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835) |
-| 9 | **Amazon** | Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | Summer 2027, Winter 2027, Fall 2027 | 2026-09-18 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
+| 8 | **Amazon** | Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | Summer 2027, Winter 2027, Fall 2027 | 2026-09-18 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
+| 9 | **Microsoft** | Silicon Engineering Intern - 6-month Program | Hillsboro, OR, Mountain View, CA | Winter 2027 | 2026-09-18 (4d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556982259) |
 | 10 | **Citadel** | Quantitative Researcher Post-Doctoral Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-09-16 (6d ago) | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) |
 | 11 | **Citadel Securities** | Quantitative Researcher Intern - US | Miami, FL, NYC | Summer 2026 | 2026-09-15 (7d ago) | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) |
 | 12 | **Datadog** | Research Science Intern - PhD | Pittsburgh, PA, NYC | Winter 2026 | 2026-09-15 (7d ago) | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (20d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-22 10:23 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-22 13:42 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
