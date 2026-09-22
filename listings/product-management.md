@@ -1,13 +1,15 @@
-# Product Management (231)
+# Product Management (232)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Rhoda AI](https://jobs.ashbyhq.com/rhoda-ai/ecadb13f-b6cd-4070-9a31-80c9fa355fe4/application?embed=true) | Engineer Product Manager Intern - Robot Data Systems | Mountain View, CA | Winter 2026 | 2026-09-22 | 0 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) | Product Manager Intern - Summer 2027 | SF, San Bruno, CA, NYC, Mountain View, CA | Summer 2027 | 2026-09-22 | 0 | simplify-2026 |
 | [ONE Finance](https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application?embed=true) | Product Intern | NYC | Summer 2027 | 2026-09-22 | 0 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7686394581777631541/detail) | Product Management Project Intern - Global Payment | San Jose, CA | Summer 2027 | 2026-09-22 | 0 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/33793?icims=1) | MBA Intern Co-op - Product Management Product Development | Palo Alto, CA | Spring 2027 | 2026-09-22 | 0 | simplify-2026 |
+| [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625) | Product Management Intern - Summer 2027 | O'Fallon, MO | Summer 2027 | 2026-09-22 | 0 | simplify-2026 |
 | [Zimmer Biomet Holdings](https://careers.zimmerbiomet.com/us/en/job/12745) | Product Management Intern - Artificial Intelligence Product Management | Remote in USA | Summer 2027 | 2026-09-21 | 1 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014306) | Digital Product Management Intern - Undergraduate GMNS | London, UK | Winter 2026 | 2026-09-21 | 1 | simplify-2026 |
 | [AutoZone](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) | Ecommerce Intern | Memphis, TN | Summer 2027 | 2026-09-21 | 1 | simplify-2026 |
@@ -100,7 +102,6 @@
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Savings---Investing--PS-I--Product-Management-Intern-Co-op_R_1504373) | Product Management Intern/Co-op - Personal Savings & Investing | Toronto, ON, Canada | Winter 2027 | 2026-09-08 | 14 | simplify-2026 |
 | [Dick's Sporting Goods](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) | Product Management Intern - Corporate Internship | Pittsburgh, PA | Summer 2027 | 2026-09-08 | 14 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Commercial-Deposits--Money-Movement---Digital-Channels-Intern-Co-op--Winter-2027-_R_1503532) | Commercial Deposits – Money Movement & Digital Channels Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-08 | 14 | simplify-2026 |
-| [AltaML](https://jobs.lever.co/altaml/1b27d80a-ac06-45cd-9335-37d9380226dd/apply) | Associate Product Manager | Edmonton, AB, Canada | N/A | 2026-09-04 | 18 | simplify-2026 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Product Manager Intern - Tax - Other Tax | NYC | Summer 2027 | 2026-09-04 | 18 | simplify-2026 |
 | [Roblox](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | Product Management Intern | San Mateo, CA | Summer 2027 | 2026-09-03 | 19 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7680876022824945973) | Product Solutions and Operations Project Intern - Scaled Growth | London, UK | Summer 2026 | 2026-09-03 | 19 | simplify-2026 |
