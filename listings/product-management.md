@@ -1,4 +1,4 @@
-# Product Management (231)
+# Product Management (232)
 
 [← back to index](../README.md)
 
@@ -52,6 +52,7 @@
 | [Ulta Beauty](https://careers.ulta.com/jobs/423575?icims=1) | Digital Product Management Intern | Bolingbrook, IL | Summer 2027 | 2026-09-14 | 9 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | Product Manager Intern - Undergraduate | London, UK | Summer 2027 | 2026-09-14 | 9 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | Product Manager Intern - Undergraduate | Burgess Hill, UK | Summer 2027 | 2026-09-14 | 9 | simplify-2026 |
+| [Guardian Life](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125) | Life Product Development Intern | NYC | Summer 2027 | 2026-09-14 | 9 | simplify-2026 |
 | [LabCorp](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185) | IT Product Manager Intern - Payer Team | Durham, NC | Summer 2027 | 2026-09-14 | 9 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811) | Residential Energy Product Strategy Intern | Minneapolis, MN | Summer 2027 | 2026-09-14 | 9 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1) | Residential Energy Product Strategy Intern | Eau Claire, WI, Minneapolis, MN | Summer 2027 | 2026-09-14 | 9 | simplify-2026 |
