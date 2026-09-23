@@ -1,4 +1,4 @@
-# Hardware Engineering (657)
+# Hardware Engineering (653)
 
 [← back to index](../README.md)
 
@@ -96,7 +96,6 @@
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/74787/job?mobile=true&needsRedirect=false) | Hardware Electrical Engineer Intern - Crypto and Cross Domain Solutions | Scottsdale, AZ | Winter 2026 | 2026-09-16 | 7 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) | Electrical Engineer Co-op | Rockford, IL, Elyria, OH | Summer 2027 | 2026-09-16 | 7 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010996) | Electrical Engineering Co-op | Rockford, IL, Elyria, OH | Spring 2027 | 2026-09-16 | 7 | simplify-2026 |
-| [Garmin](https://careers.garmin.com/jobs/20177?icims=1) | Software Engineer Intern | Manhattan, KS | Winter 2026 | 2026-09-16 | 7 | simplify-2026 |
 | [Antares Nuclear](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true) | Software Engineer Intern | Torrance, CA | Summer 2027 | 2026-09-16 | 7 | simplify-2026 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply) | Electrical Engineer Intern - Hardware | Austin, TX | Summer 2027 | 2026-09-16 | 7 | simplify-2026 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply) | Electrical Engineer Intern - Hardware | Westminster, CO | Summer 2027 | 2026-09-16 | 7 | simplify-2026 |
@@ -577,7 +576,6 @@
 | [Keysight Technologies](https://jobs.keysight.com/jobs/53636?icims=1) | Software Engineer Intern - R&D - FPGA | Santa Clara, CA, Calabasas, CA | Fall 2026 | 2026-08-04 | 50 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/278630) | Electrical Design Engineer Intern - Vehicle Engineering | Palo Alto, CA, Fremont, CA | Winter 2027, Spring 2027 | 2026-08-04 | 50 | simplify-2026 |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/8621763002) | Silicon Engineer Intern/Co-op | Palo Alto, CA, Irvine, CA, Redmond, WA | Summer 2027 | 2026-08-03 | 51 | simplify-2026 |
-| [SRI International](https://careers-sri.icims.com/jobs/6431/job?mobile=true&needsRedirect=false) | Embedded Software Engineer Co-op | Princeton, NJ | Fall 2026 | 2026-08-03 | 51 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002) | Hardware Engineer Intern - FPGA/ASIC | London, UK | N/A | 2026-08-03 | 51 | simplify-2026 |
 | [Novanta](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484) | Engineer Intern | Apex, NC | Fall 2026 | 2026-08-03 | 51 | simplify-2026 |
 | [HPR (Hyannis Port Research)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | FPGA Engineer Intern | Needham, MA | Summer 2027 | 2026-08-01 | 53 | simplify-2026 |
@@ -623,7 +621,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469) | Silicon Photonics Intern - PhD - Fall 2026 Start Date | Ottawa, ON, Canada | Fall 2026 | 2026-06-13 | 102 | simplify-2026 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5148101007) | Electrical Engineer Intern | Boston, MA, Seattle, WA, Irvine, CA, Colorado Springs, CO, Reston, VA, Fort Collins, CO, Broomfield, CO, Atlanta, GA, Costa Mesa, CA | Summer 2027 | 2026-06-11 | 104 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | Design Verification Engineer Intern | Toronto, ON, Canada | Summer 2026 | 2026-06-08 | 107 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/271981) | Electronic Design Engineer Intern - Optimus | Palo Alto, CA | Fall 2026 | 2026-06-07 | 108 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272581) | Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 108 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/272912) | Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 108 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7761881003) | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | Summer 2026 | 2026-06-02 | 113 | simplify-2026 |
@@ -639,7 +636,6 @@
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | Autonomous Driving Applications Research Intern | Santa Clara, CA | Spring 2026 | 2026-05-21 | 125 | simplify-2026 |
 | [Advanced Energy](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors) | Electronics Service Intern | Fort Collins, CO | Summer 2026 | 2026-05-08 | 138 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/269819) | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-05-06 | 140 | simplify-2026 |
-| [Apptronik](https://boards.greenhouse.io/apptronik/jobs/5985132004) | Robotics Software Intern - Real-Time Controls | Austin, TX | Summer 2026 | 2026-04-30 | 146 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4676467006) | Electrical Engineer Intern | San Jose, CA | Winter 2027 | 2026-04-27 | 149 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2) | Embedded Systems and Hardware Co-Op | Horsham, PA | Summer 2026 | 2026-04-18 | 158 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1) | Electronic Systems and Hardware Co-Op | Horsham, PA | Summer 2026 | 2026-04-18 | 158 | simplify-2026 |

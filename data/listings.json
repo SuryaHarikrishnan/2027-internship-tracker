@@ -13071,7 +13071,7 @@
     "company_name": "Watts Water",
     "id": "fe51fb9a-73cc-4b16-993a-f6d8191eeaf0",
     "title": "Product Specialist Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17164,7 +17164,7 @@
     "company_name": "Garmin",
     "id": "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -37035,7 +37035,7 @@
     "company_name": "Procter & Gamble",
     "id": "44c2aa20-8092-459f-8710-f180c50636b0",
     "title": "Research and Development PhD Intern - Life Cycle Assessment - Data Science",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -74572,7 +74572,7 @@
     "company_name": "Rockwell Automation",
     "id": "6dd8231b-af5b-412e-bbe4-d94af163d8f7",
     "title": "Content Software Development Intern - Lifecycle Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -80609,7 +80609,7 @@
     "company_name": "AMD",
     "id": "03a692be-c92c-46ec-92a0-4dc48f6487c1",
     "title": "Software Engineer Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027",
@@ -89600,7 +89600,7 @@
     "company_name": "Mastercard",
     "id": "466b932d-3cf0-4669-af9f-fa3d799a5a18",
     "title": "Data Scientist Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -133236,7 +133236,7 @@
     "company_name": "SRI International",
     "id": "0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3",
     "title": "Embedded Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -183397,7 +183397,7 @@
     "company_name": "Tesla",
     "id": "6093e680-0285-45a2-8e38-1f6ae4e9f4cc",
     "title": "Electronic Design Engineer Intern - Optimus",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -199350,7 +199350,7 @@
     "company_name": "EV Realty",
     "id": "be6493df-d454-4e77-b102-3eef5e546c99",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -226745,7 +226745,7 @@
     "company_name": "Apptronik",
     "id": "607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
     "title": "Robotics Software Intern - Real-Time Controls",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

@@ -1,4 +1,4 @@
-# Software Engineering (1362)
+# Software Engineering (1360)
 
 [← back to index](../README.md)
 
@@ -768,7 +768,6 @@
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11422/job?mobile=true&needsRedirect=false) | Technology Co-op - Drexel University | Bala Cynwyd, PA | Winter 2026 | 2026-09-01 | 22 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/281462) | Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering | Fremont, CA | Winter 2027, Spring 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/90305?icims=1) | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | Summer 2027 | 2026-09-01 | 22 | simplify-2026 |
-| [AMD](https://careers.amd.com/jobs/91366?icims=1) | Software Engineer Intern/Co-op | Calgary, AB, Canada | Winter 2027, Summer 2027, Fall 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/90427?icims=1) | AGS Libraries Intern/Co-op | Calgary, AB, Canada | Summer 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91367?icims=1) | Software Engineer Intern/Co-op | Vancouver, BC, Canada | Winter 2027, Summer 2027, Fall 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91368?icims=1) | Software Engineer Intern/Co-op | Markham, ON, Canada | Winter 2027, Summer 2027, Fall 2027 | 2026-09-01 | 22 | simplify-2026 |
@@ -805,7 +804,6 @@
 | [Ameriprise Financial](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538) | Asset Management Technology Intern - Data Enablement | Boston, MA | Summer 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) | Software Engineer Intern | Germantown, MD, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington County, Arlington, VA, Melbourne, FL, Petaluma, CA, Minneapolis, MN, San Luis Obispo, CA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA | Summer 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [Vermeer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) | Software Engineer Intern - IT | Pella, IA | Summer 2027 | 2026-09-01 | 22 | simplify-2026 |
-| [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2) | Content Software Development Intern - Lifecycle Services | Mayfield Heights, OH | Winter 2026 | 2026-09-01 | 22 | simplify-2026 |
 | [First National Bank](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847) | Application Development Intern | Pittsburgh, PA | Summer 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) | Software Engineer Intern - Summer 2027 | Northbrook, IL | Summer 2027 | 2026-09-01 | 22 | simplify-2026 |
 | [US Foods](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111) | Software Engineer Intern - Digital Commerce | Rosemont, IL | Summer 2026 | 2026-09-01 | 22 | simplify-2026 |

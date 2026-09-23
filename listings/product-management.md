@@ -1,4 +1,4 @@
-# Product Management (232)
+# Product Management (231)
 
 [← back to index](../README.md)
 
@@ -27,7 +27,6 @@
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Downers-Grove-Illinois/Early-Career-Intern-ETF-Product_R-15546) | ETF Product Intern | Downers Grove, IL | Summer 2027 | 2026-09-17 | 6 | simplify-2026 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545) | Early Career Intern - Private Markets Product | Atlanta, GA | Summer 2027 | 2026-09-17 | 6 | simplify-2026 |
 | [Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) | Product Specialist Intern | Fort Worth, TX | Summer 2027 | 2026-09-17 | 6 | simplify-2026 |
-| [Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern--Summer-2027_10017585) | Product Specialist Intern - Summer 2027 | Fort Worth, TX | Summer 2027 | 2026-09-17 | 6 | simplify-2026 |
 | [Acxiom](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1) | Product Operations Intern | Conway, AR | Winter 2027 | 2026-09-17 | 6 | simplify-2026 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) | Digital Product Management Intern | Wyoming, MI | Summer 2027 | 2026-09-17 | 6 | simplify-2026 |
 | [Fidelity National Information Services](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691) | Product Management Intern - FIS University Program | Milwaukee, WI, Jacksonville, FL, Atlanta, GA | Summer 2027 | 2026-09-17 | 6 | simplify-2026 |

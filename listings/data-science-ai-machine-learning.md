@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1475)
+# Data Science, AI & Machine Learning (1472)
 
 [← back to index](../README.md)
 
@@ -488,7 +488,6 @@
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) | Systematic Data Strategy Intern | NYC | Summer 2027 | 2026-09-10 | 13 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---General-Motors-Economics-Intern_JR-202619691) | Economics Intern | Washington, DC, Warren, MI | Summer 2027 | 2026-09-10 | 13 | simplify-2026 |
 | [Ketjen](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Data Science Intern | Houston, TX | Summer 2027 | 2026-09-10 | 13 | simplify-2026 |
-| [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Cycle-Assessment--LCA--Data-Science_R000158787) | Research and Development PhD Intern - Life Cycle Assessment - Data Science | Mason, OH | Summer 2027 | 2026-09-10 | 13 | simplify-2026 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/WHBC---WINTON-HILL-BUS-CENTER/PhD-Intern---Data-Scientist---Generative-AI-in-Femcare_R000158406) | Intern | Ohio | Summer 2027 | 2026-09-10 | 13 | simplify-2026 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Data-Science-and-Machine-Learning_R000158138) | Data Science and Machine Learning PhD Intern | Mason, OH | Summer 2027 | 2026-09-10 | 13 | simplify-2026 |
 | [USAA](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Future-Leaders-Program---Data-Intern_R0120824) | Data Intern - Future Leaders Program | Charlotte, NC, San Antonio, TX | Summer 2027 | 2026-09-10 | 13 | simplify-2026 |
@@ -947,7 +946,6 @@
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) | Data Scientist Intern - Summer Games | Colorado Springs, CO | Summer 2027 | 2026-08-28 | 26 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Data Scientist Intern - University | Charleston, SC | Summer 2027 | 2026-08-28 | 26 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) | Data Scientist Intern - University | Atlanta, GA | Summer 2027 | 2026-08-28 | 26 | simplify-2026 |
-| [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869) | Data Scientist Intern - Summer 2027 | O'Fallon, MO | Summer 2027 | 2026-08-28 | 26 | simplify-2026 |
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Data-and-Analytics-Internship_R0075377) | Data and Analytics Intern | Detroit, MI, Dallas, TX, Charlotte, NC, Columbus, OH | Summer 2027 | 2026-08-28 | 26 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) | AI/ML Engineer Intern | Wilmington, MA | Fall 2026 | 2026-08-28 | 26 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/54562/job?mobile=true&needsRedirect=false) | MES & Industrial Automation Intern | Richardson, TX | Fall 2026 | 2026-08-27 | 27 | simplify-2026 |
@@ -1395,7 +1393,6 @@
 | [TikTok](https://lifeattiktok.com/search/7644719084681234741) | Data Science Intern - Tiktok Shop-Supply Chain & Logistics | Seattle, WA | Summer 2026 | 2026-05-28 | 118 | simplify-2026 |
 | [NewsBreak](https://job-boards.greenhouse.io/newsbreak/jobs/4684555006) | Research Intern - Agent Reinforcement Learning Training | Mountain View, CA | Summer 2026 | 2026-05-27 | 119 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7642762054696896773/detail) | Research Scientist Intern - Seed Responsible AI | San Jose, CA | Summer 2026 | 2026-05-25 | 121 | simplify-2026 |
-| [EV Realty](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | Data Analytics Intern | Salt Lake City, UT, SF | Summer 2026 | 2026-05-22 | 124 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664221) | Machine Learning and Artificial Intelligence Intern | United States | Summer 2026 | 2026-05-22 | 124 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200664223) | Machine Learning and Artificial Intelligence PhD Intern | United States | Summer 2026 | 2026-05-22 | 124 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7642264645810292997) | Data Analyst Intern - TikTok Live | London, UK | Summer 2026 | 2026-05-21 | 125 | simplify-2026 |
