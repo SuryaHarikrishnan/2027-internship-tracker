@@ -1,4 +1,4 @@
-# Hardware Engineering (659)
+# Hardware Engineering (657)
 
 [← back to index](../README.md)
 
@@ -115,7 +115,6 @@
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721109168) | Sensors Subsystem Engineering Intern - Multiple Teams | Markham, ON, Canada | Summer 2027 | 2026-09-15 | 8 | simplify-2026 |
 | [Lunar Outpost](https://lunaroutpost.bamboohr.com/careers/399/) | Test Engineering Intern | Golden, CO | Summer 2027 | 2026-09-15 | 8 | simplify-2026 |
 | [Lunar Outpost](https://lunaroutpost.bamboohr.com/careers/392/) | Embedded Software Engineer Intern - Summer 2027 | Golden, CO | Summer 2027 | 2026-09-15 | 8 | simplify-2026 |
-| [bioMérieux](https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false) | Hardware Co-op | Hazelwood, MO | Winter 2026 | 2026-09-15 | 8 | simplify-2026 |
 | [Gecko Robotics](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true) | Embedded Software Engineer Intern - RoboSPLAT - Field Infra | Pittsburgh, PA | Summer 2027 | 2026-09-15 | 8 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017921) | Systems Marketing Engineer Intern - A&D | Dallas, TX | Winter 2026 | 2026-09-15 | 8 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54276?icims=1) | ASIC Design-for-Test Engineer Intern - DFT | Colorado Springs, CO | Summer 2027 | 2026-09-15 | 8 | simplify-2026 |
@@ -143,7 +142,6 @@
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) | Physical Design and Timing Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-09-15 | 8 | simplify-2026 |
 | [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042) | Onboard Software Developer Intern | Pittsburgh, PA | Summer 2027 | 2026-09-15 | 8 | simplify-2026 |
 | [Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Electrical-Engineer-Intern_260005049-1) | Electrical Engineer Intern | Indianapolis, IN | Winter 2026 | 2026-09-15 | 8 | simplify-2026 |
-| [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) | Design Engineer Intern - HBM | Richardson, TX | Winter 2026 | 2026-09-15 | 8 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128) | Design Evaluation Engineer Intern | Wilmington, MA, Durham, NC, San Diego, CA | Winter 2026 | 2026-09-15 | 8 | simplify-2026 |
 | [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dexter-Michigan-USA/Electrical-Engineering-Intern_R0023525) | Electrical Engineering Intern | Dexter, MI | Winter 2026 | 2026-09-15 | 8 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493) | Software Engineer Intern | SF | Winter 2026 | 2026-09-15 | 8 | simplify-2026 |

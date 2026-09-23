@@ -17,12 +17,12 @@ Ranked by freshness + company tier + role category.
 | 7 | **Google** | Product Manager Intern - Summer 2027 | SF, San Bruno, CA, NYC, Mountain View, CA | Summer 2027 | 2026-09-22 (1d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) |
 | 8 | **Microsoft** | Robotics Resident - Robotics | Cambridge, UK | Winter 2026 | 2026-09-22 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557006388) |
 | 9 | **NVIDIA** | Networking Research Intern - Networking | Santa Clara, CA | Summer 2027 | 2026-09-21 (2d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) |
-| 10 | **TikTok** | Data Engineer Intern - Data Platform - TikTok BP | San Jose, CA | Summer 2026 | 2026-09-22 (1d ago) | [Apply](https://lifeattiktok.com/search/7681783406632782085) |
-| 11 | **Optiver** | Software Engineer Co-op | Chicago, IL | Winter 2027, Spring 2027 | 2026-09-22 (1d ago) | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) |
-| 12 | **Northrop Grumman** | Software Engineer Intern - Navigation Intelligence and Connectivity Division | San Diego, CA | Summer 2027 | 2026-09-22 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150) |
-| 13 | **Rivian** | Software Engineer Co-op Intern - Product Development Portal | Palo Alto, CA | Spring 2027 | 2026-09-22 (1d ago) | [Apply](https://careers.rivian.com/jobs/33745?icims=1) |
-| 14 | **ByteDance** | Product Management Project Intern - Global Payment | San Jose, CA | Summer 2027 | 2026-09-22 (1d ago) | [Apply](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
-| 15 | **Citadel** | Quantitative Researcher Post-Doctoral Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-09-16 (7d ago) | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) |
+| 10 | **Intel** | System Simulation Co-op | Remote in Canada | Winter 2026 | 2026-09-23 (0d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-CO-OP_JR0287122) |
+| 11 | **TikTok** | Data Engineer Intern - Data Platform - TikTok BP | San Jose, CA | Summer 2026 | 2026-09-22 (1d ago) | [Apply](https://lifeattiktok.com/search/7681783406632782085) |
+| 12 | **Optiver** | Software Engineer Co-op | Chicago, IL | Winter 2027, Spring 2027 | 2026-09-22 (1d ago) | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) |
+| 13 | **Northrop Grumman** | Software Engineer Intern - Navigation Intelligence and Connectivity Division | San Diego, CA | Summer 2027 | 2026-09-22 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150) |
+| 14 | **Rivian** | Software Engineer Co-op Intern - Product Development Portal | Palo Alto, CA | Spring 2027 | 2026-09-22 (1d ago) | [Apply](https://careers.rivian.com/jobs/33745?icims=1) |
+| 15 | **ByteDance** | Product Management Project Intern - Global Payment | San Jose, CA | Summer 2027 | 2026-09-22 (1d ago) | [Apply](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (21d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-23 13:53 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-23 17:36 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
