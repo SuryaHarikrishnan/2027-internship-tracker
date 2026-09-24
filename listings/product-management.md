@@ -1,4 +1,4 @@
-# Product Management (234)
+# Product Management (232)
 
 [← back to index](../README.md)
 
@@ -154,7 +154,6 @@
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594) | Offering Management Intern | United States | Summer 2027 | 2026-08-27 | 28 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279233) | Power Management Intern - Summer 2027 | Delaware, OH | Summer 2027 | 2026-08-27 | 28 | simplify-2026 |
 | [Johns Manville](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) | Product Management Intern | Denver, CO | Summer 2027 | 2026-08-27 | 28 | simplify-2026 |
-| [Xpansiv](https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply) | Product Management Intern - AI Products | NYC | Fall 2026 | 2026-08-25 | 30 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) | DC Power Product Management Intern - Summer 2027 | Delaware, OH | Summer 2027 | 2026-08-25 | 30 | simplify-2026 |
 | [J.M. Smucker](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) | Sensory and Products Research Intern - Summer 2027 | Orrville, OH | Summer 2027 | 2026-08-25 | 30 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142) | Product Management Intern - Parts & Accessories | Fond du Lac, WI | Fall 2026 | 2026-08-25 | 30 | simplify-2026 |
@@ -213,7 +212,6 @@
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) | Product Management Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | 2026-08-03 | 52 | simplify-2026 |
 | [Pentair](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | Product Management Internship | Apex, NC, Brookfield, WI, Delavan, WI, North Aurora, IL, New Brighton, MN, Golden Valley, MN | Summer 2027 | 2026-08-03 | 52 | simplify-2026 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) | Product Management Intern | San Mateo, CA | Fall 2026 | 2026-07-31 | 55 | simplify-2026 |
-| [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | Product Management Intern | Southfield, MI | Fall 2026 | 2026-07-29 | 57 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7665081919226284293) | Product Solutions and Operations Intern - Ads Interface and Platform Product | Seattle, WA | Summer 2026, Fall 2026 | 2026-07-28 | 58 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7663478489194612997) | Global Product Strategy & Operation Project Intern - Ads Interface and Platform Product | San Jose, CA | Fall 2026 | 2026-07-24 | 62 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7665080709191108917) | Product Solutions and Operations Project Intern - Ads Interface and Platform Product | San Jose, CA | Summer 2026, Fall 2026 | 2026-07-24 | 62 | simplify-2026 |
