@@ -1804,7 +1804,7 @@
     "company_name": "Walmart",
     "id": "3af71e6a-4c5c-455a-a170-bc436c1d5aa7",
     "title": "Product Manager 2 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -6263,7 +6263,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -14484,7 +14484,7 @@
     "company_name": "4AG Robotics",
     "id": "5fb2e4f9-0eb7-43f3-8775-1fff0a8a0927",
     "title": "AI Co-op Student",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -16777,7 +16777,7 @@
     "company_name": "American Express",
     "id": "e42c5690-d416-4909-ba3c-fd4eca08295e",
     "title": "Marketing Analyst Intern - Undergraduate ICS",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -18071,7 +18071,7 @@
     "company_name": "EQT Corporation",
     "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
     "title": "Data Engineering Intern - Completions Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -20759,7 +20759,7 @@
     "company_name": "Live Oak Bank",
     "id": "94db09b4-4148-4208-acfd-2dcfef6b4a27",
     "title": "Architecture/Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23646,7 +23646,7 @@
     "company_name": "NVIDIA",
     "id": "e4d72b3b-b6d8-46ec-a879-a0f2664ed75d",
     "title": "PhD Research Intern - Generative AI for Physical AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23672,7 +23672,7 @@
     "company_name": "Santander",
     "id": "79a2dc1b-cfae-4772-be32-6665799e95fb",
     "title": "Data Steward Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -48571,7 +48571,7 @@
     "company_name": "General Dynamics Mission Systems",
     "id": "cb671a4e-ff11-4624-a824-2b46cbf7a24f",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -54882,7 +54882,7 @@
     "company_name": "ICF International",
     "id": "75efacf7-58e1-468e-9621-e23a1444acdf",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -55171,7 +55171,7 @@
     "company_name": "Airbus",
     "id": "bd80c89b-42e4-4c23-a52a-2dd6ab1d67d8",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -64038,7 +64038,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -64322,7 +64322,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -64452,7 +64452,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -71942,7 +71942,7 @@
     "company_name": "Northwood Space",
     "id": "ecdb732a-4566-44b5-bb1e-360045df13d9",
     "title": "Electrical Engineer Intern - Summer Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -76068,7 +76068,7 @@
     "company_name": "Fenwick & West",
     "id": "20193c4f-2bf1-4b30-a574-750d8d917d92",
     "title": "Forward Deployed Operations Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -84193,7 +84193,7 @@
     "company_name": "Trane Technologies",
     "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
     "title": "AI & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -85757,7 +85757,7 @@
     "company_name": "Merchants Bank of Indiana",
     "id": "7e772e12-bb40-45ce-b4c8-b8905b2dada8",
     "title": "Business Technology Intern - Application Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -104645,7 +104645,7 @@
     "company_name": "Brunswick",
     "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -123625,7 +123625,7 @@
     "company_name": "Deloitte",
     "id": "ab415b2f-4b79-4996-a204-a63273564c89",
     "title": "Software Engineering Analyst Intern - Government & Public Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -138547,7 +138547,7 @@
     "company_name": "Obsidian Solutions Group",
     "id": "ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
     "title": "Unity 3D Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -175161,7 +175161,7 @@
     "company_name": "SDSU Research Foundation",
     "id": "eeb53961-7042-4fec-9272-ed291c610f32",
     "title": "NIWC \u2013 Undergraduate Student 2 or 3 - Communications Division Engineering Support",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -235745,7 +235745,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -328172,7 +328172,7 @@
     "company_name": "PennState University",
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "title": "Research and Development Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Fall 2026",
