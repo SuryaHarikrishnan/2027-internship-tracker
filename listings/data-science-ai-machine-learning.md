@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1494)
+# Data Science, AI & Machine Learning (1492)
 
 [← back to index](../README.md)
 
@@ -337,7 +337,6 @@
 | [Avis Budget Group](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Data-Analytics-Intern_R0190392) | IT Data Analytics Intern | Parsippany-Troy Hills, NJ | Winter 2026 | 2026-09-15 | 9 | simplify-2026 |
 | [QTS](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090) | Tableau Analytics and Business Intelligence Intern | Overland Park, KS | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Integrations-Intern_R49543) | Data Integrations Intern | Frederick, MD | Winter 2026 | 2026-09-15 | 9 | simplify-2026 |
-| [CAI](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452) | Data Analyst Intern | Pennsylvania | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [Howden](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Analytics-Summer-Internship-2027_R0019272) | Analytics Intern | London, UK | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [Howden](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Business-Intelligence-Summer-Internship-2027_R0019273) | Business Intelligence Intern | London, UK | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [X Development](https://x.company/careers/8802900002?gh_jid=8802900002) | AI Resident - Machine Learning / Software Engineering - Early Stage Project | Mountain View, CA | Winter 2026 | 2026-09-14 | 10 | simplify-2026 |
@@ -660,7 +659,6 @@
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Centre---TD-Tower---66-Wellington-Street-West-Toronto-Ontario/Business-Insights---Analytics-Co-op-Intern-Winter-2027_R_1506527) | Business Insights & Analytics Co-op Intern | Toronto, ON, Canada | Winter 2027 | 2026-09-08 | 16 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Co-op-Intern--WINTER-2027-_R_1506122) | Business Intelligence Co-op Intern - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-08 | 16 | simplify-2026 |
 | [Cox](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164) | Data Scientist Intern | Atlanta, GA | Summer 2027 | 2026-09-08 | 16 | simplify-2026 |
-| [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403) | Medical Data Scientist Intern | North Wales, PA | Summer 2027 | 2026-09-08 | 16 | simplify-2026 |
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Portfolio-Resource-Forecasting---Intern_R414068) | Portfolio Resource Forecasting Intern | North Wales, PA, Rahway, NJ | Summer 2027 | 2026-09-08 | 16 | simplify-2026 |
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Information-Science---Intern_R413651) | Information Science Intern - Future Talent Program | Rahway, NJ | Summer 2027 | 2026-09-08 | 16 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711) | Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-08 | 16 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (684)
+# Hardware Engineering (681)
 
 [← back to index](../README.md)
 
@@ -177,7 +177,6 @@
 | [Valeo](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Application-Engineering-Intern--Year-Round-_REQ2026080234) | Application Engineering Intern | Auburn Hills, MI, Troy, MI | Winter 2026 | 2026-09-15 | 9 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320) | Test Engineer Intern | Perry, OK | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) | Physical Design and Timing Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
-| [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042) | Onboard Software Developer Intern | Pittsburgh, PA | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Electrical-Engineer-Intern_260005049-1) | Electrical Engineer Intern | Indianapolis, IN | Winter 2026 | 2026-09-15 | 9 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128) | Design Evaluation Engineer Intern | Wilmington, MA, Durham, NC, San Diego, CA | Winter 2026 | 2026-09-15 | 9 | simplify-2026 |
 | [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dexter-Michigan-USA/Electrical-Engineering-Intern_R0023525) | Electrical Engineering Intern | Dexter, MI | Winter 2026 | 2026-09-15 | 9 | simplify-2026 |
@@ -447,7 +446,6 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582) | Electrical Engineer Intern | Boise, ID | Winter 2026 | 2026-09-01 | 23 | simplify-2026 |
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434) | Software Developer Intern - Avionics Software | Washington, LA, Longmont, CO, Denver, CO | Summer 2027 | 2026-09-01 | 23 | simplify-2026 |
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) | Avionics Software Intern - Undergraduate | Seattle, WA, LA, Longmont, CO, Denver, CO | Summer 2027 | 2026-09-01 | 23 | simplify-2026 |
-| [Stanley Black & Decker](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) | Embedded Software Engineering Intern | Towson, MD | Summer 2027 | 2026-09-01 | 23 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Software-Engineering-Student_R00259672) | Software Engineering Co-op | Troy, MI | N/A | 2026-09-01 | 23 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-Op---Fall-2027_331393) | Embedded Software Engineer Co-op - Fall 2027 | Danbury, CT | Fall 2027 | 2026-09-01 | 23 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368) | Embedded Software Engineer Co-op | Danbury, CT | Spring 2027 | 2026-09-01 | 23 | simplify-2026 |
@@ -598,7 +596,6 @@
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) | Thermal Engineer Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-10 | 45 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | DRAM Design Engineer Intern | Boise, ID | Fall 2026 | 2026-08-10 | 45 | simplify-2026 |
 | [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) | Firmware Engineer Intern - Platform Firmware | Boston, MA, Seattle, WA | Summer 2026 | 2026-08-07 | 48 | simplify-2026 |
-| [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003) | 2027 US Electrical Engineering Internship | Scottsdale, AZ | Summer 2027 | 2026-08-07 | 48 | simplify-2026 |
 | [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) | Flight Software Intern - Spring 2027 | El Segundo, CA | Spring 2027 | 2026-08-07 | 48 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7670332179383699717/detail) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | Summer 2027 | 2026-08-06 | 49 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668475133954197765/detail) | GPU/AI Application Platform Engineer Intern - Server Platform | San Jose, CA | Fall 2026 | 2026-08-06 | 49 | simplify-2026 |

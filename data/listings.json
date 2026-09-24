@@ -24443,7 +24443,7 @@
     "company_name": "Hitachi",
     "id": "95c4918c-cb96-4b7c-afa4-cb0f50c7378e",
     "title": "Onboard Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26074,7 +26074,7 @@
     "company_name": "CAI",
     "id": "38a9bfa8-336d-4c6f-8f7d-cce0d1dfee77",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26100,7 +26100,7 @@
     "company_name": "CAI",
     "id": "593f743d-dbf9-4e74-97a9-3e11236aaddd",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53460,7 +53460,7 @@
     "company_name": "Merck",
     "id": "5f032af0-0aa0-447c-9b7e-576e955d9c70",
     "title": "Medical Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -81082,7 +81082,7 @@
     "company_name": "Stanley Black & Decker",
     "id": "5a144b1c-3ccb-4181-9154-5f01d4375f68",
     "title": "Embedded Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -95477,7 +95477,7 @@
     "company_name": "Axon",
     "id": "2fe280fe-5031-4477-ba75-3261ae5e81fe",
     "title": "2027 US Electrical Engineering Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],

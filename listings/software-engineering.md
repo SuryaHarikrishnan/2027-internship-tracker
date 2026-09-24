@@ -1,4 +1,4 @@
-# Software Engineering (1354)
+# Software Engineering (1353)
 
 [← back to index](../README.md)
 
@@ -303,7 +303,6 @@
 | [LexisNexis Legal & Professional](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692) | Software Engineer Intern | Raleigh, NC | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [Intelcom | Dragonfly](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Back-end-Developer-Intern---Mobile-Application_JR111747) | Back-end Developer Intern - Mobile Application | Montreal, QC, Canada | Winter 2026 | 2026-09-15 | 9 | simplify-2026 |
 | [General Dynamics Information Technology](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406) | Software Development Intern | Falls Church, VA | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
-| [CAI](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462) | Software Developer Intern | Pennsylvania | Summer 2027 | 2026-09-15 | 9 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8198218) | Software Engineering Intern - Commercialization | SF, Mountain View, CA | Summer 2027 | 2026-09-14 | 10 | simplify-2026 |
 | [Fanvue](https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce/application?embed=true) | Software Engineer Intern | London, UK | Winter 2026 | 2026-09-14 | 10 | simplify-2026 |
 | [PressW](https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true) | Applied AI Engineer Intern | Austin, TX | Winter 2026 | 2026-09-14 | 10 | simplify-2026 |
