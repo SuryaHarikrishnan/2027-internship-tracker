@@ -19676,7 +19676,7 @@
     "company_name": "Visa",
     "id": "d1143c35-1cc7-4e60-a5c6-4e223abab7d0",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -21736,7 +21736,7 @@
     "company_name": "KBR",
     "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
     "title": "Image Processing Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -26078,7 +26078,7 @@
     "company_name": "bioM\u00e9rieux",
     "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
     "title": "Hardware Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -43493,7 +43493,7 @@
     "company_name": "Cox",
     "id": "21568f01-2d51-4221-a7e5-9c047abad62d",
     "title": "AI/Automation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43651,7 +43651,7 @@
     "company_name": "Canadian Tire",
     "id": "1b3aec3c-4c0c-4efb-a5bc-1e8fc5416875",
     "title": "Data Analyst Student - Winter Term 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -65708,7 +65708,7 @@
     "company_name": "RTX",
     "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
     "title": "Performance Indicator Development and Process and Project Management Internship",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -72674,7 +72674,7 @@
     "company_name": "Kinder Morgan",
     "id": "e5be58b3-8e57-426f-843b-f92609fdc6d5",
     "title": "Intern - IT",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -175012,7 +175012,7 @@
     "company_name": "Palantir",
     "id": "da1074aa-7344-4ad3-9b53-078f1dbd2edc",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2028",
       "Spring 2028",
