@@ -1,4 +1,4 @@
-# Hardware Engineering (687)
+# Hardware Engineering (686)
 
 [← back to index](../README.md)
 
@@ -128,6 +128,7 @@
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721140914) | Analog Design Intern - Hardware Engineering | Toronto, ON, Canada | Summer 2027 | 2026-09-17 | 8 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75019/job?mobile=true&needsRedirect=false) | Electrical Engineer Intern | Salt Lake City, UT, Boise, ID | Winter 2026 | 2026-09-17 | 8 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false) | Embedded Software Engineer Intern | Salt Lake City, UT, Boise, ID | Winter 2026 | 2026-09-17 | 8 | simplify-2026 |
+| [REV Robotics](https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba) | Software Engineer Intern | Carrollton, TX | Summer 2027 | 2026-09-17 | 8 | simplify-2026 |
 | [REV Robotics](https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744) | Electrical Engineer Intern | Carrollton, TX | Winter 2026 | 2026-09-17 | 8 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/33725?icims=1) | Engineering Intern/Co-op - Test and Validation - Charging Products | Torrance, CA | Summer 2027 | 2026-09-17 | 8 | simplify-2026 |
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) | Systems Engineer Intern | Pasadena, CA | Summer 2027 | 2026-09-17 | 8 | simplify-2026 |
@@ -656,8 +657,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469) | Silicon Photonics Intern - PhD - Fall 2026 Start Date | Ottawa, ON, Canada | Fall 2026 | 2026-06-13 | 104 | simplify-2026 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5148101007) | Electrical Engineer Intern | Boston, MA, Seattle, WA, Irvine, CA, Colorado Springs, CO, Reston, VA, Fort Collins, CO, Broomfield, CO, Atlanta, GA, Costa Mesa, CA | Summer 2027 | 2026-06-11 | 106 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | Design Verification Engineer Intern | Toronto, ON, Canada | Summer 2026 | 2026-06-08 | 109 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/272581) | Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 110 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/272912) | Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware | Palo Alto, CA | Summer 2026, Fall 2026 | 2026-06-07 | 110 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7761881003) | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | Summer 2026 | 2026-06-02 | 115 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | Research Intern - Virtual Network | San Jose, CA | Summer 2026 | 2026-06-02 | 115 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7537163899668531474/detail) | Researcher Intern - Virtual Network | Seattle, WA | Summer 2026 | 2026-06-02 | 115 | simplify-2026 |

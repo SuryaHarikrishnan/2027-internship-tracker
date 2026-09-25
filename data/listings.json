@@ -2,6 +2,33 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Haleon",
+    "id": "a888752d-3464-483f-b4e3-0d5130bc28cd",
+    "title": "Data & Governance Industrial Placement",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1790335441,
+    "date_posted": 1790294400,
+    "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/London-Bankside/Data---Governance-Industrial-Placement--2027--London--UK_547610",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Haleon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Highgate",
     "id": "ed6d741a-4749-4428-a9e6-418e0beeee88",
     "title": "Revenue Management Intern",
@@ -296,7 +323,7 @@
     "company_name": "GoTo Group",
     "id": "f2af6a58-c979-43d6-a20b-83d4442bc1a9",
     "title": "Software Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -347,7 +374,7 @@
     "company_name": "GoTo Group",
     "id": "8e170ef4-7387-4cb2-8853-5e512c263392",
     "title": "Backend Software Engineer Intern - Grasshopper",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -2455,7 +2482,7 @@
     "company_name": "S&P Global",
     "id": "6e670457-b11b-4c13-a817-7f89c8a19c66",
     "title": "Research Analyst Intern - European LNG",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -8767,7 +8794,7 @@
     "company_name": "Northrop Grumman",
     "id": "4f096c73-afae-450f-b903-ace71c84d47f",
     "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17804,7 +17831,7 @@
     "company_name": "REV Robotics",
     "id": "f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -17908,7 +17935,7 @@
     "company_name": "Blue Cross and Blue Shield of Kansas",
     "id": "7d128fa9-54e9-4ae4-b459-3c499f820d1a",
     "title": "RPA Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -19864,7 +19891,7 @@
     "company_name": "Visa",
     "id": "d02657b4-87d2-4593-8b0e-d4bfb5b50cce",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -55484,7 +55511,7 @@
     "company_name": "TD Bank",
     "id": "a53c1447-bdf8-4925-91d7-98a79a5ec6c9",
     "title": "Saving & Investing Shopping & Buying Journey Intern Co-op - Saving & Investing",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -68486,7 +68513,7 @@
     "company_name": "Tesla",
     "id": "ee679fb6-efac-49fd-adaa-dc409d7a9304",
     "title": "Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -71479,7 +71506,7 @@
     "company_name": "Hadrian",
     "id": "8028ea71-392c-4173-9d2a-1dc31c5a4571",
     "title": "Data Science/Data Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026",
       "Spring 2027",
@@ -76736,7 +76763,7 @@
     "company_name": "TD Bank",
     "id": "c3a1a72b-b2eb-407a-840f-68f1479c5386",
     "title": "Direct Investing Analytics & Insights Intern Co-op - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -165877,7 +165904,7 @@
     "company_name": "Pylon",
     "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -171262,7 +171289,7 @@
     "company_name": "JP Morgan Chase",
     "id": "5971e10c-96c8-4605-9fe5-6b3de66eb784",
     "title": "Machine Learning Center of Excellence Intern - NLP",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -174294,7 +174321,7 @@
     "company_name": "Tesla",
     "id": "3aadf7a9-d9ad-4c6e-a941-31641f852cdd",
     "title": "AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -189198,7 +189225,7 @@
     "company_name": "Tesla",
     "id": "abc70453-012c-4ef3-b911-7ee7d6a4af95",
     "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -208120,7 +208147,7 @@
     "company_name": "Medpace, Inc.",
     "id": "e484710b-5e00-46ed-bb45-b6b53b1559ac",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
