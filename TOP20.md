@@ -16,13 +16,13 @@ Ranked by freshness + company tier + role category.
 | 6 | **Notion** | Mobile Software Engineer Intern | SF, NYC | Winter 2027 | 2026-09-24 (2d ago) | [Apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true) |
 | 7 | **Susquehanna International Group** | Machine Learning Engineer Intern | Bala Cynwyd, PA | Winter 2026 | 2026-09-24 (2d ago) | [Apply](https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false) |
 | 8 | **Ramp** | iOS Engineer Intern | NYC | Winter 2026 | 2026-09-24 (2d ago) | [Apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9/application?embed=true) |
-| 9 | **Figma** | Data Engineer Intern | SF, NYC | Winter 2026 | 2026-09-23 (3d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
-| 10 | **NVIDIA** | Research Intern - Electronic Design Automation | Santa Clara, CA | Summer 2027 | 2026-09-23 (3d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) |
-| 11 | **Amazon** | Quantum Applied Science Intern - Quantum Technologies team | Boston, MA, SF, Pasadena, CA, Santa Clara, CA | Summer 2027 | 2026-09-23 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team) |
-| 12 | **Intel** | Software Research Intern - PhD | Hillsboro, OR | Summer 2027 | 2026-09-25 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
-| 13 | **Hudson River Trading** | Data Scientist Intern | London, UK | Summer 2027 | 2026-09-22 (4d ago) | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413) |
-| 14 | **Rippling** | Machine Learning Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-22 (4d ago) | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) |
-| 15 | **Two Sigma** | Hardware Engineering Intern | NYC | Summer 2027 | 2026-09-22 (4d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
+| 9 | **Citadel** | Fixed Income & Macro Trader Intern - US | Greenwich, CT, Miami, FL, NYC | Winter 2026 | 2026-09-23 (3d ago) | [Apply](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) |
+| 10 | **Figma** | Data Engineer Intern | SF, NYC | Winter 2026 | 2026-09-23 (3d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
+| 11 | **NVIDIA** | Research Intern - Electronic Design Automation | Santa Clara, CA | Summer 2027 | 2026-09-23 (3d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) |
+| 12 | **Amazon** | Quantum Applied Science Intern - Quantum Technologies team | Boston, MA, SF, Pasadena, CA, Santa Clara, CA | Summer 2027 | 2026-09-23 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team) |
+| 13 | **Intel** | Software Research Intern - PhD | Hillsboro, OR | Summer 2027 | 2026-09-25 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
+| 14 | **Hudson River Trading** | Data Scientist Intern | London, UK | Summer 2027 | 2026-09-22 (4d ago) | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413) |
+| 15 | **Rippling** | Machine Learning Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-22 (4d ago) | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (24d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-26 13:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-26 16:50 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
