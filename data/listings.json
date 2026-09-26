@@ -1234,7 +1234,7 @@
     "company_name": "RGA Reinsurance Company",
     "id": "67a06040-d92a-4f48-93d2-49e731514717",
     "title": "Data Science/AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -2483,7 +2483,7 @@
     "company_name": "Barrios",
     "id": "ee8ed5ad-3be9-407e-8020-0d9a037d60be",
     "title": "Data and Computer Engineering/Computer Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4294,7 +4294,7 @@
     "company_name": "Marvell",
     "id": "6f7bf192-fce8-4fd8-b5b2-80bea38e4c1e",
     "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -6284,7 +6284,7 @@
     "company_name": "Citadel",
     "id": "ecaeb780-1615-4819-b504-9e3106d4d09a",
     "title": "Fixed Income & Macro Trader Intern - US",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -12711,7 +12711,7 @@
     "company_name": "Rodan Energy Solutions",
     "id": "c0b22f53-3c47-45f3-8c12-a94866f7f461",
     "title": "AI Solutions Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -12793,7 +12793,7 @@
     "company_name": "Rodan Energy Solutions",
     "id": "bfd666d6-eb74-40ca-8595-5c0e16820216",
     "title": "Data Operations Engineer AI Co-op - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -13711,7 +13711,7 @@
     "company_name": "NVIDIA",
     "id": "876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
     "title": "Research Intern - Robotics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -14898,7 +14898,7 @@
     "company_name": "Booz Allen",
     "id": "d2afb367-e5e2-4a63-a963-4e920b56ac3b",
     "title": "Systems Engineer Intern - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -15846,7 +15846,7 @@
     "company_name": "Boston Consulting Group",
     "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
     "title": "Forward Deployed AI Engineer Intern - BCG X",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -20604,7 +20604,7 @@
     "company_name": "Navy Federal",
     "id": "ea2d212a-7ea2-4505-9ff1-36417ed68976",
     "title": "Data Analyst Intern - Workplace Infrastructure & Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -21106,7 +21106,7 @@
     "company_name": "Marvell",
     "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
     "title": "SRAM Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027",
       "Summer 2028"
@@ -22951,7 +22951,7 @@
     "company_name": "TD Bank",
     "id": "f23c59b8-2691-43f7-a310-a6ca54c5b6a1",
     "title": "Product Management Intern Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -26569,7 +26569,7 @@
     "company_name": "Citadel",
     "id": "097e4adf-07db-4666-8e68-29b3364bc0eb",
     "title": "Quantitative Researcher Post-Doctoral Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -29053,7 +29053,7 @@
     "company_name": "NVIDIA",
     "id": "83a6fa1e-2e59-414e-9c23-5b68b7d11e8a",
     "title": "Physical Design and Timing Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -36268,7 +36268,7 @@
     "company_name": "Oshkosh",
     "id": "a95a5a5f-cc5c-44fe-9046-aeebb25d6f3c",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -48745,7 +48745,7 @@
     "company_name": "Barclays",
     "id": "aabf19a7-ebea-4712-8c04-87742467726b",
     "title": "Technology Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48769,7 +48769,7 @@
     "company_name": "Barclays",
     "id": "81a0e97d-9eea-4bd4-bbf6-b511c860fa9c",
     "title": "Technology Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48867,7 +48867,7 @@
     "company_name": "Barclays",
     "id": "61a5a0fc-0ce6-46ff-a4d2-50cc78e335f4",
     "title": "Customer and Digital Data and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48891,7 +48891,7 @@
     "company_name": "Barclays",
     "id": "51c7dc86-7911-4193-80a9-a7f6eab577b2",
     "title": "Marketing Analyst Intern - Marketing",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -49907,7 +49907,7 @@
     "company_name": "Intact",
     "id": "a1a4f745-5162-438b-9254-9a09299db5c0",
     "title": "AI Developer Intern Co-op - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -56135,7 +56135,7 @@
     "company_name": "Vercel",
     "id": "940140be-314d-40e2-8614-14d3a19bb049",
     "title": "Software Engineer Intern - Summer",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -61025,7 +61025,7 @@
     "company_name": "Marvell",
     "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
     "title": "Advanced Packaging Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -61379,7 +61379,7 @@
     "company_name": "Marvell",
     "id": "8dd02cc4-88fb-4046-8f93-5fdfada18ccb",
     "title": "Physical Design Engineer Intern - BS",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -62699,7 +62699,7 @@
     "company_name": "Procter & Gamble",
     "id": "f991871e-3a03-45a8-bed8-6e0038e44af8",
     "title": "Analytics & Insights Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -66634,7 +66634,7 @@
     "company_name": "Citadel",
     "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
     "title": "Machine Learning Researcher Intern - PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -69498,7 +69498,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69782,7 +69782,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -73191,7 +73191,7 @@
     "company_name": "Brunswick",
     "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
     "title": "Power BI/Ops Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -79863,7 +79863,7 @@
     "company_name": "Omnicom Group",
     "id": "75e8f127-6508-489a-85af-6d0bb6299903",
     "title": "Experience Design Engineer Intern Consultant - Design Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -88622,7 +88622,7 @@
     "company_name": "The Federal Reserve System",
     "id": "5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00",
     "title": "Statistics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -90123,7 +90123,7 @@
     "company_name": "JP Morgan Chase",
     "id": "f0d5c5b8-9d9e-48ed-82e0-b156b9a7f30b",
     "title": "Quantitative Research Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -90149,7 +90149,7 @@
     "company_name": "JP Morgan Chase",
     "id": "d9c3042a-3bd5-4d48-bf69-87f46d9b0d34",
     "title": "Quantitative Research Intern - Risk and Treasury - Off-Cycle",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -93600,7 +93600,7 @@
     "company_name": "General Motors",
     "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
     "title": "Data Engineering Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -130835,7 +130835,7 @@
     "company_name": "Citadel",
     "id": "de926b0a-99e7-4dbd-94cd-334ec565be9f",
     "title": "Sector Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -145049,7 +145049,7 @@
     "company_name": "Terranova",
     "id": "b00e8c3d-c02b-420e-a1a1-1ec7196b43f9",
     "title": "Controls/Robotics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -146773,7 +146773,7 @@
     "company_name": "Citadel",
     "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
     "title": "Sector Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -166276,7 +166276,7 @@
     "company_name": "Citadel",
     "id": "bd8719b9-2be8-458c-ad81-df18b03a5ef2",
     "title": "Quantitative Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -166444,7 +166444,7 @@
     "company_name": "Citadel",
     "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -170304,7 +170304,7 @@
     "company_name": "Citadel",
     "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
     "title": "Quantitative Trader: Equity Quantitative Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -172079,7 +172079,7 @@
     "company_name": "Citadel",
     "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
     "title": "Quantitative Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -172137,7 +172137,7 @@
     "company_name": "Citadel",
     "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -175533,7 +175533,7 @@
     "company_name": "Citadel",
     "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
     "title": "Quantitative Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -175561,7 +175561,7 @@
     "company_name": "Citadel",
     "id": "6813e05c-291f-4297-bae8-9e6c59d4a809",
     "title": "Quantitative Researcher \u2013 PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -175590,7 +175590,7 @@
     "company_name": "Citadel",
     "id": "1f74ca3f-e832-45e6-bc13-b8222034e373",
     "title": "Quantitative Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -406269,86 +406269,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TikTok",
-    "id": "841e759c-87fe-4c36-97bd-6940efcf988a",
-    "title": "Frontend Engineer Intern - BS/MS",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769683224,
-    "date_posted": 1769683224,
-    "url": "https://lifeattiktok.com/search/7527615375778416914",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Vivenu",
-    "id": "292a7c90-d3ac-48e1-bc8b-15055b917d43",
-    "title": "Working Student Web Development - d/f/m",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769683150,
-    "date_posted": 1769683150,
-    "url": "https://jobs.lever.co/vivenu/55c891f2-7f8f-4352-9b2a-1537b36e1865/apply",
-    "locations": [
-      "Neukirchen-Vluyn, Germany",
-      "Frankfurt, Germany"
-    ],
-    "company_url": "https://simplify.jobs/c/Vivenu",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "ce908ac5-9d9d-46ba-8bec-b53f8f0e01f9",
-    "title": "Undergraduate Placement Year Product Management Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769681482,
-    "date_posted": 1769681482,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000106251380",
-    "locations": [
-      "Stratford-upon-Avon, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
     "_sources": [
       "simplify-2026"
     ]
