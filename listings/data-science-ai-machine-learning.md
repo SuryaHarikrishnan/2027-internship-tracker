@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1475)
+# Data Science, AI & Machine Learning (1474)
 
 [← back to index](../README.md)
 
@@ -1321,7 +1321,6 @@
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4694889006) | Special Projects Intern | San Jose, CA | Fall 2026 | 2026-07-07 | 81 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7659527183984019765) | Applied Scientist Intern - Recommendation AI Lab | San Jose, CA | Fall 2026 | 2026-07-07 | 81 | simplify-2026 |
 | [Crest Nicholson](https://crestnicholson.wd103.myworkdayjobs.com/CN/job/Addlestone/Sales---Marketing-Insights-Intern_JR101083) | Sales and Marketing Insights Intern | Addlestone, UK | Fall 2026 | 2026-07-07 | 81 | simplify-2026 |
-| [AlixPartners](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | Data Scientist Intern | NYC | Summer 2027 | 2026-07-06 | 82 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8384490002) | Machine Learning Researcher | NYC | N/A | 2026-07-06 | 82 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8611307002) | Machine Learning Engineer | NYC | N/A | 2026-07-06 | 82 | simplify-2026 |
 | [Odys Aviation](https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f/application?embed=true) | Robotics & Embedded Systems Intern | Long Beach, CA | Fall 2026 | 2026-07-04 | 84 | simplify-2026 |
