@@ -1,4 +1,4 @@
-# Software Engineering (1357)
+# Software Engineering (1356)
 
 [← back to index](../README.md)
 
@@ -1165,7 +1165,6 @@
 | [Roam](https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c/application?embed=true) | Engineer Intern | SF | Fall 2026 | 2026-07-21 | 68 | simplify-2026 |
 | [Spacial AI](https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application?embed=true) | Software Engineer Intern | Palo Alto, CA | Summer 2026 | 2026-07-21 | 68 | simplify-2026 |
 | [Architect Labs](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true) | Member of Technical Staff Research Intern | Palo Alto, CA | Fall 2026 | 2026-07-21 | 68 | simplify-2026 |
-| [Dexmate](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true) | Frontend Engineer Intern | Fremont, CA | Fall 2026 | 2026-07-21 | 68 | simplify-2026 |
 | [Denari](https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282) | Product & Software Internship | Madison, WI | Summer 2026 | 2026-07-21 | 68 | simplify-2026 |
 | [Prysmian Cables & Systems](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910) | AI Intern | Highland Heights, KY | Winter 2026 | 2026-07-21 | 68 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | Software Engineering Intern | Chicago, IL | Summer 2027 | 2026-07-20 | 69 | simplify-2026 |
