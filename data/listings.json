@@ -4294,7 +4294,7 @@
     "company_name": "Marvell",
     "id": "6f7bf192-fce8-4fd8-b5b2-80bea38e4c1e",
     "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -14149,7 +14149,7 @@
     "company_name": "Fidelity Investments",
     "id": "e90daa3f-ccbc-4cb4-a7b9-b19d4eaf6594",
     "title": "Quantitative Development & Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -15846,7 +15846,7 @@
     "company_name": "Boston Consulting Group",
     "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
     "title": "Forward Deployed AI Engineer Intern - BCG X",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -21476,7 +21476,7 @@
     "company_name": "Wellington Management",
     "id": "a5380d17-1b9c-48ba-ada4-ae136e855000",
     "title": "Business Intelligence Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -23109,7 +23109,7 @@
     "company_name": "Wellington Management",
     "id": "de842588-7a1b-4f74-8b9f-98e9fb143e74",
     "title": "People Analytics Co-op - HR",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Winter 2027"
@@ -29053,7 +29053,7 @@
     "company_name": "NVIDIA",
     "id": "83a6fa1e-2e59-414e-9c23-5b68b7d11e8a",
     "title": "Physical Design and Timing Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -61025,7 +61025,7 @@
     "company_name": "Marvell",
     "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
     "title": "Advanced Packaging Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -61468,7 +61468,7 @@
     "company_name": "Marvell",
     "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
     "title": "Design Verification Intern - MS",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69782,7 +69782,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -89108,7 +89108,7 @@
     "company_name": "Edison International",
     "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
     "title": "Summer Internship - Data Analytics/Science/Applied Math",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -97059,7 +97059,7 @@
     "company_name": "Brunswick",
     "id": "7fd82049-4a30-48f9-ab6c-519e8c2b11fd",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -108717,7 +108717,7 @@
     "company_name": "RTX",
     "id": "740d3c67-d925-48d7-995a-410073f010e8",
     "title": "Industrialization Intern - Industrialization Production Readiness",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -117019,7 +117019,7 @@
     "company_name": "NVIDIA",
     "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
     "title": "Mixed Signal Design Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -403285,95 +403285,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Microsoft",
-    "id": "7d2f4d2a-095a-4783-82f1-cb02fa15969c",
-    "title": "Software Engineer: Co-Op Intern Opportunities",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769769188,
-    "date_posted": 1769769188,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556746673",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Anywhere",
-    "id": "63f3cb92-828b-4fad-b9fe-bdf3bc3cc824",
-    "title": "Application Developer Intern - Client Innovation Center",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1769769126,
-    "date_posted": 1769769126,
-    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87264",
-    "locations": [
-      "East Lansing, MI",
-      "Monroe, LA",
-      "Baton Rouge, LA",
-      "Buffalo, NY",
-      "NYC",
-      "Louisiana",
-      "Michigan",
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/Anywhere-Real-Estatea",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Anywhere",
-    "id": "2dc41450-a0f3-4764-9d93-ff95749a4797",
-    "title": "AI Foundations \u2013 Research Internship: 2026 - Research Scientist",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1769769125,
-    "date_posted": 1769769125,
-    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805",
-    "locations": [
-      "Cambridge, MA",
-      "San Jose, CA",
-      "New York",
-      "Albany, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/Anywhere-Real-Estatea",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"
