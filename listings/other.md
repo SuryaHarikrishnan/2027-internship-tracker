@@ -1,4 +1,4 @@
-# Other (308)
+# Other (309)
 
 [← back to index](../README.md)
 
@@ -215,6 +215,7 @@
 | [Jump Trading Group](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Campus UI Software Engineer Intern | Chicago, IL |  | 2026-07-09 | 80 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Software Engineer Intern | Chicago, IL |  | 2026-07-09 | 80 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://www.jumptrading.com/hr/job?gh_jid=7848371) | Quantitative Trader Intern | Chicago, IL, New York, NY |  | 2026-07-09 | 80 | vanshb03-2026, vanshb03-2027 |
+| [Anduril](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Software Engineer Intern | Atlanta, GA, Boston, MA, Costa Mesa, CA, Irvine, CA, Reston, VA, Seattle, WA |  | 2026-07-07 | 82 | vanshb03-2026, vanshb03-2027 |
 | [DE Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | Software Developer Intern | New York, NY |  | 2026-07-07 | 82 | vanshb03-2026, vanshb03-2027 |
 | [Aquatic](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | Software Engineer Intern | Chicago, IL |  | 2026-07-07 | 82 | vanshb03-2026, vanshb03-2027 |
 | [IMC](https://www.imc.com/us/careers/jobs/4823924101) | Software Engineer Intern | Chicago, IL |  | 2026-07-07 | 82 | vanshb03-2026, vanshb03-2027 |

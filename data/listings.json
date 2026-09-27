@@ -11697,7 +11697,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -14149,7 +14149,7 @@
     "company_name": "Fidelity Investments",
     "id": "e90daa3f-ccbc-4cb4-a7b9-b19d4eaf6594",
     "title": "Quantitative Development & Data Science Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -61468,7 +61468,7 @@
     "company_name": "Marvell",
     "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
     "title": "Design Verification Intern - MS",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69281,7 +69281,7 @@
     "company_name": "Goldman Sachs",
     "id": "5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69471,7 +69471,7 @@
     "company_name": "Goldman Sachs",
     "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
     "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69498,7 +69498,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69524,7 +69524,7 @@
     "company_name": "Goldman Sachs",
     "id": "06098497-6840-4802-8838-81e0dbdec164",
     "title": "Summer Analyst Intern - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69550,7 +69550,7 @@
     "company_name": "Goldman Sachs",
     "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
     "title": "Summer Analyst Intern - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69603,7 +69603,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69629,7 +69629,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69653,7 +69653,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69679,7 +69679,7 @@
     "company_name": "Goldman Sachs",
     "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
     "title": "Summer Analyst Intern - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69729,7 +69729,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69755,7 +69755,7 @@
     "company_name": "Goldman Sachs",
     "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
     "title": "Summer Analyst Intern - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69782,7 +69782,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69806,7 +69806,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69832,7 +69832,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69858,7 +69858,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69885,7 +69885,7 @@
     "company_name": "Goldman Sachs",
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69912,7 +69912,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -100127,7 +100127,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -100272,7 +100272,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -122938,7 +122938,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -122964,7 +122964,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -122993,7 +122993,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -123048,7 +123048,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -123230,7 +123230,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -123278,7 +123278,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -123333,7 +123333,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -170658,6 +170658,32 @@
     ],
     "_sources": [
       "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1783427800,
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+    "locations": [
+      "Atlanta, GA",
+      "Boston, MA",
+      "Costa Mesa, CA",
+      "Irvine, CA",
+      "Reston, VA",
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Anduril",
+    "title": "Software Engineer Intern",
+    "season": "Summer",
+    "source": "aprameyak",
+    "id": "e6ef564e-5028-431b-97ed-0154893db99f",
+    "date_posted": 1783427800,
+    "company_url": "",
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -241183,33 +241209,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Flagship Pioneering",
-    "id": "142ff21b-8770-4d16-957a-15177633d17e",
-    "title": "Bioinformatics Co-Op: Computation Biology & Data Science",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1776983401,
-    "date_posted": 1769787097,
-    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8203697002",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "IEM",
     "id": "8470c8b0-e6d0-43af-ba47-a8c034cacfff",
@@ -263441,6 +263440,32 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fiserv",
+    "id": "cbe986fd-32b4-4255-8849-1b595d798b76",
+    "title": "Application Development Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775774653,
+    "date_posted": 1775772517,
+    "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Fishers-Indiana/Application-Development---Summer-Intern_R-10381706",
+    "locations": [
+      "Fishers, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Fiserv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
@@ -327745,7 +327770,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -398571,30 +398596,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Rolls Royce",
-    "id": "6e46af71-ac06-4b90-88e8-98728dc0b12c",
-    "title": "Total Vehicle Validation \u2013 Level 6 Apprenticeship",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1770073963,
-    "date_posted": 1769785958,
-    "url": "https://jobs.bmwgroup.com/job/Chichester-Total-Vehicle-Validation-Level-6-Apprenticeship/1288999201/?ats=successfactors",
-    "locations": [
-      "Portsmouth, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Product",
     "company_name": "Rheem",
     "id": "181e1ab7-c5e9-4b1f-99df-377099f36c6b",
@@ -402899,388 +402900,6 @@
       "Reston, VA"
     ],
     "company_url": "https://simplify.jobs/c/Penn-State",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "First Canadian Title",
-    "id": "2497f5fa-ec27-4a8b-9304-0f027e85f262",
-    "title": "Summer Student - IT RPA",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769787671,
-    "date_posted": 1769787671,
-    "url": "https://firstam.wd1.myworkdayjobs.com/fctcareers/job/CAN-Ontario-Oakville/Summer-Student---IT-RPA_R054226-1",
-    "locations": [
-      "Oakville, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/First-Canadian-Title",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Parexel",
-    "id": "7dd7d16e-d74f-492a-8788-e677ccdd8c5c",
-    "title": "Data Engineer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769787647,
-    "date_posted": 1769787647,
-    "url": "https://wd1.myworkdaysite.com/en-US/recruiting/parexel/Parexel_External_Careers/job/United-States---Raleigh---North-Carolina/Data-Engineer-Intern_R0000037539-1",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Parexel",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "CACI",
-    "id": "0317a0c5-1ffb-4bbe-bc96-b9c6e1c3242f",
-    "title": "AI Prompt Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769787609,
-    "date_posted": 1769787609,
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer-Intern_321469",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/CACI",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Fiserv",
-    "id": "c503b4a0-11a3-4b94-a58d-d8449172452b",
-    "title": "Application Development Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769787306,
-    "date_posted": 1769787306,
-    "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Fishers-Indiana/Application-Development-Intern_R-10387046",
-    "locations": [
-      "Fishers, IN"
-    ],
-    "company_url": "https://simplify.jobs/c/Fiserv",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Apex Fintech Solutions",
-    "id": "aa445a1c-4eab-4412-945f-c59ffe61f0c6",
-    "title": "Product Management Intern",
-    "active": false,
-    "terms": [
-      "Summer 2027"
-    ],
-    "date_updated": 1769787156,
-    "date_posted": 1769787156,
-    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/New-York-City-NY/Product-Management-Intern_JR104255",
-    "locations": [
-      "Austin, TX",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "GlobalFoundries",
-    "id": "afde11c1-97f0-4edc-a8eb-8550d2832ddd",
-    "title": "US Electronics Rebuild Technician Intern - New York - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769787155,
-    "date_posted": 1769787155,
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/US--New-York--Electronics-Rebuild-Technician-Intern--Summer-2026-_JR-2600573",
-    "locations": [
-      "Malta, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/GlobalFoundries",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Associate's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Markel Group, Inc.",
-    "id": "a131ddf9-2292-4359-be37-aee89da57d35",
-    "title": "Career Returner - Cat Risk Researcher",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769786864,
-    "date_posted": 1769786864,
-    "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/London---UK/Career-Returner---Cat-Risk-Researcher_R0022483-2",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Markel-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Anduril",
-    "id": "7b18d769-83e7-4fac-b679-0c87898f9145",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769786637,
-    "date_posted": 1769786637,
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5038508007",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Anduril",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "University Health Network",
-    "id": "732eb41e-6f38-461e-ad70-891160ee752f",
-    "title": "Research Intern",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769786454,
-    "date_posted": 1769786454,
-    "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000106530475",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/University-Health-Network",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Strathcona County",
-    "id": "540a7267-411d-4d56-92f2-8c75cbe4bf62",
-    "title": "GIS Student",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769786191,
-    "date_posted": 1769786191,
-    "url": "https://fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12461",
-    "locations": [
-      "Edmonton, AB, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Strathcona-County",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Radius Limited",
-    "id": "21db6f78-d37a-4cd6-b38b-6b440fb2a995",
-    "title": "Trainee Telematics & CCTV Installation Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769785869,
-    "date_posted": 1769785869,
-    "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000106508785",
-    "locations": [
-      "Gloucester, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Radius-Limited",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "General Dynamics Mission Systems",
-    "id": "6f9ad2c5-dc56-4c6d-b2bd-2368ada59144",
-    "title": "Administrative Data Analytics Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769785693,
-    "date_posted": 1769785693,
-    "url": "https://careers-gdms.icims.com/jobs/70489/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Dedham, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Amazon",
-    "id": "b2359b95-1834-4ff2-ae84-357a78e6a6a9",
-    "title": "Digital Product Manager Apprentice - Months Fixed Term Contract",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1769785623,
-    "date_posted": 1769785623,
-    "url": "https://amazon.jobs/en/jobs/3170409/digital-product-manager-apprentice-24-months-fixed-term-contract",
-    "locations": [
-      "Swansea, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Citi",
-    "id": "ca36fb75-847e-444e-a42d-144a26d6101b",
-    "title": "Technology Apprentice",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769783525,
-    "date_posted": 1769783525,
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology-Apprentice_26935330",
-    "locations": [
-      "Belfast, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Citigroup",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Fidelity Investments",
-    "id": "9af2b479-ce6b-4409-a89d-701644cff541",
-    "title": "Intern Data Science and Optimization",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769782509,
-    "date_posted": 1769782509,
-    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Science-and-Optimization_2018173",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Fidelity-Investments",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
