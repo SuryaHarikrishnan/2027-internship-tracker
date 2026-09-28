@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1431)
+# Data Science, AI & Machine Learning (1429)
 
 [← back to index](../README.md)
 
@@ -434,7 +434,6 @@
 | [SCOR](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5394) | Strategy & Business Intelligence Intern | Charlotte, NC | Winter 2026 | 2026-09-11 | 17 | simplify-2026 |
 | [MegazoneCloud](https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa/application?embed=true) | Data Engineer Co-op | Rochester, NY | Winter 2026 | 2026-09-11 | 17 | simplify-2026 |
 | [Businessolver](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738) | Business Intelligence Intern - Innovation & Data Science | United States | Winter 2026 | 2026-09-11 | 17 | simplify-2026 |
-| [Cozey](https://ats.rippling.com/cozey-internships/jobs/d19a9f0b-e828-436b-890f-a6f2216c6888) | Data Science Intern | Mount Royal, QC, Canada | N/A | 2026-09-11 | 17 | simplify-2026 |
 | [Perpay](https://job-boards.greenhouse.io/perpay/jobs/4076978007) | Data Science Intern | Philadelphia, PA | Summer 2027 | 2026-09-11 | 17 | simplify-2026 |
 | [Perpay](https://job-boards.greenhouse.io/perpay/jobs/4076965007) | Data Engineering Intern | Philadelphia, PA | Summer 2027 | 2026-09-11 | 17 | simplify-2026 |
 | [Veeam Software](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101) | Data Analytics & Programs Intern | Georgia | Summer 2027 | 2026-09-11 | 17 | simplify-2026 |
@@ -624,7 +623,6 @@
 | [Boeing](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704) | Applied Mathematician Intern - Engineering & Technology Innovation | North Charleston, SC | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1) | Data Analyst Intern | Amarillo, TX | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
 | [Ingredion](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) | Supply Chain Data Science Intern | Westchester, IL | Summer 2026 | 2026-09-08 | 20 | simplify-2026 |
-| [U.S. Bank](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Business-Analytics-Summer-Intern_2026-0025907) | Business Analytics Intern | Minneapolis, MN | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
 | [Momentive](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Environmental-Protection-Intern_R9805) | Environmental Protection Intern | Friendly, WV | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
 | [Burlington Stores](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521) | Sustainability Intern | Burlington, VT | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
 | [Meijer](https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Store-Analytics-Intern--Summer-2027_R000698651) | Store Analytics Intern | Grand Rapids, MI | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |

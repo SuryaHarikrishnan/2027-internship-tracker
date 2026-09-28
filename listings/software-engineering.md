@@ -1,4 +1,4 @@
-# Software Engineering (1313)
+# Software Engineering (1310)
 
 [← back to index](../README.md)
 
@@ -218,7 +218,6 @@
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/35377/job?mobile=true&needsRedirect=false) | Developer Intern Co-op - AI Innovation | Ottawa, ON, Canada | Winter 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [W.R. Berkley](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false) | Software Developer Intern - Java | Urbandale, IA | Summer 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8203200) | Software Engineering Intern - Maneuvering Tech | SF | Summer 2027 | 2026-09-17 | 11 | simplify-2026 |
-| [Amperesand](https://job-boards.greenhouse.io/amperesand/jobs/4409254009) | Software Engineer Intern | Reno, NV | Winter 2026 | 2026-09-17 | 11 | simplify-2026 |
 | [Axiom Space](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691) | Software Engineer Intern | Houston, TX | Summer 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833) | AI Research & Engineering Intern | Chicago, IL | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [Church & Dwight](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686) | AI Developer Co-op - Graduate Program | Ewing Township, NJ | Summer 2027 | 2026-09-17 | 11 | simplify-2026 |
@@ -499,7 +498,6 @@
 | [Domino Data Lab](https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560) | Software Engineer Intern | NYC | Summer 2027 | 2026-09-09 | 19 | simplify-2026 |
 | [Pilot Company](https://jobs.smartrecruiters.com/PilotCompany/744000148575429) | Application Development Intern | Knoxville, TN | Summer 2027 | 2026-09-09 | 19 | simplify-2026 |
 | [Pilot Company](https://jobs.smartrecruiters.com/PilotCompany/744000148576544) | Process Automation Intern - Process Automation | Knoxville, TN | Summer 2027 | 2026-09-09 | 19 | simplify-2026 |
-| [Pomerleau](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3476) | Software Developer Intern | Montreal, QC, Canada, Laval, QC, Canada, Longueuil, QC, Canada | Winter 2026 | 2026-09-09 | 19 | simplify-2026 |
 | [Peraton](https://careers-peraton.icims.com/jobs/170319/job?mobile=true&needsRedirect=false) | Engineer Co-op | Blacksburg, VA, Herndon, VA | Spring 2027 | 2026-09-09 | 19 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400) | Payments AI Engineer Intern | Pensacola, FL, Vienna, VA | Summer 2027 | 2026-09-09 | 19 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) | Security Workflow Engineer Intern | Vienna, VA | Summer 2027 | 2026-09-09 | 19 | simplify-2026 |
@@ -1168,7 +1166,6 @@
 | [Optiver](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 89 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Palo Alto Networks](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570) | Software Engineer Intern | California | Summer 2026 | 2026-07-01 | 89 | simplify-2026 |
 | [Seven Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | Core Developer Intern | NYC | Fall 2026 | 2026-07-01 | 89 | simplify-2026 |
-| [Enterprise Holdings](https://us-erac.icims.com/jobs/553479/job?mobile=true&needsRedirect=false) | Management Trainee Intern | Tomball, TX | Fall 2026 | 2026-07-01 | 89 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply) | Forward Deployed Software Engineer Intern - Commercial | Chicago, IL | Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028 | 2026-06-30 | 90 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply) | Software Engineer Intern - Production Infrastructure | Seattle, WA | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 91 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply) | Software Engineer Intern - Defense Tech | Washington, DC | Winter 2028, Spring 2028, Summer 2028 | 2026-06-29 | 91 | simplify-2026 |

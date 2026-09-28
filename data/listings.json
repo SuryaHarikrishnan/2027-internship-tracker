@@ -22763,7 +22763,7 @@
     "company_name": "Amperesand",
     "id": "0c0ace06-0c5c-415d-8ea4-7c6fedad6324",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -38970,7 +38970,7 @@
     "company_name": "Cozey",
     "id": "9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -51184,7 +51184,7 @@
     "company_name": "Pomerleau",
     "id": "831e3b5f-e77f-4237-8a89-6d6a6f1b3643",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -54451,7 +54451,7 @@
     "company_name": "U.S. Bank",
     "id": "2ac64aa6-e37c-46bd-a7af-d79ddb9b27de",
     "title": "Business Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -70993,7 +70993,7 @@
     "company_name": "Enterprise Holdings",
     "id": "cb9172b5-836c-481a-9635-e6fafea32b62",
     "title": "Management Trainee Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
