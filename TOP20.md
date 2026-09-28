@@ -18,11 +18,11 @@ Ranked by freshness + company tier + role category.
 | 8 | **Ramp** | iOS Engineer Intern | NYC | Winter 2026 | 2026-09-24 (4d ago) | [Apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9/application?embed=true) |
 | 9 | **Citadel** | Fixed Income & Macro Trader Intern - US | Greenwich, CT, Miami, FL, NYC | Winter 2026 | 2026-09-23 (5d ago) | [Apply](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) |
 | 10 | **Figma** | Data Engineer Intern | SF, NYC | Winter 2026 | 2026-09-23 (5d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
-| 11 | **NVIDIA** | Research Intern - Electronic Design Automation | Santa Clara, CA | Summer 2027 | 2026-09-23 (5d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) |
-| 12 | **Amazon** | Quantum Applied Science Intern - Quantum Technologies team | Boston, MA, SF, Pasadena, CA, Santa Clara, CA | Summer 2027 | 2026-09-23 (5d ago) | [Apply](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team) |
-| 13 | **Rippling** | Machine Learning Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-22 (6d ago) | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) |
-| 14 | **Two Sigma** | Hardware Engineering Intern | NYC | Summer 2027 | 2026-09-22 (6d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
-| 15 | **Google** | Product Manager Intern - Summer 2027 | SF, San Bruno, CA, NYC, Mountain View, CA | Summer 2027 | 2026-09-22 (6d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) |
+| 11 | **Amazon** | Quantum Applied Science Intern - Quantum Technologies team | Boston, MA, SF, Pasadena, CA, Santa Clara, CA | Summer 2027 | 2026-09-23 (5d ago) | [Apply](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team) |
+| 12 | **Rippling** | Machine Learning Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-22 (6d ago) | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) |
+| 13 | **Two Sigma** | Hardware Engineering Intern | NYC | Summer 2027 | 2026-09-22 (6d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
+| 14 | **Google** | Product Manager Intern - Summer 2027 | SF, San Bruno, CA, NYC, Mountain View, CA | Summer 2027 | 2026-09-22 (6d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) |
+| 15 | **Intel** | Software Research Intern - PhD | Hillsboro, OR | Summer 2027 | 2026-09-25 (3d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (26d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-28 12:03 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-28 17:04 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

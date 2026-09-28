@@ -4163,7 +4163,7 @@
     "company_name": "Radiance Technologies",
     "id": "544076ef-ca22-485c-8793-4770c7d30023",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -43926,7 +43926,7 @@
     "company_name": "Exegy",
     "id": "252897b6-0446-4e1f-b21e-c75ab688eea9",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -53428,7 +53428,7 @@
     "company_name": "RF-SMART",
     "id": "5c16ff34-e8ca-4a08-9d69-f9acac0df9a8",
     "title": "Software Support Engineer Intern - Netsuite",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
