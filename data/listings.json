@@ -614,7 +614,7 @@
     "company_name": "Ciena",
     "id": "4df9553d-1bbf-46e2-b210-bfd748436f3c",
     "title": "Processor Complex Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -1045,7 +1045,7 @@
     "company_name": "Cencora",
     "id": "85ec94f8-b794-406d-b74b-06e49b725a08",
     "title": "Software Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -2052,7 +2052,7 @@
     "company_name": "RRS Group",
     "id": "d750fe7b-cab1-448d-87f7-d9cc9f2ad969",
     "title": "Associate Software Engineer Intern - Sophomore Only",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3974,7 +3974,7 @@
     "company_name": "Revantage Corporate Services",
     "id": "0a459dc8-e674-4c37-8920-b89a9f5ebc54",
     "title": "Quantitative Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -6814,7 +6814,7 @@
     "company_name": "NVIDIA",
     "id": "3260a093-278c-48cc-90a4-1e13d6c9d177",
     "title": "Research Intern - Electronic Design Automation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -6975,7 +6975,7 @@
     "company_name": "NVIDIA",
     "id": "ee431909-7205-4557-aa56-5518cfa74e0e",
     "title": "PhD Research Intern - Quantum Simulation and AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -15665,7 +15665,7 @@
     "company_name": "First Citizens BancShares",
     "id": "3950ec12-b960-4a36-b3d6-f1c4799d409a",
     "title": "Quantitative Analysis Intern - Quantitative Analysis",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -15715,7 +15715,7 @@
     "company_name": "Upbound Group",
     "id": "2ec492a7-10a0-47cc-8cbb-9c22a5ba396c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -15768,7 +15768,7 @@
     "company_name": "Upbound Group",
     "id": "8494c8ac-a047-43cf-a4ba-874bc62f8213",
     "title": "Digital Commerce Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -20737,7 +20737,7 @@
     "company_name": "Boston Scientific",
     "id": "30a813fa-60dd-46e6-b380-c00124f3422a",
     "title": "Data Science Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027",
       "Spring 2027"
@@ -23822,7 +23822,7 @@
     "company_name": "D3 Embedded",
     "id": "3bb083e3-bf43-47f8-93e3-a775afddd966",
     "title": "Computer Vision / AI Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -29080,7 +29080,7 @@
     "company_name": "NVIDIA",
     "id": "e4d72b3b-b6d8-46ec-a879-a0f2664ed75d",
     "title": "PhD Research Intern - Generative AI for Physical AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -32214,7 +32214,7 @@
     "company_name": "General Motors",
     "id": "c7669059-c3a1-48a3-b160-4cd69bf4882f",
     "title": "Motorsports Strategy Intern - Sportscar Motorsports Strategy",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -32267,7 +32267,7 @@
     "company_name": "General Motors",
     "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
     "title": "Summer Intern - Performance Analysis",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -32322,7 +32322,7 @@
     "company_name": "General Motors",
     "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
     "title": "Race Strategy & Analytics Intern - IndyCar",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -35711,7 +35711,7 @@
     "company_name": "CACI",
     "id": "e772b664-062b-4315-9007-69460c23019c",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -44964,7 +44964,7 @@
     "company_name": "Repsol",
     "id": "34c61ac0-a95c-4e5f-bad7-37c788933151",
     "title": "Middle Office Risk and Valuation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48509,7 +48509,7 @@
     "company_name": "Pomerleau",
     "id": "1901df38-e301-4347-959f-59d13dac228e",
     "title": "HR Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -55185,7 +55185,7 @@
     "company_name": "BlueCross BlueShield of Nebraska",
     "id": "75935cfc-3a39-4c99-9353-1d3821031695",
     "title": "Healthcare Reimbursement Analytics Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -63115,7 +63115,7 @@
     "company_name": "Barclays",
     "id": "b204537c-692e-4ce8-aa3a-2e01ec6a186a",
     "title": "Technology Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -64476,7 +64476,7 @@
     "company_name": "RTX",
     "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
     "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -69603,7 +69603,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -69755,7 +69755,7 @@
     "company_name": "Goldman Sachs",
     "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72431,7 +72431,7 @@
     "company_name": "Varian",
     "id": "ed4c7a61-aeb6-4056-938e-0c9648a0164a",
     "title": "Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -95630,7 +95630,7 @@
     "company_name": "Qorvo",
     "id": "a3f9cf12-ead2-4b32-9846-ee58ffd925f7",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -97059,7 +97059,7 @@
     "company_name": "Brunswick",
     "id": "7fd82049-4a30-48f9-ab6c-519e8c2b11fd",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -122938,7 +122938,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -122964,7 +122964,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -123278,7 +123278,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -154725,7 +154725,7 @@
     "company_name": "Appian",
     "id": "31b95070-c5a6-4523-b7d4-54fbaa062677",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Summer 2027"
@@ -327802,7 +327802,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -391455,32 +391455,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "City of Austin",
-    "id": "ab201529-a94b-4b56-a06e-3172bd78b542",
-    "title": "Internship \u2013 Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770204252,
-    "date_posted": 1769870089,
-    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Graduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR102575",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/City-Of-Austin",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Squarepoint Capital",
     "id": "17f0421d-363e-4dcd-aa7f-0aa75fb79290",
@@ -400397,32 +400371,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "City of Austin",
-    "id": "73e35e78-0b99-4f25-a948-171e61e4adbe",
-    "title": "Intern - Systems Planning for Water/Wastewater/Reclaimed Water",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769951835,
-    "date_posted": 1769869551,
-    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Undergraduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR102577",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/City-Of-Austin",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
     "_sources": [
       "simplify-2026"
     ]
