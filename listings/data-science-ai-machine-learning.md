@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1436)
+# Data Science, AI & Machine Learning (1431)
 
 [← back to index](../README.md)
 
@@ -19,7 +19,6 @@
 | [DoorDash](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | Machine Learning Engineer Intern - Masters | Seattle, WA, SF, NYC, Sunnyvale, CA | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7577/job?mobile=true&needsRedirect=false) | Analyst Student | Remote in USA | N/A | 2026-09-25 | 3 | simplify-2026 |
 | [DoorDash](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) | Machine Learning Intern - PhD | Seattle, WA, SF, NYC, Sunnyvale, CA | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
-| [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000151890105) | Multi-modal Sensing AI Research Intern | Pittsburgh, PA | Winter 2026 | 2026-09-25 | 3 | simplify-2026 |
 | [Atlassian](https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) | Data Scientist Intern | Seattle, WA | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [TRC Companies](https://careers.trccompanies.com/jobs/26961?icims=1) | GIS Intern | Seattle, WA, Houston, TX, Lakewood, CO, Raleigh, NC, Chicago, IL, Phoenix, AZ | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [TRC Companies](https://careers.trccompanies.com/jobs/26950?icims=1) | Advanced Energy Intern | Seattle, WA | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
@@ -276,7 +275,6 @@
 | [British Columbia Investment](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608) | Investment Risk Analytics Solutions Co-op Intern - Winter 2027 | Victoria, BC, Canada | Winter 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8202025) | Machine Learning Intern - Computer Vision | Mountain View, CA | Summer 2027 | 2026-09-16 | 12 | simplify-2026 |
 | [EQT Corporation](https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008) | Data Engineering Intern - Completions Services | Canonsburg, PA | Summer 2026 | 2026-09-16 | 12 | simplify-2026 |
-| [AEG](https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002) | Global Partnerships Intern - Data & Research | LA | Fall 2026 | 2026-09-16 | 12 | simplify-2026 |
 | [Cyvl](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) | Data Operations Intern - Summer 2027 | Boston, MA, Somerville, MA | Summer 2027 | 2026-09-16 | 12 | simplify-2026 |
 | [Mercor](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application?embed=true) | Data Science Intern | SF | Winter 2026 | 2026-09-16 | 12 | simplify-2026 |
 | [GM financial](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260775) | Economic Analysis Intern | Fort Worth, TX | Winter 2026 | 2026-09-16 | 12 | simplify-2026 |
@@ -1042,7 +1040,6 @@
 | [PricewaterhouseCoopers (PwC)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Data-Enablement--CPA----8-month-Co-op---Montreal_754061WD) | Data Analyst Co-op - Data Enablement | Montreal, QC, Canada | Fall 2027 | 2026-08-21 | 38 | simplify-2026 |
 | [PricewaterhouseCoopers (PwC)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Montreal_754063WD) | Data Enablement Co-op - Data Enablement | Montreal, QC, Canada | Fall 2027 | 2026-08-21 | 38 | simplify-2026 |
 | [Marsh](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) | Government Health Consulting Informatics Intern - College Program | Phoenix, AZ, Minneapolis, MN | Summer 2027 | 2026-08-21 | 38 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) | Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada | Winter 2027 | 2026-08-21 | 38 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles?gh_jid=7909570003) | Perception Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-20 | 39 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply) | Data Scientist | Foster City, CA | N/A | 2026-08-20 | 39 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7675845333947812149) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA | Summer 2027 | 2026-08-20 | 39 | simplify-2026 |
@@ -1053,7 +1050,6 @@
 | [Devon Energy](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | Technology Intern - Data Engineering | Houston, TX, Oklahoma City, OK | Summer 2027 | 2026-08-20 | 39 | simplify-2026 |
 | [Sysco](https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R263666) | Data Engineer Intern | Houston, TX | Summer 2026 | 2026-08-20 | 39 | simplify-2026 |
 | [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567) | Data Scientist Co-op | Plymouth, MN | Summer 2027 | 2026-08-20 | 39 | simplify-2026 |
-| [Excellus BCBS](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2) | College Intern - AI Engineering | Rochester, NY, DeWitt, IA, Albany, NY, Binghamton, NY, Buffalo, NY | Fall 2026 | 2026-08-20 | 39 | simplify-2026 |
 | [Fannie Mae](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) | Data Science Intern - Analytics & Modeling Program | Washington, DC | Summer 2027 | 2026-08-20 | 39 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | 2026-08-19 | 40 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | 2026-08-19 | 40 | simplify-2026 |
@@ -1233,7 +1229,6 @@
 | [Apple](https://jobs.apple.com/en-us/details/200673612) | Applied Data Solutions Program Intern | Austin, TX | Fall 2026 | 2026-07-28 | 62 | simplify-2026 |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343983) | Information Systems Quality Intern - Quality Systems Information Technology | Mirabel, QC, Canada | Summer 2026 | 2026-07-27 | 63 | simplify-2026 |
 | [PathAI](https://www.pathai.com/careers/8651564002?gh_jid=8651564002) | Software Engineering Mlops Co-op | Boston, MA | Fall 2026, Winter 2026 | 2026-07-27 | 63 | simplify-2026 |
-| [East Penn Manufacturing Company](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) | Power BI & Analytics Intern | Ann Arbor, MI | Fall 2026 | 2026-07-27 | 63 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1) | AI/ML Research Support Intern - Visualization and Decision Support Division | State College, PA | Fall 2026, Spring 2027 | 2026-07-27 | 63 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | Applied Science Intern - Automated Reasoning - PhD Student Science Recruiting | Seattle, WA | Fall 2026 | 2026-07-23 | 67 | simplify-2026 |
 | [Geo Owl](https://geoowl.applytojob.com/apply/lvTIoh8S9K/Cartographic-Analyst-Apprentice) | Maritime Cartographer Apprentice | Springfield, VA | Fall 2026 | 2026-07-23 | 67 | simplify-2026 |

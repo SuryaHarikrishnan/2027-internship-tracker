@@ -1,4 +1,4 @@
-# Product Management (225)
+# Product Management (224)
 
 [← back to index](../README.md)
 
@@ -215,7 +215,6 @@
 | [Hubs.is](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Product Intern | Remote in USA | Fall 2026 | 2026-07-21 | 69 | simplify-2026 |
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=6883068002) | Product Management Intern | SF, Bellevue, WA, Mountain View, CA | Summer 2027 | 2026-07-16 | 74 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7660641959426132277) | Global Product Operations Manager Intern - Global Business Solutions | San Jose, CA | Fall 2026 | 2026-07-13 | 77 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7657541997725288757) | Copyright Solution Product Manager Intern - Tiktok-Music | San Jose, CA | Fall 2026 | 2026-07-03 | 87 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657640284071954741) | Product Solutions and Operations Project Intern - Commerce Ads | San Jose, CA | Summer 2026 | 2026-07-02 | 88 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7655410730217048373) | Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS/MS | San Jose, CA | Summer 2026 | 2026-07-02 | 88 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 97 | simplify-2026 |

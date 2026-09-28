@@ -1,4 +1,4 @@
-# Software Engineering (1316)
+# Software Engineering (1313)
 
 [← back to index](../README.md)
 
@@ -194,7 +194,6 @@
 | [CME Group](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821) | Software Engineering Intern - Summer 2027 | Chicago, IL | Summer 2027 | 2026-09-18 | 10 | simplify-2026 |
 | [CME Group](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824) | Software Engineering Fellow | Chicago, IL | N/A | 2026-09-18 | 10 | simplify-2026 |
 | [Cambridge Investment Research](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Software-Engineering-Intern_R-2025-219) | Software Engineer Intern | West Des Moines, IA, Fairfield, IA, Phoenix, AZ | Summer 2026 | 2026-09-18 | 10 | simplify-2026 |
-| [Thrivent](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457) | Associate Software Engineer Intern | Minnesota | Summer 2027 | 2026-09-18 | 10 | simplify-2026 |
 | [Sun Life](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038) | Martech Software Engineer | Waterloo, ON, Canada | N/A | 2026-09-18 | 10 | simplify-2026 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Summer-Intern---Youngstown-State-University_J000704519) | Summer Intern - Youngstown State University | Warren, OH | Summer 2026 | 2026-09-18 | 10 | simplify-2026 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375) | Software Engineer Intern - Low Code | Wyoming, MI | Summer 2027 | 2026-09-18 | 10 | simplify-2026 |
@@ -218,7 +217,6 @@
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false) | AI Quality Co-op Intern - Evaluation & Security | Ottawa, ON, Canada | Winter 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/35377/job?mobile=true&needsRedirect=false) | Developer Intern Co-op - AI Innovation | Ottawa, ON, Canada | Winter 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [W.R. Berkley](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false) | Software Developer Intern - Java | Urbandale, IA | Summer 2027 | 2026-09-17 | 11 | simplify-2026 |
-| [Alayacare](https://alayacare.com/open-positions?gh_jid=8811336002) | Fullstack Developer Intern - Python | Montreal, QC, Canada | Winter 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8203200) | Software Engineering Intern - Maneuvering Tech | SF | Summer 2027 | 2026-09-17 | 11 | simplify-2026 |
 | [Amperesand](https://job-boards.greenhouse.io/amperesand/jobs/4409254009) | Software Engineer Intern | Reno, NV | Winter 2026 | 2026-09-17 | 11 | simplify-2026 |
 | [Axiom Space](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691) | Software Engineer Intern | Houston, TX | Summer 2027 | 2026-09-17 | 11 | simplify-2026 |
@@ -416,7 +414,6 @@
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556983223) | Software Engineer Intern | Reston, VA | Winter 2026 | 2026-09-11 | 17 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Data Scientist Co-op/Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-11 | 17 | simplify-2026 |
 | [Xcimer Energy](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply) | Computational and Software Engineering Intern | Denver, CO | Summer 2027 | 2026-09-11 | 17 | simplify-2026 |
-| [Quantinuum](https://jobs.eu.lever.co/quantinuum/efec30da-9a57-46b3-b891-6973a44c86ff/apply) | Quantum Compiler Intern | Broomfield, CO | Winter 2026 | 2026-09-11 | 17 | simplify-2026 |
 | [Quantinuum](https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0/apply) | Layout Automation Engineering Intern | Brooklyn Park, MN | Winter 2026 | 2026-09-11 | 17 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | Software Engineer Intern - Backend | SF | Summer 2027 | 2026-09-11 | 17 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) | Software Engineer Intern - Backend | Montreal, QC, Canada | Summer 2027 | 2026-09-11 | 17 | simplify-2026 |
