@@ -1,4 +1,4 @@
-# Product Management (223)
+# Product Management (222)
 
 [← back to index](../README.md)
 
@@ -111,7 +111,6 @@
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Product Management Intern | Oakville, ON, Canada | Winter 2027 | 2026-09-02 | 27 | simplify-2026 |
 | [Atlassian](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | Product Management Intern | SF | Summer 2027 | 2026-09-02 | 27 | simplify-2026 |
 | [Corning](https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern,-Analyst,-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/?ats=successfactors) | Digital & IT Intern | Corning, NY | Summer 2027 | 2026-09-02 | 27 | simplify-2026 |
-| [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) | Technical Product Management Intern - Switching Solutions | O'Fallon, MO | Summer 2027 | 2026-09-02 | 27 | simplify-2026 |
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) | Quality Engineer Intern | Spring, TX | Winter 2026 | 2026-09-02 | 27 | simplify-2026 |
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1) | Personal Systems Product Management Intern | Austin, TX | Winter 2026 | 2026-09-02 | 27 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | Product Management Intern - Risk Management | St Paul, MN | Summer 2027 | 2026-09-02 | 27 | simplify-2026 |

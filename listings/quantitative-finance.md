@@ -1,4 +1,4 @@
-# Quantitative Finance (206)
+# Quantitative Finance (205)
 
 [← back to index](../README.md)
 
@@ -97,7 +97,6 @@
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401) | Model Risk Management Intern - 2027 Internship Program | Jersey City, NJ | Summer 2027 | 2026-08-25 | 35 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | Summer 2027 | 2026-08-25 | 35 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) | Quantitative Risk Management Intern | McLean, VA | Summer 2027 | 2026-08-24 | 36 | simplify-2026 |
-| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Off-Cycle-Intern--London-_40090-1) | Quant and Portfolio Analytics Intern - Credit and Insurance | London, UK | Spring 2026 | 2026-08-24 | 36 | simplify-2026 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false) | Trading Systems Engineer Intern | London, UK | Summer 2027 | 2026-08-21 | 39 | simplify-2026 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | London, UK, Dublin, Ireland | Summer 2027 | 2026-08-21 | 39 | simplify-2026 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 43 | simplify-2026 |

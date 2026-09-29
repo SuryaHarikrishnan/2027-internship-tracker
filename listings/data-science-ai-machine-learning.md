@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1393)
+# Data Science, AI & Machine Learning (1390)
 
 [← back to index](../README.md)
 
@@ -335,7 +335,6 @@
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796) | Data Science Intern | Austin, TX | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797) | Machine Learning Intern | Austin, TX | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Governance--Visualization-and-Automation-Intern_JR116628-2) | Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization | Eau Claire, WI, Minneapolis, MN, Denver, CO | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
-| [Baxter International](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1) | Associate Data Scientist Co-op | Skaneateles, NY | Winter 2026 | 2026-09-15 | 14 | simplify-2026 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Science-Modeling--Beauty-Care_R000158986) | PhD Summer Intern - Beauty Care | Mason, OH | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [Dallas Fort Worth International Airport](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1) | Undergraduate Internship - Geospatial Data | Dallas, TX | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [Cox](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Analytics-Intern_R202682428) | Deal Analytics Intern - Business Analytics | Atlanta, GA | Summer 2026 | 2026-09-15 | 14 | simplify-2026 |
@@ -865,7 +864,6 @@
 | [Michael Baker International](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309779) | GIS Intern | Illinois | Fall 2026 | 2026-08-31 | 29 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000146547599) | AI Application Intern | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-08-31 | 29 | simplify-2026 |
 | [C3.ai](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Data Scientist Intern - Summer 2027 | Redwood City, CA | Summer 2027 | 2026-08-31 | 29 | simplify-2026 |
-| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8167323) | Data Science Intern - Commercialization Testing | SF | Summer 2027 | 2026-08-31 | 29 | simplify-2026 |
 | [Major League Baseball](https://job-boards.greenhouse.io/baltimoreorioles/jobs/6174979004) | Domestic Scouting Analyst Fellow - Domestic Scouting | Baltimore, MD | N/A | 2026-08-31 | 29 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000146524429) | Calibration Process Data Science Intern - 8 months/40 hours per week | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-08-31 | 29 | simplify-2026 |
 | [Exelon](https://careers.comed.com/jobs/30120?icims=1) | Data Science Intern - Data Science/Analytics | Washington, DC, Newark, DE, Philadelphia, PA, Chicago, IL, Oakbrook Terrace, IL, Hamilton, NJ, Baltimore, MD | Summer 2027 | 2026-08-31 | 29 | simplify-2026 |
@@ -881,7 +879,6 @@
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Intelligent-Supply-Chain-Intern--Year-Round-_R49907) | Supply Chain Data Analytics Intern - Year Round | Greenville, WI | Fall 2026 | 2026-08-31 | 29 | simplify-2026 |
 | [NiSource](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics_R00943381) | People Analytics Intern | Columbus, OH | Summer 2027 | 2026-08-31 | 29 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Winter-Co-op---Data---Analytics--8-Months-_JR26081944) | Data & Analytics Co-op - 8 Months | Toronto, ON, Canada | Winter 2027 | 2026-08-31 | 29 | simplify-2026 |
-| [Dairyland Power Cooperative](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Science_JR101053) | Energy Data Science Intern | La Crosse, WI | Winter 2026 | 2026-08-31 | 29 | simplify-2026 |
 | [Dairyland Power Cooperative](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052) | Energy Data Analyst Intern | La Crosse, WI | Winter 2026 | 2026-08-31 | 29 | simplify-2026 |
 | [BlueCross BlueShield of Nebraska](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) | Data Intern - Data Science - Data Analytics | Omaha, NE | Summer 2027 | 2026-08-31 | 29 | simplify-2026 |
 | [Verdantas](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Syracuse-NY/Data-Analytics-and-GIS-Intern_R-101135) | Environmental Data Analytics Intern - Geographic Information Systems | Syracuse, NY | Winter 2026 | 2026-08-31 | 29 | simplify-2026 |

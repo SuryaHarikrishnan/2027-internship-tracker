@@ -13664,7 +13664,7 @@
     "company_name": "Marvell",
     "id": "9cb80a43-fcfd-473d-8145-5aba8bb71782",
     "title": "Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13692,7 +13692,7 @@
     "company_name": "Marvell",
     "id": "42bb8910-fbb6-4347-8dc5-8aeee11d2517",
     "title": "Test Engineering Intern - BS",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -21247,7 +21247,7 @@
     "company_name": "Geneva Trading",
     "id": "b2cc2a88-efd8-4b00-b346-0f29ab47dc4f",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24357,7 +24357,7 @@
     "company_name": "Waymo",
     "id": "ad26d172-59a3-4f93-9750-94d260cfb4e5",
     "title": "Software Engineering Intern - Maneuvering Tech",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -26821,7 +26821,7 @@
     "company_name": "DecisionPoint",
     "id": "1a1bb662-1a44-441f-93f4-2218cc06d0fc",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -29313,7 +29313,7 @@
     "company_name": "Baxter International",
     "id": "a4f155d6-42c5-4340-8b45-953fbb332d21",
     "title": "Associate Data Scientist Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -33861,7 +33861,7 @@
     "company_name": "Samsung Research America",
     "id": "c6aad417-8a37-46d9-bd72-d1053a268ea8",
     "title": "SoC Modeling Intern - SOC Modeling",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -75922,7 +75922,7 @@
     "company_name": "Mastercard",
     "id": "437f099d-e824-4c9d-9f09-7f69794fa19c",
     "title": "Technical Product Management Intern - Switching Solutions",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -87074,7 +87074,7 @@
     "company_name": "Geotab",
     "id": "c000d17c-b16e-450d-839c-842ffd8be4b3",
     "title": "Embedded Developer Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -92459,7 +92459,7 @@
     "company_name": "Dairyland Power Cooperative",
     "id": "74fac11e-7ee7-478f-8659-07c93796bc65",
     "title": "Energy Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -94486,7 +94486,7 @@
     "company_name": "Waymo",
     "id": "fdd27f5d-3719-4023-91c8-62b14a0de7f4",
     "title": "Data Science Intern - Commercialization Testing",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -96925,7 +96925,7 @@
     "company_name": "Intelcom | Dragonfly",
     "id": "e6281753-0fb1-4550-9c99-50836fadaf45",
     "title": "Full-Stack Developer Intern - Route Optimization",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -103159,7 +103159,7 @@
     "company_name": "Microchip Technology",
     "id": "4e4aff22-f8af-490d-93bd-7ac439065d71",
     "title": "Verification Intern - Verification",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -110284,7 +110284,7 @@
     "company_name": "Blackstone",
     "id": "3cb047c7-7602-47dd-931a-78e6db50b693",
     "title": "Quant and Portfolio Analytics Intern - Credit and Insurance",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -124799,7 +124799,7 @@
     "company_name": "Abridge",
     "id": "7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
