@@ -21,7 +21,7 @@ Ranked by freshness + company tier + role category.
 | 11 | **Citadel** | Fixed Income & Macro Trader Intern - US | Greenwich, CT, Miami, FL, NYC | Winter 2026 | 2026-09-23 (6d ago) | [Apply](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) |
 | 12 | **Figma** | Data Engineer Intern | SF, NYC | Winter 2026 | 2026-09-23 (6d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
 | 13 | **Amazon** | Quantum Applied Science Intern - Quantum Technologies team | Boston, MA, SF, Pasadena, CA, Santa Clara, CA | Summer 2027 | 2026-09-23 (6d ago) | [Apply](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team) |
-| 14 | **Rippling** | Machine Learning Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-22 (7d ago) | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) |
+| 14 | **Rippling** | Data Science Intern - Summer 2027 | SF | Summer 2026 | 2026-09-22 (7d ago) | [Apply](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) |
 | 15 | **Two Sigma** | Hardware Engineering Intern | NYC | Summer 2027 | 2026-09-22 (7d ago) | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (27d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-29 11:37 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-29 15:09 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
