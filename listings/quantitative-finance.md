@@ -1,4 +1,4 @@
-# Quantitative Finance (228)
+# Quantitative Finance (223)
 
 [← back to index](../README.md)
 
@@ -20,7 +20,6 @@
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109) | Quantitative Analyst Intern - Fixed Income Team | Boston, MA, Merrimack, NH | Summer 2027 | 2026-09-21 | 8 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Development---Data-Science-Internship_2134404) | Quantitative Development & Data Science Intern | Boston, MA, Jersey City, NJ, Merrimack, NH | Summer 2026 | 2026-09-21 | 8 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128) | Quantitative Research Intern - Multi-Asset Systematic Research Team | Boston, MA | Summer 2027 | 2026-09-21 | 8 | simplify-2026 |
-| [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122) | Quantitative Research Analyst Intern - Equity Quantitative Research Team | Boston, MA | Summer 2027 | 2026-09-21 | 8 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370) | Quantitative Research Intern - Strategic Advisers | Boston, MA | Summer 2027 | 2026-09-21 | 8 | simplify-2026 |
 | [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Model-Risk-Management_REQ-4861) | Model Risk Management Intern | Chicago, IL | Summer 2027 | 2026-09-17 | 12 | simplify-2026 |
 | [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4862) | Quantitative Risk Management Intern | Chicago, IL | Summer 2027 | 2026-09-17 | 12 | simplify-2026 |
@@ -35,7 +34,6 @@
 | [FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Model-Risk-Management_R2600433) | Model Risk Management Intern | Chicago, IL | Summer 2026 | 2026-09-15 | 14 | simplify-2026 |
 | [FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Market-Risk-Earnings-Analysis_R2600435) | Market Risk Earnings Analysis Intern | Chicago, IL | Summer 2026 | 2026-09-15 | 14 | simplify-2026 |
 | [FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Markets-Credit_R2600434) | Markets Credit Intern | Chicago, IL | Summer 2026 | 2026-09-15 | 14 | simplify-2026 |
-| [CIBC](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885-1) | Risk Analytics Co-op | Toronto, ON, Canada | Winter 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) | Quantitative Analyst Intern | London, UK | N/A | 2026-09-15 | 14 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472) | Quantitative Master’s Intern - Investments - Portfolio Management | SF | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473) | Quantitative Master’s Intern - Investments - Quantitative Investing | NYC | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
@@ -47,7 +45,6 @@
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) | Quantitative Masters Intern - Technology - Analytics & Modeling | NYC | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) | Quantitative Master’s Internship - Technology - Analytics & Modeling | SF | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) | Quantitative Master's Intern - Investments - Quantitative Investing | London, UK | Summer 2027 | 2026-09-15 | 14 | simplify-2026 |
-| [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Summer-2027-Analyst-or-Associate--12-months-_2618796) | Global Markets Analyst or Associate - Months | Toronto, ON, Canada | Summer 2027 | 2026-09-14 | 15 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792) | Algorithmic Trading Developer Co-op - Global Equities | Toronto, ON, Canada | Summer 2027 | 2026-09-14 | 15 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742) | Quantitative Trading Analyst Co-op - Global Equities | Toronto, ON, Canada | Winter 2026 | 2026-09-14 | 15 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638) | Multifamily Business Analysis Graduate Intern - Summer 2027 | McLean, VA | Summer 2027 | 2026-09-14 | 15 | simplify-2026 |
@@ -111,7 +108,6 @@
 | [Goldman Sachs](https://higher.gs.com/roles/171548?type=students) | Quantitative Strats Analyst Intern - Americas - Investment Banking | Dallas, TX | Summer 2027 | 2026-08-15 | 45 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171552?type=students) | Summer Associate Intern | NYC | Summer 2027 | 2026-08-15 | 45 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171566?type=students) | Summer Associate Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 45 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171547?type=students) | Summer Analyst Intern - Americas - Investment Banking Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 45 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171533?type=students) | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | NYC | Summer 2027 | 2026-08-15 | 45 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171532?type=students) | Quantitative Strategist Intern - Americas | Dallas, TX | Summer 2027 | 2026-08-15 | 45 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171534?type=students) | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | Dallas, TX | Summer 2027 | 2026-08-15 | 45 | simplify-2026 |
@@ -188,7 +184,6 @@
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7982648) | Campus Quantitative Researcher Intern | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 83 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8049938) | Campus Quantitative Researcher Intern - PhD | Chicago, IL, NYC | Summer 2027 | 2026-07-08 | 83 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7848371) | Campus Quantitative Trader Intern | Chicago, IL, NYC | Fall 2026 | 2026-07-08 | 83 | simplify-2026 |
-| [Flow Traders](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | Quantitative Trading Intern | NYC | Summer 2027 | 2026-07-08 | 83 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8621450002) | Trading Desk Operations Engineer | NYC | N/A | 2026-07-07 | 84 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8617344002) | Quantitative Trader | NYC | N/A | 2026-07-06 | 85 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) | Quantitative Researcher Intern | NYC | N/A | 2026-07-06 | 85 | simplify-2026 |
