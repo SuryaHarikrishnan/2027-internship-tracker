@@ -1,11 +1,17 @@
-# Software Engineering (1294)
+# Software Engineering (1301)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Wellmark](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699) | Software Engineer Intern - Metadata Enablement Team | Des Moines, IA | Summer 2027 | 2026-09-30 | 0 | simplify-2026 |
 | [AMCA](https://job-boards.greenhouse.io/amca/jobs/4425120009) | Software Engineer Intern | El Segundo, CA | Summer 2027 | 2026-09-30 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284924) | Software Developer Intern - Integration Tools | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-30 | 0 | simplify-2026 |
+| [KLA Corporation](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1) | Software Engineer Intern | Milpitas, CA | Summer 2026 | 2026-09-30 | 0 | simplify-2026 |
+| [MFS](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979) | Junior Software Engineer Co-op | Boston, MA | Spring 2027 | 2026-09-30 | 0 | simplify-2026 |
+| [KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572) | Software Engineer Intern | Milpitas, CA | Summer 2026 | 2026-09-30 | 0 | simplify-2026 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) | Developer Technology Engineer Intern - Compute Performance | Courbevoie, France, Bristol, UK, Würselen, Germany, Munich, Germany | Winter 2026 | 2026-09-30 | 0 | simplify-2026 |
+| [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895) | Software/Network Engineering Intern | Florham Park, NJ | Summer 2027 | 2026-09-30 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284925) | Software Engineer Intern - Data Transformations | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-29 | 1 | simplify-2026 |
 | [Enova](https://job-boards.greenhouse.io/enova/jobs/8239619) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-09-29 | 1 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137483583981) | Software Engineer Part-Time Student | Champaign, IL | N/A | 2026-09-29 | 1 | simplify-2026 |
@@ -37,6 +43,7 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561) | Software Engineer Intern | Woburn, MA | Summer 2027 | 2026-09-29 | 1 | simplify-2026 |
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094) | Software Engineering Co-op | Belfast, UK | Fall 2027 | 2026-09-29 | 1 | simplify-2026 |
 | [Thrivent](https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2) | Application Engineer Intern - Investments | Minneapolis, MN | Summer 2027 | 2026-09-29 | 1 | simplify-2026 |
+| [POET](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) | Software Developer Intern | Sioux Falls, SD | Summer 2027 | 2026-09-28 | 2 | simplify-2026 |
 | [The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753) | Software Engineering Intern - Software Tools and Assurance | El Segundo, CA | Summer 2027 | 2026-09-28 | 2 | simplify-2026 |
 | [The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759) | Software Engineer Intern | Chantilly, VA, El Segundo, CA | Winter 2026 | 2026-09-28 | 2 | simplify-2026 |
 | [Flint](https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true) | Engineering Intern - Summer 2027 | SF | Summer 2027 | 2026-09-26 | 4 | simplify-2026 |
@@ -52,6 +59,7 @@
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54274?icims=1) | Software Engineer Intern - Factory Automation | Santa Rosa, CA | Winter 2026 | 2026-09-25 | 5 | simplify-2026 |
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false) | Developer Intern - Back End Technologies | Ottawa, ON, Canada | Winter 2027 | 2026-09-25 | 5 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000151900549) | Engineering Intern - Airbag ECU | Plymouth, MI | Winter 2026 | 2026-09-25 | 5 | simplify-2026 |
+| [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) | IT Intern - Software Developer | Raleigh, NC | Summer 2027 | 2026-09-25 | 5 | simplify-2026 |
 | [Envoy](https://jobs.ashbyhq.com/envoy/f2e20a8a-0e10-48ee-a761-3cffb89a80ca/application?embed=true) | Solutions Engineer Intern | SF | Winter 2026 | 2026-09-25 | 5 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245) | Gameplay Engineer Intern | LA | Summer 2027 | 2026-09-25 | 5 | simplify-2026 |
 | [The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431) | Software Systems Engineer Intern - Acquisition | Chantilly, VA, El Segundo, CA | Summer 2027 | 2026-09-25 | 5 | simplify-2026 |
@@ -94,7 +102,6 @@
 | [Radiance Technologies](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1) | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | Summer 2027 | 2026-09-24 | 6 | simplify-2026 |
 | [Radiance Technologies](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436) | Modeling Engineer Intern - Analytics & Simulation Sciences - Mass | Beavercreek, OH | Summer 2027 | 2026-09-24 | 6 | simplify-2026 |
 | [GoTo Group](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/C3PO-Intern_R26-2245) | Software Engineer Intern - C3PO | Remote in Canada | Winter 2026 | 2026-09-24 | 6 | simplify-2026 |
-| [Ameren](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1) | Robotics Intern - Multiple Teams | St. Louis, MO | Winter 2026 | 2026-09-24 | 6 | simplify-2026 |
 | [ZipRecruiter](https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455) | Software Engineer Intern | Santa Monica, CA | Summer 2026 | 2026-09-23 | 7 | simplify-2026 |
 | [SeatGeek](https://seatgeek.com/jobs/8227553?gh_jid=8227553) | Software Engineer Intern | NYC | Summer 2028 | 2026-09-23 | 7 | simplify-2026 |
 | [Illinois Tool Works](https://careers.itw.com/global/en/job/JR10261) | Software Engineer Intern | Eden Prairie, MN | Summer 2027 | 2026-09-23 | 7 | simplify-2026 |
@@ -164,7 +171,6 @@
 | [Geneva Trading](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) | C++ Developer Intern | Chicago, IL | Summer 2026 | 2026-09-21 | 9 | simplify-2026 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Plano, TX | Summer 2027 | 2026-09-21 | 9 | simplify-2026 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false) | Software Development Intern | Lubbock, TX | Summer 2027 | 2026-09-21 | 9 | simplify-2026 |
-| [Rodan Energy Solutions](https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027) | AI Solutions Co-op | Mississauga, ON, Canada | Winter 2027 | 2026-09-21 | 9 | simplify-2026 |
 | [Rodan Energy Solutions](https://rodanenergysolutionsinc.applytojob.com/apply/baC6tVrSpB/Data-Operations-Engineer-AI-Coop-Student-Winter-2027) | Data Operations Engineer AI Co-op - Winter 2027 | Mississauga, ON, Canada | Winter 2027 | 2026-09-21 | 9 | simplify-2026 |
 | [Eaton](https://eaton.eightfold.ai/careers/job/687239256127) | Software Engineering Intern - Research & Development Engineering | Franksville, Caledonia, WI | Winter 2026 | 2026-09-21 | 9 | simplify-2026 |
 | [PrizePicks](http://prizepicks.com/position?gh_jid=7999266003) | Software Engineering Intern - Summer 2027 | Atlanta, GA | Summer 2026 | 2026-09-21 | 9 | simplify-2026 |
@@ -213,6 +219,7 @@
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54322?icims=1) | Software Engineering Intern - AI Solutions | Colorado Springs, CO | Summer 2026 | 2026-09-18 | 12 | simplify-2026 |
 | [TRC Companies](https://careers.trccompanies.com/jobs/26840?icims=1) | Software Engineer Intern | Calgary, AB, Canada | Summer 2027 | 2026-09-18 | 12 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | Software Development Engineer Intern - Summer | Seattle, WA, Arlington County, Arlington, VA | Summer 2027, Winter 2027, Fall 2027 | 2026-09-18 | 12 | simplify-2026 |
+| [Athene](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125) | Software Developer Intern | West Des Moines, IA | Summer 2027 | 2026-09-18 | 12 | simplify-2026 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377) | Software Engineer Intern | Wyoming, MI | Summer 2027 | 2026-09-18 | 12 | simplify-2026 |
 | [CME Group](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821) | Software Engineering Intern - Summer 2027 | Chicago, IL | Summer 2027 | 2026-09-18 | 12 | simplify-2026 |
 | [CME Group](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824) | Software Engineering Fellow | Chicago, IL | N/A | 2026-09-18 | 12 | simplify-2026 |
@@ -293,6 +300,7 @@
 | [Tokyo Electron](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574) | Decision Analysis & AI Intern | Chaska, MN | Summer 2027 | 2026-09-16 | 14 | simplify-2026 |
 | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972) | Software Developer/Engineer Intern | Atlanta, GA | Summer 2027 | 2026-09-16 | 14 | simplify-2026 |
 | [Bass Pro Shops](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1) | IT Developer Intern | Springfield, MO | Summer 2027 | 2026-09-16 | 14 | simplify-2026 |
+| [Live Oak Bank](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630) | Architecture/Engineering Intern | Wilmington, NC | Summer 2027 | 2026-09-16 | 14 | simplify-2026 |
 | [Duolingo](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002) | Software Engineer Intern - Thrive | Pittsburgh, PA | Summer 2027 | 2026-09-15 | 15 | simplify-2026 |
 | [Duolingo](https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002) | Software Engineer Intern | Seattle, WA, Pittsburgh, PA, NYC | Summer 2027 | 2026-09-15 | 15 | simplify-2026 |
 | [Zions Bank](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071639) | Software Engineer Intern | United States | Summer 2026 | 2026-09-15 | 15 | simplify-2026 |
@@ -644,7 +652,6 @@
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Hy-Vee](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133) | Software Engineer Intern | West Des Moines, IA | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186586) | Capital Markets Analyst Intern - AidenEdge | NYC | Winter 2027 | 2026-09-04 | 26 | simplify-2026 |
-| [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-HDNU-Global-Operations---AI-Digitization-Co-op---Spring-Summer-2027_R5049275-2) | AI Digitization Co-op - HDNU Global Operations | Schenectady, NY, Atlanta, GA | Spring 2027, Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Simon Property Group](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | Front End Developer Intern | Indianapolis, IN | Winter 2026 | 2026-09-04 | 26 | simplify-2026 |
 | [DIRECTV](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273) | Customer Operations Intern | El Segundo, CA | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Innovative Systems](http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering) | Software Engineering Intern/Co-op | Pittsburgh, PA | Spring 2027 | 2026-09-03 | 27 | simplify-2026 |
@@ -741,6 +748,8 @@
 | [AMD](https://careers.amd.com/jobs/91864?icims=1) | Compiler Engineer Intern/Co-op | Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Spring 2027, Summer 2027, Fall 2027 | 2026-09-01 | 29 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91866?icims=1) | Compiler Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
 | [Stoke Space](https://stokespace.com/careers/current-openings?gh_jid=6176786004) | Software Intern | Kent, WA | Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022281) | Software Engineering Apprentice - Technology | London, UK | Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022282) | Software Engineering Apprentice - Technology Software Engineering | Burgess Hill, UK | Winter 2026 | 2026-09-01 | 29 | simplify-2026 |
 | [Western & Southern Financial Group](https://careers-westernsouthern.icims.com/jobs/25222/job?mobile=true&needsRedirect=false) | Software Engineer Intern | Cincinnati, OH | Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11422/job?mobile=true&needsRedirect=false) | Technology Co-op - Drexel University | Bala Cynwyd, PA | Winter 2026 | 2026-09-01 | 29 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/281462) | Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering | Fremont, CA | Winter 2027, Spring 2027 | 2026-09-01 | 29 | simplify-2026 |
@@ -774,7 +783,6 @@
 | [Omnicom Group](https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Experience-Design-Intern-Consultant--Design-Engineering-_R14053) | Experience Design Engineer Intern Consultant - Design Engineering | Houston, TX, Chicago, IL, NYC, Denver, CO, Atlanta, GA, Addison, TX | Winter 2026 | 2026-09-01 | 29 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12188) | Software Development Intern | Chicago, IL | Winter 2026 | 2026-09-01 | 29 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R12098) | Software Development Intern | Boise, ID | Winter 2026 | 2026-09-01 | 29 | simplify-2026 |
-| [Ameriprise Financial](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538) | Asset Management Technology Intern - Data Enablement | Boston, MA | Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) | Software Engineer Intern | Germantown, MD, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington County, Arlington, VA, Melbourne, FL, Petaluma, CA, Minneapolis, MN, San Luis Obispo, CA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA | Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
 | [Vermeer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) | Software Engineer Intern - IT | Pella, IA | Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
 | [First National Bank](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847) | Application Development Intern | Pittsburgh, PA | Summer 2027 | 2026-09-01 | 29 | simplify-2026 |
@@ -828,7 +836,6 @@
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685) | Software Engineer Intern - Software Engineering | Toronto, ON, Canada | Spring 2027 | 2026-08-31 | 30 | simplify-2026 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) | Software Engineer Intern | Beaverton, OR | Summer 2027 | 2026-08-31 | 30 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Roy-Utah-United-States/Digital-Technology-Intern---Application-Development--Year-Round-_R49872) | Digital Technology Intern - Application Development - Year Round | Roy, UT | Fall 2026 | 2026-08-31 | 30 | simplify-2026 |
-| [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354) | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | Summer 2027, Fall 2027 | 2026-08-31 | 30 | simplify-2026 |
 | [The Home Depot](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) | Software Engineer Intern | Atlanta, GA | Summer 2027 | 2026-08-31 | 30 | simplify-2026 |
 | [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378) | RPA & Agentic AI Software Technologies Intern - Summer 2027 | Northbrook, IL | Summer 2027 | 2026-08-31 | 30 | simplify-2026 |
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) | Software Engineering Intern - Multiple Teams | Fremont, CA, San Jose, CA | Summer 2027 | 2026-08-31 | 30 | simplify-2026 |
@@ -971,7 +978,7 @@
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) | Mobile Software Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-08-17 | 44 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) | Full Stack Software Engineer Intern - Team Integrated Sprout | Toronto, ON, Canada | Winter 2027 | 2026-08-17 | 44 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) | Full Stack Software Engineer Intern - Team Pickle | Toronto, ON, Canada | Winter 2027 | 2026-08-17 | 44 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171565?type=students) | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | Summer 2027 | 2026-08-15 | 46 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/177808?type=students) | Summer Analyst Intern - Engineering | Seattle, WA | Summer 2027 | 2026-08-15 | 46 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-15 | 46 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | Software Engineer Intern - Summer 2027 | SF, NYC | Summer 2027 | 2026-08-15 | 46 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | 2026-08-15 | 46 | simplify-2026 |

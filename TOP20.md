@@ -8,11 +8,11 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Apple** | Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | N/A | 2026-09-30 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200686205) |
-| 2 | **Tesla** | Embedded Software Developer Intern - Vehicle Suspension | Palo Alto, CA | Spring 2027 | 2026-09-30 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/285153) |
-| 3 | **Robinhood** | Data Science Intern | Menlo Park, CA | Summer 2027 | 2026-09-30 (0d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
-| 4 | **Amazon** | Applied Science Intern - Information & Knowledge Management | Seattle, WA | Summer 2027 | 2026-09-30 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
-| 5 | **NVIDIA** | PhD Research Intern - AI Accelerator Design and VLSI | Santa Clara, CA | Winter 2026 | 2026-09-29 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1) |
+| 1 | **NVIDIA** | Developer Technology Engineer Intern - Compute Performance | Courbevoie, France, Bristol, UK, Würselen, Germany, Munich, Germany | Winter 2026 | 2026-09-30 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) |
+| 2 | **Apple** | Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | N/A | 2026-09-30 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200686205) |
+| 3 | **Tesla** | Embedded Software Developer Intern - Vehicle Suspension | Palo Alto, CA | Spring 2027 | 2026-09-30 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/285153) |
+| 4 | **Robinhood** | Data Science Intern | Menlo Park, CA | Summer 2027 | 2026-09-30 (0d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
+| 5 | **Amazon** | Applied Science Intern - Information & Knowledge Management | Seattle, WA | Summer 2027 | 2026-09-30 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | 6 | **Waymo** | Planner Machine Learning Intern | SF | Summer 2027 | 2026-09-29 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234876) |
 | 7 | **Lyft** | Applied Scientist Intern | SF | Summer 2027 | 2026-09-28 (2d ago) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 | 8 | **Northrop Grumman** | Hardware Electronics Engineer Intern | Rolling Meadows, IL | Summer 2027 | 2026-09-30 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (28d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-30 11:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-30 15:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
