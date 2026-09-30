@@ -1,4 +1,4 @@
-# Hardware Engineering (710)
+# Hardware Engineering (709)
 
 [← back to index](../README.md)
 
@@ -498,7 +498,6 @@
 | [Garmin](https://careers.garmin.com/jobs/19858?icims=1) | Software Engineer Intern | Chandler, AZ | Summer 2027 | 2026-08-31 | 30 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Test-Characterization-Engineer-Intern-TX-75081/1424800700/?ats=successfactors) | Test Characterization Engineer Intern - RF Characterization Engineering | Richardson, TX | Fall 2026 | 2026-08-31 | 30 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors) | IC Layout Engineer Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 30 | simplify-2026 |
-| [Qorvo](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424797000/?ats=successfactors) | Test Engineer Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 30 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Chelmsford-Test-Engineering-Intern-MA-1824/1421979300/?ats=successfactors) | Test Engineer Intern | Chelmsford, MA | Fall 2026 | 2026-08-31 | 30 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors) | Analog Design Engineer Intern - High Performance Analog - Advanced Cellular | Richardson, TX | Fall 2026 | 2026-08-31 | 30 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Technology-Development-Intern-OR-97124/1422908300/?ats=successfactors) | Technology Development Intern | Hillsboro, OR | Fall 2026 | 2026-08-31 | 30 | simplify-2026 |

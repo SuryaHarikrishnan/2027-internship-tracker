@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1402)
+# Data Science, AI & Machine Learning (1398)
 
 [← back to index](../README.md)
 
@@ -138,7 +138,6 @@
 | [Excellus BCBS](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2) | College Intern - Digital Analytics | Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY | Summer 2027 | 2026-09-23 | 7 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8223735) | Machine Learning Engineer Intern - MS/PhD | SF | Summer 2027 | 2026-09-22 | 8 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Data Science Intern - PhD | SF, Mountain View, CA | Summer 2027 | 2026-09-22 | 8 | simplify-2026 |
-| [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oMc5zfwm?nl=1&nl=1&fr=false) | Ridership Analysis & Modeling – Emerging Talent Intern - Fall | NYC | Fall 2026 | 2026-09-22 | 8 | simplify-2026 |
 | [Rippling](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) | Data Science Intern - Summer 2027 | SF | Summer 2026 | 2026-09-22 | 8 | simplify-2026 |
 | [Rippling](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) | Machine Learning Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-22 | 8 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236) | AI Engineer Intern - Creative Innovations - Character Pipelines | Vancouver, BC, Canada | N/A | 2026-09-22 | 8 | simplify-2026 |
@@ -704,7 +703,6 @@
 | [Zoox](https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply) | Autonomy Safety Data Engineer | Foster City, CA | N/A | 2026-09-04 | 26 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551) | Data Analyst Intern - Global Technical Learning Center | Albany, NY | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [CNA Insurance](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Engineering-_R-8129) | Data Engineering Intern | Chicago, IL | Summer 2026 | 2026-09-04 | 26 | simplify-2026 |
-| [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098) | Sales Analytics Intern | Carmel, IN | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734) | Data Analyst Intern | Cary, IL | Winter 2026 | 2026-09-04 | 26 | simplify-2026 |
 | [DIRECTV](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282) | Operational Analytics Intern | Remote in USA | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Nationwide](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233) | Feature Engineer Intern - Enterprise Analytics Office | Columbus, OH | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
@@ -764,7 +762,6 @@
 | [HD Supply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) | Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science | Atlanta, GA | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077) | Data Science Intern - Data Intelligence | Carmel, IN | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074) | AI Solutions Intern | Carmel, IN | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
-| [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076) | Data Governance Intern | St Paul, MN | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Fannie Mae](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814) | Finance Analytics Intern - Analytics & Modeling Program | Washington, DC | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Cigna Group](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | Analytics Leadership Development Intern - ALDP | Bloomfield, CT | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | Winter 2027 | 2026-09-02 | 28 | simplify-2026 |
@@ -1043,7 +1040,6 @@
 | [Google](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | Research Scientist PhD Intern | London, UK | Summer 2027 | 2026-08-17 | 44 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | AI Engineer Intern - Enterprise Technology Services | Atlanta, GA | Summer 2027 | 2026-08-17 | 44 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | 2026-08-17 | 44 | simplify-2026 |
-| [Toyota Research Institute](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0/apply) | Robotics Research Intern - Post-Training | Los Altos, CA | Fall 2026 | 2026-08-17 | 44 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data Science PhD Intern | London, UK | Summer 2027 | 2026-08-17 | 44 | simplify-2026 |
 | [W.W. Grainger](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Intelligence-1-IL-60661-4555/1419931300/?ats=successfactors) | Business Intelligence 1 Intern | Chicago, IL | Summer 2026 | 2026-08-17 | 44 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7674944387893791029) | Data Analyst Intern - LIVE | London, UK | Summer 2027 | 2026-08-17 | 44 | simplify-2026 |
