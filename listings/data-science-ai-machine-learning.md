@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1405)
+# Data Science, AI & Machine Learning (1402)
 
 [← back to index](../README.md)
 
@@ -15,7 +15,6 @@
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958) | Artificial Intelligence/Machine Learning Co-op | United States | Spring 2027 | 2026-09-29 | 1 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54582?icims=1) | EDA AI/ML Software Intern | Calabasas, CA | Winter 2026 | 2026-09-29 | 1 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54606?icims=1) | EDA AI/ML Layout Engineering Intern | Calabasas, CA | Winter 2026 | 2026-09-29 | 1 | simplify-2026 |
-| [Texas A&M International University](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--WiSEMAN-_R-096804) | Undergraduate Research Assistant - Wiseman | Laredo, TX | N/A | 2026-09-29 | 1 | simplify-2026 |
 | [Perchwell](https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application?embed=true) | Data Analytics Engineering Intern | NYC | Summer 2027 | 2026-09-29 | 1 | simplify-2026 |
 | [W.W. Grainger](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors) | Business Analyst Intern | Green Bay, WI | Summer 2027, Fall 2026 | 2026-09-29 | 1 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern/216223) | AI Engineer Intern - AI Platform | Vancouver, BC, Canada | Summer 2026 | 2026-09-29 | 1 | simplify-2026 |
@@ -654,7 +653,6 @@
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) | Co-op | Rahway, NJ | Summer 2027 | 2026-09-08 | 22 | simplify-2026 |
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871) | Computational Toxicology Intern - AI/ML Computational Toxicology | West Point, PA | Summer 2027 | 2026-09-08 | 22 | simplify-2026 |
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861) | Data Scientist Intern - Nonclinical Drug Safety | Boston, MA | Summer 2027 | 2026-09-08 | 22 | simplify-2026 |
-| [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885) | Optical Imaging Data Science Intern | Boston, MA | Summer 2027 | 2026-09-08 | 22 | simplify-2026 |
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411) | Business Intelligence Intern - Research Lab | North Wales, PA, Rahway, NJ | Summer 2027 | 2026-09-08 | 22 | simplify-2026 |
 | [Dick's Sporting Goods](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1) | Retail Analytics Intern - Corporate Internship | Pittsburgh, PA | Summer 2027 | 2026-09-08 | 22 | simplify-2026 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Data and Intelligence Delivery Intern - Assurance | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | Summer 2027 | 2026-09-07 | 23 | simplify-2026 |
@@ -767,7 +765,6 @@
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077) | Data Science Intern - Data Intelligence | Carmel, IN | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074) | AI Solutions Intern | Carmel, IN | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076) | Data Governance Intern | St Paul, MN | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
-| [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082) | IT Performance Analyst Intern | Carmel, IN | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Fannie Mae](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814) | Finance Analytics Intern - Analytics & Modeling Program | Washington, DC | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [Cigna Group](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | Analytics Leadership Development Intern - ALDP | Bloomfield, CT | Summer 2027 | 2026-09-02 | 28 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | Winter 2027 | 2026-09-02 | 28 | simplify-2026 |
