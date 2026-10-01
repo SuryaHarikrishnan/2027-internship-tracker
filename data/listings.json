@@ -20520,7 +20520,7 @@
     "company_name": "GE Healthcare",
     "id": "7291b6ac-970f-4f7b-bbd8-67141ae89009",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -38523,7 +38523,7 @@
     "company_name": "Wex",
     "id": "89e69230-379f-4aee-89b4-80a000e2d655",
     "title": "AI & Data Platform Engineering Intern - Undergraduate",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -47470,7 +47470,7 @@
     "company_name": "RTX",
     "id": "d33add69-247a-45fe-877c-f6ba4d421782",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -57439,7 +57439,7 @@
     "company_name": "Polar Semiconductor",
     "id": "33ed7890-80e5-4d33-87a2-da9cba101479",
     "title": "Design Enablement Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -68505,7 +68505,7 @@
     "company_name": "Schonfeld",
     "id": "13029c1c-d8c6-4568-a234-471d6081d632",
     "title": "Technology Intern - DMFI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -68531,7 +68531,7 @@
     "company_name": "Schonfeld",
     "id": "ce15dae3-7399-4de2-93b2-1047bc6aedc8",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -68557,7 +68557,7 @@
     "company_name": "Schonfeld",
     "id": "2958c86d-fef5-4422-a0a1-7bd489bfebf1",
     "title": "Business Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -147655,7 +147655,7 @@
     "company_name": "NTT DATA AIVista",
     "id": "a2304215-7eea-4897-b101-88b9172fcae0",
     "title": "AI Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -172560,7 +172560,7 @@
     "company_name": "Arizona State University",
     "id": "64902580-c49d-4221-8f19-a1e00d5b2f02",
     "title": "Student Data Science Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
