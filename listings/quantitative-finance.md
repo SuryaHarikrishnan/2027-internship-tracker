@@ -1,4 +1,4 @@
-# Quantitative Finance (219)
+# Quantitative Finance (215)
 
 [← back to index](../README.md)
 
@@ -49,8 +49,6 @@
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) | Quantitative Masters Intern - Technology - Analytics & Modeling | NYC | Summer 2027 | 2026-09-15 | 16 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) | Quantitative Master’s Internship - Technology - Analytics & Modeling | SF | Summer 2027 | 2026-09-15 | 16 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) | Quantitative Master's Intern - Investments - Quantitative Investing | London, UK | Summer 2027 | 2026-09-15 | 16 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792) | Algorithmic Trading Developer Co-op - Global Equities | Toronto, ON, Canada | Summer 2027 | 2026-09-14 | 17 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742) | Quantitative Trading Analyst Co-op - Global Equities | Toronto, ON, Canada | Winter 2026 | 2026-09-14 | 17 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638) | Multifamily Business Analysis Graduate Intern - Summer 2027 | McLean, VA | Summer 2027 | 2026-09-14 | 17 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) | Quantitative Analyst Intern - AI | NYC | Summer 2027 | 2026-09-14 | 17 | simplify-2026 |
 | [Ameriprise Financial](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Quantitative-Investment-Research-Co-op--Equities-_R26_3532) | Quantitative Investment Research Co-op - Equities | Boston, MA | Winter 2026 | 2026-09-14 | 17 | simplify-2026 |
@@ -58,7 +56,6 @@
 | [Energy Transfer Partners](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) | Commodity Trading Analyst Intern | Overland Park, KS | Summer 2027 | 2026-09-12 | 19 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) | Quantitative Research Intern - DV Equities | NYC | Summer 2027 | 2026-09-11 | 20 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | Quantitative Trading Intern - DV Equities | NYC | Summer 2027 | 2026-09-11 | 20 | simplify-2026 |
-| [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235) | Quantitative Analyst Co-op | Boston, MA, Westlake, TX, Smithfield, RI, Merrimack, NH | Winter 2026 | 2026-09-11 | 20 | simplify-2026 |
 | [Geneva Trading](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) | Quantitative Trading Intern | Chicago, IL | Summer 2027 | 2026-09-10 | 21 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) | Execution Research Intern - Systematic Execution Research | NYC | Summer 2027 | 2026-09-10 | 21 | simplify-2026 |
 | [Zions Bank](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620) | Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics | United States | Summer 2027 | 2026-09-09 | 22 | simplify-2026 |
@@ -73,7 +70,6 @@
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) | Quantitative Research Intern | Miami, FL | Summer 2027 | 2026-09-04 | 27 | simplify-2026 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | Quantitative Research Intern | NYC | Summer 2027 | 2026-09-04 | 27 | simplify-2026 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172055) | Fixed Income Intern | NYC | Summer 2027 | 2026-09-04 | 27 | simplify-2026 |
-| [Man Group](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101) | Quantitative Researcher Intern | London, UK | Fall 2026 | 2026-09-04 | 27 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) | Quantitative Finance Associate Intern - Off Cycle Internship Programme | London, UK | Winter 2026 | 2026-09-04 | 27 | simplify-2026 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/6181069004) | Quantitative Research Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-03 | 28 | simplify-2026 |
 | [Garda Capital Partners](https://job-boards.greenhouse.io/gardacp/jobs/6163540004) | Trading Analyst Intern - Credit | NYC | Summer 2027 | 2026-09-03 | 28 | simplify-2026 |
