@@ -2,6 +2,188 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Gas South",
+    "id": "ed5bc2d4-26fb-44d6-82bd-7e1ff254739e",
+    "title": "Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1790952351,
+    "date_posted": 1790952217,
+    "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gas-South",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Graphcore",
+    "id": "f587f567-7076-4901-8b22-2476f0e17fdd",
+    "title": "Machine Learning and Data Science Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1790951998,
+    "date_posted": 1790951858,
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8862951002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Graphcore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "American Bankers Association",
+    "id": "ec2c0694-e2d1-4b6f-a0d8-8246515195c7",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1790951761,
+    "date_posted": 1790899200,
+    "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Bankers-Association",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "75c9bd55-d962-405d-8b35-8302935fa982",
+    "title": "Associate Product Manager Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1790951293,
+    "date_posted": 1790951178,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Humanoid",
+    "id": "090093e5-7ef5-475c-a791-32ea8ed332a7",
+    "title": "Robot Learning Intern - Robot Learning Research",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1790950964,
+    "date_posted": 1790950777,
+    "url": "https://jobs.ashbyhq.com/humanoid/e1a2a9de-ad23-4632-9d93-ee50fd41a221/application?embed=true",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Humanoid",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "IDeaS",
+    "id": "4200fef6-f177-438c-aaf7-eb7c087f048b",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1790950951,
+    "date_posted": 1790950738,
+    "url": "https://ideas-sas.icims.com/jobs/42648/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/IDeaS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Definity Financial",
+    "id": "212771ed-92c6-48c7-b5d0-8fba7e55a26f",
+    "title": "Operations Analyst Co-op Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1790950353,
+    "date_posted": 1790950113,
+    "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Waterloo, ON, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Definity-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Helion Energy",
     "id": "8c0720bf-747e-4a04-b5c4-846531aa0186",
     "title": "Computational Plasma Research Intern",
@@ -4549,7 +4731,7 @@
     "company_name": "Stripe",
     "id": "48975da5-2bb2-4457-8702-de4898cd805e",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -5604,7 +5786,7 @@
     "company_name": "KLA",
     "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
     "title": "Optical Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -6845,7 +7027,7 @@
     "company_name": "Northrop Grumman",
     "id": "e8dce61d-65f5-408f-9f0d-061871375cae",
     "title": "Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12569,7 +12751,7 @@
     "company_name": "GoTo Group",
     "id": "f2af6a58-c979-43d6-a20b-83d4442bc1a9",
     "title": "Software Development Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -19717,7 +19899,7 @@
     "company_name": "Gorbel",
     "id": "de94d407-d9e8-4cae-a214-452707cb46ed",
     "title": "Data BI Analyst Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -19796,7 +19978,7 @@
     "company_name": "William Blair",
     "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
     "title": "Application Development Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -22558,7 +22740,7 @@
     "company_name": "Rodan Energy Solutions",
     "id": "9c40bb4c-e181-478f-94f6-bbb35c085b3b",
     "title": "Data Science Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -23976,7 +24158,7 @@
     "company_name": "Fidelity Investments",
     "id": "580bd080-8355-4c59-a6d5-f4d6cc61be55",
     "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -25143,7 +25325,7 @@
     "company_name": "Medtronic",
     "id": "667e212e-f538-4047-be88-67c3e724d68a",
     "title": "Data Analysis & Market Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -32397,7 +32579,7 @@
     "company_name": "British Columbia Investment",
     "id": "ac3447c3-504f-451a-b13d-06723cc96744",
     "title": "Investment Risk Analytics Solutions Co-op Intern - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -33246,7 +33428,7 @@
     "company_name": "EQT Corporation",
     "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
     "title": "Data Engineering Intern - Completions Services",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -35986,7 +36168,7 @@
     "company_name": "RSM",
     "id": "8ba54835-fab0-4ef0-9e30-03da4f4fe24e",
     "title": "Business Intelligence Consulting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -38324,7 +38506,7 @@
     "company_name": "bioM\u00e9rieux",
     "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
     "title": "Hardware Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -44532,7 +44714,7 @@
     "company_name": "Marvell",
     "id": "ce1940f7-7c29-4bdd-8e79-4e7c906d46c2",
     "title": "Firmware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -46193,7 +46375,7 @@
     "company_name": "CoStar Group",
     "id": "85d55295-0c76-4133-880c-055ce402b526",
     "title": "Technology Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -46245,7 +46427,7 @@
     "company_name": "CoStar Group",
     "id": "5e63a9e0-387b-437d-983c-017171f32eea",
     "title": "Technology Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69121,7 +69303,7 @@
     "company_name": "NXP Semiconductors",
     "id": "eddeaea3-e5f8-4235-aa6d-8725f2a617aa",
     "title": "Digital Validation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69440,7 +69622,7 @@
     "company_name": "NXP Semiconductors",
     "id": "3f0e549f-ef89-4f97-ac81-4a1e62d26df8",
     "title": "Embedded Machine Learning & Radar Processing Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -76472,6 +76654,32 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Squarepoint Capital",
+    "id": "17f0421d-363e-4dcd-aa7f-0aa75fb79290",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1788505021,
+    "date_posted": 1786388566,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7231006",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
@@ -85392,7 +85600,7 @@
     "company_name": "Deutsche Bank",
     "id": "9c6268c8-21a5-4c50-b4cd-d027da19170d",
     "title": "Quant Intern - Strategic Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -89469,7 +89677,7 @@
     "company_name": "Geotab",
     "id": "271b8fea-6d1f-4318-aaa7-aa9a13159d72",
     "title": "Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -109975,7 +110183,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -130962,7 +131170,7 @@
     "company_name": "Google",
     "id": "2de78b3a-47c4-4a03-9f0b-683df19e56db",
     "title": "Research Scientist PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -139044,7 +139252,7 @@
     "company_name": "Deloitte",
     "id": "ab415b2f-4b79-4996-a204-a63273564c89",
     "title": "Software Engineering Analyst Intern - Government & Public Services",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -160724,7 +160932,7 @@
     "company_name": "Deloitte",
     "id": "4b79443f-64b0-4381-aa54-5febee12149d",
     "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -165598,7 +165806,7 @@
     "company_name": "T. Rowe Price",
     "id": "911caa98-2914-42a0-82e3-458130b9de36",
     "title": "Technology and Data Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -259007,7 +259215,7 @@
     "company_name": "Pennsylvania State University",
     "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
     "title": "Embedded Systems and Hardware Co-Op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -333153,6 +333361,30 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "The Walt Disney Company",
+    "id": "094d939d-c698-4092-ba76-859352c35265",
+    "title": "Level 4 Data Analyst Apprenticeship",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1772811500,
+    "date_posted": 1772811500,
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/London-United-Kingdom/Level-4-Data-Analyst-Apprenticeship_10142267-2",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Intermountain Healthcare",
     "id": "5f8c98c7-22b2-46cb-b360-cfae67f861c9",
     "title": "Data Analyst Intern-1",
@@ -401753,138 +401985,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Micron Technology",
-    "id": "55e3599c-120d-4a24-afc5-e3724ad6aa0d",
-    "title": "Intern-QMS Document Automation",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770212665,
-    "date_posted": 1770212665,
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--QMS-Document-Automation_JR89681",
-    "locations": [
-      "Leander, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Johnson & Johnson",
-    "id": "e4a8d651-b6ef-4f65-a167-40eec6d8a00c",
-    "title": "AI/ML Intern - Video Understanding",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770212142,
-    "date_posted": 1770212142,
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/AI-ML-Summer-Intern---Video-Understanding_R-056460",
-    "locations": [
-      "High Wycombe, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Johnson & Johnson",
-    "id": "affaf0b1-b73a-481b-bc78-c115f4b5823a",
-    "title": "AI/ML Summer Intern - Statistics & Decision Sciences - Sds",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770210269,
-    "date_posted": 1770210269,
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/AI-ML-Summer-Intern---Statistics---Decision-Sciences--SDS-_R-056470",
-    "locations": [
-      "Paris, France",
-      "High Wycombe, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Thales",
-    "id": "dc652799-07b1-48c6-81ac-a1ad5c1e4f70",
-    "title": "Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770208686,
-    "date_posted": 1770208686,
-    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Software-Engineering-Intern_R0313891",
-    "locations": [
-      "Glasgow, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Thales",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The Walt Disney Company",
-    "id": "96cc5ac5-7f27-4570-bde4-3d5d254357c9",
-    "title": "Level 4 Data Analyst Apprenticeship",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1770208529,
-    "date_posted": 1770208529,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Level-4-Data-Analyst-Apprenticeship_10142267",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

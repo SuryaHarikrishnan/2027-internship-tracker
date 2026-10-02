@@ -8,8 +8,8 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Amazon** | Business Intelligence Engineer Intern | London, UK | Winter 2026 | 2026-10-02 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) |
-| 2 | **Google** | Forward Deployed Engineer Intern | London, UK | Summer 2027 | 2026-10-02 (0d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/135156989620560582) |
+| 1 | **Google** | Associate Product Manager Intern | London, UK | Summer 2027 | 2026-10-02 (0d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/103464941339452102) |
+| 2 | **Amazon** | Business Intelligence Engineer Intern | London, UK | Winter 2026 | 2026-10-02 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) |
 | 3 | **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD | Mountain View, CA | Summer 2027 | 2026-10-02 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) |
 | 4 | **Meta** | Research Scientist Intern - Robotics | Menlo Park, CA | Winter 2026 | 2026-10-01 (1d ago) | [Apply](https://www.metacareers.com/jobs/1940312740718917) |
 | 5 | **Stripe** | Data Scientist Intern | Seattle, WA, South SF, NYC | Winter 2026 | 2026-10-01 (1d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (30d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-02 11:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-02 15:06 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
