@@ -19,10 +19,10 @@ Ranked by freshness + company tier + role category.
 | 9 | **NVIDIA** | PhD Research Intern - Programming Systems | Santa Clara, CA | Summer 2027 | 2026-09-30 (2d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379) |
 | 10 | **Apple** | Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | N/A | 2026-09-30 (2d ago) | [Apply](https://jobs.apple.com/en-us/details/200686205) |
 | 11 | **Robinhood** | Data Science Intern | Menlo Park, CA | Summer 2027 | 2026-09-30 (2d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
-| 12 | **Intel** | Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada | Winter 2026 | 2026-10-01 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) |
-| 13 | **Intuit** | Business Data Analyst Intern - Strategy & Planning | Mountain View, CA | Summer 2027 | 2026-10-01 (1d ago) | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360) |
-| 14 | **Pinterest** | Machine Learning Intern | Toronto, ON, Canada | Summer 2027 | 2026-10-01 (1d ago) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
-| 15 | **Rivian** | Software Engineer Intern Co-op - Applied AI | Palo Alto, CA | Spring 2027 | 2026-10-01 (1d ago) | [Apply](https://careers.rivian.com/jobs/33984?icims=1) |
+| 12 | **Northrop Grumman** | College Technical Intern | McLean, VA | Summer 2027 | 2026-10-02 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) |
+| 13 | **Intel** | Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada | Winter 2026 | 2026-10-01 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) |
+| 14 | **Intuit** | Business Data Analyst Intern - Strategy & Planning | Mountain View, CA | Summer 2027 | 2026-10-01 (1d ago) | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360) |
+| 15 | **Pinterest** | Machine Learning Intern | Toronto, ON, Canada | Summer 2027 | 2026-10-01 (1d ago) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (30d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-02 15:06 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-02 18:08 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

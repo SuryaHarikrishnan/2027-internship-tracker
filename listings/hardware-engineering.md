@@ -5,6 +5,7 @@
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Muon Space](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) | Electrical Engineer Intern | San Jose, CA | Summer 2027 | 2026-10-02 | 0 | simplify-2026 |
+| [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) | Mechatronics Engineering Co-op | Bloomington, MN | Spring 2026, Summer 2026 | 2026-10-02 | 0 | simplify-2026 |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/LwyTYMQ5h7/Laboratory-Technician-Intern) | Laboratory Technician Intern | Albuquerque, NM | Fall 2026 | 2026-10-01 | 1 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/74924/job?mobile=true&needsRedirect=false) | Electrical Engineering Co-op | Pittsfield, MA | Fall 2026, Winter 2027 | 2026-10-01 | 1 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75284/job?mobile=true&needsRedirect=false) | Electrical Engineering Intern | Dedham, MA | Winter 2026 | 2026-10-01 | 1 | simplify-2026 |
@@ -139,6 +140,7 @@
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615) | Embedded Software Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | N/A | 2026-09-23 | 9 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614) | Analog Design Engineering Intern | Toronto, ON, Canada | Winter 2026 | 2026-09-23 | 9 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393) | Software Engineer Co-op | Halethorpe, MD | Spring 2027 | 2026-09-23 | 9 | simplify-2026 |
+| [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) | Firmware Development Undergraduate Engineering Co-op | Remote in Canada | Winter 2027 | 2026-09-23 | 9 | simplify-2026 |
 | [Saab](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1) | Electrical Engineering Co-op | East Syracuse, NY | Summer 2027 | 2026-09-23 | 9 | simplify-2026 |
 | [Hitachi Energy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279) | Electrical Component Engineering Intern | Toronto, ON, Canada | Fall 2026, Winter 2027 | 2026-09-23 | 9 | simplify-2026 |
 | [Sonos](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2) | Software Engineering Co-op - Signal Processing | Boston, MA | Winter 2027 | 2026-09-23 | 9 | simplify-2026 |
@@ -161,7 +163,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1) | Analog Layout Intern - BS | Irvine, CA, Santa Clara, CA | Summer 2027 | 2026-09-22 | 10 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1) | Electrical Validation Intern - BS | Santa Clara, CA | Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028 | 2026-09-22 | 10 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751) | Firmware Engineer Intern | Toronto, ON, Canada | Winter 2026 | 2026-09-22 | 10 | simplify-2026 |
-| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053) | Software/Firmware Engineer Intern | Toronto, ON, Canada | Winter 2026 | 2026-09-22 | 10 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686) | Verification Engineer Intern | Atlanta, GA | Spring 2027 | 2026-09-22 | 10 | simplify-2026 |
 | [Eaton](https://eaton.eightfold.ai/careers/job/687239255756) | Embedded Software Engineer Intern - Research & Development Engineering | Franksville, Caledonia, WI | Winter 2026 | 2026-09-21 | 11 | simplify-2026 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/194772) | Optical System Test Engineer Intern | Fremont, CA | Winter 2026 | 2026-09-21 | 11 | simplify-2026 |
@@ -662,7 +663,6 @@
 | [Skydio](https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee/application?embed=true) | Electrical Engineer Intern | San Mateo, CA | Fall 2026 | 2026-07-28 | 66 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 67 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Northampton-Associate,-Integration-and-Test-Engineering-MA-01060/1412685600/?ats=successfactors) | Associate Integration and Test Engineering | Northampton, MA | N/A | 2026-07-27 | 67 | simplify-2026 |
-| [Kepler Communications](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | FPGA Digital Design Engineer Intern | Toronto, ON, Canada | Winter 2027 | 2026-07-22 | 72 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | FPGA Engineer Intern | Austin, TX | Summer 2027 | 2026-07-21 | 73 | simplify-2026 |
 | [Terranova](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da/application?embed=true) | Embedded Systems Intern | Berkeley, CA | Fall 2026 | 2026-07-21 | 73 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Engineering Development Program Intern - Hardware | Twinsburg, OH, Waukesha, WI | Summer 2027 | 2026-07-20 | 74 | simplify-2026 |

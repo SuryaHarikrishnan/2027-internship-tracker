@@ -1,4 +1,4 @@
-# Quantitative Finance (205)
+# Quantitative Finance (203)
 
 [← back to index](../README.md)
 
@@ -26,7 +26,6 @@
 | [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | Data Science Intern | NYC | Summer 2027 | 2026-09-21 | 11 | simplify-2026 |
 | [Lazard](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | Quantitative Research Intern | NYC | Summer 2027 | 2026-09-21 | 11 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361) | Quantitative Research Intern - Multi-Asset Research Team | Boston, MA | Summer 2027 | 2026-09-21 | 11 | simplify-2026 |
-| [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109) | Quantitative Analyst Intern - Fixed Income Team | Boston, MA, Merrimack, NH | Summer 2027 | 2026-09-21 | 11 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Development---Data-Science-Internship_2134404) | Quantitative Development & Data Science Intern | Boston, MA, Jersey City, NJ, Merrimack, NH | Summer 2026 | 2026-09-21 | 11 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128) | Quantitative Research Intern - Multi-Asset Systematic Research Team | Boston, MA | Summer 2027 | 2026-09-21 | 11 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370) | Quantitative Research Intern - Strategic Advisers | Boston, MA | Summer 2027 | 2026-09-21 | 11 | simplify-2026 |
@@ -82,7 +81,6 @@
 | [Garda Capital Partners](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) | Trading Analyst Intern - Mortgages | NYC | Summer 2027 | 2026-09-03 | 29 | simplify-2026 |
 | [Garda Capital Partners](https://job-boards.greenhouse.io/gardacp/jobs/4934006004) | Trading Analyst Intern - Rates | NYC | Summer 2027 | 2026-09-03 | 29 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-09-03 | 29 | simplify-2026 |
-| [Deutsche Bank](https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg) | Quantitative Trading Intern - Fixed Income & Currencies | NYC | Summer 2027 | 2026-09-03 | 29 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1) | Quantitative Analyst Summer Associate - Quantitative Technology Services | NYC | Summer 2027 | 2026-09-02 | 30 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | Summer 2027 | 2026-09-01 | 31 | simplify-2026 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs | London, UK | Summer 2027 | 2026-09-01 | 31 | simplify-2026 |
