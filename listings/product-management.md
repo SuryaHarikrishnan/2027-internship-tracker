@@ -1,4 +1,4 @@
-# Product Management (232)
+# Product Management (231)
 
 [← back to index](../README.md)
 
@@ -125,7 +125,6 @@
 | [TikTok](https://lifeattiktok.com/search/7677493272788683013) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | Summer 2027 | 2026-09-03 | 30 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Global Product Management Intern - Conferencing | Niles, IL | Summer 2027 | 2026-09-03 | 30 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Global Product Management Data Intern | Niles, IL | Summer 2027 | 2026-09-03 | 30 | simplify-2026 |
-| [JD.com](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Product-Management-Internship_JR103809) | Product Management Intern | London, UK | Winter 2026 | 2026-09-03 | 30 | simplify-2026 |
 | [Geotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) | Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | Winter 2027 | 2026-09-02 | 31 | simplify-2026 |
 | [Atlassian](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | Product Management Intern | SF | Summer 2027 | 2026-09-02 | 31 | simplify-2026 |
 | [Corning](https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern,-Analyst,-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/?ats=successfactors) | Digital & IT Intern | Corning, NY | Summer 2027 | 2026-09-02 | 31 | simplify-2026 |

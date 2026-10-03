@@ -2,6 +2,60 @@
   {
     "source": "Simplify",
     "category": "Software",
+    "company_name": "blp",
+    "id": "bf7072d3-5d46-48e6-951a-18e940c68ebc",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1791023423,
+    "date_posted": 1786389012,
+    "url": "https://jobs.ashbyhq.com/blp-digital/7c93c32d-f2e6-40be-a02e-b3a9ff0ff40e/application?embed=true",
+    "locations": [
+      "London, UK",
+      "Barcelona, Spain"
+    ],
+    "company_url": "https://simplify.jobs/c/Blp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pinterest",
+    "id": "eda40edd-acbe-4e9d-98b6-9591dea895bc",
+    "title": "UX Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1791023401,
+    "date_posted": 1790893159,
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
     "company_name": "Cadence Design Systems",
     "id": "11026e9a-3bdc-4a1f-b5ce-7ac1a1b56e6b",
     "title": "AI / Agentic AI / GenAI Intern - IT",
@@ -3338,7 +3392,7 @@
     "company_name": "Invesco",
     "id": "a63f1342-abee-4e15-bd4c-988628442f07",
     "title": "Early Career Intern - Fixed Income Global Technology",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7328,7 +7382,7 @@
     "company_name": "Northrop Grumman",
     "id": "2b8a623c-d139-413c-aff2-d9afce6a38e4",
     "title": "Cyber Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10913,7 +10967,7 @@
     "company_name": "RTX",
     "id": "51b8b3e7-e7d0-4727-9f90-91917bc88230",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12367,7 +12421,7 @@
     "company_name": "Philips",
     "id": "2c831f83-ca5c-44e8-b6b8-dce99992900e",
     "title": "Electrical Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23772,7 +23826,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -35580,7 +35634,7 @@
     "company_name": "EQT Corporation",
     "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
     "title": "Data Engineering Intern - Completions Services",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -35817,7 +35871,7 @@
     "company_name": "RTX",
     "id": "9f477186-5000-4fe3-8151-4971b1c4abfb",
     "title": "Software Engineer Co-op - Winter/Spring 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -39099,7 +39153,7 @@
     "company_name": "Zions Bank",
     "id": "e04fda0f-12a2-4117-aaa1-dc27e62a8cd0",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -39339,7 +39393,7 @@
     "company_name": "APEX Analytix",
     "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
     "title": "Data Science Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -57726,7 +57780,7 @@
     "company_name": "Wellington Management",
     "id": "baa23a3b-d414-4373-9c07-e1c15ba9f262",
     "title": "Technology Undergraduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -81330,7 +81384,7 @@
     "company_name": "Walmart",
     "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
     "title": "Software Engineer 2 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -85316,7 +85370,7 @@
     "company_name": "JD.com",
     "id": "70e97aa1-1967-4add-9a5a-8a9208c8db26",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -142833,7 +142887,7 @@
     "company_name": "PSP Investments",
     "id": "f545abf5-18c8-42fa-9bc9-37d9184a61a1",
     "title": "AI Solutions Intern - External Manager Selection & Monitoring",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
