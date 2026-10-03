@@ -20,9 +20,9 @@ Ranked by freshness + company tier + role category.
 | 10 | **Ramp** | Applied Scientist Intern | NYC | Winter 2026 | 2026-09-30 (3d ago) | [Apply](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true) |
 | 11 | **Apple** | Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | N/A | 2026-09-30 (3d ago) | [Apply](https://jobs.apple.com/en-us/details/200686205) |
 | 12 | **Robinhood** | Data Science Intern | Menlo Park, CA | Summer 2027 | 2026-09-30 (3d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
-| 13 | **Intuit** | Marketing Intern - AI Tooling for Marketing Efficiency | SF, Mountain View, CA | Summer 2027 | 2026-10-02 (1d ago) | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) |
-| 14 | **Intel** | Thermal Mechanical Engineering Intern - GPU Platforms | Toronto, ON, Canada | Winter 2026 | 2026-10-02 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516) |
-| 15 | **Northrop Grumman** | College Technical Intern | McLean, VA | Summer 2027 | 2026-10-02 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) |
+| 13 | **AMD** | Masters Photonics Design Engineering Co-op | San Jose, CA | Spring 2027, Summer 2027 | 2026-10-03 (0d ago) | [Apply](https://careers.amd.com/jobs/91633?icims=1) |
+| 14 | **Intel** | GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON, Canada | Winter 2026 | 2026-10-02 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) |
+| 15 | **Intuit** | Marketing Intern - AI Tooling for Marketing Efficiency | SF, Mountain View, CA | Summer 2027 | 2026-10-02 (1d ago) | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (31d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-03 00:22 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-03 10:41 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
