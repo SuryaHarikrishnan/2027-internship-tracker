@@ -8,10 +8,10 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Databricks** | Software Engineer Intern | London, UK | Summer 2027 | 2026-10-02 (2d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8847738002) |
-| 2 | **Waymo** | Perception Intern - Evaluation | Mountain View, CA | Summer 2027 | 2026-10-02 (2d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248327) |
-| 3 | **Tesla** | Distributed Systems Software Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-10-02 (2d ago) | [Apply](https://www.tesla.com/careers/search/job/285508) |
-| 4 | **NVIDIA** | PhD Research Intern - Embodied and Agentic AI | California, Santa Clara, CA | Fall 2027 | 2026-10-02 (2d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792) |
+| 1 | **NVIDIA** | Data Processing Developer Technology Intern | Courbevoie, France, Bristol, UK, Würselen, Germany, Berlin, Germany, Munich, Germany | N/A | 2026-10-04 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) |
+| 2 | **Databricks** | Software Engineer Intern | London, UK | Summer 2027 | 2026-10-02 (2d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8847738002) |
+| 3 | **Waymo** | Perception Intern - Evaluation | Mountain View, CA | Summer 2027 | 2026-10-02 (2d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248327) |
+| 4 | **Tesla** | Distributed Systems Software Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-10-02 (2d ago) | [Apply](https://www.tesla.com/careers/search/job/285508) |
 | 5 | **Microsoft** | Research Intern - Maia Development | Redmond, WA | Winter 2026 | 2026-10-02 (2d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557023070) |
 | 6 | **Google** | Associate Product Manager Intern | London, UK | Summer 2027 | 2026-10-02 (2d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/103464941339452102) |
 | 7 | **Amazon** | Business Intelligence Engineer Intern | London, UK | Winter 2026 | 2026-10-02 (2d ago) | [Apply](https://amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (32d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-04 19:55 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-04 23:54 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
