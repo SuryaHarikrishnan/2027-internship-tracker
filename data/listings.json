@@ -57,7 +57,7 @@
     "company_name": "Autodesk",
     "id": "a1fc9732-fe78-4aa6-9f1b-3d40fb62d956",
     "title": "Multimodal AI for Human Experience Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5199,7 +5199,7 @@
     "company_name": "Graphcore",
     "id": "f587f567-7076-4901-8b22-2476f0e17fdd",
     "title": "Machine Learning and Data Science Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -6893,7 +6893,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "5be84d73-baa7-4e86-ad5d-21e896cb6921",
     "title": "MCCR Policy AI Applications Intern - GRM",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -7070,7 +7070,7 @@
     "company_name": "Intel",
     "id": "b9f57b63-1497-43c1-a2c5-1e13174e3c10",
     "title": "AI Software Technical Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -7201,7 +7201,7 @@
     "company_name": "HMH",
     "id": "cd797b97-31de-482a-bda6-2a5a6836dd6b",
     "title": "AI & Automation Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -9874,7 +9874,7 @@
     "company_name": "Noblis",
     "id": "e30652f9-cc86-4112-b084-f0cba5f2b4ce",
     "title": "Data Science and Innovation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -11036,7 +11036,7 @@
     "company_name": "RTX",
     "id": "0a405c15-cc8e-435c-92fb-7fc22c23643b",
     "title": "Embedded Software Security Engineer Intern - S3E",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -11268,7 +11268,7 @@
     "company_name": "Invesco",
     "id": "e02669bd-1cd4-43fc-ac1d-89d029602b6e",
     "title": "Early Career Intern - Digital Asset Product",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -14857,7 +14857,7 @@
     "company_name": "The Aerospace Corporation",
     "id": "d48c80c4-64ef-42c6-b309-34cb2efa3de1",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -15602,7 +15602,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "78a7d4d4-2ec8-4f04-9922-520c99e31f7a",
     "title": "Software Analyst / Developer Intern - Fall",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -15628,7 +15628,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "2398b246-0367-461a-b3e4-e7cd3c94d6e1",
     "title": "Software Analyst / Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -23962,7 +23962,7 @@
     "company_name": "The Aerospace Corporation",
     "id": "3faca9c1-e66c-437c-a5bd-9ab5cd608a2f",
     "title": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -44492,7 +44492,7 @@
     "company_name": "Hitachi",
     "id": "95c4918c-cb96-4b7c-afa4-cb0f50c7378e",
     "title": "Onboard Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -57759,7 +57759,7 @@
     "company_name": "Ryan",
     "id": "3125c049-3c76-4186-97c5-3c9402cb6d3a",
     "title": "AI-Enabled Business Solutions Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -68547,7 +68547,7 @@
     "company_name": "Revel",
     "id": "b7c13988-0346-4ec4-a700-b203261be2f2",
     "title": "Full Stack Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69203,7 +69203,7 @@
     "company_name": "Revel",
     "id": "240adc3d-e80f-42bc-9a7b-559c2acdc5f5",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -76948,7 +76948,7 @@
     "company_name": "Schonfeld",
     "id": "ff867ed1-cf5a-4419-a4d7-47d1b9066205",
     "title": "Fixed Income Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -80930,7 +80930,7 @@
     "company_name": "RTX",
     "id": "4137dd61-de8e-40fd-b3a3-47517a95badf",
     "title": "Business Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -93293,7 +93293,7 @@
     "company_name": "Wonder",
     "id": "ea5becea-3693-41da-935d-6465ec44c576",
     "title": "Growth & Marketing Analytics Intern - Growth Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -98499,7 +98499,7 @@
     "company_name": "Medline",
     "id": "14f23b27-94a9-4a14-8b54-c8b22a88277e",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -116554,7 +116554,7 @@
     "company_name": "Ameren",
     "id": "39304d92-2b98-45ee-9a39-8f4f5ac43185",
     "title": "Meteorology Intern - Crisis Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -129196,7 +129196,7 @@
     "company_name": "Devon Energy",
     "id": "99fcf5a1-1347-44be-9d63-7e03612f082b",
     "title": "Technology Intern - Data Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -153038,7 +153038,7 @@
     "company_name": "Diversified Automation",
     "id": "1f3a2e50-1559-4143-8c9e-f2a8d5462388",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -165024,7 +165024,7 @@
     "company_name": "PathAI",
     "id": "0d592991-3f3c-4b1b-b380-4395ca871e34",
     "title": "Software Engineering Mlops Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -288935,7 +288935,7 @@
     "company_name": "SharkNinja",
     "id": "d4f62e21-4bd0-4754-9ae0-0f63ab6272e7",
     "title": "Applied AI & Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342159,7 +342159,7 @@
     "company_name": "Meta",
     "id": "30d1162f-2765-4044-9e44-203f4a85d5a1",
     "title": "Research Scientist Intern - AI Alignment",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -363261,7 +363261,7 @@
     "company_name": "Truveta",
     "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
     "title": "Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

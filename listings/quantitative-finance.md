@@ -1,4 +1,4 @@
-# Quantitative Finance (192)
+# Quantitative Finance (191)
 
 [← back to index](../README.md)
 
@@ -70,7 +70,6 @@
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) | Risk Analyst Intern - DMFI | London, UK | Summer 2027 | 2026-09-04 | 31 | simplify-2026 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) | Quantitative Research Intern | Miami, FL | Summer 2027 | 2026-09-04 | 31 | simplify-2026 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | Quantitative Research Intern | NYC | Summer 2027 | 2026-09-04 | 31 | simplify-2026 |
-| [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172055) | Fixed Income Intern | NYC | Summer 2027 | 2026-09-04 | 31 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) | Quantitative Finance Associate Intern - Off Cycle Internship Programme | London, UK | Winter 2026 | 2026-09-04 | 31 | simplify-2026 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/6181069004) | Quantitative Research Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-03 | 32 | simplify-2026 |
 | [Garda Capital Partners](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) | Trading Analyst Intern - Mortgages | NYC | Summer 2027 | 2026-09-03 | 32 | simplify-2026 |
