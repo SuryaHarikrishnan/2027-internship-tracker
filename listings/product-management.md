@@ -1,4 +1,4 @@
-# Product Management (228)
+# Product Management (227)
 
 [← back to index](../README.md)
 
@@ -47,7 +47,6 @@
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Product-Analyst-Co-op_R-101018) | Product Analyst Co-op | Shepherdsville, KY | Winter 2026 | 2026-09-24 | 12 | simplify-2026 |
 | [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) | Product Management Intern | New Berlin, WI | Summer 2027 | 2026-09-24 | 12 | simplify-2026 |
 | [Keenfinity](https://jobs.smartrecruiters.com/Keenfinity/744000151396749) | Product Development Co-op | Fairport, NY | Winter 2026 | 2026-09-23 | 13 | simplify-2026 |
-| [Rhoda AI](https://jobs.ashbyhq.com/rhoda-ai/ecadb13f-b6cd-4070-9a31-80c9fa355fe4/application?embed=true) | Engineer Product Manager Intern - Robot Data Systems | Mountain View, CA | Winter 2026 | 2026-09-22 | 14 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) | Product Manager Intern - Summer 2027 | SF, San Bruno, CA, NYC, Mountain View, CA | Summer 2027 | 2026-09-22 | 14 | simplify-2026 |
 | [ONE Finance](https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application?embed=true) | Product Intern | NYC | Summer 2027 | 2026-09-22 | 14 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7686394581777631541/detail) | Product Management Project Intern - Global Payment | San Jose, CA | Summer 2027 | 2026-09-22 | 14 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (782)
+# Hardware Engineering (781)
 
 [← back to index](../README.md)
 
@@ -405,7 +405,6 @@
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-CA-92009/1428454700/?ats=successfactors) | Software Engineer Intern | Carlsbad, CA | Winter 2026 | 2026-09-10 | 26 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Rochester-Software-Engineer-Intern-NY-14623/1428440700/?ats=successfactors) | Software Engineer Intern | Rochester, NY | Winter 2026 | 2026-09-10 | 26 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428469000/?ats=successfactors) | Electro-Optical Engineering Co-Op - Waterdown - CAN | Waterdown, Hamilton, ON, Canada | Summer 2026 | 2026-09-10 | 26 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Melbourne-IntegrationTest-Engineering-Intern-FL-32901/1428454000/?ats=successfactors) | Integration/Test Engineer Intern | Melbourne, FL | Winter 2026 | 2026-09-10 | 26 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors) | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | Winter 2026 | 2026-09-10 | 26 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1428457700/?ats=successfactors) | Software Engineer Intern | Salt Lake City, UT | Winter 2026 | 2026-09-10 | 26 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Carlsbad-IntegrationTest-Engineering-Intern-CA-92009/1428455100/?ats=successfactors) | Integration/Test Engineer Intern | Carlsbad, CA | N/A | 2026-09-10 | 26 | simplify-2026 |

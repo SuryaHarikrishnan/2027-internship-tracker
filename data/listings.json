@@ -5151,7 +5151,7 @@
     "company_name": "CVS Health",
     "id": "0c9a496a-20f1-4b3e-bdde-ccc6fe56f70d",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -16505,7 +16505,7 @@
     "company_name": "MFS",
     "id": "e6f977e3-0c56-4d61-bd36-637f2e5d2dee",
     "title": "Junior Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -29908,7 +29908,7 @@
     "company_name": "Rhoda AI",
     "id": "19fcd166-29f3-4cae-a1a5-a7005dbf363e",
     "title": "Engineer Product Manager Intern - Robot Data Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -46024,7 +46024,7 @@
     "company_name": "Nasdaq",
     "id": "2655bb99-a78d-4a0c-9a3f-947a9579f7bf",
     "title": "Software Developer/Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -56434,7 +56434,7 @@
     "company_name": "Raymond James Financial",
     "id": "cdb5a574-e710-4dee-8108-35936fc5c297",
     "title": "Private Client Banking Strategy, Analytics & Sales Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67237,7 +67237,7 @@
     "company_name": "Microsoft",
     "id": "12081dae-1434-4294-84d6-903009f0c86b",
     "title": "Robotics Systems and Control Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -67313,7 +67313,7 @@
     "company_name": "L3Harris Technologies",
     "id": "352fa54f-2951-4516-9bad-74ec4d58df98",
     "title": "Integration/Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -67726,7 +67726,7 @@
     "company_name": "Intel",
     "id": "a273898f-c0b4-4c85-85d4-badef42df706",
     "title": "Compiler Engineer Intern - SYCL Runtime",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -115176,7 +115176,7 @@
     "company_name": "Medline",
     "id": "f71509d5-e6a6-4016-a57d-e56cd20c0298",
     "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -154099,7 +154099,7 @@
     "company_name": "Epic Games",
     "id": "31ab487e-bda7-4337-94b7-bda1786f13f2",
     "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Winter 2027",
@@ -156403,7 +156403,7 @@
     "company_name": "Northrop Grumman",
     "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
     "title": "Software Engineer Intern - Aeronautics Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -161756,7 +161756,7 @@
     "company_name": "NTT DATA AIVista",
     "id": "a2304215-7eea-4897-b101-88b9172fcae0",
     "title": "AI Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -216544,7 +216544,7 @@
     "company_name": "Philips",
     "id": "044fead1-de5d-4a02-8d34-65b3ec3912d6",
     "title": "Data Management Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -398858,7 +398858,7 @@
     "company_name": "HubSpot",
     "id": "068eb6a4-ee2f-4970-9ed2-2dab86516f6e",
     "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program - UK",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
