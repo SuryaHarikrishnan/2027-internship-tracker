@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1453)
+# Data Science, AI & Machine Learning (1450)
 
 [← back to index](../README.md)
 
@@ -166,7 +166,6 @@
 | [Cigna Group](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180) | Product Analytics Intern | Morris Plains, NJ, St. Louis, MO | Summer 2027 | 2026-10-01 | 5 | simplify-2026 |
 | [Primient](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011) | Digital Data & Analytics Intern | Schaumburg, IL | Summer 2027 | 2026-10-01 | 5 | simplify-2026 |
 | [Vanguard](https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Data-Product-Analyst-Co-op_182921) | Data Product Analyst Co-op | Charlotte, NC | Winter 2027 | 2026-10-01 | 5 | simplify-2026 |
-| [American Family Insurance Group](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561) | GenAI Intern | Madison, WI, Boston, MA | Summer 2027 | 2026-10-01 | 5 | simplify-2026 |
 | [NJM Insurance Group](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309) | IT Data Administration Intern | Trenton, NJ | Summer 2027 | 2026-10-01 | 5 | simplify-2026 |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) | AI Data Developer Intern - Winter | Toronto, ON, Canada | Winter 2027 | 2026-10-01 | 5 | simplify-2026 |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061) | AI/ML Platform Intern | Toronto, ON, Canada | Winter 2027 | 2026-10-01 | 5 | simplify-2026 |
@@ -933,7 +932,6 @@
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746) | Data Science Co-op - Summer 2027 | Cincinnati, OH | Summer 2027 | 2026-09-01 | 35 | simplify-2026 |
 | [US Foods](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Advisory-Analyst--Hybrid--Onsite---Remote-_R282115) | Data Advisory Analyst Intern | Rosemont, IL | Summer 2026 | 2026-09-01 | 35 | simplify-2026 |
 | [Tarrant Regional Water District](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) | Energy Intern | Fort Worth, TX | Summer 2027 | 2026-09-01 | 35 | simplify-2026 |
-| [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-January-June-2027_587484) | Data Engineering Co-op | Reedsville, PA | Winter 2027, Spring 2027 | 2026-09-01 | 35 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407) | Data Scientist Intern | Huntsville, AL | Summer 2027 | 2026-09-01 | 35 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) | Data Scientist Intern - University | Annapolis Junction, MD | Summer 2027 | 2026-09-01 | 35 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) | Data Scientist Intern - 2027 Summer Games | Honolulu, HI | Summer 2027 | 2026-09-01 | 35 | simplify-2026 |
@@ -1028,7 +1026,6 @@
 | [Meridian Partners](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003) | Machine Learning Engineer Co-op | Cambridge, MA, Seattle, WA, Arlington County, Arlington, VA | Fall 2026 | 2026-08-25 | 42 | simplify-2026 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak/jobs/4378662009) | Simulation Intern | Mountain View, CA | Winter 2027 | 2026-08-25 | 42 | simplify-2026 |
 | [Gritt](https://jobs.ashbyhq.com/gritt/df9254b5-e323-411a-a36f-57bd24a3de56/application?embed=true) | Robotics Planning & Controls Intern | South SF | Fall 2026 | 2026-08-25 | 42 | simplify-2026 |
-| [Penta Group](https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951/apply) | Monitoring & Insights Intern | Remote in USA | Fall 2026 | 2026-08-25 | 42 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236) | Power BI/Ops Analytics Co-op | Fond du Lac, WI | Winter 2027, Spring 2027, Summer 2027 | 2026-08-25 | 42 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7677467052537776437) | Client Solutions Intern | San Jose, CA | Summer 2027 | 2026-08-24 | 43 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7677467375487486213) | Client Solutions Intern - Global Business Solutions | LA | Summer 2027 | 2026-08-24 | 43 | simplify-2026 |

@@ -3557,7 +3557,7 @@
     "company_name": "Root Insurance",
     "id": "475fc092-f1c3-41b4-9ccc-fb886ef59e52",
     "title": "Software Engineer Intern: Agent Commerce",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -12881,7 +12881,7 @@
     "company_name": "American Family Insurance Group",
     "id": "9c89c357-41a2-4137-9eda-fc3aa4a2448e",
     "title": "GenAI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13259,7 +13259,7 @@
     "company_name": "Pinterest",
     "id": "a8f0c609-7e00-47ef-8b38-840c1b0f9dd0",
     "title": "UX Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43324,7 +43324,7 @@
     "company_name": "Penta Group",
     "id": "ce3cb812-e28a-499e-ba44-5fe48a1d50ed",
     "title": "Monitoring & Insights Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -70260,7 +70260,7 @@
     "company_name": "Entegris",
     "id": "3aaa017a-6262-4f8b-bce9-760c9d609335",
     "title": "AI Continuous Improvement Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -75668,7 +75668,7 @@
     "company_name": "Spirit AeroSystems",
     "id": "e1603af0-76f6-45ef-9e17-0d369d550c96",
     "title": "Programmer Analyst / Developer Intern - IDT&S",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -106442,7 +106442,7 @@
     "company_name": "Philips",
     "id": "ae81d4a7-3369-45ee-b1b0-74df1c1e83e0",
     "title": "Data Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
