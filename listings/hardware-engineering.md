@@ -1,4 +1,4 @@
-# Hardware Engineering (805)
+# Hardware Engineering (806)
 
 [← back to index](../README.md)
 
@@ -14,6 +14,7 @@
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4601309006) | Firmware Engineer Intern | San Jose, CA | Winter 2027 | 2026-10-07 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4566437) | Electrical Engineer Qualification Test Intern | Bohemia, NY | Fall 2026 | 2026-10-07 | 0 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | Software Engineer Intern - Embedded Systems | Redmond, WA, Northridge, LA | Summer 2027, Fall 2027 | 2026-10-07 | 0 | simplify-2026 |
+| [Entrust](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419) | Firmware Engineer Co-op | Shakopee, MN | N/A | 2026-10-07 | 0 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/34059?icims=1) | Engineering Intern Co-op - AI/ML ASIC CAD | Palo Alto, CA | Spring 2027 | 2026-10-06 | 1 | simplify-2026 |
 | [Rivet Industries](https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application?embed=true) | Software Engineer Intern | San Jose, CA | Summer 2027 | 2026-10-06 | 1 | simplify-2026 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222) | Mixed Signal Circuit Design Co-op | San Jose, CA | Winter 2027 | 2026-10-06 | 1 | simplify-2026 |
@@ -158,7 +159,7 @@
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Cable-And-Harnessing-Intern--Summer-2027-_JR002963) | Cable and Harnessing Intern | Cambridge, MA | Summer 2027 | 2026-09-30 | 7 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1) | Test Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-09-30 | 7 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839) | Product Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-09-30 | 7 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986) | Software Engineer Intern - Summer 2027 | Fort Wayne, IN | Summer 2027 | 2026-09-30 | 7 | simplify-2026 |
+| [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1) | Optical Engineer Intern | Milpitas, CA | Winter 2026 | 2026-09-30 | 7 | simplify-2026 |
 | [JCDecaux](https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/London---Brentford/Technician-Digital-Hardware---Apprentice_JR101760-1) | Digital Hardware Technician Apprentice | Brentford, UK | Winter 2026 | 2026-09-30 | 7 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285088) | AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI | Palo Alto, CA, Austin, TX | Winter 2027, Spring 2027 | 2026-09-29 | 8 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285089) | AI Hardware RTL Design Engineer Intern - AI Hardware | Palo Alto, CA, Austin, TX | Winter 2027, Spring 2027 | 2026-09-29 | 8 | simplify-2026 |

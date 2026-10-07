@@ -19,10 +19,10 @@ Ranked by freshness + company tier + role category.
 | 9 | **Figma** | AI Applied Scientist Intern | SF, NYC | Winter 2027, Summer 2027 | 2026-10-05 (2d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6207801004) |
 | 10 | **Adobe** | Applied and Research Scientist/Engineer Intern | Cambridge, MA, Seattle, WA, College Park, MD, SF, San Jose, CA, NYC | N/A | 2026-10-05 (2d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064) |
 | 11 | **Google** | Student Researcher Intern | Grenoble, France, London, UK, Paris, France, Berlin, Germany, Munich, Germany | N/A | 2026-10-05 (2d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/86733690079453894) |
-| 12 | **Akuna Capital** | Entry-Level C++ Software Engineer Intern | Chicago, IL | N/A | 2026-10-07 (0d ago) | [Apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
-| 13 | **Rivian** | Engineering Intern Co-op - AI/ML ASIC CAD | Palo Alto, CA | Spring 2027 | 2026-10-06 (1d ago) | [Apply](https://careers.rivian.com/jobs/34059?icims=1) |
-| 14 | **TikTok** | Product Strategy and Operations Project Intern | LA | N/A | 2026-10-06 (1d ago) | [Apply](https://lifeattiktok.com/search/7691400301018548485) |
-| 15 | **Northrop Grumman** | Software Engineer Intern | Wright-Patterson AFB, OH | N/A | 2026-10-06 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-Conversion-_R10254680) |
+| 12 | **Northrop Grumman** | Software Developer Intern | Chantilly, VA | Summer 2027 | 2026-10-07 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1) |
+| 13 | **Akuna Capital** | Entry-Level C++ Software Engineer Intern | Chicago, IL | N/A | 2026-10-07 (0d ago) | [Apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
+| 14 | **Rivian** | Engineering Intern Co-op - AI/ML ASIC CAD | Palo Alto, CA | Spring 2027 | 2026-10-06 (1d ago) | [Apply](https://careers.rivian.com/jobs/34059?icims=1) |
+| 15 | **TikTok** | Product Strategy and Operations Project Intern | LA | N/A | 2026-10-06 (1d ago) | [Apply](https://lifeattiktok.com/search/7691400301018548485) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (35d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-07 15:50 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-07 19:08 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
