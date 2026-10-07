@@ -1,4 +1,4 @@
-# Product Management (227)
+# Product Management (226)
 
 [← back to index](../README.md)
 
@@ -113,7 +113,6 @@
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003) | Associate Product Manager New Grad | Mountain View, CA | Summer 2027 | 2026-09-08 | 29 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | Product Management Intern - Product Management | London, UK | Summer 2027 | 2026-09-08 | 29 | simplify-2026 |
 | [Cox](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) | Product Management Intern | Austin, TX | Summer 2027 | 2026-09-08 | 29 | simplify-2026 |
-| [Ingredion](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Customer-Innovation-Technical-Service-Intern--Texture---Healthful-Solutions_Req-40198-1) | Customer Innovation Technical Service Intern - Texture & Healthful Solutions | Bridgewater, NJ | Summer 2027 | 2026-09-08 | 29 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1) | Product Manager Intern | Carmel, IN | Summer 2026 | 2026-09-08 | 29 | simplify-2026 |
 | [U.S. Bank](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766) | Product Management Intern | Minneapolis, MN | Summer 2027 | 2026-09-08 | 29 | simplify-2026 |
 | [Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) | Product Management Intern | Westminster, CO, San Diego, CA | Summer 2027 | 2026-09-08 | 29 | simplify-2026 |
