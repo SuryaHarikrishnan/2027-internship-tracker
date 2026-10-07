@@ -1,4 +1,4 @@
-# Product Management (229)
+# Product Management (227)
 
 [← back to index](../README.md)
 
@@ -45,7 +45,6 @@
 | [Cohen & Steers](https://job-boards.greenhouse.io/cnssummerassociates/jobs/7999755003) | Product Strategy & Development Associate Intern | NYC | Summer 2026 | 2026-09-24 | 13 | simplify-2026 |
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932) | Market Data Product Management Intern | NYC | Summer 2027 | 2026-09-24 | 13 | simplify-2026 |
 | [Fortune Brands](https://jobs.smartrecruiters.com/FortuneBrands/744000151692989) | Product Manager Intern - Retail | Deerfield, IL | Winter 2026 | 2026-09-24 | 13 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7683679497136179509) | Product Marketing Management Intern - Systems Strategy & Operations | NYC | Summer 2027 | 2026-09-24 | 13 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Product-Analyst-Co-op_R-101018) | Product Analyst Co-op | Shepherdsville, KY | Winter 2026 | 2026-09-24 | 13 | simplify-2026 |
 | [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) | Product Management Intern | New Berlin, WI | Summer 2027 | 2026-09-24 | 13 | simplify-2026 |
 | [Keenfinity](https://jobs.smartrecruiters.com/Keenfinity/744000151396749) | Product Development Co-op | Fairport, NY | Winter 2026 | 2026-09-23 | 14 | simplify-2026 |
@@ -231,5 +230,4 @@
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) | Product Manager Intern - Ovip | Kansas City, MO | Summer 2026 | 2026-05-21 | 139 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) | Project Manager Intern | Seattle, WA | Fall 2026 | 2026-05-21 | 139 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7634027348048709941) | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Summer 2026 | 2026-04-30 | 160 | simplify-2026 |
-| [TikTok](https://lifeattiktok.com/search/7631277919231625525) | Data Product Manager Project Intern - Monetization | San Jose, CA | Summer 2026 | 2026-04-23 | 167 | simplify-2026 |
 | [Creatify Lab ](https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application) | Product Manager | Mountain View, CA | Summer 2026 | 2026-03-05 | 216 | simplify-2026 |
