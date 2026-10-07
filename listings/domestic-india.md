@@ -4,7 +4,7 @@
 
 **A standalone list, not part of the rest of this repo.** It is not fed by the auto-refresh pipeline used for the categories above and does not integrate with the application tracker (`scripts/track.py`). The companies below are checked directly against their own public career-site APIs every ~3 days -- no AI judgment, no aggregators, just a plain scraper like the one used for the rest of this repo.
 
-Last automated check: 2026-10-04 14:32 UTC
+Last automated check: 2026-10-07 15:58 UTC
 
 ## Confirmed open postings (auto-checked every 3 days)
 
@@ -16,9 +16,7 @@ Last automated check: 2026-10-04 14:32 UTC
 
 ### Adobe
 
-| Role | Location | Link |
-|---|---|---|
-| Internal Product Manager 3 - Sales Performance Management | Bangalore | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Product-Manager-3_R169439) |
+*No open internship listings found in this pass.*
 
 ### Razorpay
 
