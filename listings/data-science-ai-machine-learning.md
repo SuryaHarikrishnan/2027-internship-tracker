@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1455)
+# Data Science, AI & Machine Learning (1451)
 
 [← back to index](../README.md)
 
@@ -61,7 +61,6 @@
 | [Axos Bank](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642) | Data Intern | Omaha, NE | Summer 2026 | 2026-10-06 | 1 | simplify-2026 |
 | [American Family Insurance Group](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631) | Data Analytics Intern | Madison, WI | Summer 2027 | 2026-10-06 | 1 | simplify-2026 |
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595) | Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | Winter 2027 | 2026-10-06 | 1 | simplify-2026 |
-| [Kyndryl](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) | Marketing Intern - Marketing Analytics | NYC | Summer 2027 | 2026-10-06 | 1 | simplify-2026 |
 | [State Employees' Credit Union](https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Part-time-Spring-2027_JR-16564) | Server Engineering and Operations Intern | North Carolina | Spring 2027 | 2026-10-06 | 1 | simplify-2026 |
 | [Figma](https://boards.greenhouse.io/figma/jobs/6207801004) | AI Applied Scientist Intern | SF, NYC | Winter 2027, Summer 2027 | 2026-10-05 | 2 | simplify-2026 |
 | [Mercor](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application?embed=true) | Research Scientist Intern | SF | N/A | 2026-10-05 | 2 | simplify-2026 |
@@ -702,7 +701,6 @@
 | [American Equity](https://www.american-equity.com/about/careers/openings?gh_jid=5233724007) | Data Engineer Intern | West Des Moines, IA | Winter 2026 | 2026-09-09 | 28 | simplify-2026 |
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301900) | AI Engineering Intern | London, UK | Summer 2027 | 2026-09-09 | 28 | simplify-2026 |
 | [GoMaterials](https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/apply) | Data Quality Intern - Winter 2027 | Montreal, QC, Canada | Winter 2027 | 2026-09-09 | 28 | simplify-2026 |
-| [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148595878) | Data Analytics Intern - Engineering & SAP Operations | Lincolnshire, IL | Winter 2026 | 2026-09-09 | 28 | simplify-2026 |
 | [Dominion Energy](https://careers.dominionenergy.com/job/RICHMOND-Intern-Associate-Business-Intelligence-Analyst-(Grid-Resiliency-Richmond,-VA)-VA-23219/1428300200/?ats=successfactors) | Business Intelligence Analyst Intern - Grid Resiliency | Richmond, VA | Spring 2028 | 2026-09-09 | 28 | simplify-2026 |
 | [Pilot Company](https://jobs.smartrecruiters.com/PilotCompany/744000148572871) | Data Governance Intern | Knoxville, TN | Summer 2027 | 2026-09-09 | 28 | simplify-2026 |
 | [Pilot Company](https://jobs.smartrecruiters.com/PilotCompany/744000148576444) | GIS Intern - GIS | Knoxville, TN | Summer 2027 | 2026-09-09 | 28 | simplify-2026 |
@@ -886,7 +884,6 @@
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990014982336) | Computing Intern | Livermore, CA | Spring 2027 | 2026-09-01 | 36 | simplify-2026 |
 | [Southern Star Central Gas Pipeline](https://careers-sscgp.icims.com/jobs/3037/job?mobile=true&needsRedirect=false) | Enterprise Excellence Intern | Owensboro, KY | Summer 2026 | 2026-09-01 | 36 | simplify-2026 |
 | [Southern Star Central Gas Pipeline](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) | GIS Analyst Intern | Owensboro, KY | Summer 2027 | 2026-09-01 | 36 | simplify-2026 |
-| [John Deere](https://johndeere.eightfold.ai/careers/job/137482673640) | Data & Analytics Intern | Moline, IL | Summer 2027 | 2026-09-01 | 36 | simplify-2026 |
 | [Perpay](https://job-boards.greenhouse.io/perpay/jobs/4076934007) | Analytics Intern | Philadelphia, PA | Summer 2027 | 2026-09-01 | 36 | simplify-2026 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59901?icims=1) | 2027 Internship - Weapon Control | Laurel, MD | Summer 2027 | 2026-09-01 | 36 | simplify-2026 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59598?icims=1) | Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control | Laurel, MD | Summer 2027 | 2026-09-01 | 36 | simplify-2026 |
@@ -1266,7 +1263,6 @@
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686) | Natural Language Processing Intern | London, UK | Summer 2027 | 2026-07-23 | 76 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/12863?icims=1) | AI Engineer Intern | London, UK | Fall 2026 | 2026-07-21 | 78 | simplify-2026 |
 | [Mistral AI](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) | Applied Scientist / Research Engineer Intern | London, UK, Paris, France | Fall 2026 | 2026-07-21 | 78 | simplify-2026 |
-| [Create Music Group](https://ats.rippling.com/createmusicgroup/jobs/ceae3af1-66d0-40f0-9d9a-dcbecfa578c1) | A&R Research Intern - Hip-Hop & R&B | LA | Summer 2026, Fall 2026 | 2026-07-21 | 78 | simplify-2026 |
 | [Aptura](https://jobs.ashbyhq.com/aptura/44d8b5f7-bbb9-434b-8374-7ea1a9426910/application?embed=true) | Investment Banking Intern - AI Evaluation | London, UK | Fall 2026 | 2026-07-21 | 78 | simplify-2026 |
 | [Quadrillion](https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765/application?embed=true) | Research Intern | NYC | Fall 2026 | 2026-07-21 | 78 | simplify-2026 |
 | [Phonic](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41/application?embed=true) | Machine Learning Research Intern | SF | Fall 2026 | 2026-07-21 | 78 | simplify-2026 |

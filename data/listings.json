@@ -210,6 +210,33 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Anduril",
+    "id": "9e2e6559-0af7-4f08-8cca-e4a650d95b46",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1791383327,
+    "date_posted": 1791383064,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "GuideWell Mutual",
     "id": "b02141a2-8d29-4f0b-b7a7-280a77592468",
@@ -685,7 +712,7 @@
     "company_name": "Create Music Group",
     "id": "1f0fc96e-b62b-4b41-b5b9-b55014da61f1",
     "title": "A&R Research Intern - Hip-Hop & R&B",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -3728,7 +3755,7 @@
     "company_name": "Kyndryl",
     "id": "abb1b26c-9b2c-414f-bc57-31b189bd9466",
     "title": "Marketing Intern - Marketing Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24627,7 +24654,7 @@
     "company_name": "Efficient Computer",
     "id": "b63c229a-b9e1-411a-b923-cf39ce987d7b",
     "title": "Hardware/Silicon Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -33891,7 +33918,7 @@
     "company_name": "Ciena",
     "id": "72bcc54e-52da-474b-b95a-40d176ced734",
     "title": "ASIC Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -37839,7 +37866,7 @@
     "company_name": "PrizePicks",
     "id": "82070bc6-1538-458e-9d51-6d7093a86ecc",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -67378,7 +67405,7 @@
     "company_name": "Kinaxis",
     "id": "5b07d830-b50d-4cff-a64a-555dad0ea478",
     "title": "Developer Intern - Clients - Front End Technologies",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -67893,7 +67920,7 @@
     "company_name": "RF-SMART",
     "id": "d5b824b3-f478-49bb-8b20-9c1b283518f4",
     "title": "Software Developer Intern - Product Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -75049,7 +75076,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "6226a27c-23e7-4890-afcb-abdd8b749755",
     "title": "Data Analytics Intern - Engineering & SAP Operations",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -89426,7 +89453,7 @@
     "company_name": "John Deere",
     "id": "27ef919b-f4a9-4f27-b484-e742c76fc774",
     "title": "Information Technology Intern - Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -89916,7 +89943,7 @@
     "company_name": "Barclays",
     "id": "db7ca646-e2f6-4a10-bc6b-1d67f5ffcddf",
     "title": "Quantitative Finance Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -108558,7 +108585,7 @@
     "company_name": "John Deere",
     "id": "7123e8fe-c2d7-4fff-b9c9-5e8f94b9c12b",
     "title": "Data & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -111293,7 +111320,7 @@
     "company_name": "Citi",
     "id": "a8fdee84-6f33-45c4-ba6b-61bc65d9fe5a",
     "title": "Quantitative Analysis - Off Cycle Placement",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -111347,7 +111374,7 @@
     "company_name": "Magna",
     "id": "47d95f89-f763-477d-a29f-ec7b46b0f160",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -184880,7 +184907,7 @@
     "company_name": "Denari",
     "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
     "title": "Product & Software Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
