@@ -1,6 +1,56 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "92b36766-febe-474d-941e-0bf16bc2ecc0",
+    "title": "Systems Integration and Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1791474381,
+    "date_posted": 1791417600,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+    "locations": [
+      "Atlantic City, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Badger Meter",
+    "id": "64ffe791-24fc-4b7a-b06b-90a8bc63b978",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1791474121,
+    "date_posted": 1791417600,
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
+    "locations": [
+      "Escondido, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Badger-Meter",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Sensata",
     "id": "2dd43b4d-a243-4996-826b-d46251f0fc5e",
@@ -424,7 +474,7 @@
     "company_name": "DoorDash",
     "id": "66fcf084-7f7c-43ed-8947-83179031963c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -2123,7 +2173,7 @@
     "company_name": "HCSC",
     "id": "f8f58448-a30c-4f0b-bd35-a8b3aee51172",
     "title": "Enterprise Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -5157,7 +5207,7 @@
     "company_name": "First Citizens BancShares",
     "id": "f4c1cbda-bcc6-4e43-ab84-01f468e54479",
     "title": "Summer Intern - Card Product Management - Business to Business Payments",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5529,7 +5579,7 @@
     "company_name": "Chenega",
     "id": "2310df58-69a1-4c21-bf0c-0ab23ab3e493",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -16251,7 +16301,7 @@
     "company_name": "Altera",
     "id": "25d37d61-12f2-475a-afdc-1ea80a5057aa",
     "title": "High Level Synthesis Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -18782,7 +18832,7 @@
     "company_name": "RTX",
     "id": "363f7dd7-e0e6-4d7c-ac40-d5bd75bc50e3",
     "title": "Flight Control Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -19124,7 +19174,7 @@
     "company_name": "Philips",
     "id": "bdbe894f-7bb6-4c44-89a5-a1fe503a66ba",
     "title": "Systems Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23135,7 +23185,7 @@
     "company_name": "POET",
     "id": "cfd65384-8de0-4673-9086-3e19b4843b5e",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -32347,7 +32397,7 @@
     "company_name": "NASCO",
     "id": "3a435b5c-6e92-490d-afae-1468682256cf",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -34370,7 +34420,7 @@
     "company_name": "University of Virginia",
     "id": "e3fdb2df-5e0d-4317-9acc-91d19f0c62f1",
     "title": "Direct Marketing Data Assistant - Student Wage",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -55205,7 +55255,7 @@
     "company_name": "National Information Solutions Cooperative",
     "id": "ddf6cf13-0a0b-4f97-93eb-c88083de5316",
     "title": "Software Development Intern - AI Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -60838,7 +60888,7 @@
     "company_name": "MBDA",
     "id": "5088fa08-1fde-498a-b509-50c003c17fa5",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -70130,7 +70180,7 @@
     "company_name": "Waymo",
     "id": "2dd387a0-88c3-4ee1-b40f-4821aa4a3e31",
     "title": "Summer Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72300,7 +72350,7 @@
     "company_name": "Polar Semiconductor",
     "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
     "title": "Industrial Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -91814,7 +91864,7 @@
     "company_name": "Apple",
     "id": "b9be901f-af0f-44d1-ad38-c58e3e251f77",
     "title": "Formal Verification Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -99476,7 +99526,7 @@
     "company_name": "Susquehanna International Group",
     "id": "773a0053-7c9f-4410-ad10-28e5c8aa0b6d",
     "title": "FPGA Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -133896,7 +133946,7 @@
     "company_name": "Daktronics",
     "id": "28a744e2-2ac1-4370-ae97-b7520c9897dd",
     "title": "Hardware Design Co-op Intern - Firmware",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -141750,7 +141800,7 @@
     "company_name": "Fannie Mae",
     "id": "09e061cd-a5e8-4059-bb6d-a0672a475328",
     "title": "Data Science Intern - Analytics & Modeling Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -149515,7 +149565,7 @@
     "company_name": "Daktronics",
     "id": "2d5652ce-87cd-41ef-8453-45d2959aa511",
     "title": "Firmware/Hardware Design Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -149595,7 +149645,7 @@
     "company_name": "Daktronics",
     "id": "acf8f34c-8d43-4ef2-9889-9015ed860c47",
     "title": "Firmware/Hardware Design Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -206852,7 +206902,7 @@
     "company_name": "Later",
     "id": "119ba1cb-df5a-4b95-9bed-4d76527e4280",
     "title": "AI Automation Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -211306,7 +211356,7 @@
     "company_name": "SoloPulse",
     "id": "6eab1924-cfad-4106-b8c6-162292dcc659",
     "title": "Software Engineer Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -271509,7 +271559,7 @@
     "company_name": "ASM International",
     "id": "3ab26bfe-972a-4b2f-8014-7b6add4f83d3",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -407154,137 +407204,6 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Atrium Health",
-    "id": "a29d94f1-b4b1-4ed2-9c30-44563c9ffee2",
-    "title": "Student Intern-Data Analytics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770738971,
-    "date_posted": 1770738971,
-    "url": "https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1237-Harding-Pl/Student-Intern--Data-Analytics_R214483",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Atrium-Health",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Sanofi",
-    "id": "ad34a0cb-2a6b-406a-80d5-3ab2b6f6970f",
-    "title": "Machine Learning for Quantitative Pharmacology \u2013 Large Molecules Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1770738139,
-    "date_posted": 1770738139,
-    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Machine-Learning-for-Quantitative-Pharmacology---Large-Molecules-Summer-Fall-2026-Co-op_R2841320",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sanofi",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Prolaio",
-    "id": "a808ac3b-472d-4394-92f3-279556d2a218",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770738128,
-    "date_posted": 1770738128,
-    "url": "https://job-boards.greenhouse.io/prolaio/jobs/5115101008",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Prolaio",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Prolaio",
-    "id": "0d47434c-eb91-4572-8f01-bd1fd48cc09b",
-    "title": "Mobile Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1770738119,
-    "date_posted": 1770738119,
-    "url": "https://job-boards.greenhouse.io/prolaio/jobs/5115040008",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Prolaio",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "RTX",
-    "id": "278c5d4c-a585-4c3c-8cd9-e6541f09ff74",
-    "title": "Intern - SQL Database & Back-End Developer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770737639,
-    "date_posted": 1770737639,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-CTC--400-Main-St--BLDG-CTC/Intern--Summer-2026---SQL-Database---Back-End-Developer--Onsite-_01821780",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"

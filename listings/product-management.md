@@ -1,4 +1,4 @@
-# Product Management (222)
+# Product Management (221)
 
 [← back to index](../README.md)
 
@@ -10,7 +10,6 @@
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1) | Software Product Manager Intern | Austin, TX, Fort Collins, CO | Summer 2026 | 2026-10-07 | 1 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) | Product Management Intern | Austin, TX | Summer 2027 | 2026-10-06 | 2 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7691400301018548485) | Product Strategy and Operations Project Intern | LA | N/A | 2026-10-06 | 2 | simplify-2026 |
-| [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35886?icims=1) | Summer Intern - Card Product Management - Business to Business Payments | NYC | Summer 2027 | 2026-10-06 | 2 | simplify-2026 |
 | [Cadence Solutions](https://job-boards.greenhouse.io/solutions/jobs/4715294006) | Product Management Intern | Remote in USA | Summer 2027 | 2026-10-06 | 2 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005) | Platform Solutions Product Management Intern | Cary, NC | N/A | 2026-10-06 | 2 | simplify-2026 |
 | [IEX](https://job-boards.greenhouse.io/iex-interns/jobs/8171353) | Options Strategy Intern | NYC | N/A | 2026-10-06 | 2 | simplify-2026 |
