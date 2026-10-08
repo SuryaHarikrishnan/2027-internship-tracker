@@ -32289,7 +32289,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "1e2df4b2-0028-4c50-9b34-85eb92e0dee9",
     "title": "Data Analyst Intern - Subway Resource & Admin Support - Emerging Talent",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -32477,7 +32477,7 @@
     "company_name": "Graphcore",
     "id": "c3cf0e0c-833f-44df-a0c9-d931121ecb8a",
     "title": "Systems Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -33798,7 +33798,7 @@
     "company_name": "Intel",
     "id": "c125d363-9bdc-456d-92f1-eff43afdc8ae",
     "title": "Firmware Development Undergraduate Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -75311,7 +75311,7 @@
     "company_name": "Barnes & Thornburg",
     "id": "0b0d53ec-cfd1-40c4-a293-87cab61a418d",
     "title": "Information Technology AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -77324,7 +77324,7 @@
     "company_name": "Tokyo Electron",
     "id": "69b00435-ded2-4b2b-b17c-8301a26ab57e",
     "title": "Software Engineer Intern - AI Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -120356,7 +120356,7 @@
     "company_name": "Upbring",
     "id": "a9caf1f2-3786-455d-a542-e77edf6a7bc2",
     "title": "Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

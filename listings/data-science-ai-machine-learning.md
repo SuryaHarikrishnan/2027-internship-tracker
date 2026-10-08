@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1472)
+# Data Science, AI & Machine Learning (1469)
 
 [← back to index](../README.md)
 
@@ -333,7 +333,6 @@
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false) | Machine Learning Engineer Intern | Bala Cynwyd, PA | Winter 2026 | 2026-09-24 | 14 | simplify-2026 |
 | [Corning](https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors) | Measurements Engineering Intern - Summer 2027 | Corning, NY | Summer 2027 | 2026-09-24 | 14 | simplify-2026 |
 | [Enterprise Holdings](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false) | Data Engineer Intern - IT | St. Louis, MO | Summer 2027 | 2026-09-24 | 14 | simplify-2026 |
-| [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oUuPAfwx?nl=1&nl=1&fr=false) | Data Analyst Intern - Subway Resource & Admin Support - Emerging Talent | NYC | Spring 2026 | 2026-09-24 | 14 | simplify-2026 |
 | [Wurl](https://job-boards.greenhouse.io/wurljobs/jobs/4716249006) | Data Science Intern | Remote in USA | Winter 2026 | 2026-09-24 | 14 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7688841262493485365/detail) | Student Researcher Intern - Seed Model - Seed Responsible AI | San Jose, CA | N/A | 2026-09-24 | 14 | simplify-2026 |
 | [LabCorp](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) | Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team | Remote in USA, Milwaukee, WI | Summer 2027 | 2026-09-24 | 14 | simplify-2026 |
@@ -724,7 +723,6 @@
 | [Humana](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772) | Analytics Intern | Louisville, KY, Nashville, TN, Chicago, IL, Fort Lauderdale, FL, Arlington County, Arlington, VA, NYC | Summer 2027 | 2026-09-10 | 28 | simplify-2026 |
 | [Gables Residential](https://gables.wd5.myworkdayjobs.com/Gables_Careers/job/Atlanta-Corporate---Atlanta-GA/Business-Analytics-Intern_2026-11903) | Business Analytics Intern | Atlanta, GA | Winter 2026 | 2026-09-10 | 28 | simplify-2026 |
 | [Covestro](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Digital-Analyst---Project-Management-Intern_JR-2026-02021) | Digital Analyst & Project Management Intern | Pittsburgh, PA | Winter 2026 | 2026-09-10 | 28 | simplify-2026 |
-| [Barnes & Thornburg](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true) | Information Technology AI Intern | Indianapolis, IN | Summer 2027 | 2026-09-09 | 29 | simplify-2026 |
 | [Barnes & Thornburg](https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application?embed=true) | Information Technology Data Intern | Indianapolis, IN | Summer 2027 | 2026-09-09 | 29 | simplify-2026 |
 | [Pomerleau](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695) | GIS Data Analyst Intern | Montreal, QC, Canada, Québec City, QC, Canada | Winter 2026 | 2026-09-09 | 29 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282916) | Machine Learning Engineer Intern - Factory Software | Fremont, CA | Spring 2027 | 2026-09-09 | 29 | simplify-2026 |
@@ -770,7 +768,6 @@
 | [Ankura Consulting Group](https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945) | University Intern - Forensic Data & Analytics | Washington, DC | Winter 2026 | 2026-09-09 | 29 | simplify-2026 |
 | [Cigna Group](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535) | AI Engineer Intern | Austin, TX | Summer 2027 | 2026-09-09 | 29 | simplify-2026 |
 | [Cigna Group](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) | Data & Analytics Engineering Intern - Technology Development Program | Bloomington, MN, Morris Plains, NJ, St. Louis, MO, Bloomfield, CT | Summer 2027 | 2026-09-09 | 29 | simplify-2026 |
-| [Tokyo Electron](https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531) | Software Engineer Intern - AI Research | San Jose, CA | Summer 2027 | 2026-09-09 | 29 | simplify-2026 |
 | [S&P Global](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | Machine Learning Engineer Intern | Cambridge, MA, NYC | Summer 2027 | 2026-09-09 | 29 | simplify-2026 |
 | [Covestro](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Digital-R-D-Intern_JR-2026-02006) | Digital R&D Intern | Pittsburgh, PA | Summer 2027 | 2026-09-09 | 29 | simplify-2026 |
 | [Eudia](https://job-boards.greenhouse.io/eudia/jobs/4020078009) | AI Engineer Intern | Palo Alto, CA | Spring 2026, Summer 2026 | 2026-09-08 | 30 | simplify-2026 |
