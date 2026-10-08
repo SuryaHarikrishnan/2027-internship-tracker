@@ -8,14 +8,14 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **DoorDash** | Software Engineer Intern | SF, Sunnyvale, CA | Summer 2027 | 2026-10-08 (0d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
-| 2 | **Tesla** | Data Analyst Intern - People Products | Palo Alto, CA, Austin, TX | Spring 2027 | 2026-10-08 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/286085) |
-| 3 | **Meta** | Manufacturing Test Engineer Intern | Sunnyvale, CA | N/A | 2026-10-08 (0d ago) | [Apply](https://www.metacareers.com/jobs/1866862250969693) |
-| 4 | **Amazon** | Business Intelligence Engineer Intern | Seattle, WA | Winter 2027, Summer 2027, Fall 2027 | 2026-10-08 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
-| 5 | **Salesforce** | Tableau Research Intern | Palo Alto, CA, Seattle, WA | Summer 2027 | 2026-10-07 (1d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) |
-| 6 | **Waymo** | Perception Intern - Robotics | Mountain View, CA | Summer 2027 | 2026-10-07 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
-| 7 | **Microsoft** | Applied Scientist Intern | Redmond, WA | N/A | 2026-10-07 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986141) |
-| 8 | **NVIDIA** | PhD Research Intern - AI-Aided Engineering | Santa Clara, CA | N/A | 2026-10-07 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) |
+| 1 | **NVIDIA** | AI Developer Technology Intern | Bristol, UK, Munich, Germany | N/A | 2026-10-08 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) |
+| 2 | **DoorDash** | Software Engineer Intern | SF, Sunnyvale, CA | Summer 2027 | 2026-10-08 (0d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
+| 3 | **Tesla** | Data Analyst Intern - People Products | Palo Alto, CA, Austin, TX | Spring 2027 | 2026-10-08 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/286085) |
+| 4 | **Meta** | Manufacturing Test Engineer Intern | Sunnyvale, CA | N/A | 2026-10-08 (0d ago) | [Apply](https://www.metacareers.com/jobs/1866862250969693) |
+| 5 | **Amazon** | Business Intelligence Engineer Intern | Seattle, WA | Winter 2027, Summer 2027, Fall 2027 | 2026-10-08 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
+| 6 | **Salesforce** | Tableau Research Intern | Palo Alto, CA, Seattle, WA | Summer 2027 | 2026-10-07 (1d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) |
+| 7 | **Waymo** | Perception Intern - Robotics | Mountain View, CA | Summer 2027 | 2026-10-07 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
+| 8 | **Microsoft** | Applied Scientist Intern | Redmond, WA | N/A | 2026-10-07 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986141) |
 | 9 | **Anduril** | Software Engineer Intern | London, UK | Summer 2027 | 2026-10-07 (1d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255902007) |
 | 10 | **Lyft** | PhD Machine Learning Software Engineer Intern | SF | Summer 2027 | 2026-10-06 (2d ago) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | 11 | **Cloudflare** | Software Engineer Intern | London, UK | Winter 2027, Spring 2027, Summer 2027 | 2026-10-06 (2d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (36d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-08 12:16 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-08 15:54 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
