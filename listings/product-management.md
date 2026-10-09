@@ -1,9 +1,10 @@
-# Product Management (217)
+# Product Management (218)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | Product Management Co-op | Fountain Inn, SC | Spring 2027 | 2026-10-09 | 0 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Product Management & Risk Technology Intern | Toronto, ON, Canada | Winter 2027, Summer 2027 | 2026-10-08 | 1 | simplify-2026 |
 | [USAA](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653) | Product Management Advisor Intern | San Antonio, TX | Summer 2027 | 2026-10-08 | 1 | simplify-2026 |
 | [7-Eleven](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) | Digital Product Manager Intern | Irving, TX | Summer 2027 | 2026-10-08 | 1 | simplify-2026 |

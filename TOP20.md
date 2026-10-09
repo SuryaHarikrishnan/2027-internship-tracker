@@ -8,9 +8,9 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **NVIDIA** | CPU Compiler Intern | Cambridge, UK | Summer 2027 | 2026-10-09 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251) |
-| 2 | **Waymo** | Summer Intern - Machine Learning - Planning/Prediction | Mountain View, CA | Summer 2027 | 2026-10-08 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8262154) |
-| 3 | **Meta** | Production Systems Engineering Intern | Menlo Park, CA | N/A | 2026-10-08 (1d ago) | [Apply](https://www.metacareers.com/jobs/1144327871507763) |
+| 1 | **Meta** | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Burlingame, CA, Redmond, WA | N/A | 2026-10-09 (0d ago) | [Apply](https://www.metacareers.com/jobs/2211974449401350) |
+| 2 | **NVIDIA** | CPU Compiler Intern | Cambridge, UK | Summer 2027 | 2026-10-09 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251) |
+| 3 | **Waymo** | Summer Intern - Machine Learning - Planning/Prediction | Mountain View, CA | Summer 2027 | 2026-10-08 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8262154) |
 | 4 | **Microsoft** | Research Intern - Brain-Computer Interfaces | Redmond, WA | Summer 2026 | 2026-10-08 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557027378) |
 | 5 | **Tesla** | Software Integration Engineer Intern - Service Tooling | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-08 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/286127) |
 | 6 | **Amazon** | Business Intelligence Engineer Intern | Seattle, WA | Winter 2027, Summer 2027, Fall 2027 | 2026-10-08 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (37d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-09 12:07 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-09 15:36 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
