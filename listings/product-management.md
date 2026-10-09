@@ -1,4 +1,4 @@
-# Product Management (218)
+# Product Management (217)
 
 [← back to index](../README.md)
 
@@ -101,7 +101,6 @@
 | [ITT](https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false) | Product Management Co-op - Spring/Summer 2027 | Seneca Falls, NY | Spring 2027, Summer 2027 | 2026-09-09 | 30 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-09-09 | 30 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305) | Summer Associate Internship - Technical Product Analyst | Vienna, VA | Summer 2027 | 2026-09-09 | 30 | simplify-2026 |
-| [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8175504) | Product Manager Intern - HR Technology | NYC | Summer 2027 | 2026-09-09 | 30 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168322) | Associate Product Manager Intern - Multiple Teams | SF | Summer 2027 | 2026-09-09 | 30 | simplify-2026 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) | Residential Energy Product Strategy Intern | Denver, CO | Summer 2027 | 2026-09-09 | 30 | simplify-2026 |
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | Summer 2027 | 2026-09-08 | 31 | simplify-2026 |
