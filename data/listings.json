@@ -914,7 +914,7 @@
     "company_name": "Centific",
     "id": "4a8d6fcb-64cb-4dcc-95f0-1a43cb373d70",
     "title": "AI Research Intern - Physical AI",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27852,7 +27852,7 @@
     "company_name": "Draper",
     "id": "e045f585-8fe2-442c-ad32-d77296ec0f53",
     "title": "Requirements Engineering Intern - Digital Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -46654,7 +46654,7 @@
     "company_name": "Gordon Food Service",
     "id": "058f883b-7a38-49f1-8ad9-45811313157b",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -60752,7 +60752,7 @@
     "company_name": "Tighe & Bond",
     "id": "ebbe3e8b-62a0-49ff-9ee8-7c72fc088c36",
     "title": "GIS Intern - Geographic Information Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -76875,7 +76875,7 @@
     "company_name": "Rockefeller Capital Management",
     "id": "8db6ea78-3c40-41b2-9388-56379c84d193",
     "title": "Summer Analyst Intern - Core Platforms",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -88334,7 +88334,7 @@
     "company_name": "Lumentum",
     "id": "f1e644aa-3579-43e1-b19a-457d616ae97d",
     "title": "Optical Verification Engineer Intern Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -132588,7 +132588,7 @@
     "company_name": "Zipline",
     "id": "a687b7a4-e59f-46fc-81d2-72d37d677ffb",
     "title": "Embedded Software Engineer Intern - Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -144558,7 +144558,7 @@
     "company_name": "Sysco",
     "id": "1c385c6d-d388-465d-9ccb-4051032c9a09",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

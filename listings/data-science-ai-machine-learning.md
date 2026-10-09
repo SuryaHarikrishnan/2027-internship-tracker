@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1476)
+# Data Science, AI & Machine Learning (1474)
 
 [← back to index](../README.md)
 
@@ -38,7 +38,6 @@
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969) | Wireless Networking Intern | San Jose, CA | N/A | 2026-10-08 | 1 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516) | Grit Intern | Toronto, ON, Canada | Summer 2027 | 2026-10-08 | 1 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305) | Research Intern - Spatial Intelligence | Santa Clara, CA | Summer 2027 | 2026-10-08 | 1 | simplify-2026 |
-| [Centific](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1) | AI Research Intern - Physical AI | Remote in USA | N/A | 2026-10-08 | 1 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596) | AI Engineering Intern | NYC | Summer 2027 | 2026-10-08 | 1 | simplify-2026 |
 | [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Vision-Machine-Learning_R14557) | Postdoctoral Researcher – Vision Machine Learning Intern | Golden, CO | N/A | 2026-10-08 | 1 | simplify-2026 |
 | [Delta Dental](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1) | Government Programs Network Intern | Okemos, MI | N/A | 2026-10-08 | 1 | simplify-2026 |
@@ -579,7 +578,6 @@
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) | Information Technology Intern - Data Engineering | Dallas, TX | Winter 2026 | 2026-09-15 | 24 | simplify-2026 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299074) | Analytics Intern - Services | Round Rock, TX, Hopkinton, MA | Winter 2026 | 2026-09-15 | 24 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283423) | Solar Hardware Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-15 | 24 | simplify-2026 |
-| [Tighe & Bond](https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false) | GIS Intern - Geographic Information Systems | Worcester, MA | Summer 2027 | 2026-09-15 | 24 | simplify-2026 |
 | [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324) | Technology Solutions Co-op Intern - Data Platform & Engineering | Toronto, ON, Canada | Winter 2027 | 2026-09-15 | 24 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009195) | Analytics Engineering Intern | Austin, TX | Winter 2026 | 2026-09-15 | 24 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283290) | Computer Vision Engineer Intern - Cell Engineering | Palo Alto, CA | Spring 2027 | 2026-09-15 | 24 | simplify-2026 |

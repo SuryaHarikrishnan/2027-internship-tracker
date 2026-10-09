@@ -1,4 +1,4 @@
-# Hardware Engineering (821)
+# Hardware Engineering (819)
 
 [← back to index](../README.md)
 
@@ -514,7 +514,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991) | Digital Design Electrical Engineer Intern - Summer 2027 | Tucson, AZ | Summer 2027 | 2026-09-08 | 31 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Hardware Engineer Intern - Advanced Development | Indianapolis, IN | Winter 2026 | 2026-09-08 | 31 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) | DRAM Customer Enablement Engineering Intern | Boise, ID | Winter 2026 | 2026-09-08 | 31 | simplify-2026 |
-| [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193) | Optical Verification Engineer Intern Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-09-08 | 31 | simplify-2026 |
 | [Solidigm](https://jobs.smartrecruiters.com/Solidigm/744000147954459) | Memory Core Design Engineering Intern | Rancho Cordova, CA | Summer 2026 | 2026-09-07 | 32 | simplify-2026 |
 | [Airbus](https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274) | Radio Frequency Intern | Portsmouth, UK | Summer 2027 | 2026-09-07 | 32 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341) | DRAM Test Structure Design and Layout Engineering Intern | Boise, ID | Winter 2026 | 2026-09-06 | 33 | simplify-2026 |
@@ -677,7 +676,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/280960) | Software Engineer Intern - Maps & Navigation - Robotaxi | Palo Alto, CA | Spring 2027 | 2026-08-26 | 44 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/281233) | AI Hardware Physical Design Engineer Intern - AI Hardware | Palo Alto, CA, Austin, TX, Fort Collins, CO | Spring 2027 | 2026-08-26 | 44 | simplify-2026 |
 | [Eight Sleep](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true) | Hardware Support & Test Intern | SF | Fall 2026 | 2026-08-26 | 44 | simplify-2026 |
-| [Zipline](https://www.zipline.com/open-roles?gh_jid=7974897003) | Embedded Software Engineer Intern - Spring 2027 | South SF | Spring 2027 | 2026-08-26 | 44 | simplify-2026 |
 | [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421) | Software Engineer Intern | Bohemia, NY | Fall 2026 | 2026-08-26 | 44 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/SiGe-HBT-Device-Modelling-Intern--Summer-2027-_JR-2604271) | SiGe HBT Device Modelling Intern - Summer 2027 | Essex Junction, VT | Summer 2027 | 2026-08-26 | 44 | simplify-2026 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) | Embedded Engineer Intern | United States | Summer 2027 | 2026-08-25 | 45 | simplify-2026 |
