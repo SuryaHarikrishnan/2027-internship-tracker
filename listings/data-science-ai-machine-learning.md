@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1482)
+# Data Science, AI & Machine Learning (1484)
 
 [← back to index](../README.md)
 
@@ -101,6 +101,7 @@
 | [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271) | Data Analytics Engineer Co-op | Bloomfield Hills, MI, Framingham, MA, Atlanta, GA | Winter 2027 | 2026-10-07 | 3 | simplify-2026 |
 | [Dow Jones](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893) | Data Analyst Intern | NYC | Summer 2027 | 2026-10-07 | 3 | simplify-2026 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---360-Measurement---Impact-Intern_R-42583) | Corporate Center – Measurement & Impact Intern | Brooklyn, OH | Summer 2027 | 2026-10-07 | 3 | simplify-2026 |
+| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193992) | Data Pipeline / Splunk Engineer Intern | Remote in USA | N/A | 2026-10-07 | 3 | simplify-2026 |
 | [ICF International](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) | Data Engineer Intern | Remote in USA, Reston, VA | Summer 2027 | 2026-10-07 | 3 | simplify-2026 |
 | [ICF International](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) | Data Analytics Intern | Reston, VA | Summer 2027 | 2026-10-07 | 3 | simplify-2026 |
 | [Associated Bank](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Business-Data-Reporting-Analyst_JR106570) | Business Data Reporting Analyst Intern | Milwaukee, WI | N/A | 2026-10-07 | 3 | simplify-2026 |
@@ -298,6 +299,7 @@
 | [Dow Chemical Company](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792) | Data Engineer / Data Platform Engineer Intern | Champaign, IL | Spring 2027 | 2026-09-30 | 10 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) | Research Scientist Intern - Graphics - ML | Remote in USA | Winter 2026 | 2026-09-30 | 10 | simplify-2026 |
 | [Life Fitness](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253) | Marketing Analytics Intern | Rosemont, IL | Summer 2027 | 2026-09-30 | 10 | simplify-2026 |
+| [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Reverse-Logistics-Co-op_R29244) | Reverse Logistics Co-op | Framingham, MA | Spring 2027 | 2026-09-30 | 10 | simplify-2026 |
 | [Dallas Fort Worth International Airport](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Enterprise-Data---Analytics_JR102162-1) | Undergraduate Intern - Enterprise Data & Analytics | Texas | Summer 2027 | 2026-09-30 | 10 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst-Student-----12-months----Winter-Term-2027_JR166202) | Business Analyst Student | Mississauga, ON, Canada | N/A | 2026-09-30 | 10 | simplify-2026 |
 | [Abbott](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025) | Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML | St Paul, MN | Winter 2027 | 2026-09-30 | 10 | simplify-2026 |

@@ -5803,7 +5803,7 @@
     "company_name": "Leidos",
     "id": "74a5709b-8924-4f80-981e-1b1d1474948a",
     "title": "Data Pipeline / Splunk Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -26532,7 +26532,7 @@
     "company_name": "Bose",
     "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
     "title": "Reverse Logistics Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2027"
     ],
@@ -79052,7 +79052,7 @@
     "company_name": "Intel",
     "id": "b035a98e-db1a-4187-b55e-8cac0076bc05",
     "title": "Software Solutions Engineer PhD Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -380238,6 +380238,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "CAE",
+    "id": "c0f5c8f4-4f24-4edc-bb1e-973d35f49e92",
+    "title": "Infrastructure/Computer Systems/Tools Co-op",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1771977534,
+    "date_posted": 1771977534,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Infrastrucuture-Computer-Systems-Tools-CO-OP_120405",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Biogen",
     "id": "e60e697f-d4b3-47c2-becc-18fff5a84354",
@@ -401448,32 +401474,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "RTX",
-    "id": "da25c969-4c7b-4270-aebe-aef363fd5b40",
-    "title": "Stage \u2013 Gestion des programmes / Internship - \u00c9t\u00e9 2026 - Summer 2026/Operations Program Management",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771220799,
-    "date_posted": 1770910281,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809937",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Philips",
     "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
@@ -406475,273 +406475,6 @@
       "Raleigh, NC"
     ],
     "company_url": "https://simplify.jobs/c/Gannet-Fleming",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Exact Sciences",
-    "id": "299b5e1f-3646-4df8-99e4-3ac793a6c7c5",
-    "title": "AI Intern \u2013 Co-op Fall 2026",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1770911204,
-    "date_posted": 1770911204,
-    "url": "https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---WI---Madison/AI-Intern---Co-op-Fall-2026_R25-11364",
-    "locations": [
-      "Madison, WI"
-    ],
-    "company_url": "https://simplify.jobs/c/Exact-Sciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "CIBC",
-    "id": "22a99db9-e141-4410-ba05-548829c5a3ee",
-    "title": "Data Analyst Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770911134,
-    "date_posted": 1770911134,
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst--Summer-2026-Co-op_2604152",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "CAE",
-    "id": "613bf296-fe5a-4284-88a8-5e062bce2535",
-    "title": "Infrastructure/Computer Systems/Tools Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770910521,
-    "date_posted": 1770910521,
-    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Infrastrucuture-Computer-Systems-Tools-Co-op_120463",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "CAE",
-    "id": "be6b5703-5592-45a8-a00d-bc7b5eb8c7f5",
-    "title": "C-DAS-100 Digital Product Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770910517,
-    "date_posted": 1770910517,
-    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-DAS-100-Digital-Product-Intern_120366",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "MBA"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Novartis",
-    "id": "03469887-a0d1-4225-a82a-61fef9cb3085",
-    "title": "Summer Student - Data Automation",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1770910002,
-    "date_posted": 1770910002,
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Montreal/Summer-Student---Data-Automation_REQ-10071790-1",
-    "locations": [
-      "Montreal, QC, Canada",
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Novartis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Blue Cross and Blue Shield of Kansas",
-    "id": "0b314c83-3e4a-4cb0-a668-718a8583177c",
-    "title": "Business Intelligence Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770909708,
-    "date_posted": 1770909708,
-    "url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Business-Intelligence-Intern_R2026042",
-    "locations": [
-      "Topeka, KS",
-      "Missouri"
-    ],
-    "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Kansas",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AbbVie",
-    "id": "4cafd782-9016-4e71-985e-161b1b8ecf9d",
-    "title": "Biologics Analytical R&D Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770909668,
-    "date_posted": 1770909668,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990011654096",
-    "locations": [
-      "Waukegan, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TikTok",
-    "id": "69d56a44-d2d6-4629-a2c0-79afc8b774c9",
-    "title": "Product Operations Intern - Global Monetization Product - Advertising",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770909433,
-    "date_posted": 1770909433,
-    "url": "https://lifeattiktok.com/search/7605659841294518581",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Vertiv",
-    "id": "85b2d4e4-1188-4a59-8338-e459b8773f95",
-    "title": "Liquid Cooling Engineering Internship - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770909211,
-    "date_posted": 1770909211,
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266192",
-    "locations": [
-      "New Albany, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Vertiv",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "General Dynamics Mission Systems",
-    "id": "c46327d8-f50b-4ff4-b512-1f91fcc94056",
-    "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770908828,
-    "date_posted": 1770908828,
-    "url": "https://careers-gdms.icims.com/jobs/70074/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
