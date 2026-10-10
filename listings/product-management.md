@@ -1,4 +1,4 @@
-# Product Management (219)
+# Product Management (223)
 
 [← back to index](../README.md)
 
@@ -7,7 +7,10 @@
 | [TikTok](https://lifeattiktok.com/search/7693732178706974981) | Creative Product Manager Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-10-09 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7693727532178229509) | Creative Product Operations Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-10-09 | 1 | simplify-2026 |
 | [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006) | Software Product Management Intern | Chicago, IL, Jersey City, NJ, Mountain View, CA | N/A | 2026-10-09 | 1 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) | Energy Storage Product Management Intern | Delaware, OH | Summer 2027 | 2026-10-09 | 1 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | Product Management Co-op | Fountain Inn, SC | Spring 2027 | 2026-10-09 | 1 | simplify-2026 |
+| [Workday](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) | Product Manager Intern | Pleasanton, CA | Summer 2027 | 2026-10-09 | 1 | simplify-2026 |
+| [Workday](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) | Product Manager Intern | Vancouver, BC, Canada | Winter 2027, Summer 2027 | 2026-10-09 | 1 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Product Management & Risk Technology Intern | Toronto, ON, Canada | Winter 2027, Summer 2027 | 2026-10-08 | 2 | simplify-2026 |
 | [USAA](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653) | Product Management Advisor Intern | San Antonio, TX | Summer 2027 | 2026-10-08 | 2 | simplify-2026 |
 | [7-Eleven](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) | Digital Product Manager Intern | Irving, TX | Summer 2027 | 2026-10-08 | 2 | simplify-2026 |
@@ -131,6 +134,7 @@
 | [Atlassian](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | Product Management Intern | SF | Summer 2027 | 2026-09-02 | 38 | simplify-2026 |
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) | Quality Engineer Intern | Spring, TX | Winter 2026 | 2026-09-02 | 38 | simplify-2026 |
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1) | Personal Systems Product Management Intern | Austin, TX | Winter 2026 | 2026-09-02 | 38 | simplify-2026 |
+| [AMD](https://careers.amd.com/jobs/90411?icims=1) | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | Summer 2027 | 2026-09-01 | 39 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681) | Digital Product Management Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-09-01 | 39 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057) | Digital Product Management Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-09-01 | 39 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) | Product Development Intern - 2027 Product Development - US Consumer Services | NYC | Summer 2027 | 2026-09-01 | 39 | simplify-2026 |
