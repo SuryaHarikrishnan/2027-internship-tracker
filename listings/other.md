@@ -1,4 +1,4 @@
-# Other (493)
+# Other (492)
 
 [← back to index](../README.md)
 
@@ -9,7 +9,6 @@
 | [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733) | Software Engineering Co-op | Liberty, SC |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954) | Hardware Security Engineering Intern | El Segundo, CA, Chantilly, VA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948) | Digital Communication Intern | El Segundo, CA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
-| [Analytic Partners](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302) | Data Science Co-op | Miami, FL |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828) | Software Engineering Intern | San Diego, CA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953) | Agentic AI Software Engineering Intern | Andover, MA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Toyota](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) | Data Science Intern, TFS | Plano, TX |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
