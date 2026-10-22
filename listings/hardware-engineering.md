@@ -4,7 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721678727) | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-22 | 0 | simplify-2026 |
+| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721678727) | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-22 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Tesla](https://www.tesla.com/careers/search/job/287407) | Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027 | Palo Alto, CA, Fremont, CA | Spring 2027 | 2026-10-22 | 0 | simplify-2026 |
 | [Tacit](https://jobs.ashbyhq.com/tacit/cadc8b71-ee79-4b44-951b-da7c5a0142eb/application?embed=true) | System Electrical Engineer Intern | SF | N/A | 2026-10-22 | 0 | simplify-2026 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true) | Hardware Test and Reliability Intern - Summer 2027 | San Mateo, CA | Summer 2027 | 2026-10-22 | 0 | simplify-2026 |

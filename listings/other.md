@@ -1,9 +1,24 @@
-# Other (513)
+# Other (530)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311) | Cyber Software Engineer Intern | San Antonio, TX |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [1Password](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491) | Developer Intern, Extension Excellence | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Nissan](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879) | Cyber Security Intern | Smyrna, TN |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Copart](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005) | QA Engineer Intern | Dallas, TX |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Copart](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR112006) | SDET Intern | Dallas, TX |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731) | Test Engineering Intern | Norman, OK |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Uline](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536) | Systems Administrator Intern | Pleasant Prairie, WI, Milwaukee, WI, Waukegan, IL, Glenview, IL, Kenosha, WI |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Uline](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538) | Database Administrator Intern | Pleasant Prairie, WI, Milwaukee, WI, Waukegan, IL, Glenview, IL, Kenosha, WI |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [LabCorp](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Bioinformatics_2634135) | Bioinformatics Intern | Baltimore, MD |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) | Software Engineer Co-op | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044769) | Security Research Intern | Redmond, WA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [1Password](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9) | Developer Intern, Provisioning | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [1Password](https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847) | Security Intern, Threat Operations | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [1Password](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37) | Developer Intern, Front-End Platform | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721678733) | Applied AI Engineering Intern, Hardware Systems | Vancouver, BC, Canada |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [OpenArt AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) | Information Security Engineer Intern | Folsom, CA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Cisco](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) | Software Engineer Intern, Embedded Systems II | San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -28,6 +43,7 @@
 | [Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954) | Hardware Security Engineering Intern | El Segundo, CA, Chantilly, VA |  | 2026-10-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948) | Digital Communication Intern | El Segundo, CA |  | 2026-10-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099) | Nuclear Cybersecurity Intern | Hartsville, SC |  | 2026-10-21 | 1 | vanshb03-2026, vanshb03-2027 |
+| [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403) | Network Engineering Intern | Charlotte, NC |  | 2026-10-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404) | Information Security Intern | Charlotte, NC |  | 2026-10-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) | AI Product Analyst Intern | San Diego, CA |  | 2026-10-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Genworth](https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Raleigh-North-Carolina/Risk-Modeling-Intern_REQ-260365-1) | Risk Modeling Intern | Raleigh, NC |  | 2026-10-21 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -50,6 +66,7 @@
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) | Security Engineer Intern | San Jose, CA |  | 2026-10-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d) | Engineering Intern, Product Security | Sunnyvale, CA |  | 2026-10-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260) | Security Research Intern | Sunnyvale, CA |  | 2026-10-20 | 2 | vanshb03-2026, vanshb03-2027 |
+| [Centene Corporation](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514) | Cybersecurity Intern | Remote in USA |  | 2026-10-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Humble Robotics](https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3) | Embedded Software Engineer Intern | San Francisco, CA |  | 2026-10-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Integrate](https://jobs.ashbyhq.com/integrate/d619e978-446a-4147-a788-9e53918a1736) | Software Engineering Intern | Seattle, WA |  | 2026-10-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [T-Mobile](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190) | Software Engineer Intern, Cloud Security | Atlanta, GA, Frisco, TX |  | 2026-10-20 | 2 | vanshb03-2026, vanshb03-2027 |

@@ -1,5 +1,370 @@
 [
   {
+    "date_updated": 1792697915,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+    "locations": [
+      "Remote in USA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Centene Corporation",
+    "title": "Cybersecurity Intern",
+    "source": "vanshb03",
+    "id": "aad2eef0-dc36-4ae5-b23b-f0d6954e93d9",
+    "date_posted": 1792525096,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697915,
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "DP World",
+    "title": "Network Engineering Intern",
+    "source": "vanshb03",
+    "id": "81886e7a-5226-44e9-98df-cace8719343c",
+    "date_posted": 1792566000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Northrop Grumman",
+    "title": "Cyber Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "42b214fe-48b1-4f78-ba30-82ec84babd47",
+    "date_posted": 1792695674,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Copart",
+    "title": "QA Engineer Intern",
+    "source": "vanshb03",
+    "id": "1f07dfe3-b7e3-482d-94ed-3a975639261b",
+    "date_posted": 1792695074,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731",
+    "locations": [
+      "Norman, OK"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Hitachi",
+    "title": "Test Engineering Intern",
+    "source": "vanshb03",
+    "id": "18198cdf-6931-4506-a1ab-02e13873d90d",
+    "date_posted": 1792694114,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536",
+    "locations": [
+      "Pleasant Prairie, WI",
+      "Milwaukee, WI",
+      "Waukegan, IL",
+      "Glenview, IL",
+      "Kenosha, WI"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Uline",
+    "title": "Systems Administrator Intern",
+    "source": "vanshb03",
+    "id": "0813512e-db37-4c2c-a737-c33e26641a5b",
+    "date_posted": 1792694114,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451",
+    "locations": [
+      "Remote in USA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "RTX",
+    "title": "Software Engineer Co-op",
+    "source": "vanshb03",
+    "id": "5cbaedb9-8b20-47ed-b530-48732c63faf9",
+    "date_posted": 1792690514,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+    "locations": [
+      "Remote in USA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Front-End Platform",
+    "source": "vanshb03",
+    "id": "c315a606-a3aa-400f-9938-a356d577630d",
+    "date_posted": 1792683314,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Security Research Intern",
+    "source": "vanshb03",
+    "id": "93a497d3-86cc-4858-8192-3ed8138ff6e2",
+    "date_posted": 1792690514,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+    "locations": [
+      "Remote in USA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Extension Excellence",
+    "source": "vanshb03",
+    "id": "eb7c3ba5-279d-43ed-b4c6-262555aaf47d",
+    "date_posted": 1792695374,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
+    "locations": [
+      "Smyrna, TN"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nissan",
+    "title": "Cyber Security Intern",
+    "source": "vanshb03",
+    "id": "4d55c730-1992-4df4-bb83-e42fb058663b",
+    "date_posted": 1792695134,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR112006",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Copart",
+    "title": "SDET Intern",
+    "source": "vanshb03",
+    "id": "548e3456-ec81-41ab-878d-aa2bf5a6a8c5",
+    "date_posted": 1792695074,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538",
+    "locations": [
+      "Pleasant Prairie, WI",
+      "Milwaukee, WI",
+      "Waukegan, IL",
+      "Glenview, IL",
+      "Kenosha, WI"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Uline",
+    "title": "Database Administrator Intern",
+    "source": "vanshb03",
+    "id": "5833f9d4-4740-4741-b759-b12cd8735bde",
+    "date_posted": 1792694114,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Bioinformatics_2634135",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "LabCorp",
+    "title": "Bioinformatics Intern",
+    "source": "vanshb03",
+    "id": "b3ee1121-b0bc-4ced-a095-e842aa0ba7aa",
+    "date_posted": 1792694114,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+    "locations": [
+      "Remote in USA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Provisioning",
+    "source": "vanshb03",
+    "id": "a57764e3-5a81-4935-827d-b611713d863e",
+    "date_posted": 1792686914,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697714,
+    "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+    "locations": [
+      "Remote in USA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Security Intern, Threat Operations",
+    "source": "vanshb03",
+    "id": "9782f6c7-240d-4cce-816c-da2b2060b6ad",
+    "date_posted": 1792686914,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792697616,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Qualcomm",
+    "title": "Applied AI Engineering Intern, Hardware Systems",
+    "source": "vanshb03",
+    "id": "64abd79b-a535-4ff4-97c9-a36f9f8e85b0",
+    "date_posted": 1792678332,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "FedEx Freight",
@@ -177,7 +542,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -283,7 +650,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -848,7 +1217,7 @@
     "company_name": "Crusoe",
     "id": "fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3821,7 +4190,7 @@
     "company_name": "Apple",
     "id": "fc7e57ed-e4b3-4658-b094-842e4a64636a",
     "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -54252,7 +54621,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -90018,7 +90389,7 @@
     "company_name": "Hometap",
     "id": "c5436868-7e21-49cc-a04a-94724650c511",
     "title": "Full Stack Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -106904,7 +107275,7 @@
     "company_name": "Target",
     "id": "8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -147876,7 +148247,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -197229,7 +197602,7 @@
     "company_name": "Optiver",
     "id": "789f3f1a-8c80-4c58-bc82-1e831e81e1e7",
     "title": "Quantitative Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -259102,7 +259475,9 @@
     "sponsorship": "Other",
     "degrees": [],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -324503,7 +324878,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -405717,7 +406094,9 @@
     "sponsorship": "Other",
     "degrees": [],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {

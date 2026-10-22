@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1538)
+# Data Science, AI & Machine Learning (1537)
 
 [← back to index](../README.md)
 
@@ -24,7 +24,6 @@
 | [EDF Energy](https://jobs.smartrecruiters.com/EDF-UK/744000156829540) | Chemistry Industrial Placement Intern | Gloucester, UK | N/A | 2026-10-21 | 1 | simplify-2026 |
 | [Massachusetts School Building Authority](https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e/apply) | Capital Planning Data Assistant Co-op | Boston, MA | N/A | 2026-10-21 | 1 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2281070982817094) | Research Scientist Intern - Robotics - World Models & Embodied AI | London, UK | N/A | 2026-10-21 | 1 | simplify-2026 |
-| [Apple](https://jobs.apple.com/en-us/details/200690125) | Machine Learning Research Intern - Speech-to-Speech Translation | Cambridge, UK | N/A | 2026-10-21 | 1 | simplify-2026 |
 | [Rhoda AI](https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true) | Software Engineer Intern - Inference | Mountain View, CA | N/A | 2026-10-21 | 1 | simplify-2026 |
 | [Shield AI](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply) | Data Science Intern | San Diego, CA | Summer 2027 | 2026-10-21 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Meta](https://www.metacareers.com/jobs/1510576574212840) | Research Scientist Intern | Menlo Park, CA | N/A | 2026-10-21 | 1 | simplify-2026 |
@@ -530,7 +529,7 @@
 | [Pinterest](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | Data Science Intern | Palo Alto, CA, Seattle, WA, SF, NYC | Summer 2027 | 2026-10-01 | 21 | simplify-2026 |
 | [Stand Together](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply) | Analytics Intern | Chicago, IL | Spring 2027 | 2026-10-01 | 21 | simplify-2026 |
 | [Cook Group](https://americas-cookmedical.icims.com/jobs/19426/job?mobile=true&needsRedirect=false) | Information Technology Intern - Artificial Intelligence | Spencer, IN, Ellettsville, IN, Bloomington, IN | Summer 2026 | 2026-10-01 | 21 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1412926700/?ats=successfactors) | Image Processing Engineer Intern | Tulsa, OK | Winter 2026 | 2026-10-01 | 21 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1412926700/?ats=successfactors) | Image Processing Engineer Intern | Tulsa, OK | Winter 2026 | 2026-10-01 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60339?icims=1) | Cyber Physical Systems Intern | Laurel, MD | Winter 2026 | 2026-10-01 | 21 | simplify-2026 |
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437236) | Data Analyst Placement Student | Sandwich, UK | N/A | 2026-10-01 | 21 | simplify-2026 |
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438342) | Service Engineer Intern - Service Engineering - Digital and Data Analytics | Huddersfield, UK | N/A | 2026-10-01 | 21 | simplify-2026 |
@@ -1096,7 +1095,7 @@
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) | Data Scientist Intern - University | Annapolis Junction, MD | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) | Data Scientist Intern - 2027 Summer Games | Honolulu, HI | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
 | [DraftKings](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958) | Data Science Intern - Summer 2027 | Boston, MA | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
-| [DraftKings](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Data Science Intern | Boston, MA | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
+| [DraftKings](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Data Science Intern | Boston, MA | Summer 2027 | 2026-09-01 | 51 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [IAT Insurance Group](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404) | Data & Integration Intern | Milwaukee, WI | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305) | Geospatial Intern | Hartford, CT, St Paul, MN | Summer 2026 | 2026-09-01 | 51 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) | Business Insights & Analytics Intern - BI&A LDP | Hartford, CT, St Paul, MN | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |

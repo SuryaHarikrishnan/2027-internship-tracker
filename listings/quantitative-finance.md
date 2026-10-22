@@ -1,4 +1,4 @@
-# Quantitative Finance (197)
+# Quantitative Finance (198)
 
 [← back to index](../README.md)
 
@@ -125,6 +125,7 @@
 | [Capula](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Trading and Research Intern | London, UK | Summer 2027 | 2026-08-08 | 75 | simplify-2026 |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | Quantitative Trading Intern - Summer 2027 | Chicago, IL | Summer 2027 | 2026-08-07 | 76 | simplify-2026 |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0/apply) | Quantitative Trading Intern - Winter Quarter 2027 | Chicago, IL | Winter 2027 | 2026-08-07 | 76 | simplify-2026 |
+| [Optiver](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) | Quantitative Intern - Summer 2027 | Austin, TX | Summer 2027 | 2026-08-05 | 78 | simplify-2026 |
 | [Maven Securities](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) | Trader Intern - Summer | Chicago, IL | Summer 2027 | 2026-08-05 | 78 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | Quantitative Risk Intern | Chicago, IL | Summer 2027 | 2026-08-04 | 79 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) | Quantitative Trading Intern | Chicago, IL | Summer 2027 | 2026-08-03 | 80 | simplify-2026 |
