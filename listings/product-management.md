@@ -1,12 +1,15 @@
-# Product Management (226)
+# Product Management (230)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Patreon](https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true) | Product Manager Intern | SF, NYC | Summer 2027 | 2026-10-22 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/287443) | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7655421207605889333) | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 | 0 | simplify-2026 |
 | [OpenArt AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | Early Adopter & Product Builder Intern - Creative AI | San Carlos, CA | N/A | 2026-10-22 | 0 | simplify-2026 |
+| [CVS Health](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) | Innovation & Technology Internship - Product & Agile Delivery | Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI | Summer 2027 | 2026-10-22 | 0 | simplify-2026 |
+| [Walmart](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) | Automation Product Manager Intern - Product Manager | Lancaster, TX | Summer 2027 | 2026-10-22 | 0 | simplify-2026 |
 | [GoFundMe](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | MBA Product Management Intern | SF | Summer 2027 | 2026-10-21 | 1 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-10-21 | 1 | simplify-2026 |
 | [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Product Management Advertising Intern | Illinois | Summer 2027 | 2026-10-21 | 1 | simplify-2026 |
@@ -60,6 +63,7 @@
 | [IEX](https://job-boards.greenhouse.io/iex-interns/jobs/8171353) | Options Strategy Intern | NYC | N/A | 2026-10-06 | 16 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1) | Product Management Intern | Carmel, IN | Summer 2026 | 2026-10-06 | 16 | simplify-2026 |
 | [Mohawk](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) | Product Management Intern | Calhoun, GA | Summer 2027 | 2026-10-05 | 17 | simplify-2026 |
+| [Assurant](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Miami-FL/Summer-2027-Intern--Manufactured-Housing-Product-Analysis-Intern_R-115769) | Manufactured Housing Product Analysis Intern | Miami, FL | Summer 2027 | 2026-10-05 | 17 | simplify-2026 |
 | [Axos Bank](https://axos.wd5.myworkdayjobs.com/Axos/job/Edison-NJ/Product-Intern_JR5663) | Product Intern | LA, Omaha, NE, Edison, NJ, San Diego, CA | Summer 2026 | 2026-10-05 | 17 | simplify-2026 |
 | [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Strategy_REQ-4882) | Strategy Intern | Chicago, IL | Summer 2026, Fall 2026 | 2026-10-05 | 17 | simplify-2026 |
 | [NBCUniversal](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389) | Media Product Intern | London, UK | Summer 2027 | 2026-10-04 | 18 | simplify-2026 |

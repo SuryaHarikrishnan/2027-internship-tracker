@@ -1,10 +1,9 @@
-# Other (530)
+# Other (528)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311) | Cyber Software Engineer Intern | San Antonio, TX |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [1Password](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491) | Developer Intern, Extension Excellence | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Nissan](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879) | Cyber Security Intern | Smyrna, TN |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Copart](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005) | QA Engineer Intern | Dallas, TX |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -13,7 +12,6 @@
 | [Uline](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536) | Systems Administrator Intern | Pleasant Prairie, WI, Milwaukee, WI, Waukegan, IL, Glenview, IL, Kenosha, WI |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538) | Database Administrator Intern | Pleasant Prairie, WI, Milwaukee, WI, Waukegan, IL, Glenview, IL, Kenosha, WI |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [LabCorp](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Bioinformatics_2634135) | Bioinformatics Intern | Baltimore, MD |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) | Software Engineer Co-op | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044769) | Security Research Intern | Redmond, WA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [1Password](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9) | Developer Intern, Provisioning | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
 | [1Password](https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847) | Security Intern, Threat Operations | Remote in USA |  | 2026-10-22 | 0 | vanshb03-2026, vanshb03-2027 |
