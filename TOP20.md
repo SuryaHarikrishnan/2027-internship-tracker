@@ -8,11 +8,11 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Apple** | Compiler Engineering Intern | London, UK | N/A | 2026-10-22 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200690664) |
-| 2 | **Tesla** | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/287443) |
-| 3 | **NVIDIA** | Research Intern - Robotic Perception and Learning | Seattle, WA, Redmond, WA, Santa Clara, CA | Summer 2027 | 2026-10-21 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
-| 4 | **Microsoft** | Software Engineer Intern, Security & Identity | Cambridge, MA |  | 2026-10-21 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557044765) |
-| 5 | **Meta** | Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR | Burlingame, CA, Redmond, WA | N/A | 2026-10-21 (1d ago) | [Apply](https://www.metacareers.com/jobs/1075160338670575) |
+| 1 | **Apple** | Software Engineer Intern - iCloud Platform | London, UK | N/A | 2026-10-22 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200690044) |
+| 2 | **Meta** | Research Scientist Intern - Central Applied Science | Menlo Park, CA, NYC | N/A | 2026-10-22 (0d ago) | [Apply](https://www.metacareers.com/jobs/1582569213186235) |
+| 3 | **Tesla** | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/287443) |
+| 4 | **NVIDIA** | Research Intern - Robotic Perception and Learning | Seattle, WA, Redmond, WA, Santa Clara, CA | Summer 2027 | 2026-10-21 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
+| 5 | **Microsoft** | Software Engineer Intern, Security & Identity | Cambridge, MA |  | 2026-10-21 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557044765) |
 | 6 | **Anduril** | Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA | Winter 2027 | 2026-10-21 (1d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |
 | 7 | **Uber** | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 (1d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
 | 8 | **Adobe** | Security Engineer Intern | San Jose, CA |  | 2026-10-20 (2d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) |
@@ -21,8 +21,8 @@ Ranked by freshness + company tier + role category.
 | 11 | **OpenAI** | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 (2d ago) | [Apply](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) |
 | 12 | **Waymo** | Machine Learning Intern - Simulation & Closed-Loop Training | Mountain View, CA | Summer 2027 | 2026-10-19 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | 13 | **Scale AI** | Machine Learning Research Intern | SF, NYC | Summer 2027 | 2026-10-19 (3d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
-| 14 | **TikTok** | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 (0d ago) | [Apply](https://lifeattiktok.com/search/7655421207605889333) |
-| 15 | **Intel** | Information Security Engineer Intern | Folsom, CA |  | 2026-10-22 (0d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) |
+| 14 | **Qualcomm** | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada | Summer 2027 | 2026-10-22 (0d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) |
+| 15 | **TikTok** | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 (0d ago) | [Apply](https://lifeattiktok.com/search/7655421207605889333) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (1d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-10-22 14:08 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-22 17:45 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
