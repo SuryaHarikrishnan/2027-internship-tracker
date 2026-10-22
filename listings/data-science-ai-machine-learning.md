@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1543)
+# Data Science, AI & Machine Learning (1539)
 
 [← back to index](../README.md)
 
@@ -428,7 +428,6 @@
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005) | Packaging Automation & Data Engineering Intern | San Jose, CA | Spring 2027 | 2026-10-06 | 16 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005) | Data Analyst New Grad | San Jose, CA | N/A | 2026-10-06 | 16 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005) | Data Analytics Intern | San Jose, CA | N/A | 2026-10-06 | 16 | simplify-2026 |
-| [Mayo Clinic](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/372350) | Research Fellow-Neurosurgery | Rochester, MN | N/A | 2026-10-06 | 16 | simplify-2026 |
 | [Mayo Clinic](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/378185) | Research Fellow in Surgical AI | Rochester, MN | N/A | 2026-10-06 | 16 | simplify-2026 |
 | [Mayo Clinic](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/385703) | AI/ML Intern - Radiation Oncology | Rochester, MN | N/A | 2026-10-06 | 16 | simplify-2026 |
 | [IEX](https://job-boards.greenhouse.io/iex-interns/jobs/8173636) | Marketing Analytics Intern | NYC | N/A | 2026-10-06 | 16 | simplify-2026 |
@@ -439,7 +438,6 @@
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906) | Market Analytics Graduate Intern | Pittsburgh, PA | Summer 2027 | 2026-10-06 | 16 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499) | PhD Research Intern - Cross-Disciplinary Vision Science | Santa Clara, CA, Durham, NC, Westford, MA | Summer 2027 | 2026-10-06 | 16 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947) | Global Product Support Intern Master's | Santa Clara, CA | Summer 2027 | 2026-10-06 | 16 | simplify-2026 |
-| [AltaGas](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1) | Data Analytics & Process Automation Co-op | Calgary, AB, Canada | Winter 2027 | 2026-10-06 | 16 | simplify-2026 |
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773) | Machine Learning Engineer Intern | London, UK | Summer 2027 | 2026-10-06 | 16 | simplify-2026 |
 | [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) | Artificial Intelligence Intern | Montreal, QC, Canada | N/A | 2026-10-06 | 16 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2) | PLM Business Intelligence & Analytics Intern | Ann Arbor, MI | N/A | 2026-10-06 | 16 | simplify-2026 |
@@ -1101,7 +1099,6 @@
 | [IAT Insurance Group](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404) | Data & Integration Intern | Milwaukee, WI | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305) | Geospatial Intern | Hartford, CT, St Paul, MN | Summer 2026 | 2026-09-01 | 51 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) | Business Insights & Analytics Intern - BI&A LDP | Hartford, CT, St Paul, MN | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
-| [Momentive](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Service-Quality_R9767) | Service Quality Intern | Waterford, NY | Summer 2027 | 2026-09-01 | 51 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7679894132806650165/detail) | Research Intern - Frontier AI Systems | San Jose, CA | Winter 2026 | 2026-08-31 | 52 | simplify-2026 |
 | [HP IQ](https://job-boards.greenhouse.io/hpiq/jobs/6114781004) | Software Engineer Intern - AML Platform | SF | Summer 2027 | 2026-08-31 | 52 | simplify-2026 |
 | [HP IQ](https://job-boards.greenhouse.io/hpiq/jobs/6114890004) | Software Engineer Intern - Product & Developer Productivity - Summer 2027 | SF | Summer 2027 | 2026-08-31 | 52 | simplify-2026 |
@@ -1410,7 +1407,6 @@
 | [Parkdepot](https://jobs.lever.co/salesdemo-jr/a5070161-0ed6-4872-b34a-28f90f7fc8c3/apply) | Marketing Analyst Intern | SF | Fall 2026 | 2026-07-07 | 107 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4694889006) | Special Projects Intern | San Jose, CA | Fall 2026 | 2026-07-07 | 107 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7659527183984019765) | Applied Scientist Intern - Recommendation AI Lab | San Jose, CA | Fall 2026 | 2026-07-07 | 107 | simplify-2026 |
-| [Crest Nicholson](https://crestnicholson.wd103.myworkdayjobs.com/CN/job/Addlestone/Sales---Marketing-Insights-Intern_JR101083) | Sales and Marketing Insights Intern | Addlestone, UK | Fall 2026 | 2026-07-07 | 107 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8384490002) | Machine Learning Researcher | NYC | N/A | 2026-07-06 | 108 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8611307002) | Machine Learning Engineer | NYC | N/A | 2026-07-06 | 108 | simplify-2026 |
 | [Odys Aviation](https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f/application?embed=true) | Robotics & Embedded Systems Intern | Long Beach, CA | Fall 2026 | 2026-07-04 | 110 | simplify-2026 |

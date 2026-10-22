@@ -21,8 +21,8 @@ Ranked by freshness + company tier + role category.
 | 11 | **OpenAI** | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 (2d ago) | [Apply](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) |
 | 12 | **Waymo** | Machine Learning Intern - Simulation & Closed-Loop Training | Mountain View, CA | Summer 2027 | 2026-10-19 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | 13 | **Scale AI** | Machine Learning Research Intern | SF, NYC | Summer 2027 | 2026-10-19 (3d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
-| 14 | **Qualcomm** | Applied AI Engineer Intern | Markham, ON, Canada | Summer 2027 | 2026-10-22 (0d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446721664194) |
-| 15 | **TikTok** | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 (0d ago) | [Apply](https://lifeattiktok.com/search/7655421207605889333) |
+| 14 | **TikTok** | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 (0d ago) | [Apply](https://lifeattiktok.com/search/7655421207605889333) |
+| 15 | **Intel** | Information Security Engineer Intern | Folsom, CA |  | 2026-10-22 (0d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (1d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-10-22 10:41 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-22 14:08 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

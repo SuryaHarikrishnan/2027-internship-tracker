@@ -1,4 +1,4 @@
-# Software Engineering (1389)
+# Software Engineering (1387)
 
 [← back to index](../README.md)
 
@@ -6,7 +6,6 @@
 |---|---|---|---|---|---|---|
 | [Apple](https://jobs.apple.com/en-us/details/200690664) | Compiler Engineering Intern | London, UK | N/A | 2026-10-22 | 0 | simplify-2026 |
 | [Crusoe](https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true) | Software Engineer Intern | SF | Summer 2027 | 2026-10-22 | 0 | simplify-2026 |
-| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721664194) | Applied AI Engineer Intern | Markham, ON, Canada | Summer 2027 | 2026-10-22 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/55115?icims=1) | Software Engineer Intern | Calabasas, CA | N/A | 2026-10-22 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239) | Technology Intern | London, UK | Summer 2027 | 2026-10-22 | 0 | simplify-2026 |
 | [ManTech](https://mantech.avature.net/en_US/careers/JobDetail/66705) | AI Workflow Intern | Remote in USA, Stafford, VA | N/A | 2026-10-21 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -524,7 +523,6 @@
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) | Software Engineer Intern - Digital Product: Software Engineering | Austin, TX, Milford, MI, Mountain View, CA, Warren, MI | Summer 2027 | 2026-09-21 | 31 | simplify-2026 |
 | [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184) | Software Engineer Intern | Tucson, AZ | Winter 2026 | 2026-09-21 | 31 | simplify-2026 |
 | [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | N/A | 2026-09-21 | 31 | simplify-2026 |
-| [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1) | Software Developer Intern - Immersive | Montreal, QC, Canada | N/A | 2026-09-21 | 31 | simplify-2026 |
 | [Symbotic](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963) | Software Engineer | Wilmington, MA | N/A | 2026-09-21 | 31 | simplify-2026 |
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746) | Software Engineer Intern | London, UK | Summer 2027 | 2026-09-21 | 31 | simplify-2026 |
 | [Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI/af91b9bd-4452-42c0-93d5-e1943070618e/application?embed=true) | Forward Deployment Engineer Resident - Residency Program | Menlo Park, CA | Winter 2026 | 2026-09-19 | 33 | simplify-2026 |

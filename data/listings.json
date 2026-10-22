@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "3cccbd25-d96e-4da8-bc1a-bb46049aeaf4",
+    "title": "Optoelectronics Electrical Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1792669740,
+    "date_posted": 1792368000,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "LexisNexis Risk Solutions",
     "id": "2374fd2a-48e1-49bd-b761-a8ff1bc13220",
@@ -563,7 +589,7 @@
     "company_name": "Qualcomm",
     "id": "58d62252-3525-471b-8267-bdac7ba2d764",
     "title": "Applied AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -592,7 +618,7 @@
     "company_name": "Qualcomm",
     "id": "92137443-d00e-4f65-8dae-89ee6c4dc0af",
     "title": "Camera Design Implementation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -38023,7 +38049,7 @@
     "company_name": "AltaGas",
     "id": "69682d02-afa7-43f7-b8b0-6e14272666ff",
     "title": "Data Analytics & Process Automation Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -42774,7 +42800,7 @@
     "company_name": "Mayo Clinic",
     "id": "a4c097c2-624c-422a-93a9-bc09a0ebf8aa",
     "title": "Research Fellow-Neurosurgery",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -44912,7 +44938,7 @@
     "company_name": "Lumentum",
     "id": "d72513fe-2382-446f-96ad-147acd1b864b",
     "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -55326,7 +55352,7 @@
     "company_name": "Leidos",
     "id": "89a55bb0-1a26-4c4b-8874-d26cf1f5d2b7",
     "title": "Embedded Design Engineer Intern - Firmware",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -59799,7 +59825,7 @@
     "company_name": "Zurn Elkay Water Solutions",
     "id": "c15b6c17-1727-4aaf-8fe1-537a96872d7b",
     "title": "Product Management Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -74098,7 +74124,7 @@
     "company_name": "CAE",
     "id": "60dc162c-a256-4cc0-bc15-a69b8366e773",
     "title": "Software Developer Intern - Immersive",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -127879,7 +127905,7 @@
     "company_name": "Crest Nicholson",
     "id": "f1eb3077-1cac-47cf-83be-114128992f6b",
     "title": "Sales and Marketing Insights Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -152160,7 +152186,7 @@
     "company_name": "Momentive",
     "id": "0d13979f-34e6-4863-983f-b931e8619e05",
     "title": "Service Quality Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
