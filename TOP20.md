@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (2d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-10-23 17:37 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-23 20:14 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
