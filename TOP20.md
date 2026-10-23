@@ -21,8 +21,8 @@ Ranked by freshness + company tier + role category.
 | 11 | **Anduril** | Robotics Engineer Co-op | Quincy, MA | Winter 2027 | 2026-10-21 (2d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271842007) |
 | 12 | **Uber** | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 (2d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
 | 13 | **Adobe** | Security Engineer Intern | San Jose, CA |  | 2026-10-20 (3d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) |
-| 14 | **Salesforce** | AI Research Intern | Palo Alto, CA | Summer 2027 | 2026-10-20 (3d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) |
-| 15 | **OpenAI** | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 (3d ago) | [Apply](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) |
+| 14 | **OpenAI** | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 (3d ago) | [Apply](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) |
+| 15 | **TikTok** | Seller Content Project Intern | LA | N/A | 2026-10-23 (0d ago) | [Apply](https://lifeattiktok.com/search/7699387964317600053) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (2d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-10-23 10:34 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-23 13:51 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
