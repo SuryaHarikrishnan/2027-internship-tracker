@@ -1,4 +1,4 @@
-# Quantitative Finance (216)
+# Quantitative Finance (214)
 
 [← back to index](../README.md)
 
@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|
 | [Amazon](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | Economics Intern - Structural IO | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | Summer 2027 | 2026-10-23 | 0 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) | PhD Economics Intern - Reduced Form Causal Inference | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | Summer 2027 | 2026-10-23 | 0 | simplify-2026 |
+| [AMA](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | N/A | 2026-10-23 | 0 | simplify-2026 |
 | [Man Group](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) | Systematic Quant Intern | Boston, MA | N/A | 2026-10-22 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | PhD Centralized Research Intern | NYC | Summer 2027 | 2026-10-22 | 1 | simplify-2026 |
 | [Aon](https://jobs.aon.com/jobs/106879?icims=1) | Actuarial Intern - Client Consulting | Toronto, ON, Canada | Winter 2027 | 2026-10-22 | 1 | simplify-2026 |
@@ -18,7 +19,6 @@
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803) | Quantitative Research Intern | NYC | N/A | 2026-10-16 | 7 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853) | Audit & Assurance Intern - Valuation & Analytics | Atlanta, GA | Winter 2027 | 2026-10-15 | 8 | simplify-2026 |
 | [State of Wisconsin Investment Board](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346) | Liquidity Optimization Intern | Madison, WI | Summer 2027 | 2026-10-15 | 8 | simplify-2026 |
-| [Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354) | Analytics Modelling Intern | NYC | Summer 2027 | 2026-10-14 | 9 | simplify-2026 |
 | [Athene](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Risk-Co-op_R255217) | Risk Co-op | West Des Moines, IA | Winter 2026 | 2026-10-14 | 9 | simplify-2026 |
 | [LSEG](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2) | Quantitative Services Intern | London, UK | Summer 2027 | 2026-10-14 | 9 | simplify-2026 |
 | [LSEG](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268) | Finance Engineer Intern | NYC | Summer 2027 | 2026-10-14 | 9 | simplify-2026 |
@@ -191,8 +191,6 @@
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819) | Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern | London, UK | Summer 2027 | 2026-07-02 | 113 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Quantitative Trader Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 114 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 114 | simplify-2026 |
-| [Optiver](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Quantitative Research Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-01 | 114 | simplify-2026 |
-| [Optiver](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-01 | 114 | simplify-2026 |
 | [Seven Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | Quantitative Researcher Intern | NYC | Fall 2026 | 2026-07-01 | 114 | simplify-2026 |
 | [Seven Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) | Algorithmic Developer Intern | NYC | Fall 2026 | 2026-07-01 | 114 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | Quantitative Researcher – PhD Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-07-01 | 114 | simplify-2026 |
