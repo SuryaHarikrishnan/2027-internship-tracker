@@ -2,6 +2,110 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "The Federal Reserve System",
+    "id": "b45ea2d4-167c-47bc-bce8-92927650a1bc",
+    "title": "Policy & Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1792841617,
+    "date_posted": 1792454400,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Texas at Austin",
+    "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
+    "title": "Postdoctoral Scholar Intern",
+    "active": true,
+    "terms": [
+      "Spring 2022"
+    ],
+    "date_updated": 1792839428,
+    "date_posted": 1783165050,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Fidelity Investments",
+    "id": "dd0253eb-1b0d-4b57-abfc-061656bcb829",
+    "title": "Investment Risk Management Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792837116,
+    "date_posted": 1792108800,
+    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Chicago-IL/Intern--Operations_2136370",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "COUNTRY Financial",
+    "id": "6d12bdd4-f0e3-4ced-9e3d-481bc829fb72",
+    "title": "Consumer Insights Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1792836029,
+    "date_posted": 1788825600,
+    "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030",
+    "locations": [
+      "Bloomington, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/COUNTRY-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Microsoft",
     "id": "a6a45fbf-b6a2-4f6b-8387-744c60b29d18",
     "title": "Research Intern - Extended Perception, Interaction & Cognition",
@@ -16718,7 +16822,7 @@
     "company_name": "BP",
     "id": "af8e2287-6e78-4d36-b2f7-9d52ca496ede",
     "title": "Geophysics Intern - Upstream R&D - Imaging Geophysics PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -20617,7 +20721,7 @@
     "company_name": "RTX",
     "id": "a5702f5f-906d-4b1f-8b18-e4034368a2cb",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -36282,7 +36386,7 @@
     "company_name": "Faculte",
     "id": "e22ccf19-d6e8-4c19-8ad3-e0cd9dc5c79c",
     "title": "Data Science Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -43238,7 +43342,7 @@
     "company_name": "Intel",
     "id": "827e615a-db98-431b-849f-68a2ee50ad9e",
     "title": "AI-Driven Physical Design Engineering PhD Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -49881,7 +49985,7 @@
     "company_name": "Northrop Grumman",
     "id": "83a9740c-e026-4b0f-b269-23b44589b6bc",
     "title": "Senior Principal Intelligence Analyst Intern - SkillBridge",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -50009,7 +50113,7 @@
     "company_name": "Magna",
     "id": "e41ab9f0-270f-4d97-a14e-94c7cdd8ec77",
     "title": "Student Engineer ADAS Vehicle Integration Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -58278,7 +58382,7 @@
     "company_name": "Intel",
     "id": "fa6b1c85-77ab-4c0f-abf9-2175172bb65b",
     "title": "AI Solution Architect Graduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -64866,7 +64970,7 @@
     "company_name": "Veeam Software",
     "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
     "title": "Competitive Intelligence AI Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -65317,7 +65421,7 @@
     "company_name": "Stripe",
     "id": "d9bb2856-f02d-4539-b7c0-81e9ade1a86b",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -83977,7 +84081,7 @@
     "company_name": "William Blair",
     "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
     "title": "Application Development Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -84059,7 +84163,7 @@
     "company_name": "Electronic Arts",
     "id": "e452e67d-358a-4687-ab4a-6d68876b312d",
     "title": "Rendering Engineer Intern - Apex Legends",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -90875,7 +90979,7 @@
     "company_name": "Central Hudson",
     "id": "4df28339-408f-45f0-8a26-bbaef8413cca",
     "title": "GIS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -111798,7 +111902,7 @@
     "company_name": "Guardian Life",
     "id": "8155c07e-de11-481a-ba23-c42178f1189c",
     "title": "Application Development Intern - Digital & Technology",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -113687,7 +113791,7 @@
     "company_name": "Amgen",
     "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
     "title": "Machine Learning Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -113854,7 +113958,7 @@
     "company_name": "Amgen",
     "id": "811210da-553e-4d37-b262-9897450dc43d",
     "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -124021,7 +124125,7 @@
     "company_name": "Xcel Energy",
     "id": "9f3cbb1e-b4a0-4f15-b1fc-ea0c6a200973",
     "title": "Residential Energy Product Strategy Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -154961,7 +155065,7 @@
     "company_name": "Flex",
     "id": "ab9e71a3-a1bb-4ee3-8beb-d84f475d8796",
     "title": "Electrical Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -419821,34 +419925,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Kaiser Permanente",
-    "id": "61155f11-cdf7-49e8-bc5b-c3b1c34b3102",
-    "title": "Consulting and Data Analytics Master's Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772103299,
-    "date_posted": 1772103299,
-    "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410311",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA"
     ],
     "_sources": [
       "simplify-2026"

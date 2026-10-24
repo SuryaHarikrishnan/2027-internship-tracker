@@ -1,4 +1,4 @@
-# Product Management (246)
+# Product Management (245)
 
 [← back to index](../README.md)
 
@@ -140,7 +140,6 @@
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361) | Product Strategist Intern - Student Loans | Vienna, VA | Summer 2027 | 2026-09-09 | 45 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305) | Summer Associate Internship - Technical Product Analyst | Vienna, VA | Summer 2027 | 2026-09-09 | 45 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168322) | Associate Product Manager Intern - Multiple Teams | SF | Summer 2027 | 2026-09-09 | 45 | simplify-2026 |
-| [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) | Residential Energy Product Strategy Intern | Denver, CO | Summer 2027 | 2026-09-09 | 45 | simplify-2026 |
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | Summer 2027 | 2026-09-08 | 46 | simplify-2026 |
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Product Intern | Mountain View, CA | Summer 2027 | 2026-09-08 | 46 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | Product Management Intern - Product Management | London, UK | Summer 2027 | 2026-09-08 | 46 | simplify-2026 |
