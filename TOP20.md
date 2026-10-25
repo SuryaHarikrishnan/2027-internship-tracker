@@ -18,11 +18,11 @@ Ranked by freshness + company tier + role category.
 | 8 | **Databricks** | Data Science Intern | SF, Mountain View, CA | N/A | 2026-10-22 (3d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=6866538002) |
 | 9 | **Apple** | Software Engineer Intern - iCloud Platform | London, UK | N/A | 2026-10-22 (3d ago) | [Apply](https://jobs.apple.com/en-us/details/200690044) |
 | 10 | **Tesla** | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/287443) |
-| 11 | **Adobe** | AI & Architecture Intern | San Jose, CA | Summer 2027 | 2026-10-19 (6d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
-| 12 | **NVIDIA** | Research Intern - Robotic Perception and Learning | Seattle, WA, Redmond, WA, Santa Clara, CA | Summer 2027 | 2026-10-21 (4d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
-| 13 | **Anduril** | Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA | Winter 2027 | 2026-10-21 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |
-| 14 | **Uber** | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 (4d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
-| 15 | **Salesforce** | AI Research Intern | Palo Alto, CA | Summer 2027 | 2026-10-20 (5d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) |
+| 11 | **Intuit** | Software Developer Co-op - Front End | Toronto, ON, Canada | Winter 2027 | 2026-10-25 (0d ago) | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
+| 12 | **Adobe** | AI & Architecture Intern | San Jose, CA | Summer 2027 | 2026-10-19 (6d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
+| 13 | **NVIDIA** | Research Intern - Robotic Perception and Learning | Seattle, WA, Redmond, WA, Santa Clara, CA | Summer 2027 | 2026-10-21 (4d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
+| 14 | **Anduril** | Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA | Winter 2027 | 2026-10-21 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |
+| 15 | **Uber** | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 (4d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (113d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
 
 ---
-*Generated 2026-10-25 19:27 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-25 23:08 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
