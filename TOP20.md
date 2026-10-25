@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (113d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
 
 ---
-*Generated 2026-10-25 10:12 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-25 13:23 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
