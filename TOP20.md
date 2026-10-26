@@ -8,18 +8,18 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Adobe** | Machine Learning Engineer Intern | San Jose, CA, Waltham, MA, San Francisco, CA, Austin, TX, Seattle, WA, Lehi, UT, New York, NY |  | 2026-10-24 (2d ago) | [Apply](https://go.vansh.nyc/BO) |
-| 2 | **Amazon** | Software Development Engineer Intern, Amazon Leo | Redmond, WA |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hR) |
-| 3 | **Microsoft** | Software Engineer Intern, Security & Identity | United States |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hN) |
-| 4 | **Meta** | Research Scientist Intern - Dexterous Manipulation and Contact-Rich Control - PhD | Redmond, WA | N/A | 2026-10-24 (2d ago) | [Apply](https://www.metacareers.com/jobs/2053489871986285) |
+| 1 | **Meta** | Research Intern - Embedded AI on Wearables - PhD | Redmond, WA | N/A | 2026-10-26 (0d ago) | [Apply](https://www.metacareers.com/jobs/4070678619908522) |
+| 2 | **Adobe** | Machine Learning Engineer Intern | San Jose, CA, Waltham, MA, San Francisco, CA, Austin, TX, Seattle, WA, Lehi, UT, New York, NY |  | 2026-10-24 (2d ago) | [Apply](https://go.vansh.nyc/BO) |
+| 3 | **Amazon** | Software Development Engineer Intern, Amazon Leo | Redmond, WA |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hR) |
+| 4 | **Microsoft** | Software Engineer Intern, Security & Identity | United States |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hN) |
 | 5 | **Waymo** | Software Engineer Intern - MS/PhD - ML Frameworks and Efficiency | Mountain View, CA | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) |
 | 6 | **MongoDB** | Software Engineer Intern | Palo Alto, CA, Seattle, WA, SF, Austin, TX, NYC | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
 | 7 | **DoorDash** | Operations Research Intern | Sunnyvale, CA | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
-| 8 | **Netflix** | Software Engineer Intern | Los Gatos, CA |  | 2026-10-20 (6d ago) | [Apply](https://go.vansh.nyc/BN) |
-| 9 | **Intuit** | Software Developer Co-op - Front End | Toronto, ON, Canada | Winter 2027 | 2026-10-25 (1d ago) | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
-| 10 | **Palantir** | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY |  | 2026-10-22 (4d ago) | [Apply](https://go.vansh.nyc/fD) |
-| 11 | **Databricks** | Data Science Intern | SF, Mountain View, CA | N/A | 2026-10-22 (4d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=6866538002) |
-| 12 | **Apple** | Software Engineer Intern - iCloud Platform | London, UK | N/A | 2026-10-22 (4d ago) | [Apply](https://jobs.apple.com/en-us/details/200690044) |
+| 8 | **Apple** | Aeon Modeling Software Intern | United States |  | 2026-10-20 (6d ago) | [Apply](https://go.vansh.nyc/D1) |
+| 9 | **Netflix** | Software Engineer Intern | Los Gatos, CA |  | 2026-10-20 (6d ago) | [Apply](https://go.vansh.nyc/BN) |
+| 10 | **Intuit** | Software Developer Co-op - Front End | Toronto, ON, Canada | Winter 2027 | 2026-10-25 (1d ago) | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
+| 11 | **Palantir** | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY |  | 2026-10-22 (4d ago) | [Apply](https://go.vansh.nyc/fD) |
+| 12 | **Databricks** | Data Science Intern | SF, Mountain View, CA | N/A | 2026-10-22 (4d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=6866538002) |
 | 13 | **Tesla** | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 (4d ago) | [Apply](https://www.tesla.com/careers/search/job/287443) |
 | 14 | **NVIDIA** | Research Intern - Robotic Perception and Learning | Seattle, WA, Redmond, WA, Santa Clara, CA | Summer 2027 | 2026-10-21 (5d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
 | 15 | **Anduril** | Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA | Winter 2027 | 2026-10-21 (5d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (114d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
 
 ---
-*Generated 2026-10-26 11:35 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-26 15:31 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
