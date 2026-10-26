@@ -15,14 +15,14 @@ Ranked by freshness + company tier + role category.
 | 5 | **Waymo** | Software Engineer Intern - MS/PhD - ML Frameworks and Efficiency | Mountain View, CA | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) |
 | 6 | **MongoDB** | Software Engineer Intern | Palo Alto, CA, Seattle, WA, SF, Austin, TX, NYC | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
 | 7 | **DoorDash** | Operations Research Intern | Sunnyvale, CA | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
-| 8 | **Northrop Grumman** | Software Engineering Intern | Beavercreek, OH |  | 2026-10-26 (0d ago) | [Apply](https://go.vansh.nyc/ST) |
-| 9 | **Lyft** | Software Engineer Intern, Test Automation | Montreal, Canada |  | 2026-10-19 (7d ago) | [Apply](https://go.vansh.nyc/RT) |
-| 10 | **Apple** | Aeon Modeling Software Intern | United States |  | 2026-10-20 (6d ago) | [Apply](https://go.vansh.nyc/D1) |
-| 11 | **Netflix** | Software Engineer Intern | Los Gatos, CA |  | 2026-10-20 (6d ago) | [Apply](https://go.vansh.nyc/BN) |
-| 12 | **Intuit** | Software Developer Co-op - Front End | Toronto, ON, Canada | Winter 2027 | 2026-10-25 (1d ago) | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
-| 13 | **Palantir** | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY |  | 2026-10-22 (4d ago) | [Apply](https://go.vansh.nyc/fD) |
-| 14 | **Databricks** | Data Science Intern | SF, Mountain View, CA | N/A | 2026-10-22 (4d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=6866538002) |
-| 15 | **Tesla** | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 (4d ago) | [Apply](https://www.tesla.com/careers/search/job/287443) |
+| 8 | **AbbVie** | Cybersecurity Intern, Business Technology Solutions | North Chicago, IL |  | 2026-10-26 (0d ago) | [Apply](https://go.vansh.nyc/SW) |
+| 9 | **Northrop Grumman** | Software Engineering Intern | Beavercreek, OH |  | 2026-10-26 (0d ago) | [Apply](https://go.vansh.nyc/ST) |
+| 10 | **Lyft** | Software Engineer Intern, Test Automation | Montreal, Canada |  | 2026-10-19 (7d ago) | [Apply](https://go.vansh.nyc/RT) |
+| 11 | **Apple** | Aeon Modeling Software Intern | United States |  | 2026-10-20 (6d ago) | [Apply](https://go.vansh.nyc/D1) |
+| 12 | **Netflix** | Software Engineer Intern | Los Gatos, CA |  | 2026-10-20 (6d ago) | [Apply](https://go.vansh.nyc/BN) |
+| 13 | **Intuit** | Software Developer Co-op - Front End | Toronto, ON, Canada | Winter 2027 | 2026-10-25 (1d ago) | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
+| 14 | **Palantir** | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY |  | 2026-10-22 (4d ago) | [Apply](https://go.vansh.nyc/fD) |
+| 15 | **Databricks** | Data Science Intern | SF, Mountain View, CA | N/A | 2026-10-22 (4d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=6866538002) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (114d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
 
 ---
-*Generated 2026-10-26 18:57 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-26 21:27 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
