@@ -1,5 +1,601 @@
 [
   {
+    "date_updated": 1793111922,
+    "url": "https://go.vansh.nyc/5R",
+    "locations": [
+      "New York City, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Melius",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "6647eb8f-3baf-4822-9916-eaf8780a466e",
+    "date_posted": 1785852859,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793111922,
+    "url": "https://go.vansh.nyc/Md",
+    "locations": [
+      "Toronto, Canada",
+      "Vancouver, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Royal Bank of Canada",
+    "title": "Developer & IT Specialist Co-op, Global Asset Management",
+    "source": "vanshb03",
+    "id": "f2212892-9af3-4284-8793-e640f16830de",
+    "date_posted": 1788480000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793111820,
+    "url": "https://go.vansh.nyc/VG",
+    "locations": [
+      "Woburn, MA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "RTX",
+    "title": "Secure Software Intern",
+    "source": "vanshb03",
+    "id": "1fe89484-cadc-486a-9f6e-e65f20873f7e",
+    "date_posted": 1793111100,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793111762,
+    "url": "https://go.vansh.nyc/VF",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "EQT Corporation",
+    "title": "AI Intern",
+    "source": "vanshb03",
+    "id": "ef600d9e-9fae-4940-a16e-29cfe23a8790",
+    "date_posted": 1793110276,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EQT Corporation",
+    "id": "018f57c0-2519-4072-80fe-679c055ee4d6",
+    "title": "AI Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1793111041,
+    "date_posted": 1793110276,
+    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/EQT-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Mayo Clinic",
+    "id": "aac5d00d-dcfd-4a76-86c2-2a47a7ced9dc",
+    "title": "Graduate Engineer Intern - Electronics",
+    "active": true,
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1793110352,
+    "date_posted": 1793110021,
+    "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Mayo-Clinic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mayo Clinic",
+    "id": "51056e1e-d945-4e0d-a103-a44b919853a3",
+    "title": "Graduate Engineer Intern - Software Development",
+    "active": true,
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1793110347,
+    "date_posted": 1793110020,
+    "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Mayo-Clinic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CIBC",
+    "id": "40318f39-1594-41db-a897-5e0c2ee04457",
+    "title": "Junior Insights & Analytics Co-op",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1793110321,
+    "date_posted": 1793059200,
+    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CIBC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+    "title": "Sophomore Program Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1793110252,
+    "date_posted": 1793059200,
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "07c7ac36-a6b7-4d9a-a42c-4243b95697ae",
+    "title": "Software Engineer Intern - AI Agents and Backend Infrastructure",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1793110228,
+    "date_posted": 1793059200,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
+    "locations": [
+      "Bristol, UK",
+      "Belfast, UK",
+      "Remote in UK",
+      "Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mass General Brigham",
+    "id": "1fb4d9a5-8f47-4cb1-9c46-d18894dde905",
+    "title": "Pre-Doctoral Fellow",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1793110141,
+    "date_posted": 1793059200,
+    "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Pre-Doctoral-Fellow--Radiation-Oncology_RQ4084091",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1793110124,
+    "url": "https://go.vansh.nyc/aY",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Behaviour Interactive",
+    "title": "Product Management Intern, 7 Days to Die",
+    "source": "vanshb03",
+    "id": "231d165b-a5f5-4ec6-8eac-26b29e877982",
+    "date_posted": 1792190108,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793110124,
+    "url": "https://go.vansh.nyc/cA",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Berkshire Hathaway Energy",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "cd00c8f9-c38c-4902-8e02-e1112a8456d2",
+    "date_posted": 1792479600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793109981,
+    "url": "https://go.vansh.nyc/VD",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Lila Sciences",
+    "title": "Robot Perception & State Estimation Co-op",
+    "source": "vanshb03",
+    "id": "aeac02ff-2233-4805-8e71-f465fd607871",
+    "date_posted": 1793108661,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793104968,
+    "url": "https://go.vansh.nyc/RB",
+    "locations": [
+      "Haifa District, IL"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Qualcomm",
+    "title": "AI Driven Test Automation Engineering Intern",
+    "source": "vanshb03",
+    "id": "b36fc68c-691e-40b3-9a97-1dd63d3e33aa",
+    "date_posted": 1792339604,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793104968,
+    "url": "https://go.vansh.nyc/Vv",
+    "locations": [
+      "Berlin, DE"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "NVIDIA",
+    "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
+    "source": "vanshb03",
+    "id": "81e4349a-0208-4067-97c4-2bff5b00908a",
+    "date_posted": 1793102753,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793102771,
+    "url": "https://go.vansh.nyc/Vt",
+    "locations": [
+      "Shady Grove, PA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Manitowoc",
+    "title": "Cybersecurity Intern",
+    "source": "vanshb03",
+    "id": "f74b9b5c-5245-4723-bb42-3808a8b11ec6",
+    "date_posted": 1791244800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793102771,
+    "url": "https://go.vansh.nyc/Vu",
+    "locations": [
+      "Plano, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Cybersecurity Analyst Intern",
+    "source": "vanshb03",
+    "id": "2a25a215-62d2-4694-8c15-aaa4be12b302",
+    "date_posted": 1793102753,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099227,
+    "url": "https://go.vansh.nyc/Vh",
+    "locations": [
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "QuantCo",
+    "title": "Data Science Intern",
+    "source": "vanshb03",
+    "id": "de10477d-16f5-4531-914d-19473b5bdb3f",
+    "date_posted": 1714602604,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099227,
+    "url": "https://go.vansh.nyc/Vi",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ricoh",
+    "title": "Software Development Intern",
+    "source": "vanshb03",
+    "id": "27d01d17-8aa6-430d-aac4-b97541736fdd",
+    "date_posted": 1789603200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099227,
+    "url": "https://go.vansh.nyc/Vj",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ricoh",
+    "title": "Software Engineer Intern, Microservice Developer",
+    "source": "vanshb03",
+    "id": "4d3ecf9d-da61-4291-bbb9-58a1780c4f19",
+    "date_posted": 1790812800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099227,
+    "url": "https://go.vansh.nyc/Vk",
+    "locations": [
+      "Perrysburg, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "First Solar (US)",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "a6e71544-6972-44f0-8ff4-390a382624aa",
+    "date_posted": 1791158400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099227,
+    "url": "https://go.vansh.nyc/Vl",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ricoh",
+    "title": "Software Engineer Intern, Graphic Communications",
+    "source": "vanshb03",
+    "id": "f33cf776-07e3-4510-a84d-4b0f368a0a5e",
+    "date_posted": 1792368000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099227,
+    "url": "https://go.vansh.nyc/Vm",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ricoh",
+    "title": "SW Engineer Intern",
+    "source": "vanshb03",
+    "id": "5a516736-27ac-470c-ac75-a26360cf4d72",
+    "date_posted": 1792627200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099175,
+    "url": "https://go.vansh.nyc/Vf",
+    "locations": [
+      "Boston, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "PTC",
+    "title": "Onshape QA Intern",
+    "source": "vanshb03",
+    "id": "ce5d2ed0-8e6e-4896-8f16-fa8aee436285",
+    "date_posted": 1793098155,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793099175,
+    "url": "https://go.vansh.nyc/Vg",
+    "locations": [
+      "Boston, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "PTC",
+    "title": "Onshape SysOps Intern",
+    "source": "vanshb03",
+    "id": "5588b5b8-7828-466f-b216-29d2005491a3",
+    "date_posted": 1793098155,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1793095734,
     "url": "https://go.vansh.nyc/ae",
     "locations": [
@@ -6526,27 +7122,6 @@
   },
   {
     "date_updated": 1793031368,
-    "url": "https://go.vansh.nyc/RB",
-    "locations": [
-      "Haifa District, IL"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Qualcomm",
-    "title": "AI Driven Test Automation Engineering Intern",
-    "source": "vanshb03",
-    "id": "b36fc68c-691e-40b3-9a97-1dd63d3e33aa",
-    "date_posted": 1792339604,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793031368,
     "url": "https://go.vansh.nyc/RC",
     "locations": [
       "Ottawa, Canada"
@@ -9936,28 +10511,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793023513,
-    "url": "https://go.vansh.nyc/Md",
-    "locations": [
-      "Toronto, Canada",
-      "Vancouver, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Royal Bank of Canada",
-    "title": "Developer & IT Specialist Co-op, Global Asset Management",
-    "source": "vanshb03",
-    "id": "f2212892-9af3-4284-8793-e640f16830de",
-    "date_posted": 1788480000,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -26902,7 +27455,7 @@
     "company_name": "Amazon",
     "id": "8e8525b4-47c1-4431-a6ad-b4a61c3bdc2f",
     "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27796,7 +28349,7 @@
     "company_name": "Circle K",
     "id": "78be02f0-f685-4c52-be58-2170c2d99779",
     "title": "Real Estate Strategy & Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27930,7 +28483,7 @@
     "company_name": "General Motors",
     "id": "b2c03613-aaeb-429e-86b1-34d237dfe4c0",
     "title": "Fleet Reliability and Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -33591,7 +34144,7 @@
     "company_name": "Brunswick Group",
     "id": "df6e4384-38fb-46ab-b6b9-bf5cb52126e0",
     "title": "BI Data Analyst Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -36882,27 +37435,6 @@
     "title": "Machine Learning Engineering Intern",
     "source": "vanshb03",
     "id": "5e0abf8a-8d8e-4221-9c46-0d0725db3270",
-    "date_posted": 1792479600,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1792535294,
-    "url": "https://go.vansh.nyc/cA",
-    "locations": [
-      "Des Moines, IA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Berkshire Hathaway Energy",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "cd00c8f9-c38c-4902-8e02-e1112a8456d2",
     "date_posted": 1792479600,
     "company_url": "",
     "is_visible": true,
@@ -42910,27 +43442,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1792370268,
-    "url": "https://go.vansh.nyc/aY",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Behaviour Interactive",
-    "title": "Product Management Intern, 7 Days to Die",
-    "source": "vanshb03",
-    "id": "231d165b-a5f5-4ec6-8eac-26b29e877982",
-    "date_posted": 1792190108,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -71018,7 +71529,7 @@
     "company_name": "Moog",
     "id": "2aca0513-4399-42cb-9896-91871273e679",
     "title": "Electrical Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -76866,7 +77377,7 @@
     "company_name": "Fresenius Medical Care",
     "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
     "title": "Software Engineering Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -100058,7 +100569,7 @@
     "company_name": "GreatAmerica Financial Services",
     "id": "b2ca9bb2-ab81-4103-871c-c472a2cf595c",
     "title": "Data Governance Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -114397,7 +114908,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -114475,7 +114988,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -114502,7 +115017,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -114582,7 +115099,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -114609,7 +115128,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -116462,7 +116983,7 @@
     "company_name": "Farm Credit Canada",
     "id": "e0b8e129-86f6-4001-9587-d113110e4e9c",
     "title": "Data Analyst Student - Valuations",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -161927,7 +162448,7 @@
     "company_name": "Goldman Sachs",
     "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
     "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -161954,7 +162475,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -161980,7 +162501,7 @@
     "company_name": "Goldman Sachs",
     "id": "06098497-6840-4802-8838-81e0dbdec164",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162006,7 +162527,7 @@
     "company_name": "Goldman Sachs",
     "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162059,7 +162580,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162085,7 +162606,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162109,7 +162630,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162185,7 +162706,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162238,7 +162759,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162262,7 +162783,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162288,7 +162809,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162314,7 +162835,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162341,7 +162862,7 @@
     "company_name": "Goldman Sachs",
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -162368,7 +162889,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -192906,7 +193427,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -193051,7 +193572,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215330,7 +215851,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215356,7 +215877,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215385,7 +215906,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215440,7 +215961,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215622,7 +216143,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215670,7 +216191,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215725,7 +216246,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -231079,27 +231600,6 @@
     "source": "vanshb03",
     "id": "ee0e5fdf-b382-4676-b4cd-7bfed2f19951",
     "date_posted": 1785852867,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1785852859,
-    "url": "https://go.vansh.nyc/5R",
-    "locations": [
-      "New York City, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Melius",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "6647eb8f-3baf-4822-9916-eaf8780a466e",
-    "date_posted": 1785852859,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
