@@ -1,4 +1,4 @@
-# Product Management (240)
+# Product Management (239)
 
 [← back to index](../README.md)
 
@@ -39,7 +39,6 @@
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA | Summer 2027 | 2026-10-19 | 8 | simplify-2026 |
 | [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | Product Management Intern | Downers Grove, IL | Summer 2027 | 2026-10-19 | 8 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7697105572165519621) | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 | 10 | simplify-2026 |
-| [Behaviour Interactive](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | Winter 2027 | 2026-10-16 | 11 | simplify-2026 |
 | [Duolingo](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Product Manager MBA Intern | Pittsburgh, PA | N/A | 2026-10-15 | 12 | simplify-2026 |
 | [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) | Associate Product Management Intern | Chicago, IL | N/A | 2026-10-15 | 12 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) | Product Operations Intern - Product Operations | Austin, TX | Summer 2027 | 2026-10-15 | 12 | simplify-2026 |
