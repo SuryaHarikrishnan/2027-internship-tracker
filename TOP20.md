@@ -14,9 +14,9 @@ Ranked by freshness + company tier + role category.
 | 4 | **Amazon** | Software Engineer Intern - Embedded Systems | United Kingdom | N/A | 2026-10-26 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) |
 | 5 | **Boston Dynamics** | Systems Test Engineer Co-op | Waltham, MA | N/A | 2026-10-26 (1d ago) | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) |
 | 6 | **Adobe** | Machine Learning Engineer Intern | San Jose, CA, Waltham, MA, San Francisco, CA, Austin, TX, Seattle, WA, Lehi, UT, New York, NY |  | 2026-10-24 (3d ago) | [Apply](https://go.vansh.nyc/BO) |
-| 7 | **Lockheed Martin** | Software Engineer Intern | Huntsville, AL |  | 2026-10-27 (0d ago) | [Apply](https://go.vansh.nyc/UC) |
-| 8 | **TikTok** | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | Summer 2027 | 2026-10-27 (0d ago) | [Apply](https://lifeattiktok.com/search/7701069870360627509) |
-| 9 | **Northrop Grumman** | Software Engineer Intern | Beavercreek, OH | Summer 2027 | 2026-10-26 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656) |
+| 7 | **Northrop Grumman** | Software Engineer Intern | Azusa, CA |  | 2026-10-27 (0d ago) | [Apply](https://go.vansh.nyc/Wl) |
+| 8 | **Lockheed Martin** | Software Engineer Intern | Huntsville, AL |  | 2026-10-27 (0d ago) | [Apply](https://go.vansh.nyc/UC) |
+| 9 | **TikTok** | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | Summer 2027 | 2026-10-27 (0d ago) | [Apply](https://lifeattiktok.com/search/7701069870360627509) |
 | 10 | **AbbVie** | Cybersecurity Intern, Business Technology Solutions | North Chicago, IL |  | 2026-10-26 (1d ago) | [Apply](https://go.vansh.nyc/SW) |
 | 11 | **Netflix** | Software Engineer Intern | Los Gatos, CA |  | 2026-10-20 (7d ago) | [Apply](https://go.vansh.nyc/BN) |
 | 12 | **Microsoft** | Software Engineer Intern, Security & Identity | United States |  | 2026-10-23 (4d ago) | [Apply](https://go.vansh.nyc/hN) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (115d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
 
 ---
-*Generated 2026-10-27 18:29 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-27 21:08 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

@@ -1,4 +1,4 @@
-# Hardware Engineering (894)
+# Hardware Engineering (893)
 
 [← back to index](../README.md)
 
@@ -347,7 +347,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Firmware Engineer Intern - MS - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-10-01 | 26 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada | Winter 2026 | 2026-10-01 | 26 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---DRAM-ARCHITECTURE_JR113295) | DRAM Architecture Research Intern | San Jose, CA, Boise, ID | Winter 2026 | 2026-10-01 | 26 | simplify-2026 |
-| [Quantum Signal AI](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern) | Embedded and Real-Time Software Intern | Saline, MI | Summer 2027 | 2026-09-30 | 27 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Rivian](https://careers.rivian.com/jobs/33874?icims=1) | Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP | Palo Alto, CA | Spring 2027 | 2026-09-30 | 27 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/33833?icims=1) | Engineering Intern/Co-op - Design Verification - Neural Engine | Palo Alto, CA | Spring 2027 | 2026-09-30 | 27 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/33820?icims=1) | Engineering Intern Co-op - Machine Learning Hardware | Palo Alto, CA | Spring 2027 | 2026-09-30 | 27 | simplify-2026 |
