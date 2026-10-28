@@ -1,4 +1,4 @@
-# Hardware Engineering (927)
+# Hardware Engineering (923)
 
 [← back to index](../README.md)
 
@@ -37,7 +37,6 @@
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) | Analog Design Engineer Intern | Santa Clara, CA | N/A | 2026-10-26 | 2 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) | Software Engineer Intern - Embedded Systems | United Kingdom | N/A | 2026-10-26 | 2 | simplify-2026 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275660007) | Hardware Engineering Intern - Mechanical and Electrical | LA | Summer 2027 | 2026-10-26 | 2 | simplify-2026 |
-| [Renesas Electronics](https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855) | Digital Design Electrical Engineer Intern | Austin, TX | Summer 2026 | 2026-10-26 | 2 | simplify-2026 |
 | [Videotron](https://jobs.smartrecruiters.com/Videotron/744000157818080) | Engineering Intern | Montreal, QC, Canada | Winter 2027 | 2026-10-26 | 2 | simplify-2026 |
 | [Renesas Electronics](https://jobs.smartrecruiters.com/RenesasElectronics/744000157804996) | Application Engineer Intern | Edinburgh, UK | N/A | 2026-10-26 | 2 | simplify-2026 |
 | [Renesas Electronics](https://jobs.smartrecruiters.com/RenesasElectronics/744000157802490) | Analog Intern | Edinburgh, UK | N/A | 2026-10-26 | 2 | simplify-2026 |
@@ -84,7 +83,6 @@
 | [Synopsys](https://synopsys.avature.net/careers/JobDetail/19182) | Technical-Engineering Intern | Markham, ON, Canada | Summer 2027 | 2026-10-22 | 6 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54191?icims=1) | R&D IC Engineering Intern | Colorado Springs, CO | N/A | 2026-10-22 | 6 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Tulsa-Intern,-Software-Engineer-OK-74115/1442777600/?ats=successfactors) | Software Engineer Intern | Tulsa, OK | N/A | 2026-10-22 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Ursa Major](https://ursamajor.com/careers/?gh_jid=4746825005) | Embedded Flight Software Intern | Longmont, CO | Summer 2027 | 2026-10-22 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [S&C Electric Company](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453) | Electronics Engineering Intern - TBI | Chicago, IL | Summer 2027 | 2026-10-22 | 6 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721678727) | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-22 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Tacit](https://jobs.ashbyhq.com/tacit/cadc8b71-ee79-4b44-951b-da7c5a0142eb/application?embed=true) | System Electrical Engineer Intern | SF | N/A | 2026-10-22 | 6 | simplify-2026 |
@@ -134,7 +132,6 @@
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190) | Software Engineer Intern | Pullman, WA | N/A | 2026-10-20 | 8 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) | PCB Layout Intern | Burlington, ON, Canada | N/A | 2026-10-20 | 8 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Software Engineer Intern - Security | Atlanta, GA | Winter 2027 | 2026-10-20 | 8 | simplify-2026 |
-| [Ursa Major](https://ursamajor.com/careers/?gh_jid=4745125005) | Avionics Electrical Engineer Intern | Berthoud, CO | Summer 2027 | 2026-10-19 | 9 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2105411693413958) | Research Scientist Intern - Robotics Hardware | Redmond, WA | N/A | 2026-10-19 | 9 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Spring-Co-Op-NJ-07014/1441503600/?ats=successfactors) | Systems Engineering Co-op | Clifton, NJ | N/A | 2026-10-19 | 9 | simplify-2026 |
 | [Inversion Space](https://job-boards.greenhouse.io/inversionspace/jobs/4745083005) | Vehicle Software Engineer Intern | Playa Vista, LA | Summer 2027 | 2026-10-19 | 9 | simplify-2026 |
@@ -413,7 +410,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646) | AGS Software Engineering Co-op | Cedar Rapids, IA | Summer 2027, Fall 2027 | 2026-09-28 | 30 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Signal-Integrity_JR112692) | Signal Integrity Intern | Boise, ID | N/A | 2026-09-28 | 30 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524) | Memory Systems Architecture & AI Intern - Research | San Jose, CA | N/A | 2026-09-28 | 30 | simplify-2026 |
-| [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382) | Reliability Test Automation Engineer Co-op Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-28 | 30 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) | Technology Architecture Engineer Intern | Malta, NY | Summer 2027 | 2026-09-28 | 30 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755) | Signal Integrity Intern Co-op | Toronto, ON, Canada | Fall 2027, Summer 2028 | 2026-09-28 | 30 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361) | Reliability Test Engineer Intern | Malta, NY | Summer 2027 | 2026-09-28 | 30 | simplify-2026 |

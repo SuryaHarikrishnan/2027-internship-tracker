@@ -1,9 +1,13 @@
-# Other (1114)
+# Other (1103)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Lila Sciences](https://go.vansh.nyc/XH) | Structuring Scientific Data for Discovery Co-op | Cambridge, MA, San Francisco, CA |  | 2026-10-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Micron Technology](https://go.vansh.nyc/XF) | Data Science Intern | San Jose, CA, Folsom, CA |  | 2026-10-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [CrowdStrike](https://go.vansh.nyc/XD) | Overwatch Intern, Research | Arlington, VA, Austin, TX |  | 2026-10-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Sonos](https://go.vansh.nyc/XB) | Software Engineering Intern | Boston, MA |  | 2026-10-28 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Infleqtion](https://go.vansh.nyc/Xz) | Quantum Software Intern | Chicago, IL |  | 2026-10-28 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Ace Hardware Corporation](https://go.vansh.nyc/Xx) | IT Associate Software Engineer Intern | Oak Brook, IL |  | 2026-10-28 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Schonfeld](https://go.vansh.nyc/Xw) | DMFI Intern | New York, NY |  | 2026-10-28 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -22,6 +26,7 @@
 | [Protagonist](https://go.vansh.nyc/WS) | Software Engineering Intern | Washington, DC |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [SWBC](https://go.vansh.nyc/Wp) | Integration Analyst Intern | San Antonio, TX |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Wm) | Claims Lab Developer Intern | Cincinnati, OH |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Filevine](https://go.vansh.nyc/XI) | Security Specialist Intern | Salt Lake City, UT |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Wg) | Data Automation Intern | Cincinnati, OH |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Wh) | Emerging Technology Intern | Cincinnati, OH |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Wi) | Platform Operations Developer Intern | Cincinnati, OH |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -72,12 +77,10 @@
 | [42dot](https://go.vansh.nyc/WM) | Foundation Models Intern | San Francisco, CA, Sunnyvale, CA |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Salesforce](https://go.vansh.nyc/WD) | Forward Deployed Engineer Intern, Global Public Sector | United States |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Great American Insurance Group](https://go.vansh.nyc/Wu) | Cloud Data Platform Intern | Cincinnati, OH |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
-| [Leidos](https://go.vansh.nyc/Wv) | Cybersecurity Analyst Intern | Pearl Harbor, HI |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Uber](https://go.vansh.nyc/Wx) | Software Engineering Intern | Toronto, Canada |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [CIBC](https://go.vansh.nyc/Wy) | Data Analyst Co-op | Toronto, Canada |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Hitachi](https://go.vansh.nyc/Wz) | Software Analyst Intern | Toronto, Canada |  | 2026-10-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/Th) | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
-| [Booz Allen Hamilton](https://go.vansh.nyc/T0) | Systems Engineer Intern, Games | Albuquerque, NM |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [CIBC](https://go.vansh.nyc/T1) | AI Scientist Co-op | Toronto, Canada |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [RTX](https://go.vansh.nyc/T2) | Software Engineering Intern | San Diego, CA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Booz Allen Hamilton](https://go.vansh.nyc/SX) | Systems Engineer Intern | Detroit, MI |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -91,7 +94,6 @@
 | [Northrop Grumman](https://go.vansh.nyc/ST) | Software Engineering Intern | Beavercreek, OH |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard (HP)](https://go.vansh.nyc/SM) | Software Intern | Spring, TX, Fort Collins, CO, Austin, TX |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Netsmart](https://go.vansh.nyc/SN) | Security Analyst Intern | Overland Park, KS |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
-| [Booz Allen Hamilton](https://go.vansh.nyc/Sx) | Cyber Security Intern | Lexington, MA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [BorgWarner](https://go.vansh.nyc/Sy) | Systems Test Automation Engineering Intern | Kokomo, IN |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Cadence](https://go.vansh.nyc/Sz) | CST Application Engineer Intern, Silicon | San Jose, CA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [CAE](https://go.vansh.nyc/SA) | Cybersecurity Integration Specialist Intern | Montreal, Canada |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -108,7 +110,6 @@
 | [Trace3](https://go.vansh.nyc/SL) | Innovation Research & Development Lab Intern | Irvine, CA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Skydio](https://go.vansh.nyc/Si) | Autonomy Engineer Intern, Simulation & Robotics | San Mateo, CA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Skydio](https://go.vansh.nyc/Sj) | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | San Mateo, CA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
-| [Booz Allen Hamilton](https://go.vansh.nyc/Qs) | Games Systems Engineer Intern | Lexington, MA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Analog Devices](https://go.vansh.nyc/Qf) | DevOps Co-op | Boston, MA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Manhattan Associates](https://go.vansh.nyc/MX) | Cloud Intern | Atlanta, GA |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
 | [RTX](https://go.vansh.nyc/CR) | Software Platform Engineer Co-op | Aurora, CO, Remote, United States |  | 2026-10-26 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -198,7 +199,6 @@
 | [Rivian and Volkswagen Group Technologies](https://go.vansh.nyc/fG) | Software Engineering Intern, Connected Systems | Palo Alto, CA, Irvine, CA |  | 2026-10-22 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Rivian and Volkswagen Group Technologies](https://go.vansh.nyc/fI) | Data Engineering Intern, AI & Analytics | Palo Alto, CA, Irvine, CA |  | 2026-10-22 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Palantir](https://go.vansh.nyc/fD) | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY |  | 2026-10-22 | 6 | vanshb03-2026, vanshb03-2027 |
-| [Patreon](https://go.vansh.nyc/fA) | Product Manager Intern | New York, NY, San Francisco, CA |  | 2026-10-22 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/fy) | AI and DSP Applications Engineer Intern | Markham, Canada |  | 2026-10-22 | 6 | vanshb03-2026, vanshb03-2027 |
 | [OpenSesame](https://go.vansh.nyc/fx) | AI Product Builder Intern | Remote, United States |  | 2026-10-22 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Rivian and Volkswagen Group Technologies](https://go.vansh.nyc/gW) | Software Engineering Intern, Embedded Platforms | Vancouver, Canada |  | 2026-10-22 | 6 | vanshb03-2026, vanshb03-2027 |
@@ -276,7 +276,6 @@
 | [AeroVironment](https://go.vansh.nyc/dk) | Software Engineering Intern | San Diego, CA |  | 2026-10-21 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Toyota](https://go.vansh.nyc/dm) | Data Science Intern, TFS | Plano, TX |  | 2026-10-21 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Bosch](https://go.vansh.nyc/ds) | Calibration Process Optimization Intern | Farmington Hills, MI |  | 2026-10-21 | 7 | vanshb03-2026, vanshb03-2027 |
-| [Stifel](https://go.vansh.nyc/D5) | Technology Product Development Developer Intern | Saint Louis, MO |  | 2026-10-21 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Stifel](https://go.vansh.nyc/D6) | Data Analyst Intern | Saint Louis, MO |  | 2026-10-21 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Stifel](https://go.vansh.nyc/D7) | Information Security Intern | Saint Louis, MO |  | 2026-10-21 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Rhoda AI](https://go.vansh.nyc/dj) | Software Engineer Intern, Inference | Mountain View, CA |  | 2026-10-21 | 7 | vanshb03-2026, vanshb03-2027 |
@@ -350,8 +349,6 @@
 | [Seagate Technology](https://go.vansh.nyc/Sr) | Machine Learning for Corporate Strategy Intern | Bloomington, MN |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Seagate Technology](https://go.vansh.nyc/Ss) | Embedded Software Engineer Intern | Longmont, CO |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Seagate Technology](https://go.vansh.nyc/St) | Recording Media R&D Intern, AI & Data Science | Fremont, CA |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
-| [Booz Allen Hamilton](https://go.vansh.nyc/QM) | Games Software Developer Intern | Lexington, MA |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
-| [Booz Allen Hamilton](https://go.vansh.nyc/QN) | Games Data Scientist Intern | Lexington, MA |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Campbell Soup Company](https://go.vansh.nyc/QO) | Data Science Intern | Camden, NJ |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Foresters Financial](https://go.vansh.nyc/QP) | Quality Assurance Engineer Co-op | Toronto, Canada |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
 | [LPL Financial Holdings](https://go.vansh.nyc/QQ) | Cybersecurity Analyst Intern | Fort Mill, SC, Charlotte, NC, Austin, TX |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
@@ -416,7 +413,6 @@
 | [TikTok](https://go.vansh.nyc/RR) | Site Reliability Engineer Intern, Global SRE | San Jose, CA |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Two Sigma](https://go.vansh.nyc/RS) | Software Engineering Intern | New York, NY |  | 2026-10-18 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Physical Reasoning](https://go.vansh.nyc/aC) | Software Engineering Intern | San Francisco, CA, New York, NY, Toronto, Canada, Remote |  | 2026-10-17 | 11 | vanshb03-2026, vanshb03-2027 |
-| [Clera](https://go.vansh.nyc/aG) | Computer Vision & Robotics Intern | San Francisco, CA |  | 2026-10-17 | 11 | vanshb03-2026, vanshb03-2027 |
 | [Eulerity](https://go.vansh.nyc/aH) | AI Intern, Office of CEO & Head of Product | New York, NY |  | 2026-10-17 | 11 | vanshb03-2026, vanshb03-2027 |
 | [AeroVironment](https://go.vansh.nyc/ay) | Software Engineering Intern | Moorpark, CA |  | 2026-10-17 | 11 | vanshb03-2026, vanshb03-2027 |
 | [Together AI](https://go.vansh.nyc/aA) | Research Intern, Frontier Speculative Decoding | San Francisco, CA |  | 2026-10-17 | 11 | vanshb03-2026, vanshb03-2027 |
@@ -427,7 +423,6 @@
 | [Leidos](https://go.vansh.nyc/bl) | Cloud Engineering Intern | Remote in USA |  | 2026-10-16 | 12 | vanshb03-2026, vanshb03-2027 |
 | [Together AI](https://go.vansh.nyc/bm) | Hardware Security Engineer Intern | San Francisco, CA |  | 2026-10-16 | 12 | vanshb03-2026, vanshb03-2027 |
 | [Gilead Sciences](https://go.vansh.nyc/bx) | Research Intern, Clinical Virology - AI | Foster City, CA |  | 2026-10-16 | 12 | vanshb03-2026, vanshb03-2027 |
-| [Altera](https://go.vansh.nyc/ac) | Software Engineer Intern | Toronto, ON |  | 2026-10-16 | 12 | vanshb03-2026, vanshb03-2027 |
 | [Booz Allen Hamilton](https://go.vansh.nyc/ad) | Software Engineer Intern | Fayetteville, NC |  | 2026-10-16 | 12 | vanshb03-2026, vanshb03-2027 |
 | [General Motors](https://go.vansh.nyc/af) | Research and Development Intern, System Safety | Warren, MI |  | 2026-10-16 | 12 | vanshb03-2026, vanshb03-2027 |
 | [Gilead Sciences](https://go.vansh.nyc/ag) | Research Intern, Data Sciences - AI | Foster City, CA |  | 2026-10-16 | 12 | vanshb03-2026, vanshb03-2027 |
@@ -493,11 +488,9 @@
 | [GE Vernova](https://go.vansh.nyc/96) | Grid Foundational Models Intern, AGI | Bellevue, WA |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [GE Vernova](https://go.vansh.nyc/97) | AI Post-Training and Model Alignment Intern, AGI | Bellevue, WA |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://go.vansh.nyc/98) | Software Engineer Intern, Crypto & Cross Domain Solutions | Scottsdale, AZ |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
-| [General Dynamics Mission Systems](https://go.vansh.nyc/99) | Software Engineer Intern, Crypto and Cross Domain Solutions | Taunton, MA |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [JPMorganChase](https://go.vansh.nyc/9d) | AI Research Associate Intern | New York, NY |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [Kensington](https://go.vansh.nyc/9e) | Analytics Intern | Toronto, ON |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [Monolithic Power Systems](https://go.vansh.nyc/9g) | Applications Engineer Intern | San Jose, CA |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
-| [Nasdaq](https://go.vansh.nyc/9h) | Intelligent Automation Intern | New York, NY |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [National Life](https://go.vansh.nyc/9i) | Data Science Intern | Addison, TX, Montpelier, VT |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [onsemi](https://go.vansh.nyc/9k) | Manufacturing AI Intern | Hopewell Junction, NY |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
 | [Point72](https://go.vansh.nyc/9l) | Fundamental Researcher Intern, Canvas | New York, NY |  | 2026-10-14 | 14 | vanshb03-2026, vanshb03-2027 |
@@ -724,7 +717,6 @@
 | [Insulet Corporation](https://go.vansh.nyc/fS) | Software Development Engineer in Test Co-op | Acton, MA |  | 2026-09-29 | 29 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/DT) | Silicon Engineering Intern | Toronto, Canada |  | 2026-09-28 | 30 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/DS) | Soft IP ASIC Engineer Intern | Ottawa, Canada |  | 2026-09-28 | 30 | vanshb03-2026, vanshb03-2027 |
-| [iRhythm Technologies](https://go.vansh.nyc/K5) | Firmware Quality Assurance Engineer Co-op | San Francisco, CA |  | 2026-09-28 | 30 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems, Inc.](https://go.vansh.nyc/PZ) | EE/Computer Engineer Intern | Manassas, VA |  | 2026-09-28 | 30 | vanshb03-2026, vanshb03-2027 |
 | [Itron](https://go.vansh.nyc/JJ) | Data Science Intern, Distributed Intelligence | Liberty Lake, WA |  | 2026-09-28 | 30 | vanshb03-2026, vanshb03-2027 |
 | [AVARINT](https://go.vansh.nyc/fN) | Software Engineer Intern, DIADS | United States |  | 2026-09-28 | 30 | vanshb03-2026, vanshb03-2027 |
@@ -1048,10 +1040,7 @@
 | [ShyftLabs](https://go.vansh.nyc/3I) | AI Engineer Intern | Toronto, Canada |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
 | [Hudson River Trading](https://go.vansh.nyc/3G) | Intern | New York, NY |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
 | [Hudson River Trading](https://go.vansh.nyc/3F) | Software Engineer Intern | Austin, TX, Chicago, IL, New York, NY |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
-| [Akuna Capital](https://go.vansh.nyc/3E) | Software Engineer Intern, C# .NET Desktop | Chicago, IL |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
-| [Akuna Capital](https://go.vansh.nyc/3D) | Software Engineer Intern, Full Stack Web | Chicago, IL |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
 | [Akuna Capital](https://go.vansh.nyc/3A) | Platform Engineer Intern | Chicago, IL |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
-| [Akuna Capital](https://go.vansh.nyc/3z) | Software Engineer Intern, C++ | Chicago, IL |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
 | [Netic](https://go.vansh.nyc/3x) | Software Engineer Intern | San Francisco, CA |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
 | [Tesla](https://go.vansh.nyc/3w) | Localization Specialist Intern | Fremont, CA |  | 2026-07-24 | 96 | vanshb03-2026, vanshb03-2027 |
 | [Fullscript](https://go.vansh.nyc/GV) | Software Developer Co-op | Ottawa, Canada |  | 2026-07-22 | 98 | vanshb03-2026, vanshb03-2027 |
