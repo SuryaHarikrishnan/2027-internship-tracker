@@ -1,4 +1,4 @@
-# Quantitative Finance (204)
+# Quantitative Finance (202)
 
 [← back to index](../README.md)
 
@@ -15,7 +15,6 @@
 | [AMA](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | N/A | 2026-10-23 | 5 | simplify-2026 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | PhD Centralized Research Intern | NYC | Summer 2027 | 2026-10-22 | 6 | simplify-2026 |
 | [Aon](https://jobs.aon.com/jobs/106879?icims=1) | Actuarial Intern - Client Consulting | Toronto, ON, Canada | Winter 2027 | 2026-10-22 | 6 | simplify-2026 |
-| [WisdomTree](https://jobs.lever.co/wisdomtree/220e4082-4102-4989-8dac-4d8a2172f04a/apply) | Research Intern | NYC | Summer 2027 | 2026-10-21 | 7 | simplify-2026 |
 | [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8300829) | Sports Trader Intern | Jersey City, NJ | Summer 2027 | 2026-10-20 | 8 | simplify-2026 |
 | [Graviton](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | Quantitative Researcher Intern | London, UK, Amsterdam, Netherlands, NYC, Singapore | Summer 2027 | 2026-10-19 | 9 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Chicago-IL/Intern--Operations_2136370) | Investment Risk Management Intern | Chicago, IL | N/A | 2026-10-16 | 12 | simplify-2026 |
@@ -160,7 +159,6 @@
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | Quantitative Research Internship | London, UK | Summer 2027 | 2026-07-23 | 97 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | Quantitative Researcher Internship | NYC | Summer 2027 | 2026-07-22 | 98 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-21 | 99 | simplify-2026 |
-| [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | Quant Trading Intern | London, UK | Summer 2027 | 2026-07-21 | 99 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Quant Trading Intern | Chicago, IL | Summer 2027 | 2026-07-20 | 100 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-07-14 | 106 | simplify-2026 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | Quantitative Trader Intern - Quantitative Trader | NYC | Summer 2027 | 2026-07-14 | 106 | simplify-2026 |
