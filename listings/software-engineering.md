@@ -1,9 +1,10 @@
-# Software Engineering (1367)
+# Software Engineering (1371)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Infleqtion](https://apply.workable.com/coldquanta/j/EB77DE8198/apply) | Quantum Software Intern - Quantum Software | Chicago, IL | Summer 2027 | 2026-10-28 | 0 | simplify-2026 |
 | [RosaicLabs](https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply) | Software Engineering Intern | Austin, TX, Santa Clara, CA | N/A | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Certa](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) | Frontend Engineer Intern | London, UK, Remote in India, SF, Jaipur, Rajasthan, India | N/A | 2026-10-28 | 0 | simplify-2026 |
 | [Wabtec](https://jobs.smartrecruiters.com/Wabtec/3743990016452226) | Software Engineering Co-op | Schenectady, NY | Spring 2027 | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -12,6 +13,9 @@
 | [FUTO](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply) | Software Engineer Intern | Austin, TX | Summer 2027 | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors) | Application Developer Intern | Chillicothe, OH | Summer 2027 | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Samsung](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003) | Power-Thermal Simulation Software Engineer Intern | San Jose, CA | N/A | 2026-10-28 | 0 | simplify-2026 |
+| [Ace Hardware](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797) | IT Associate Software Engineer Intern | Oak Brook, IL | Summer 2027 | 2026-10-28 | 0 | simplify-2026 |
+| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2) | Software Engineer Intern - Javascript | Sheffield, UK | Summer 2027 | 2026-10-28 | 0 | simplify-2026 |
+| [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1) | Software Systems Engineering Intern | Golden, CO | N/A | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Axiom Math](https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e/application?embed=true) | Member of Technical Staff Intern | Palo Alto, CA, London, UK | N/A | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [VSP Vision](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020) | Software Engineer Intern - Technology Innovation | Remote in USA | Summer 2027 | 2026-10-28 | 0 | simplify-2026 |
 | [VSP Vision](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068) | Software Engineer Intern | Remote in USA | Summer 2027 | 2026-10-28 | 0 | simplify-2026 |
@@ -68,7 +72,6 @@
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) | Developer Intern - RBC Amplify | Montreal, QC, Canada | Summer 2027 | 2026-10-26 | 2 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) | Developer Intern | Calgary, AB, Canada | Summer 2027 | 2026-10-26 | 2 | simplify-2026 |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251) | Game UI Intern - AI Focus | London, UK | N/A | 2026-10-26 | 2 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196) | Developer Intern | Halifax Regional Municipality, NS, Canada | Summer 2027 | 2026-10-26 | 2 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2) | Developer Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-26 | 2 | simplify-2026 |
 | [Intuit](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) | Software Developer Co-op - Front End | Toronto, ON, Canada | Winter 2027 | 2026-10-25 | 3 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044771) | Software Engineer Intern - Security & Identity | United States | N/A | 2026-10-23 | 5 | simplify-2026 |
@@ -707,6 +710,7 @@
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771) | Software Engineer Intern - Undergraduate | Burgess Hill, UK | Summer 2027 | 2026-09-14 | 44 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769) | Software Engineer Intern - Undergraduate | London, UK | Summer 2027 | 2026-09-14 | 44 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756) | AI Engineer Intern - Undergraduate | Burgess Hill, UK | Summer 2027 | 2026-09-14 | 44 | simplify-2026 |
+| [WebFX](https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true) | Web Developer Intern | Harrisburg, PA | N/A | 2026-09-14 | 44 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Summer-Placement-2027_R37727) | Weapon Systems Algorithms Engineer - Summer Placement 2027 | Bristol, UK | N/A | 2026-09-14 | 44 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Undergraduate-Placement-2027_R37757) | Software Engineer - Undergraduate Placement | Stevenage, UK | N/A | 2026-09-14 | 44 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Weapon-System-Simulation---Experimentation-Engineer---Undergraduate-Placement-2027_R37568) | Weapon System Simulation & Experimentation Engineer - Undergraduate Placement | Bristol, UK, Stevenage, UK | N/A | 2026-09-14 | 44 | simplify-2026 |

@@ -4,8 +4,8 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Sonos](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1) | Software Product Management Intern | Seattle, WA | Summer 2027 | 2026-10-28 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701069870360627509) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | Summer 2027 | 2026-10-27 | 1 | simplify-2026 |
-| [New Balance](https://newbalance.wd1.myworkdayjobs.com/careers/job/Boston-MA-Headquarters---NB/Kids-Footwear-Product-Coop_R41587) | Kids Footwear Product Co-op | Boston, MA | N/A | 2026-10-27 | 1 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | N/A | 2026-10-27 | 1 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | CMBU Product Management Intern | San Jose, CA | N/A | 2026-10-27 | 1 | simplify-2026 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) | Product Line Management Intern - Apparel - Accessories | Beaverton, OR | Summer 2026 | 2026-10-27 | 1 | simplify-2026 |

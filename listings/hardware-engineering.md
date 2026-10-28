@@ -1,12 +1,16 @@
-# Hardware Engineering (921)
+# Hardware Engineering (927)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721822125) | Formal Verification Engineering Intern - 6 months | Cambridge, UK | N/A | 2026-10-28 | 0 | simplify-2026 |
 | [RosaicLabs](https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply) | AI Accelerator Design Verification Engineer Intern | Austin, TX, Santa Clara, CA | N/A | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [RosaicLabs](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA | N/A | 2026-10-28 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Samsung](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003) | RTL Power Macromodeling Engineer Intern | San Jose, CA | N/A | 2026-10-28 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831) | Hardware Electrical Engineer Intern | Cambridge, MA | Summer 2027 | 2026-10-28 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598) | Hardware Electrical Engineering Co-op | Cambridge, MA | Spring 2027 | 2026-10-28 | 0 | simplify-2026 |
+| [Altera](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748) | FPGA Hardware Design Engineer Intern | Marlow, UK | N/A | 2026-10-28 | 0 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf/apply) | Formal Verification Engineer Intern | Austin, TX | N/A | 2026-10-27 | 1 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/55190?icims=1) | Electrical Engineering Intern - R&D Design Validation - Test Automation | Budd Lake, Mt Olive, NJ | N/A | 2026-10-27 | 1 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/55183?icims=1) | Quantum R&D Engineer Intern | Cambridge, MA | N/A | 2026-10-27 | 1 | simplify-2026 |
@@ -533,6 +537,8 @@
 | [SRC, Inc](https://jobs.jobvite.com/src-inc/job/on4GAfwr?nl=1&nl=1&fr=false) | Engineering Intern | Syracuse, NY | Summer 2027 | 2026-09-16 | 42 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283676) | Electronic Design Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-16 | 42 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91953?icims=1) | Technical Marketing Performance Analysis Intern/Co-op | Markham, ON, Canada | Winter 2027, Summer 2027, Fall 2027 | 2026-09-16 | 42 | simplify-2026 |
+| [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) | Electrical Engineer Co-op | Rockford, IL, Elyria, OH | Summer 2027 | 2026-09-16 | 42 | simplify-2026 |
+| [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010996) | Electrical Engineering Co-op | Rockford, IL, Elyria, OH | Spring 2027 | 2026-09-16 | 42 | simplify-2026 |
 | [Antares Nuclear](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true) | Software Engineer Intern | Torrance, CA | Summer 2027 | 2026-09-16 | 42 | simplify-2026 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply) | Electrical Engineer Intern - Hardware | Westminster, CO | Summer 2027 | 2026-09-16 | 42 | simplify-2026 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) | Embedded Software Engineer Intern | Westminster, CO | Summer 2027 | 2026-09-16 | 42 | simplify-2026 |
