@@ -1,5 +1,152 @@
 [
   {
+    "date_updated": 1793308024,
+    "url": "https://go.vansh.nyc/Zw",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "PTC",
+    "title": "Arena Engineering Intern",
+    "source": "vanshb03",
+    "id": "3f90e47a-751c-46b6-8e72-d96ec0b9cf0f",
+    "date_posted": 1793307004,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793308024,
+    "url": "https://go.vansh.nyc/Zx",
+    "locations": [
+      "Los Altos, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Toyota Research Institute",
+    "title": "Robotics Intern, Human-Machine Interaction Research",
+    "source": "vanshb03",
+    "id": "0df9c622-5187-40fa-be37-134f02e0659d",
+    "date_posted": 1793306584,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793304521,
+    "url": "https://go.vansh.nyc/M9",
+    "locations": [
+      "Clarksburg, MD"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "DIRECTV",
+    "title": "Product Development Intern, DIRECTV for Business",
+    "source": "vanshb03",
+    "id": "b2c828e3-2a01-4ea0-a760-4f74cdfde9d5",
+    "date_posted": 1788480000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793304410,
+    "url": "https://go.vansh.nyc/Zr",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "National Interstate Insurance",
+    "title": "DevOps Developer Intern",
+    "source": "vanshb03",
+    "id": "314f0588-ce31-4f40-bbb9-35d0dcb3a58a",
+    "date_posted": 1793302070,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793304410,
+    "url": "https://go.vansh.nyc/Zt",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "ASIC Verification Engineering Intern",
+    "source": "vanshb03",
+    "id": "b600cd62-e9b7-4ae0-91ff-fa1f3081e5c2",
+    "date_posted": 1793303030,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793304410,
+    "url": "https://go.vansh.nyc/Zu",
+    "locations": [
+      "Los Altos, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Toyota Research Institute",
+    "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits",
+    "source": "vanshb03",
+    "id": "3bcb75c5-3c4d-4ecb-a8d2-e8a8b349f421",
+    "date_posted": 1793301110,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793302651,
+    "url": "https://go.vansh.nyc/LW",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Cyber Software Engineer Intern, Capabilities Development",
+    "source": "vanshb03",
+    "id": "0d1f22ea-0f2a-4334-a488-1f1bcca93e8e",
+    "date_posted": 1788288493,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1793299416,
     "url": "https://go.vansh.nyc/fk",
     "locations": [
@@ -3379,7 +3526,7 @@
     "company_name": "Altman Solon",
     "id": "9b13cbf3-0b3e-4833-8129-fc5c95c7bb88",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -4273,7 +4420,7 @@
     "company_name": "ICF International",
     "id": "adef7dd1-a84b-48b5-af23-16a56fb40aca",
     "title": "Data Scientist Seasonal Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -10380,7 +10527,7 @@
     "company_name": "Fidelity Investments",
     "id": "1d265e9f-e469-4940-aa21-47a3bfbedc8b",
     "title": "Data Strategy Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -16415,7 +16562,7 @@
     "company_name": "Danaher",
     "id": "8f175b67-db53-401a-996f-5d1e58c80b78",
     "title": "Sustaining Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -21695,7 +21842,7 @@
     "company_name": "Cadillac Formula 1 Team",
     "id": "07533b71-f7a2-4307-995f-db8988ffaa45",
     "title": "Aerodynamics AI Industrial Placement Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -22416,7 +22563,7 @@
     "company_name": "CVS Health",
     "id": "4bc89fb6-aa1c-4885-baa5-14d7ba2a7849",
     "title": "Innovation & Technology Intern - Data Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -22780,27 +22927,6 @@
   },
   {
     "date_updated": 1793023513,
-    "url": "https://go.vansh.nyc/LW",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Cyber Software Engineer Intern, Capabilities Development",
-    "source": "vanshb03",
-    "id": "0d1f22ea-0f2a-4334-a488-1f1bcca93e8e",
-    "date_posted": 1788288493,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793023513,
     "url": "https://go.vansh.nyc/LX",
     "locations": [
       "Houston, TX"
@@ -22947,27 +23073,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Winter",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793023513,
-    "url": "https://go.vansh.nyc/M9",
-    "locations": [
-      "Clarksburg, MD"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "DIRECTV",
-    "title": "Product Development Intern, DIRECTV for Business",
-    "source": "vanshb03",
-    "id": "b2c828e3-2a01-4ea0-a760-4f74cdfde9d5",
-    "date_posted": 1788480000,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -41726,7 +41831,7 @@
     "company_name": "CVS Health",
     "id": "4ba872b4-8b90-4582-957d-659c7dbefe2f",
     "title": "Innovation & Technology Data Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43472,7 +43577,7 @@
     "company_name": "Ivalua",
     "id": "b33840e8-18c3-4caf-af11-3ede11899f1b",
     "title": "Marketing Web Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -43631,7 +43736,7 @@
     "company_name": "S&C Electric Company",
     "id": "4374b23b-fdbf-49b3-975e-6007d5633dca",
     "title": "Electronics Engineering Intern - TBI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -53351,7 +53456,7 @@
     "company_name": "NetApp",
     "id": "c712a36c-58fe-455b-b7d1-354855f08c92",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -54670,7 +54775,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "51e30f02-0f7a-463f-a7e9-bbd16abb42bc",
     "title": "Electrical and Computer Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -68524,7 +68629,7 @@
     "company_name": "7-Eleven",
     "id": "4bd4ad35-c7ba-43e2-aa79-c5f457eeda71",
     "title": "Fuel Pricing Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -79635,7 +79740,7 @@
     "company_name": "Autodesk",
     "id": "63ef67dc-65c7-4d5c-bda2-83d8c17308b5",
     "title": "Research Intern - AI Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -90445,7 +90550,7 @@
     "company_name": "Saab",
     "id": "9e0dc3ab-9d79-4ad2-8969-6a079b606b79",
     "title": "Systems Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -104312,7 +104417,7 @@
     "company_name": "GovSignals",
     "id": "954f1915-886d-44d2-b63c-900fb3b88410",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -108121,7 +108226,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -143497,7 +143604,7 @@
     "company_name": "Oshkosh",
     "id": "9ff89600-1ebc-46c4-a1af-887c05a633b9",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -146775,7 +146882,7 @@
     "company_name": "Tesla",
     "id": "d5c67b95-ec5f-4c2d-b9dc-68c0a2efad5d",
     "title": "Vehicle Accessories & Merchandise Product Intern - Global Merchandise",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -161027,7 +161134,7 @@
     "company_name": "Danaher",
     "id": "0c0c50f3-9bb4-4e00-9b44-a6ec64006ebb",
     "title": "Software Engineer Intern - ICE Software Platform",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -167582,7 +167689,7 @@
     "company_name": "Barclays",
     "id": "64a35586-2a6e-4c71-9919-ca8c55f250ed",
     "title": "Technology Developer Intern - Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -168925,7 +169032,7 @@
     "company_name": "DIRECTV",
     "id": "6d7ae4ff-faad-43e5-8a8c-e621e27b715a",
     "title": "Product Development Intern - DIRECTV for Business",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -181675,7 +181782,7 @@
     "company_name": "Qorvo",
     "id": "98a12d6b-4d4d-4ded-92d5-9e4ff9d32b3b",
     "title": "Test Engineer Intern - Advanced Cellular",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -189924,7 +190031,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "d3d10ab7-d5dc-4708-9b54-6176ea96d7f0",
     "title": "Cyber Software Engineer Intern - Capabilities Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -199892,7 +199999,7 @@
     "company_name": "Qorvo",
     "id": "bdb55724-c75a-4851-9cc0-5630913a4d94",
     "title": "Software Characterization Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -205875,7 +205982,7 @@
     "company_name": "Johnson & Johnson",
     "id": "0f474509-a4fe-4afd-a3b2-875ee4689df0",
     "title": "Data Science Co-op - Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],

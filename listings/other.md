@@ -1,9 +1,14 @@
-# Other (1127)
+# Other (1130)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [PTC](https://go.vansh.nyc/Zw) | Arena Engineering Intern | San Mateo, CA |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toyota Research Institute](https://go.vansh.nyc/Zx) | Robotics Intern, Human-Machine Interaction Research | Los Altos, CA |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Hewlett Packard Enterprise](https://go.vansh.nyc/Zt) | ASIC Verification Engineering Intern | Roseville, CA |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [National Interstate Insurance](https://go.vansh.nyc/Zr) | DevOps Developer Intern | Cincinnati, OH |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toyota Research Institute](https://go.vansh.nyc/Zu) | Human Interactive Driving Research Intern, Perception for Driving at the Limits | Los Altos, CA |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/Zo) | Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving | Los Altos, CA |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Zd) | Extreme Programming Engineer Intern | Cincinnati, OH |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Ze) | Content Publishing Developer Intern | Cincinnati, OH |  | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -869,7 +874,6 @@
 | [Solidigm](https://go.vansh.nyc/Mi) | Software Development & Firmware Engineering Intern | Rancho Cordova, CA, Longmont, CO, Sacramento, CA |  | 2026-09-05 | 54 | vanshb03-2026, vanshb03-2027 |
 | [Springs Window Fashions](https://go.vansh.nyc/N4) | AI Intern, Information Technology | Middleton, WI |  | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
 | [Amazon](https://go.vansh.nyc/Mg) | Software Development Engineer Intern, Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington, VA, Bellevue, WA, Westborough, MA |  | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
-| [DIRECTV](https://go.vansh.nyc/M9) | Product Development Intern, DIRECTV for Business | Clarksburg, MD |  | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
 | [Marvell](https://go.vansh.nyc/Mb) | Functional Validation Intern | Santa Clara, CA, Boise, ID, Westborough, MA |  | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
 | [Marvell](https://go.vansh.nyc/Me) | Design Verification Intern | Morrisville, NC, Austin, TX, Santa Clara, CA, Boise, ID, Westborough, MA |  | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
 | [Marvell](https://go.vansh.nyc/Mf) | Physical Design Engineer Intern | Morrisville, NC, Austin, TX, Rochester, MN, Santa Clara, CA, Boise, ID, Burlington, VT, Westborough, MA |  | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
@@ -884,7 +888,6 @@
 | [Universal Health Services](https://go.vansh.nyc/M0) | Software Engineer Intern, Data Analytics | King of Prussia, PA |  | 2026-09-02 | 57 | vanshb03-2026, vanshb03-2027 |
 | [Kinder Morgan](https://go.vansh.nyc/LX) | Information Technology Intern, Application Development | Houston, TX |  | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/LV) | Software Developer Intern, Tactical System Prototyping and Deployment | Laurel, MD |  | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
-| [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/LW) | Cyber Software Engineer Intern, Capabilities Development | Laurel, MD |  | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/Q5) | Weapon Control Intern | Laurel, MD |  | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/LU) | Engineer/SW Developer/Analyst Intern, Maritime Force Engagement Control | Laurel, MD |  | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [AMD](https://go.vansh.nyc/LT) | Compiler Engineer Co-op | San Jose, CA, Santa Clara, CA |  | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
