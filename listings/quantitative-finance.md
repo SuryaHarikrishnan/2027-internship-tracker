@@ -1,11 +1,10 @@
-# Quantitative Finance (202)
+# Quantitative Finance (200)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [SCM](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Quantitative Research Analyst Intern | Radnor, PA | Summer 2026 | 2026-10-29 | 0 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3) | Model Risk Intern | Toronto, ON, Canada | Winter 2027 | 2026-10-29 | 0 | simplify-2026 |
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) | Analyst Co-op | Montreal, QC, Canada | Winter 2027 | 2026-10-29 | 0 | simplify-2026 |
 | [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | Summer 2027 | 2026-10-29 | 0 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | DeFi Quant Trader Intern - Credit | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-29 | 0 | simplify-2026 |
@@ -55,7 +54,6 @@
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) | ALM Data Management & Analytics Co-op | Toronto, ON, Canada | Winter 2027 | 2026-10-01 | 28 | simplify-2026 |
 | [Capstone Investment Advisors](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002) | Quant Intern | London, UK | Summer 2027 | 2026-09-30 | 29 | simplify-2026 |
 | [SouthState Bank](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Quantitative Intern | Texas, Florida, South Carolina, Georgia, Virginia, Colorado, North Carolina, Alabama | Summer 2027 | 2026-09-29 | 30 | simplify-2026 |
-| [Voloridge](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) | Quantitative Trading Intern | Jupiter, FL | Winter 2026 | 2026-09-24 | 35 | simplify-2026 |
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931) | Quantitative Intern | NYC | Summer 2027 | 2026-09-24 | 35 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) | Systematic Trading Intern - Systematic Trading | London, UK | Summer 2027 | 2026-09-24 | 35 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Machine Learning Research Associate Intern | Greenwich, CT | Summer 2027 | 2026-09-23 | 36 | simplify-2026 |

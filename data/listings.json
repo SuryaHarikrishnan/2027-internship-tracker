@@ -1,5 +1,364 @@
 [
   {
+    "date_updated": 1793299416,
+    "url": "https://go.vansh.nyc/fk",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "CVS Health",
+    "title": "Data Engineering Intern, Innovation & Technology",
+    "source": "vanshb03",
+    "id": "eb5661c7-23e8-4020-9f87-b9c63d375ff7",
+    "date_posted": 1792627200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793299416,
+    "url": "https://go.vansh.nyc/K3",
+    "locations": [
+      "Perrysburg, OH"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "First Solar (US)",
+    "title": "Data Engineering Intern",
+    "source": "vanshb03",
+    "id": "61248cb7-07af-4d96-8183-bff76be7a9de",
+    "date_posted": 1790383244,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793299416,
+    "url": "https://go.vansh.nyc/OI",
+    "locations": [
+      "Irving, TX"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "CVS Health",
+    "title": "Innovation & Technology Intern, Data Engineering",
+    "source": "vanshb03",
+    "id": "9aa2859a-0e72-4c28-a8c4-1b98e68409f5",
+    "date_posted": 1792972800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793299022,
+    "url": "https://go.vansh.nyc/Zo",
+    "locations": [
+      "Los Altos, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Toyota Research Institute",
+    "title": "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
+    "source": "vanshb03",
+    "id": "7ee99162-a1cb-4b48-8bd0-a5884ac8f78d",
+    "date_posted": 1793296082,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297329,
+    "url": "https://go.vansh.nyc/hd",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Ivalua",
+    "title": "Marketing Web Developer Intern",
+    "source": "vanshb03",
+    "id": "b142ac8f-82c9-4e59-9524-a4bb98bef181",
+    "date_posted": 1792706704,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297249,
+    "url": "https://go.vansh.nyc/Zh",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Solarity",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "53eec40f-8769-4c25-ae2a-ea60c183acd1",
+    "date_posted": 1793157421,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297249,
+    "url": "https://go.vansh.nyc/Zi",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Current Lighting Employee Co",
+    "title": "AI Co-op",
+    "source": "vanshb03",
+    "id": "ed456dfb-a62f-48de-9b8b-5b0b55952a48",
+    "date_posted": 1793171494,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297249,
+    "url": "https://go.vansh.nyc/Zj",
+    "locations": [
+      "Tarrytown, NY",
+      "Sleepy Hollow, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Regeneron Pharmaceuticals",
+    "title": "Genomics, Computational Biology & Translational Data Science Intern",
+    "source": "vanshb03",
+    "id": "7478a923-e07f-4e5c-a541-768a31df7bee",
+    "date_posted": 1793188526,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297249,
+    "url": "https://go.vansh.nyc/Zk",
+    "locations": [
+      "Tarrytown, NY",
+      "Sleepy Hollow, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Regeneron Pharmaceuticals",
+    "title": "IT, Digital Enablement & Information Security Intern",
+    "source": "vanshb03",
+    "id": "60b8d750-82e1-4cc8-b5c2-504745232fcf",
+    "date_posted": 1793188526,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297249,
+    "url": "https://go.vansh.nyc/Zl",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "KLA",
+    "title": "Software Intern",
+    "source": "vanshb03",
+    "id": "972a06df-1885-4871-a815-3a3d70d25b10",
+    "date_posted": 1793232000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297249,
+    "url": "https://go.vansh.nyc/Zm",
+    "locations": [
+      "East Hartford, CT"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "RTX",
+    "title": "Sustainment Data and Analytics Intern",
+    "source": "vanshb03",
+    "id": "904d55bc-686a-4dc4-b686-d499155e215d",
+    "date_posted": 1793290700,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297173,
+    "url": "https://go.vansh.nyc/Zc",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "GardaWorld",
+    "title": "Software Engineer Intern, C#",
+    "source": "vanshb03",
+    "id": "44ae88e5-8ae4-4524-b8ca-d1e944296d85",
+    "date_posted": 1793225173,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297173,
+    "url": "https://go.vansh.nyc/Zd",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "National Interstate Insurance",
+    "title": "Extreme Programming Engineer Intern",
+    "source": "vanshb03",
+    "id": "8b119943-e802-4caa-909c-635e15db593d",
+    "date_posted": 1793295793,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297173,
+    "url": "https://go.vansh.nyc/Ze",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "National Interstate Insurance",
+    "title": "Content Publishing Developer Intern",
+    "source": "vanshb03",
+    "id": "26cf2c9e-5e3f-4465-a7ff-c4576c827abf",
+    "date_posted": 1793295793,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297173,
+    "url": "https://go.vansh.nyc/Zf",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "National Interstate Insurance",
+    "title": "IT Data Intern",
+    "source": "vanshb03",
+    "id": "bbf55520-5eb1-400b-8829-a8e3da126098",
+    "date_posted": 1793295793,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793297173,
+    "url": "https://go.vansh.nyc/Zg",
+    "locations": [
+      "Research Triangle Park, NC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Cisco",
+    "title": "Security Consulting Engineer I Intern",
+    "source": "vanshb03",
+    "id": "dc894930-d001-48de-bf53-f3ddbbe8b30f",
+    "date_posted": 1793295733,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793291859,
+    "url": "https://go.vansh.nyc/Z7",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Gilead Sciences",
+    "title": "Research Intern, Oncology Biomarker - AI",
+    "source": "vanshb03",
+    "id": "c5877d41-6fad-49e8-aabf-fc86e5dceb42",
+    "date_posted": 1793289519,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1793288179,
     "url": "https://go.vansh.nyc/Z5",
     "locations": [
@@ -16,7 +375,8 @@
     "is_visible": true,
     "season": "Summer",
     "_sources": [
-      "vanshb03-2026"
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -36,7 +396,8 @@
     "is_visible": true,
     "season": "Summer",
     "_sources": [
-      "vanshb03-2026"
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -108,7 +469,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "2f680030-93c9-49f5-8bfa-c6c8bdcbda18",
     "title": "Model Risk Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -158,7 +519,7 @@
     "company_name": "Connor, Clark & Lunn Financial Group",
     "id": "d565580f-a10f-4485-b524-d64f2ec12ec1",
     "title": "Investment Analytics Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -185,7 +546,7 @@
     "company_name": "Connor, Clark & Lunn Financial Group",
     "id": "e24fe6c9-b4f4-4644-9ee0-0f9956a757c7",
     "title": "Investment Analytics Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -3838,7 +4199,7 @@
     "company_name": "AMD",
     "id": "015289cb-f341-4c56-b934-ad5a39ac1cb8",
     "title": "Masters AI Training Software & Performance Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -8653,7 +9014,7 @@
     "company_name": "Perspective Therapeutics",
     "id": "a5292077-b7c5-403d-ab85-8809ba8c335c",
     "title": "AI Innovation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -21303,27 +21664,6 @@
     ]
   },
   {
-    "date_updated": 1793025667,
-    "url": "https://go.vansh.nyc/OI",
-    "locations": [
-      "Irving, TX"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "CVS Health",
-    "title": "Innovation & Technology Intern, Data Engineering",
-    "source": "vanshb03",
-    "id": "9aa2859a-0e72-4c28-a8c4-1b98e68409f5",
-    "date_posted": 1792972800,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "Quant",
     "company_name": "Aegon Asset Management",
@@ -23474,27 +23814,6 @@
     "source": "vanshb03",
     "id": "51808278-36cb-41cf-9715-c214ed9bf0de",
     "date_posted": 1790382982,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Spring",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793022083,
-    "url": "https://go.vansh.nyc/K3",
-    "locations": [
-      "Perrysburg, OH"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "First Solar (US)",
-    "title": "Data Engineering Intern",
-    "source": "vanshb03",
-    "id": "61248cb7-07af-4d96-8183-bff76be7a9de",
-    "date_posted": 1790383244,
     "company_url": "",
     "is_visible": true,
     "season": "Spring",
@@ -31746,27 +32065,6 @@
   },
   {
     "date_updated": 1792812208,
-    "url": "https://go.vansh.nyc/hd",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Ivalua",
-    "title": "Marketing Web Developer Intern",
-    "source": "vanshb03",
-    "id": "b142ac8f-82c9-4e59-9524-a4bb98bef181",
-    "date_posted": 1792706704,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1792812208,
     "url": "https://go.vansh.nyc/he",
     "locations": [
       "Markham, Canada"
@@ -35093,7 +35391,7 @@
     "company_name": "RTX",
     "id": "7ffed1dc-9635-4e2b-87f6-9098f3eab4ac",
     "title": "Electro-Optics Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -37653,7 +37951,7 @@
     "company_name": "Saab",
     "id": "ec76d1a1-fe14-4972-a6f6-cea39dd82ec5",
     "title": "Systems Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -40634,27 +40932,6 @@
     "title": "Enablement Data & Insights Intern",
     "source": "vanshb03",
     "id": "c62c03fc-bd0a-4634-83b8-e0890cbed634",
-    "date_posted": 1792627200,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1792717375,
-    "url": "https://go.vansh.nyc/fk",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "CVS Health",
-    "title": "Data Engineering Intern, Innovation & Technology",
-    "source": "vanshb03",
-    "id": "eb5661c7-23e8-4020-9f87-b9c63d375ff7",
     "date_posted": 1792627200,
     "company_url": "",
     "is_visible": true,
@@ -61304,7 +61581,7 @@
     "company_name": "University System of New Hampshire",
     "id": "e9bf0b4a-32ef-4fe1-8a7a-b94526d23c09",
     "title": "Adjunct Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -78019,7 +78296,7 @@
     "company_name": "ICF International",
     "id": "3d769859-1b78-490a-81be-a7cf9bc054bf",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -90829,7 +91106,7 @@
     "company_name": "Northrop Grumman",
     "id": "0f834c38-04b7-4ecf-a581-4c2dfb2df248",
     "title": "Principal Configuration Analyst Intern - Data Analysis",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -92929,7 +93206,7 @@
     "company_name": "SpartanNash",
     "id": "a3297773-4d22-478c-97d6-f6f974481782",
     "title": "IS Intern - IT Ecommerce & Marketing Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -96490,7 +96767,7 @@
     "company_name": "CACI",
     "id": "5db8bd0a-d6b5-46ef-b430-298959f57fe5",
     "title": "Software Development/Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -104858,7 +105135,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "7d75bd70-f568-420d-985e-c8ccd2632c8f",
     "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -107178,7 +107455,7 @@
     "company_name": "Voloridge",
     "id": "e08774ee-1d46-4790-8628-62d9b4b136ac",
     "title": "Quantitative Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -107771,7 +108048,7 @@
     "company_name": "Lazard",
     "id": "63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6",
     "title": "AI and Data Transformation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -116413,7 +116690,7 @@
     "company_name": "Geneva Trading",
     "id": "1aced91a-6fa5-4f69-8d6c-d3036f8c30df",
     "title": "C++ Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -122229,7 +122506,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -126226,7 +126505,7 @@
     "company_name": "Axcelis Technologies",
     "id": "0f046a92-f831-47c1-8f88-5cc31f1722a8",
     "title": "Manufacturing Software Development Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -133131,7 +133410,7 @@
     "company_name": "Altera",
     "id": "e76d4605-d469-425d-a79a-1fa00dca13b2",
     "title": "Quartus Compiler Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -151225,7 +151504,7 @@
     "company_name": "TD Bank",
     "id": "5c97952b-4d8f-49c5-8265-8e697873743a",
     "title": "Data Engineer Intern/Co-op - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -167044,7 +167323,7 @@
     "company_name": "Nationwide",
     "id": "6cc400a9-db6f-4550-9989-36f65cbe70b1",
     "title": "Feature Engineer Intern - Enterprise Analytics Office",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -254452,7 +254731,7 @@
     "company_name": "Citadel Securities",
     "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
     "title": "FPGA Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -438678,60 +438957,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "General Motors",
-    "id": "238b0b22-f374-487e-aef8-a64b022ae52f",
-    "title": "Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772553098,
-    "date_posted": 1772553098,
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Research-and-Development--Connected-Vehicle-System_JR-202604606",
-    "locations": [
-      "Warren, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Vulcan Elements",
-    "id": "3e2f29a3-2668-4207-aa6b-ecd014ddb933",
-    "title": "Materials Analysis Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772552766,
-    "date_posted": 1772552766,
-    "url": "https://job-boards.greenhouse.io/vulcanelements/jobs/5135780008",
-    "locations": [
-      "Research Triangle, Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Vulcan-Elements",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"

@@ -19,8 +19,8 @@ Ranked by freshness + company tier + role category.
 | 9 | **Uber** | Software Engineer Intern | Toronto, ON, Canada | N/A | 2026-10-27 (2d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | 10 | **Salesforce** | Forward Deployed Engineer Intern, Global Public Sector | United States |  | 2026-10-27 (2d ago) | [Apply](https://go.vansh.nyc/WD) |
 | 11 | **Waymo** | Sensor Performance Engineer Intern | Mountain View, CA | Summer 2027 | 2026-10-27 (2d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
-| 12 | **Qualcomm** | Deep Learning Research Intern | Markham, Canada |  | 2026-10-29 (0d ago) | [Apply](https://go.vansh.nyc/YP) |
-| 13 | **AMD** | Masters AI Training Software & Performance Co-op | San Jose, CA | Spring 2027, Summer 2027 | 2026-10-28 (1d ago) | [Apply](https://careers.amd.com/jobs/93476?icims=1) |
+| 12 | **Cisco** | Security Consulting Engineer I Intern | Research Triangle Park, NC |  | 2026-10-29 (0d ago) | [Apply](https://go.vansh.nyc/Zg) |
+| 13 | **Qualcomm** | Deep Learning Research Intern | Markham, Canada |  | 2026-10-29 (0d ago) | [Apply](https://go.vansh.nyc/YP) |
 | 14 | **LinkedIn** | Software Engineer Intern, First Play | Mountain View, CA |  | 2026-10-28 (1d ago) | [Apply](https://go.vansh.nyc/Y5) |
 | 15 | **Workday** | Analytics Engineer Intern | Pleasanton, CA | Summer 2027 | 2026-10-28 (1d ago) | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200) |
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineer Intern | SF | N/A | 2026-10-02 (27d ago) | [Apply](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) |
 
 ---
-*Generated 2026-10-29 15:39 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-29 18:44 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
