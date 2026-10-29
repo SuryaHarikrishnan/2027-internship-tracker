@@ -1,10 +1,14 @@
-# Quantitative Finance (195)
+# Quantitative Finance (202)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [SCM](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Quantitative Research Analyst Intern | Radnor, PA | Summer 2026 | 2026-10-29 | 0 | simplify-2026 |
+| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3) | Model Risk Intern | Toronto, ON, Canada | Winter 2027 | 2026-10-29 | 0 | simplify-2026 |
+| [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) | Analyst Co-op | Montreal, QC, Canada | Winter 2027 | 2026-10-29 | 0 | simplify-2026 |
+| [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | Summer 2027 | 2026-10-29 | 0 | simplify-2026 |
+| [Keyrock](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | DeFi Quant Trader Intern - Credit | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-29 | 0 | simplify-2026 |
 | [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/NatWest-Markets---Quantitative-Analytics--Internship_R-00285741) | Quantitative Analytics Intern | London, UK | N/A | 2026-10-28 | 1 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313/application?embed=true) | DeFi Quant Research Intern - Digital Assets Market Making | London, UK, Brussels, Belgium | Spring 2027 | 2026-10-28 | 1 | simplify-2026 |
 | [Cenovus Energy](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) | Student Risk Analytics Intern | Calgary, AB, Canada | Summer 2027 | 2026-10-28 | 1 | simplify-2026 |
@@ -91,6 +95,8 @@
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32396) | Credit Risk Analyst Intern | Vienna, VA | Summer 2027 | 2026-09-09 | 50 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) | Systematic Trading Intern | NYC | Summer 2027 | 2026-09-09 | 50 | simplify-2026 |
 | [Talos](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true) | Quantitative Analyst Intern | NYC | Summer 2027 | 2026-09-08 | 51 | simplify-2026 |
+| [Qube Research & Technologies](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002) | Quantitative Research and Trading Intern | Aarhus, Denmark, London, UK, Paris, France, Geneva, Switzerland, Dubai - United Arab Emirates, Budapest, Hungary, Zürich, Switzerland | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-09-08 | 51 | simplify-2026 |
+| [Qube Research & Technologies](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002) | Software Engineering Intern - Quantitative Development | Aarhus, Denmark, London, UK, Wrocław, Poland, Paris, France, Amsterdam, Netherlands, Dubai - United Arab Emirates, Zürich, Switzerland | Summer 2027 | 2026-09-08 | 51 | simplify-2026 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Summer Associate Intern - Corporate Finance - Quantitative Finance and Economics | SF, LA, San Jose, CA, McLean, VA, Chicago, IL, NYC, Atlanta, GA | Summer 2027 | 2026-09-07 | 52 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584) | Trading Intern | London, UK | Summer 2027 | 2026-09-07 | 52 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583) | Trading Intern - Trading | NYC | Summer 2027 | 2026-09-07 | 52 | simplify-2026 |
@@ -156,6 +162,7 @@
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | Quantitative Trader Intern - Quantitative Trader | NYC | Summer 2027 | 2026-07-14 | 107 | simplify-2026 |
 | [Voloridge](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Quantitative Developer Intern | Jupiter, FL | Fall 2026 | 2026-07-14 | 107 | simplify-2026 |
 | [Voloridge](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Quantitative Research Intern | Jupiter, FL | Summer 2027 | 2026-07-14 | 107 | simplify-2026 |
+| [Center for Strategic and International Studies](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009) | Research Intern - Economics Program | Washington, DC | Fall 2026 | 2026-07-14 | 107 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7818540) | Quantitative Research Intern | Chicago, IL, NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-07-13 | 108 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7668776) | Quantitative Trading Analyst Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 108 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-13 | 108 | simplify-2026 |

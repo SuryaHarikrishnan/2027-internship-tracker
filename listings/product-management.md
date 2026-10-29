@@ -1,9 +1,11 @@
-# Product Management (243)
+# Product Management (246)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Datasite](https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Product-Intern_R36469) | Product Management Intern | London, UK | N/A | 2026-10-29 | 0 | simplify-2026 |
+| [Sonos](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1) | Software Product Manager Intern | Seattle, WA | Summer 2027 | 2026-10-29 | 0 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) | Product Strategy & Development Co-op | Needham, MA | Spring 2027 | 2026-10-28 | 1 | simplify-2026 |
 | [Tapestry](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) | E-Commerce Intern - E-Commerce | NYC | Summer 2027 | 2026-10-28 | 1 | simplify-2026 |
 | [T-Mobile](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) | Associate Technical Product Manager Intern | Frisco, TX | Summer 2027 | 2026-10-28 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -33,6 +35,7 @@
 | [OpenArt AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | Early Adopter & Product Builder Intern - Creative AI | San Carlos, CA | N/A | 2026-10-22 | 7 | simplify-2026 |
 | [CVS Health](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) | Innovation & Technology Internship - Product & Agile Delivery | Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI | Summer 2027 | 2026-10-22 | 7 | simplify-2026 |
 | [Walmart](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) | Automation Product Manager Intern - Product Manager | Lancaster, TX | Summer 2027 | 2026-10-22 | 7 | simplify-2026 |
+| [OneEthos](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | Product Management Intern | Remote in USA | Fall 2026, Spring 2027, Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
 | [GoFundMe](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | MBA Product Management Intern | SF | Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
 | [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Product Management Advertising Intern | Illinois | Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
