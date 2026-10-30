@@ -8,12 +8,12 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Waymo** | MS/PhD Intern - Weather Perception | SF | Summer 2027 | 2026-10-30 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
-| 2 | **NVIDIA** | AI Systems Software Engineering Intern | Austin, TX |  | 2026-10-30 (0d ago) | [Apply](https://go.vansh.nyc/10o) |
-| 3 | **Apple** | Swift Runtime Engineer Intern - Swift Runtimes | London, UK | N/A | 2026-10-30 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200692438) |
-| 4 | **Cloudflare** | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 (1d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914) |
-| 5 | **Microsoft** | Applied Science PhD Intern | Redmond, WA | N/A | 2026-10-29 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050154) |
-| 6 | **Meta** | Research Scientist Intern - Scam and Trust | Menlo Park, CA | N/A | 2026-10-29 (1d ago) | [Apply](https://www.metacareers.com/jobs/2355649268510104) |
+| 1 | **Meta** | Research Scientist Intern - Photorealistic Telepresence | Redmond, WA, Pittsburgh, PA | N/A | 2026-10-30 (0d ago) | [Apply](https://www.metacareers.com/jobs/1358944629494375) |
+| 2 | **Waymo** | MS/PhD Intern - Weather Perception | SF | Summer 2027 | 2026-10-30 (0d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
+| 3 | **NVIDIA** | AI Systems Software Engineering Intern | Austin, TX |  | 2026-10-30 (0d ago) | [Apply](https://go.vansh.nyc/10o) |
+| 4 | **Apple** | Swift Runtime Engineer Intern - Swift Runtimes | London, UK | N/A | 2026-10-30 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200692438) |
+| 5 | **Cloudflare** | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 (1d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914) |
+| 6 | **Microsoft** | Applied Science PhD Intern | Redmond, WA | N/A | 2026-10-29 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050154) |
 | 7 | **Adobe** | Technical Support Consultant Intern | San Jose, CA | N/A | 2026-10-29 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785) |
 | 8 | **Tesla** | Data Engineer Intern - Energy | Palo Alto, CA | Spring 2027, Summer 2027 | 2026-10-29 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/287982) |
 | 9 | **Anduril** | Library Science Co-op | Santa Ana, CA | Winter 2027 | 2026-10-28 (2d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineer Intern | SF | N/A | 2026-10-02 (28d ago) | [Apply](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) |
 
 ---
-*Generated 2026-10-30 11:42 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-30 15:22 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
