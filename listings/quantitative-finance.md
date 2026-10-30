@@ -1,4 +1,4 @@
-# Quantitative Finance (201)
+# Quantitative Finance (197)
 
 [← back to index](../README.md)
 
@@ -49,8 +49,6 @@
 | [Cboe](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708) | Quant & Data Analytics Intern | Chicago, IL | Winter 2026 | 2026-10-02 | 28 | simplify-2026 |
 | [American Bankers Association](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614) | Quantitative Research Intern | Washington, DC | Summer 2027 | 2026-10-02 | 28 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Principal Financial Group](https://careers.principal.com/jobs/52721?icims=1) | Quantitative Analyst Intern - Quantitative Research | Des Moines, IA, NYC | Summer 2027 | 2026-10-01 | 29 | simplify-2026 |
-| [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economics--Chief-Investment-Office--CIO---Non-Campus-_R237631) | Economics Intern - Multiple Teams | NYC | Winter 2026 | 2026-10-01 | 29 | simplify-2026 |
-| [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Modeling--Chief-Investment-Office--CIO---Non-Campus-_R237632-1) | Modeling Graduate Intern - Modeling - Chief Investment Office | NYC | Winter 2026 | 2026-10-01 | 29 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) | ALM Data Management & Analytics Co-op | Toronto, ON, Canada | Winter 2027 | 2026-10-01 | 29 | simplify-2026 |
 | [Capstone Investment Advisors](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002) | Quant Intern | London, UK | Summer 2027 | 2026-09-30 | 30 | simplify-2026 |
 | [SouthState Bank](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Quantitative Intern | Texas, Florida, South Carolina, Georgia, Virginia, Colorado, North Carolina, Alabama | Summer 2027 | 2026-09-29 | 31 | simplify-2026 |
@@ -133,7 +131,6 @@
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT | Summer 2027 | 2026-08-11 | 80 | simplify-2026 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | Summer 2027 | 2026-08-11 | 80 | simplify-2026 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-11 | 80 | simplify-2026 |
-| [Quantbot Technologies](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | Data Trading Analyst Intern | NYC | Summer 2027 | 2026-08-11 | 80 | simplify-2026 |
 | [ConocoPhillips](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | Trading Analytics Intern | Houston, TX | Summer 2027 | 2026-08-11 | 80 | simplify-2026 |
 | [Capula](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Trading and Research Intern | London, UK | Summer 2027 | 2026-08-08 | 83 | simplify-2026 |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | Quantitative Trading Intern - Summer 2027 | Chicago, IL | Summer 2027 | 2026-08-07 | 84 | simplify-2026 |
@@ -195,7 +192,6 @@
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Quantitative Research Engineer Intern | Miami, FL, NYC | Summer 2026 | 2026-07-01 | 121 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/) | Quantitative Researcher PhD Intern | Miami, FL, NYC | Summer 2026 | 2026-07-01 | 121 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | Quantitative Research Intern - Quant Research - Undergrad | NYC | Summer 2027 | 2026-06-26 | 126 | simplify-2026 |
-| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | PhD Quantitative Researcher Intern | Boston, MA | Summer 2027 | 2026-06-10 | 142 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Equity Volatility Quant Researcher Intern | Miami, FL | Summer 2027 | 2026-06-10 | 142 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Quantitative Trader Intern | Chicago, IL | Winter 2026, Spring 2027, Summer 2027 | 2026-06-02 | 150 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Base Power](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | Quantitative Developer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 156 | simplify-2026 |
