@@ -1,4 +1,4 @@
-# Hardware Engineering (925)
+# Hardware Engineering (922)
 
 [← back to index](../README.md)
 
@@ -14,7 +14,6 @@
 | [Lunar Energy](https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004) | Hardware Test Engineer Intern | Mountain View, CA | Spring 2027 | 2026-10-29 | 1 | simplify-2026 |
 | [Hasbro](https://job-boards.greenhouse.io/hasbro/jobs/4472128009) | Electrical Engineering Co-op | Boston, MA | Spring 2027 | 2026-10-29 | 1 | simplify-2026 |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813862687) | R&D Software Design Intern | Arden Hills, MN | Summer 2027 | 2026-10-29 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Blackberry](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Application-Engineering-Student_20260335) | Application Engineering Student Intern | Ottawa, ON, Canada | N/A | 2026-10-29 | 1 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | VLSI CAD Timing Intern - Applied AI | Santa Clara, CA, United States | Summer 2027 | 2026-10-29 | 1 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical-Engineering-Hardware-Intern--Summer-2027--Onsite-_01886126) | Electrical Engineering Intern | Fort Wayne, IN | Summer 2027 | 2026-10-29 | 1 | simplify-2026 |
 | [Carrier Global](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677) | Lab Assistant Engineer Co-op | Fort Wayne, IN | N/A | 2026-10-29 | 1 | simplify-2026 |
@@ -780,8 +779,6 @@
 | [Aerotech](https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027) | Electrical/Computer Engineering Intern Co-op | Pittsburgh, PA | Summer 2027 | 2026-08-31 | 60 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/19858?icims=1) | Software Engineer Intern | Chandler, AZ | Summer 2027 | 2026-08-31 | 60 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [SK hynix](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009) | SSD Firmware Development Engineer Intern | San Jose, CA | Fall 2026 | 2026-08-31 | 60 | simplify-2026 |
-| [Qorvo](https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors) | IC Layout Engineer Intern | Richardson, TX | Fall 2026 | 2026-08-31 | 60 | simplify-2026 |
-| [Qorvo](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | SOI Design Engineer Intern - High Performance Analog - Advanced Cellular | Greensboro, NC | Fall 2026 | 2026-08-31 | 60 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Test-Engineering-Intern-OR-97124/1421978100/?ats=successfactors) | Test Engineer Intern | Hillsboro, OR | Fall 2026 | 2026-08-31 | 60 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | SOI Design Engineer Intern | Greensboro, NC | Fall 2026 | 2026-08-31 | 60 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors) | Product Engineering Intern | Hillsboro, OR | Fall 2026 | 2026-08-31 | 60 | simplify-2026 |
