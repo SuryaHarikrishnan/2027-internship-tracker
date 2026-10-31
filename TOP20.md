@@ -8,13 +8,13 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Microsoft** | Research Intern - Office of Applied Research | Redmond, WA, NYC | N/A | 2026-10-30 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557051409) |
-| 2 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
-| 3 | **Amazon** | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10593872/software-development-engineer) |
-| 4 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 (1d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
-| 5 | **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | Burlingame, CA | N/A | 2026-10-30 (1d ago) | [Apply](https://www.metacareers.com/jobs/957720287051540) |
-| 6 | **Salesforce** | AI Labs Intern, Emerging Talent | San Francisco, CA, Seattle, WA |  | 2026-10-30 (1d ago) | [Apply](https://go.vansh.nyc/10J) |
-| 7 | **NVIDIA** | AI Systems Software Engineering Intern | Austin, TX |  | 2026-10-30 (1d ago) | [Apply](https://go.vansh.nyc/10o) |
+| 1 | **NVIDIA** | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA |  | 2026-10-31 (0d ago) | [Apply](https://go.vansh.nyc/12a) |
+| 2 | **Meta** | Research Scientist Intern - Video Recsys | Menlo Park, CA | N/A | 2026-10-31 (0d ago) | [Apply](https://www.metacareers.com/jobs/1553890293163197) |
+| 3 | **Microsoft** | Research Intern - Office of Applied Research | Redmond, WA, NYC | N/A | 2026-10-30 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557051409) |
+| 4 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
+| 5 | **Amazon** | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10593872/software-development-engineer) |
+| 6 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 (1d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
+| 7 | **Salesforce** | AI Labs Intern, Emerging Talent | San Francisco, CA, Seattle, WA |  | 2026-10-30 (1d ago) | [Apply](https://go.vansh.nyc/10J) |
 | 8 | **Apple** | Swift Runtime Engineer Intern - Swift Runtimes | London, UK | N/A | 2026-10-30 (1d ago) | [Apply](https://jobs.apple.com/en-us/details/200692438) |
 | 9 | **Cloudflare** | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 (2d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914) |
 | 10 | **Adobe** | Technical Support Consultant Intern | San Jose, CA | N/A | 2026-10-29 (2d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785) |
@@ -22,7 +22,7 @@ Ranked by freshness + company tier + role category.
 | 12 | **Anduril** | Library Science Co-op | Santa Ana, CA | Winter 2027 | 2026-10-28 (3d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007) |
 | 13 | **Anthropic** | Research Resident | SF, NYC | N/A | 2026-10-28 (3d ago) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) |
 | 14 | **Boston Dynamics** | VLA Research Intern | Waltham, MA | N/A | 2026-10-28 (3d ago) | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Atlas-VLA-Research-Intern_R3317) |
-| 15 | **Qualcomm** | Camera Systems Intern | Vancouver, Canada |  | 2026-10-30 (1d ago) | [Apply](https://go.vansh.nyc/11v) |
+| 15 | **Northrop Grumman** | Data Scientist Intern, Product Support | San Diego, CA |  | 2026-10-31 (0d ago) | [Apply](https://go.vansh.nyc/125) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineer Intern | SF | N/A | 2026-10-02 (29d ago) | [Apply](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) |
 
 ---
-*Generated 2026-10-31 00:37 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-31 11:16 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
