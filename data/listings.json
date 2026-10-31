@@ -2,6 +2,80 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Northrop Grumman",
+    "id": "e8f323c9-7a0d-4a50-9915-19d7661ecb06",
+    "title": "Data Scientist Intern - Product Support",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1793452542,
+    "date_posted": 1793318400,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dow Jones",
+    "id": "34df1999-e2c7-47d7-9f70-25ad8625af57",
+    "title": "Subscription Experimentation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1793449634,
+    "date_posted": 1791331200,
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Subscription-Experimentation-Intern_Job_Req_55879",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Dow-Jones",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1793448391,
+    "url": "https://go.vansh.nyc/12j",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "NVIDIA",
+    "title": "Deep Learning Intern",
+    "source": "vanshb03",
+    "id": "97cb1d5a-0449-4275-8a17-8e06e9051c75",
+    "date_posted": 1793448359,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Netsmart",
     "id": "534fe275-9db8-4d1e-b359-1b5b27b504c0",
     "title": "Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management",
@@ -8578,7 +8652,7 @@
     "company_name": "Northrop Grumman",
     "id": "b9797b22-811f-4d42-b0c1-22917f860e5a",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -22984,7 +23058,7 @@
     "company_name": "RTX",
     "id": "aabec184-6bb9-483c-a9cb-d16e4cea6a01",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -47082,7 +47156,7 @@
     "company_name": "Thermo Fisher Scientific",
     "id": "39de67a4-4503-49ca-a0b2-48af9ed1794e",
     "title": "Senior Research & Development/Digital Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -57935,7 +58009,7 @@
     "company_name": "Genentech",
     "id": "e594a935-587e-4202-ab30-9e3057cbd9c8",
     "title": "Product Technical Development Intern - Digital Sciences Focus",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -59179,7 +59253,7 @@
     "company_name": "RTX",
     "id": "f373a612-0ef4-40c7-8033-08f1354ac0ab",
     "title": "Electrical Components Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -77049,7 +77123,7 @@
     "company_name": "Rolls-Royce",
     "id": "bb94a732-f483-4037-8b53-5bc77b5cb33f",
     "title": "Integrated Control Systems Engineer Intern - Software",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -99091,7 +99165,7 @@
     "company_name": "RTX",
     "id": "c87681f7-f024-4e16-8747-fb923be74d50",
     "title": "Digital Electrical Design Engineer 1 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -114573,7 +114647,7 @@
     "company_name": "Gilead Sciences",
     "id": "fdf1e11e-14be-447e-a04a-23879851041d",
     "title": "Research Intern - Drug Metabolism - AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -149769,7 +149843,7 @@
     "company_name": "Johnson & Johnson",
     "id": "7a2e4e2c-b2bc-4342-8cb2-9340dfc4d25b",
     "title": "Technology and Digital Quality Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -168329,7 +168403,7 @@
     "company_name": "RTX",
     "id": "c782a0fa-e20c-43ce-a32c-51fd89919b77",
     "title": "Digital Design Electrical Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -183287,7 +183361,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -183571,7 +183645,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -183701,7 +183775,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -193229,7 +193303,7 @@
     "company_name": "RTX",
     "id": "eaf4c7cf-4e64-4286-8d4e-01db86f66220",
     "title": "Electrical Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -194889,7 +194963,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -217942,7 +218018,7 @@
     "company_name": "GE Vernova",
     "id": "bdf64a90-7dac-4a0b-acaf-b7fd5756ef83",
     "title": "Controls Product Management Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -230410,7 +230486,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -230640,7 +230718,7 @@
     "company_name": "NVIDIA",
     "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
     "title": "Hardware Design for Test Intern - DFT",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -353514,7 +353592,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -441413,83 +441493,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "KLA Corporation",
-    "id": "b8617db1-069d-4fcc-ac3f-747903acf99d",
-    "title": "AI/ML Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772709699,
-    "date_posted": 1772709699,
-    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/AI-ML-Intern_2634349-2",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/KLA-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TD Synnex",
-    "id": "fcb9ff5f-3353-408b-a9af-d1082313a74c",
-    "title": "AI Automation Analyst",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772709660,
-    "date_posted": 1772709660,
-    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Basingstoke-United-Kingdom/AI-Automation-Analysis---Placement_R44802",
-    "locations": [
-      "Basingstoke, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/TD-Synnex",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "CWS",
-    "id": "52ec14b1-35e6-43a9-9413-256a4e2b04fd",
-    "title": "Working Student Business Intelligence",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772709345,
-    "date_posted": 1772709345,
-    "url": "https://cws.wd3.myworkdayjobs.com/cws_jobs/job/Duisburg-Franz-Haniel-Platz/Werkstudent-Business-Intelligence_JR1013190",
-    "locations": [
-      "Neukirchen-Vluyn, Germany"
-    ],
-    "company_url": "https://simplify.jobs/c/CWS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

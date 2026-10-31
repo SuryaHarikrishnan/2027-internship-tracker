@@ -1,9 +1,10 @@
-# Other (1160)
+# Other (1161)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [NVIDIA](https://go.vansh.nyc/12j) | Deep Learning Intern | Santa Clara, CA |  | 2026-10-31 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/12a) | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA |  | 2026-10-31 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Northrop Grumman](https://go.vansh.nyc/125) | Data Scientist Intern, Product Support | San Diego, CA |  | 2026-10-31 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/11z) | Camera HW ASIC Verification Intern | Vancouver, Canada |  | 2026-10-30 | 1 | vanshb03-2026, vanshb03-2027 |

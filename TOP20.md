@@ -8,7 +8,7 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **NVIDIA** | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA |  | 2026-10-31 (0d ago) | [Apply](https://go.vansh.nyc/12a) |
+| 1 | **NVIDIA** | Deep Learning Intern | Santa Clara, CA |  | 2026-10-31 (0d ago) | [Apply](https://go.vansh.nyc/12j) |
 | 2 | **Meta** | Research Scientist Intern - Video Recsys | Menlo Park, CA | N/A | 2026-10-31 (0d ago) | [Apply](https://www.metacareers.com/jobs/1553890293163197) |
 | 3 | **Microsoft** | Research Intern - Office of Applied Research | Redmond, WA, NYC | N/A | 2026-10-30 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557051409) |
 | 4 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineer Intern | SF | N/A | 2026-10-02 (29d ago) | [Apply](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) |
 
 ---
-*Generated 2026-10-31 11:16 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-31 14:51 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

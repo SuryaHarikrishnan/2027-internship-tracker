@@ -1,4 +1,4 @@
-# Software Engineering (1409)
+# Software Engineering (1407)
 
 [← back to index](../README.md)
 
@@ -242,7 +242,6 @@
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088) | Embedded Software Engineer Intern | Roseville, CA | N/A | 2026-10-20 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Heidelberg Materials](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Growth-Intern_JR10018997-1) | Digital Growth Intern | Irving, TX | N/A | 2026-10-20 | 11 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineering-Intern_8828) | Software Engineer Intern | San Diego, CA | Summer 2026 | 2026-10-20 | 11 | simplify-2026 |
-| [Genentech](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833) | Product Technical Development Intern - Digital Sciences Focus | South SF | Summer 2027 | 2026-10-20 | 11 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) | AI Engineer Intern | Boise, ID | N/A | 2026-10-20 | 11 | simplify-2026 |
 | [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627) | Mechanical Engineer Intern | Holtsville, NY | Summer 2027 | 2026-10-20 | 11 | simplify-2026 |
 | [Ryan](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1) | Application Engineering Intern | Plano, TX | Summer 2027 | 2026-10-20 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -355,7 +354,6 @@
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) | Software Engineer Intern | Spokane Valley, WA | N/A | 2026-10-13 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416) | HPC AI Networking Intern - Network Transport | Chippewa Falls, WI, Fort Collins, CO | N/A | 2026-10-13 | 18 | simplify-2026 |
 | [Ann & Robert H. Lurie Children’s Hospital of Chicago](https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Research-Student-Assistant-Behavioral-Health_JR2026-2801) | Research Student Assistant-Behavioral Health Intern | Chicago, IL | N/A | 2026-10-13 | 18 | simplify-2026 |
-| [Rolls-Royce](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452) | Integrated Control Systems Engineer Intern - Software | Indianapolis, IN | N/A | 2026-10-13 | 18 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429) | Sparse Linear Algebra Libraries Intern | Santa Clara, CA | Summer 2027 | 2026-10-13 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238) | Data and AI Engineer Intern | Austin, TX | Summer 2027 | 2026-10-12 | 19 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) | Forward Deployed Engineer Intern | NYC, Sunnyvale, CA | Summer 2027 | 2026-10-12 | 19 | simplify-2026 |
