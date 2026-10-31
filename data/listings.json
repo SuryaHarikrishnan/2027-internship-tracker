@@ -1,5 +1,257 @@
 [
   {
+    "date_updated": 1793477197,
+    "url": "https://go.vansh.nyc/12r",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Virginia Tech Applied Research Corporation",
+    "title": "Research Intern, Applied AI & Software Development",
+    "source": "vanshb03",
+    "id": "49f34eb5-d141-4b0d-aaf3-f2c0c617e028",
+    "date_posted": 1793337748,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793477197,
+    "url": "https://go.vansh.nyc/12s",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Students Plus Startups",
+    "title": "Vroom Power Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "cdfaface-5d3f-43bb-bdba-7b7d973da95d",
+    "date_posted": 1793376324,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793477197,
+    "url": "https://go.vansh.nyc/12t",
+    "locations": [
+      "Des Plaines, IL"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "GTI Energy",
+    "title": "Data Science Intern",
+    "source": "vanshb03",
+    "id": "419891dc-fc5e-4473-a5dc-ab97ecb181bd",
+    "date_posted": 1793386799,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793477197,
+    "url": "https://go.vansh.nyc/12u",
+    "locations": [
+      "Houston, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Economy Polymers & Chemicals",
+    "title": "AI & Business Systems Automation Intern",
+    "source": "vanshb03",
+    "id": "4859369a-fdcc-4874-89ec-10425cfb2735",
+    "date_posted": 1793389475,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793477197,
+    "url": "https://go.vansh.nyc/12v",
+    "locations": [
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Hendler Family Brewing Co.",
+    "title": "Software Engineering and IT Co-op",
+    "source": "vanshb03",
+    "id": "39ea91a3-58c8-45ba-9095-0947dff1dc8c",
+    "date_posted": 1793396392,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793474153,
+    "url": "https://go.vansh.nyc/12k",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, CPU Debugger",
+    "source": "vanshb03",
+    "id": "d5ec9a96-e748-4a1f-aa36-361f9e0d6761",
+    "date_posted": 1793226293,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793474153,
+    "url": "https://go.vansh.nyc/12l",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, CPU Profiler",
+    "source": "vanshb03",
+    "id": "6ae8a293-8457-4df9-a1eb-2b5fb926de5e",
+    "date_posted": 1793226561,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793474153,
+    "url": "https://go.vansh.nyc/12m",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, DevOps",
+    "source": "vanshb03",
+    "id": "03cbf984-ebc6-4c0f-9488-696e2a3f6564",
+    "date_posted": 1793226660,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793474153,
+    "url": "https://go.vansh.nyc/12n",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Audio",
+    "source": "vanshb03",
+    "id": "f4b6f9d7-ced6-4d94-9be5-6a974966eb39",
+    "date_posted": 1793227060,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793474153,
+    "url": "https://go.vansh.nyc/12o",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Platform Security",
+    "source": "vanshb03",
+    "id": "efbc9130-73e4-4d04-b7f2-b2f52dec6953",
+    "date_posted": 1793227382,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793474153,
+    "url": "https://go.vansh.nyc/12p",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Connectivity",
+    "source": "vanshb03",
+    "id": "e6c54299-f853-48fe-809f-28dac76240d3",
+    "date_posted": 1793232000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793474153,
+    "url": "https://go.vansh.nyc/12q",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Performance Tools",
+    "source": "vanshb03",
+    "id": "5e4c6e14-95b0-445d-a5ac-4eeb780a5ded",
+    "date_posted": 1793318400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Northrop Grumman",

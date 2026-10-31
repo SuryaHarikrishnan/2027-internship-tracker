@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineer Intern | SF | N/A | 2026-10-02 (29d ago) | [Apply](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) |
 
 ---
-*Generated 2026-10-31 17:26 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-31 20:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
