@@ -1,4 +1,4 @@
-# Software Engineering (1407)
+# Software Engineering (1406)
 
 [← back to index](../README.md)
 
@@ -1410,4 +1410,3 @@
 | [Smiths Detection](https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677) | Software Engineering Intern (Cyber focus) | Edgewood, MD | Summer 2026 | 2026-03-12 | 233 | simplify-2026 |
 | [Mizuho Securities USA](https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688) | Commercial Lending Technology Intern | NYC | Summer 2026 | 2026-03-11 | 234 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply) | Forward Deployed Software Engineer Intern | NYC | Fall 2026 | 2026-03-10 | 235 | simplify-2026 |
-| [Mantari](https://job-boards.greenhouse.io/mantari/jobs/4173646009) | Software Engineering Intern | LA | Summer 2026 | 2026-03-05 | 240 | simplify-2026 |

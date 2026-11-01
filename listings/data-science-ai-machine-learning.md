@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1676)
+# Data Science, AI & Machine Learning (1681)
 
 [← back to index](../README.md)
 
@@ -254,6 +254,7 @@
 | [Simbe Robotics](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply) | Computer Vision / Applied AI Intern | Burlingame, CA | Summer 2027 | 2026-10-23 | 8 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Boson Ai](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | MScAC Intern | Toronto, ON, Canada | Summer 2027 | 2026-10-23 | 8 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1648122343381284) | Research Scientist Intern - AI Core Machine Learning | Seattle, WA, Bellevue, WA, Sunnyvale, CA | N/A | 2026-10-23 | 8 | simplify-2026 |
+| [Meta](https://www.metacareers.com/jobs/1416549056773684) | Research Scientist Intern - Meta Recommendation Systems - PhD | Menlo Park, CA | N/A | 2026-10-23 | 8 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1137225375529389) | Research Scientist Intern - Wearable Sensing & Human Motion Analysis | Redmond, WA | N/A | 2026-10-23 | 8 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1023154190171838) | Research Scientist Intern - Meta Recommendation Systems - Core ML | Seattle, WA, Menlo Park, CA, Bellevue, WA | N/A | 2026-10-23 | 8 | simplify-2026 |
 | [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14069?icims=1) | Audit Analytics Intern | Atlanta, GA | Summer 2027 | 2026-10-23 | 8 | simplify-2026 |
@@ -309,6 +310,7 @@
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8306867) | Research Intern - Multimodal Foundation Models | Mountain View, CA | Summer 2027 | 2026-10-22 | 9 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8306841) | 2027 Summer Intern - AI Foundations - Recipes | Mountain View, CA | Summer 2027 | 2026-10-22 | 9 | simplify-2026 |
 | [Atoms](https://job-boards.greenhouse.io/cssmerge/jobs/8909115002) | Machine Learning/Artificial Intelligence Research Intern | SF, Mountain View, CA | N/A | 2026-10-22 | 9 | simplify-2026 |
+| [Meta](https://www.metacareers.com/jobs/2356892281747003) | Research Scientist Intern - AI Alignment | Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC | N/A | 2026-10-22 | 9 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2615214025585454) | Research Scientist Intern - Multi-Agent Systems and Memory | Seattle, WA, NYC, Bellevue, WA | N/A | 2026-10-22 | 9 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1097992326377524) | Research Scientist Intern - World-Model Aware Perception & Communication | Redmond, WA | N/A | 2026-10-22 | 9 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1081255008061721) | Research Scientist Intern - Physical Engineering AI | Seattle, WA, NYC | N/A | 2026-10-22 | 9 | simplify-2026 |
@@ -370,6 +372,7 @@
 | [Meta](https://www.metacareers.com/jobs/994737396214791) | Research Intern - Self-Improving Agentic Systems and AI Research Agents | London, UK | N/A | 2026-10-20 | 11 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/4556622427930384) | Research Scientist Intern - Audio Quality with AI | Cambridge, UK | N/A | 2026-10-20 | 11 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1436615821934863) | Research Scientist Intern - Artificial Intelligence-Driven Neural Interfaces | Burlingame, CA, Menlo Park, CA, NYC | N/A | 2026-10-20 | 11 | simplify-2026 |
+| [Skydio](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) | Wireless Hardware Engineer Intern | San Mateo, CA | Summer 2027 | 2026-10-20 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Metamorphic](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?embed=true) | Engineering Intern | Palo Alto, CA | Summer 2027 | 2026-10-20 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000156648989) | Driving Foundations Research Intern | Sunnyvale, CA | N/A | 2026-10-20 | 11 | simplify-2026 |
 | [Graphcore](https://job-boards.greenhouse.io/graphcore/jobs/8894738002) | Research PhD Intern | London, UK, Bristol, UK, Cambridge, UK | N/A | 2026-10-20 | 11 | simplify-2026 |
@@ -550,6 +553,7 @@
 | [Meta](https://www.metacareers.com/jobs/2988199118196184) | Research Scientist Intern - VLM and Omni Model Post-Training | Sunnyvale, CA | N/A | 2026-10-13 | 18 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2067000203934229) | Research Scientist Intern - Egocentric Vision-Language Models | Redmond, WA, Sunnyvale, CA | N/A | 2026-10-13 | 18 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1062032900196411) | Research Scientist Intern - AI & System Co-Design | Menlo Park, CA | N/A | 2026-10-13 | 18 | simplify-2026 |
+| [Meta](https://www.metacareers.com/jobs/1139865145249047) | Research Scientist Intern - Multimodal Generative AI and Robotics | Redmond, WA, Sunnyvale, CA | N/A | 2026-10-13 | 18 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/3364701000388712) | Research Scientist Intern | Redmond, WA | N/A | 2026-10-13 | 18 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1866761794487684) | Research Scientist Intern - AI & Compute Foundation | Menlo Park, CA | N/A | 2026-10-13 | 18 | simplify-2026 |
 | [TRC Companies](https://careers.trccompanies.com/jobs/27074?icims=1) | Safety Intern | Exton, PA | Summer 2027 | 2026-10-13 | 18 | simplify-2026 |
@@ -1244,6 +1248,7 @@
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA, Rosemead, CA | Summer 2027 | 2026-09-01 | 60 | simplify-2026 |
 | [Edison International](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) | Summer Internship - Data Analytics/Science/Applied Math | Santa Ana, CA, Fullerton, CA, Irvine, CA, Westminster, CA | Summer 2027 | 2026-09-01 | 60 | simplify-2026 |
 | [Pluralis Research](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Research Scientist Intern | Remote in USA, Remote in Australia | Winter 2026 | 2026-09-01 | 60 | simplify-2026 |
+| [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-7591) | AI & Analytics Intern | Minneapolis, MN, Davidson, NC | Summer 2027 | 2026-09-01 | 60 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668) | Data Management Intern - Global Merchant & Network Services | Phoenix, AZ | Summer 2027 | 2026-09-01 | 60 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190) | Data Science Intern - Finance | NYC | Summer 2027 | 2026-09-01 | 60 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) | Data Analytics Intern - US Consumer Services | NYC | Summer 2027 | 2026-09-01 | 60 | simplify-2026 |

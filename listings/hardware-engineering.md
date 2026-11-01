@@ -1,4 +1,4 @@
-# Hardware Engineering (914)
+# Hardware Engineering (913)
 
 [← back to index](../README.md)
 
@@ -917,4 +917,3 @@
 | [Hewlett Packard (HP)](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | Browser Software Engineer Intern | Cambridge, UK | Summer 2026 | 2026-03-11 | 234 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Intern Technician - Electronics | Carlisle, PA | Summer 2026 | 2026-03-11 | 234 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Flight Software Engineering Intern | Atlanta, GA | Summer 2026, Fall 2026 | 2026-03-06 | 239 | simplify-2026 |
-| [Mantari](https://job-boards.greenhouse.io/mantari/jobs/4173653009) | Electrical Engineering Intern | Torrance, CA | Summer 2026 | 2026-03-05 | 240 | simplify-2026 |
