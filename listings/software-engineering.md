@@ -1,9 +1,10 @@
-# Software Engineering (1400)
+# Software Engineering (1401)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TRG](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) | Full Stack Application Developer Intern | Dallas, TX | N/A | 2026-11-01 | 0 | simplify-2026 |
 | [Elucid](https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027) | Software Engineer Intern | Boston, MA | Spring 2027 | 2026-10-30 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Amazon](https://amazon.jobs/en/jobs/10593872/software-development-engineer) | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 | 2 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA, Seattle, WA, Austin, TX, Irvine, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, Sunnyvale, CA, San Diego, CA | Summer 2027, Fall 2027 | 2026-10-30 | 2 | simplify-2026 |
@@ -611,7 +612,6 @@
 | [Illinois Tool Works](https://careers.itw.com/global/en/job/JR10261) | Software Engineer Intern | Eden Prairie, MN | Summer 2027 | 2026-09-23 | 39 | simplify-2026 |
 | [Klaviyo](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003) | AI Engineer Intern | Boston, MA | Summer 2026 | 2026-09-23 | 39 | simplify-2026 |
 | [Qumulo](https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true) | Software Development Engineer Intern | Seattle, WA | Winter 2027, Spring 2027, Summer 2027 | 2026-09-23 | 39 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Goldman Sachs](https://higher.gs.com/roles/174815?type=students) | Engineer Apprentice | Birmingham, UK | N/A | 2026-09-23 | 39 | simplify-2026 |
 | [Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?embed=true) | Software Engineering Intern | Torrance, CA | Spring 2027 | 2026-09-23 | 39 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4705214006) | Backend Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-23 | 39 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4705610006) | Software Engineer Enterprise Systems Intern - Summer 2027 | SF | Summer 2027 | 2026-09-23 | 39 | simplify-2026 |
@@ -1141,6 +1141,7 @@
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | AI and Software Engineer Intern - Automotive MPUs | Glasgow, UK | Summer 2026 | 2026-08-17 | 76 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171553?type=students) | Summer Analyst Intern - Engineering | Dallas, TX | Summer 2027 | 2026-08-15 | 78 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171565?type=students) | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | Summer 2027 | 2026-08-15 | 78 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170644?type=students) | Summer Analyst Intern - Engineering | London, UK | Summer 2027 | 2026-08-15 | 78 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-15 | 78 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | Software Engineer Intern - Summer 2027 | SF, NYC | Summer 2027 | 2026-08-15 | 78 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | 2026-08-15 | 78 | simplify-2026 |

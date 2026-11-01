@@ -18,8 +18,8 @@ Ranked by freshness + company tier + role category.
 | 8 | **Apple** | Swift Runtime Engineer Intern - Swift Runtimes | London, UK | N/A | 2026-10-30 (2d ago) | [Apply](https://jobs.apple.com/en-us/details/200692438) |
 | 9 | **Cloudflare** | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 (3d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914) |
 | 10 | **Tesla** | Data Engineer Intern - Energy | Palo Alto, CA | Spring 2027, Summer 2027 | 2026-10-29 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/287982) |
-| 11 | **ByteDance** | Student Researcher Intern, Seed Model: Multimodal Interaction & World Model | San Jose, CA |  | 2026-11-01 (0d ago) | [Apply](https://go.vansh.nyc/17J) |
-| 12 | **TikTok** | Machine Learning Engineer Intern, Brand Ads | San Jose, CA |  | 2026-11-01 (0d ago) | [Apply](https://go.vansh.nyc/17N) |
+| 11 | **ByteDance** | Student Researcher Intern, Seed Model - Vision | San Jose, CA |  | 2026-11-01 (0d ago) | [Apply](https://joinbytedance.com/search/7623544831999346997) |
+| 12 | **TikTok** | Software Engineer Project Intern, Model Infrastructure | San Jose, CA |  | 2026-11-01 (0d ago) | [Apply](https://lifeattiktok.com/search/7624284785283746053) |
 | 13 | **Northrop Grumman** | Data Scientist Intern, Product Support | San Diego, CA |  | 2026-10-31 (1d ago) | [Apply](https://go.vansh.nyc/125) |
 | 14 | **Anduril** | Library Science Co-op | Santa Ana, CA | Winter 2027 | 2026-10-28 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007) |
 | 15 | **Anthropic** | Research Resident | SF, NYC | N/A | 2026-10-28 (4d ago) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (11d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-11-01 15:30 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-01 18:12 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

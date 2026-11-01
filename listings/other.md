@@ -1,9 +1,13 @@
-# Other (1351)
+# Other (1359)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Siemens Digital Industries Software](https://go.vansh.nyc/18U) | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Siemens Digital Industries Software](https://go.vansh.nyc/18V) | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7624284785283746053) | Software Engineer Project Intern, Model Infrastructure | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [TikTok](https://lifeattiktok.com/search/7530513185797359880) | Software Engineer Project Intern, Platform Efficiency | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17N) | Machine Learning Engineer Intern, Brand Ads | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17O) | Data Science Intern, TikTok LIVE | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17P) | AI Engineer Intern, TikTok-Client Arch | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -57,6 +61,7 @@
 | [TikTok](https://go.vansh.nyc/18F) | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/18G) | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/18H) | Software Engineer Project Intern, Lead Ads | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [ByteDance](https://joinbytedance.com/search/7623544831999346997) | Student Researcher Intern, Seed Model - Vision | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [ByteDance](https://go.vansh.nyc/17J) | Student Researcher Intern, Seed Model: Multimodal Interaction & World Model | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [ByteDance](https://go.vansh.nyc/17K) | Machine Learning Engineer Intern, AML-Engine-Orchestration | Seattle, WA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [ByteDance](https://go.vansh.nyc/17L) | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA |  | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -572,6 +577,7 @@
 | [AeroVironment](https://go.vansh.nyc/dk) | Software Engineering Intern | San Diego, CA |  | 2026-10-21 | 11 | vanshb03-2026, vanshb03-2027 |
 | [Toyota](https://go.vansh.nyc/dm) | Data Science Intern, TFS | Plano, TX |  | 2026-10-21 | 11 | vanshb03-2026, vanshb03-2027 |
 | [Rhoda AI](https://go.vansh.nyc/dj) | Software Engineer Intern, Inference | Mountain View, CA |  | 2026-10-21 | 11 | vanshb03-2026, vanshb03-2027 |
+| [Sycamore](https://go.vansh.nyc/18T) | Member of Technical Staff Intern, Infrastructure | Palo Alto, CA |  | 2026-10-21 | 11 | vanshb03-2026, vanshb03-2027 |
 | [IDEMIA North America](https://go.vansh.nyc/gr) | Cloud Software Engineering Intern | Reston, VA |  | 2026-10-21 | 11 | vanshb03-2026, vanshb03-2027 |
 | [The Aerospace Corporation](https://go.vansh.nyc/dM) | Embedded Software Engineer Intern, Multiple Teams | El Segundo, CA |  | 2026-10-21 | 11 | vanshb03-2026, vanshb03-2027 |
 | [DriveWealth](https://go.vansh.nyc/df) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL, NYC |  | 2026-10-20 | 12 | vanshb03-2026, vanshb03-2027 |
@@ -1059,6 +1065,8 @@
 | [Brain Co.](https://go.vansh.nyc/10T) | Machine Learning Engineer Intern, Applied AI | San Francisco, CA |  | 2026-09-14 | 48 | vanshb03-2026, vanshb03-2027 |
 | [Dell Technologies](https://go.vansh.nyc/In) | Hardware Engineering Intern, Infrastructure Solutions Group | Round Rock, TX, Hopkinton, MA |  | 2026-09-14 | 48 | vanshb03-2026, vanshb03-2027 |
 | [Google](https://go.vansh.nyc/15I) | Student Researcher Intern | Waterloo, Canada, Toronto, Canada |  | 2026-09-14 | 48 | vanshb03-2026, vanshb03-2027 |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/131518356678156998) | Student Researcher Intern | Mountain View, CA, Ann Arbor, MI, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Princeton, NJ, Pittsburgh, PA, Raleigh, NC, Durham, NC, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Sunnyvale, CA, Washington, DC |  | 2026-09-14 | 48 | vanshb03-2026, vanshb03-2027 |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | Student Researcher Intern | Montreal, Canada |  | 2026-09-14 | 48 | vanshb03-2026, vanshb03-2027 |
 | [CACI](https://go.vansh.nyc/MU) | Software Engineer Intern | Remote, United States, Sterling, VA, Denver, CO |  | 2026-09-14 | 48 | vanshb03-2026, vanshb03-2027 |
 | [Brain Co.](https://go.vansh.nyc/10S) | AI Security Engineer Intern | San Francisco, CA |  | 2026-09-12 | 50 | vanshb03-2026, vanshb03-2027 |
 | [Brain Co.](https://go.vansh.nyc/10R) | AI Product Engineer Intern | San Francisco, CA |  | 2026-09-12 | 50 | vanshb03-2026, vanshb03-2027 |

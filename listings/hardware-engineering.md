@@ -1,4 +1,4 @@
-# Hardware Engineering (910)
+# Hardware Engineering (909)
 
 [← back to index](../README.md)
 
@@ -913,4 +913,3 @@
 | [SoloPulse](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | Systems Engineering Intern | Norcross, GA | Summer 2026 | 2026-04-02 | 213 | simplify-2026 |
 | [Hewlett Packard (HP)](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | Browser Software Engineer Intern | Cambridge, UK | Summer 2026 | 2026-03-11 | 235 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Intern Technician - Electronics | Carlisle, PA | Summer 2026 | 2026-03-11 | 235 | simplify-2026 |
-| [Hermeus](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Flight Software Engineering Intern | Atlanta, GA | Summer 2026, Fall 2026 | 2026-03-06 | 240 | simplify-2026 |
