@@ -16,7 +16,7 @@ Ranked by freshness + company tier + role category.
 | 6 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 (3d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
 | 7 | **Salesforce** | AI Labs Intern, Emerging Talent | San Francisco, CA, Seattle, WA |  | 2026-10-30 (3d ago) | [Apply](https://go.vansh.nyc/10J) |
 | 8 | **Apple** | Swift Runtime Engineer Intern - Swift Runtimes | London, UK | N/A | 2026-10-30 (3d ago) | [Apply](https://jobs.apple.com/en-us/details/200692438) |
-| 9 | **Northrop Grumman** | Engineering Software and Analysis Intern | Sunnyvale, CA |  | 2026-11-02 (0d ago) | [Apply](https://go.vansh.nyc/19x) |
+| 9 | **Northrop Grumman** | Engineering Intern, Software, Mission Assurance, Quality | Chandler, AZ |  | 2026-11-02 (0d ago) | [Apply](https://go.vansh.nyc/19N) |
 | 10 | **ByteDance** | Student Researcher Intern, Seed Model - Vision | San Jose, CA |  | 2026-11-01 (1d ago) | [Apply](https://go.vansh.nyc/18Y) |
 | 11 | **TikTok** | Software Engineer Project Intern, Model Infrastructure | San Jose, CA |  | 2026-11-01 (1d ago) | [Apply](https://go.vansh.nyc/18Z) |
 | 12 | **Cloudflare** | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 (4d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (12d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-11-02 18:53 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-02 22:01 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
