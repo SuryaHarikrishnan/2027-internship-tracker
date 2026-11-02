@@ -8,9 +8,9 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **NVIDIA** | Deep Learning Intern | Santa Clara, CA |  | 2026-10-31 (2d ago) | [Apply](https://go.vansh.nyc/12j) |
-| 2 | **Meta** | Research Scientist Intern - Video Recsys | Menlo Park, CA | N/A | 2026-10-31 (2d ago) | [Apply](https://www.metacareers.com/jobs/1553890293163197) |
-| 3 | **Microsoft** | Research Intern - Office of Applied Research | Redmond, WA, NYC | N/A | 2026-10-30 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557051409) |
+| 1 | **Microsoft** | Explore Program Engineering Intern | Redmond, WA | N/A | 2026-11-02 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556925823) |
+| 2 | **NVIDIA** | Deep Learning Intern | Santa Clara, CA |  | 2026-10-31 (2d ago) | [Apply](https://go.vansh.nyc/12j) |
+| 3 | **Meta** | Research Scientist Intern - Video Recsys | Menlo Park, CA | N/A | 2026-10-31 (2d ago) | [Apply](https://www.metacareers.com/jobs/1553890293163197) |
 | 4 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | 5 | **Amazon** | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10593872/software-development-engineer) |
 | 6 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 (3d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (12d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-11-02 00:30 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-02 13:54 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
