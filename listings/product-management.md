@@ -1,10 +1,14 @@
-# Product Management (247)
+# Product Management (250)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) | Product Management Intern - Insurance | Alpharetta, GA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
+| [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) | Product Manager Intern - Government | Alpharetta, GA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
+| [T-Mobile](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) | Product Operations Manager Intern | Bellevue, WA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
+| [T-Mobile](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) | Product Management Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) | Supervision & Regulation Intern - Business Relationship | Atlanta, GA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
 | [MANN+HUMMEL](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 | 2026-10-30 | 3 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701486873210390837) | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Winter 2027 | 2026-10-30 | 3 | simplify-2026 |
@@ -225,7 +229,6 @@
 | [TikTok](https://lifeattiktok.com/search/7670420017544251701) | AI Product Operations Intern | San Jose, CA | N/A | 2026-08-06 | 88 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670420287191517493) | Strategy Product Manager Intern - Platform Responsibility | San Jose, CA | Summer 2027 | 2026-08-06 | 88 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152) | Product Management Intern - Global Merchant & Network Services | NYC | Summer 2027 | 2026-08-05 | 89 | simplify-2026 |
-| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) | Product Management Intern - Global Merchant & Network Services | Phoenix, AZ | Summer 2027 | 2026-08-05 | 89 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669927344569764101) | Product Operations Intern - Apps and API | Seattle, WA | Summer 2027 | 2026-08-05 | 89 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) | Product Development Intern - US Consumer Services | NYC | Summer 2027 | 2026-08-04 | 90 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667874197682899205) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 90 | simplify-2026 |

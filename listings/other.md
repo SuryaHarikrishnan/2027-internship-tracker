@@ -1,16 +1,86 @@
-# Other (1368)
+# Other (1414)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Zimmer Biomet Holdings](https://go.vansh.nyc/1bk) | Software Developer Co-op | Montreal, Canada |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Shield AI](https://go.vansh.nyc/1bm) | Embedded Firmware Intern | Dallas, TX |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Wellmark](https://go.vansh.nyc/1bl) | Software Engineer Intern, AI Platform Team | Des Moines, IA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a1) | Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a2) | Software Integration Engineer Intern, High Voltage Systems | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a3) | Data Engineer Intern, Energy | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a4) | RL Engineer Intern, Tesla SI | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a5) | Data Analyst Intern, People Products | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a6) | SI Engineer Intern, Tesla SI | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a7) | SI Software Engineer Intern, Core Infrastructure | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a8) | SoC Firmware Engineer Intern, SI Hardware Infrastructure | Austin, TX |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1a9) | Software Engineer Intern, Finance Programs | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aa) | Software Engineer Intern, Core SI Compiler & Runtime | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ab) | Software Engineer Intern, Infotainment Platforms Validation | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ac) | Software Integration Engineer Intern, Service Tooling | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ad) | Software Engineer Intern, Build & Simulation Platform | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ae) | Data Engineer Intern, Data Engineering & Business Intelligence | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1af) | Data Engineer Intern, Applications Engineering | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ag) | Embedded Software Engineer Intern, Vehicle Suspension | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ah) | Software Developer Intern, Integration Tools | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ai) | Software Integration Engineer Intern, SI Platforms | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aj) | SI Hardware RTL Design Engineer Intern, SI Hardware | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ak) | SI Hardware Design Verification Engineer Intern, SI Hardware | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1al) | Software Engineer Intern, Data Transformations | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1am) | SI Hardware Silicon Validation Engineer Intern, SI Hardware | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1an) | Mobile Application Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ao) | Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ap) | Residential Energy Device Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aq) | Software Engineer Industrial Firmware Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ar) | Robotics Modeling & Simulation Engineer Intern, Optimus | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1as) | Software Engineering Intern, People Products | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1au) | Embedded Software Engineer Intern, Body Controls Firmware | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1av) | Software Engineer Opticaster Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aw) | Software Engineer Intern, Camera & Robotics | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ax) | Software Engineer Intern, Maps & Navigation, Robotaxi | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1ay) | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1az) | Data Engineer Intern, Fleet Analytics | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aA) | Content Integration Engineer Intern, Vehicle Firmware | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aB) | Software Engineer Intern, Data Platforms | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aC) | Machine Learning Engineer Intern, Factory Software | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aD) | Software Engineer Intern, Autonomy Systems Foundations | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aE) | Embedded Software Engineer Intern, High Voltage Systems | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aF) | Software Engineer Intern, Code Hardening & Framework Resilience, Robotaxi | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aG) | Vehicle Software Engineer Intern, Diagnostic User Interface | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aH) | Software Engineer Intern, Automated Diagnostics | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aI) | Fullstack Engineer Intern, Applications Engineering | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aJ) | Software Integration Engineer Intern, Optimus | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aK) | Embedded Software Engineer Intern, Optimus | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aL) | Embedded Systems Software Engineer Intern, SI Platforms | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aM) | Software Engineer Intern, SI Data Infrastructure | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aN) | Fullstack Engineer Intern, SI Tooling | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aO) | Integration Engineer Intern, Access Control Systems | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aP) | Software Validation Engineer Intern, Steering, Chassis Systems | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aQ) | Embedded Software Engineer Intern, Steering, Chassis Systems | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aR) | Software Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aS) | Physics Engine Development Engineer Intern, Optimus | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aU) | Site Reliability Engineer Intern, Infrastructure Engineering | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aV) | Backend Engineer Intern, Infrastructure Engineering | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aW) | SI Hardware Physical Design Engineer Intern, SI Hardware | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aX) | Software Engineer Intern, SI Infrastructure | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aY) | Firmware Engineer Intern, New Programs Engineering | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1aZ) | Systems Architecture & Integration Engineer Intern, LV Architecture | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1b0) | Engineering Automation Software Engineer Intern, Vehicle Engineering | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1b1) | Red Team Security Engineer Intern, Vehicle Software | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1b2) | Fullstack Engineer Intern, Infrastructure Engineering | Fremont, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1b3) | Software Engineer Intern, SI Hardware Infrastructure | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Tesla](https://go.vansh.nyc/1b4) | Embedded Software Engineer Intern, Silicon Development | Palo Alto, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Qualcomm](https://go.vansh.nyc/1a0) | SoC Engineering Intern | Markham, Canada |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Aerospace Corporation](https://go.vansh.nyc/19W) | Software Engineering Undergrad Intern | El Segundo, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Samsung Semiconductor](https://go.vansh.nyc/19X) | AI Application Engineer Intern | Folsom, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Northrop Grumman](https://go.vansh.nyc/19N) | Engineering Intern, Software, Mission Assurance, Quality | Chandler, AZ |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Zebra Technologies](https://go.vansh.nyc/19O) | AI Intern | Lincolnshire, IL |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
-| [LabCorp](https://go.vansh.nyc/19P) | Agentic AI Developer Co-op | Durham, NC |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Motorola Solutions](https://go.vansh.nyc/19M) | Software Engineer Intern, Cybersecurity Services | Remote, United States, Chicago, IL, Ashburn, VA, Plantation, FL, Schaumburg, IL, Salt Lake City, UT |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [RTX](https://go.vansh.nyc/19I) | Systems Security Engineer Intern, Raytheon | Woburn, MA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NXP](https://go.vansh.nyc/19K) | HW/SW System and Application Engineer Intern | Chandler, AZ |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Flagship Pioneering](https://go.vansh.nyc/19J) | ML Intern | Cambridge, MA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toshiba Commerce Solutions](https://go.vansh.nyc/19Y) | Software Engineering Intern | Durham, NC |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [RTX](https://go.vansh.nyc/19G) | Systems Security Engineering Intern | Fullerton, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [LabCorp](https://go.vansh.nyc/19C) | Full-Stack Life Sciences Engineer Co-op | Durham, NC |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Intuitive](https://go.vansh.nyc/19B) | AI/ML Engineer Intern | Sunnyvale, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -21,6 +91,7 @@
 | [Microsoft](https://go.vansh.nyc/19z) | Software Engineer Intern | Aliso Viejo, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Toshiba Commerce Solutions](https://go.vansh.nyc/19U) | AI Data Science & Business Analytics Intern | Durham, NC |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [JM Family Enterprises](https://go.vansh.nyc/19y) | Offensive Security Intern | Deerfield Beach, FL |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toshiba Global Commerce Solutions](https://go.vansh.nyc/1bn) | AI Automation & Revenue Ops Intern | Durham, NC |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [T-Mobile](https://go.vansh.nyc/19q) | Software Engineering Intern | Philadelphia, PA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [T-Mobile](https://go.vansh.nyc/19r) | Software Engineering Intern | New York, NY |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Microsoft](https://go.vansh.nyc/19t) | Software Engineer Intern, CoreAI | Redmond, WA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -33,6 +104,11 @@
 | [Lila Sciences](https://go.vansh.nyc/19d) | Agentic and Generative Protein Design Co-op | Cambridge, MA, San Francisco, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Tecsys](https://go.vansh.nyc/19b) | Developer Intern | Montreal, Canada |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Microsoft](https://go.vansh.nyc/199) | First-Year Explore Program Engineering Intern | Redmond, WA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [KLA](https://go.vansh.nyc/1b9) | Software Engineer Intern | Austin, TX |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Cincinnati Children’s Hospital and Medical Center](https://go.vansh.nyc/1bb) | Software Engineer Intern | Remote, United States |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Cincinnati Children’s Hospital and Medical Center](https://go.vansh.nyc/1bd) | Data Management Engineer Intern | Remote, United States |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Cincinnati Children’s Hospital and Medical Center](https://go.vansh.nyc/1be) | Software Engineering Developer Intern | Remote, United States |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Astro Mechanica](https://go.vansh.nyc/1bg) | Software Engineer Intern | San Francisco, CA |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [KLA](https://go.vansh.nyc/19L) | Software Engineer Intern | Totowa, NJ |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [GE Aerospace](https://go.vansh.nyc/19l) | Artificial Intelligence Intern | Remote, United States |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Plexus](https://go.vansh.nyc/19m) | Software Engineer Intern | Neenah, WI |  | 2026-11-02 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -198,7 +274,6 @@
 | [Rhoda AI](https://go.vansh.nyc/13n) | Software Engineer Intern, Rhoda Platform | Mountain View, CA |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [ShopBack](https://go.vansh.nyc/13o) | Software Engineer Intern | San Francisco, CA |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [ShopBack](https://go.vansh.nyc/13p) | Software Engineer Intern | New York, NY |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
-| [TensorWave](https://go.vansh.nyc/13q) | Software Engineering Intern | Las Vegas, NV |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [TobogganLabs](https://go.vansh.nyc/13r) | Data Science Intern | Montreal, Canada |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [USAFacts](https://go.vansh.nyc/13s) | AI & Software Engineering Intern | Bellevue, WA |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Vantor](https://go.vansh.nyc/13t) | AI Engineer Intern | Remote, United States |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -211,8 +286,6 @@
 | [Ema](https://go.vansh.nyc/13C) | AI Resident Intern | San Francisco, CA |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Foresters Financial](https://go.vansh.nyc/13D) | Software Engineer Co-op, AI | Toronto, Canada |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Foresters Financial](https://go.vansh.nyc/13E) | Software Engineer Co-op | Toronto, Canada |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
-| [General Magic](https://go.vansh.nyc/13G) | AI Engineer Co-op | Toronto, Canada |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
-| [General Magic](https://go.vansh.nyc/13H) | Backend Engineer Co-op | Toronto, Canada |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [GITAI](https://go.vansh.nyc/13I) | Field-Deployed Software Engineering Intern | Los Angeles, CA |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [New York ISO](https://go.vansh.nyc/13J) | Software Engineering Co-op, IT | Rensselaer, NY |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Solink](https://go.vansh.nyc/13K) | Software Engineer Co-op, Agents | Remote, Canada |  | 2026-10-31 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -660,7 +733,6 @@
 | [Seagate Technology](https://go.vansh.nyc/Sq) | Software and Data Analytics Development Intern, AFM | Bloomington, MN |  | 2026-10-18 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Seagate Technology](https://go.vansh.nyc/Sr) | Machine Learning for Corporate Strategy Intern | Bloomington, MN |  | 2026-10-18 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Seagate Technology](https://go.vansh.nyc/Ss) | Embedded Software Engineer Intern | Longmont, CO |  | 2026-10-18 | 15 | vanshb03-2026, vanshb03-2027 |
-| [Seagate Technology](https://go.vansh.nyc/St) | Recording Media R&D Intern, AI & Data Science | Fremont, CA |  | 2026-10-18 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Campbell Soup Company](https://go.vansh.nyc/QO) | Data Science Intern | Camden, NJ |  | 2026-10-18 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Foresters Financial](https://go.vansh.nyc/QP) | Quality Assurance Engineer Co-op | Toronto, Canada |  | 2026-10-18 | 15 | vanshb03-2026, vanshb03-2027 |
 | [LPL Financial Holdings](https://go.vansh.nyc/QQ) | Cybersecurity Analyst Intern | Fort Mill, SC, Charlotte, NC, Austin, TX |  | 2026-10-18 | 15 | vanshb03-2026, vanshb03-2027 |
@@ -948,7 +1020,6 @@
 | [Rivian](https://go.vansh.nyc/ER) | Software Engineer Co-op, Embedded Software | Palo Alto, CA |  | 2026-10-05 | 28 | vanshb03-2026, vanshb03-2027 |
 | [First Solar (US)](https://go.vansh.nyc/H7) | Data Science Intern, Device Characterization | Perrysburg, OH |  | 2026-10-05 | 28 | vanshb03-2026, vanshb03-2027 |
 | [Juniper Networks](https://go.vansh.nyc/H6) | Infrastructure Deployment Automation Intern | Bloomington, MN |  | 2026-10-05 | 28 | vanshb03-2026, vanshb03-2027 |
-| [TensorWave](https://go.vansh.nyc/H5) | Security Engineer Intern | Las Vegas, NV |  | 2026-10-05 | 28 | vanshb03-2026, vanshb03-2027 |
 | [Quantum Signal AI](https://go.vansh.nyc/EP) | Software Engineer Intern, Tools and Prototypes | Saline, MI |  | 2026-10-05 | 28 | vanshb03-2026, vanshb03-2027 |
 | [Ernst & Young](https://go.vansh.nyc/EO) | Tax Intern, Other Tax, Americas Tax Technology Group | Nashville, TN, Dallas, TX, Chicago, IL, Atlanta, GA |  | 2026-10-05 | 28 | vanshb03-2026, vanshb03-2027 |
 | [Capstone Investment Advisors](https://go.vansh.nyc/EN) | Risk Tech Intern | New York, NY |  | 2026-10-05 | 28 | vanshb03-2026, vanshb03-2027 |
@@ -1307,7 +1378,6 @@
 | [Hudson River Trading](https://go.vansh.nyc/3F) | Software Engineer Intern | Austin, TX, Chicago, IL, New York, NY |  | 2026-07-24 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Akuna Capital](https://go.vansh.nyc/3A) | Platform Engineer Intern | Chicago, IL |  | 2026-07-24 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Netic](https://go.vansh.nyc/3x) | Software Engineer Intern | San Francisco, CA |  | 2026-07-24 | 101 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/3w) | Localization Specialist Intern | Fremont, CA |  | 2026-07-24 | 101 | vanshb03-2026, vanshb03-2027 |
 | [Fullscript](https://go.vansh.nyc/GV) | Software Developer Co-op | Ottawa, Canada |  | 2026-07-22 | 103 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading](https://go.vansh.nyc/3t) | Campus Systems Engineer Intern | Chicago, IL |  | 2026-07-10 | 115 | vanshb03-2026, vanshb03-2027 |
 | [Jump Trading Group](https://go.vansh.nyc/3m) | Campus UI Software Engineer Intern | Chicago, IL |  | 2026-07-09 | 116 | vanshb03-2026, vanshb03-2027 |
@@ -1324,14 +1394,10 @@
 | [Apple](https://go.vansh.nyc/33) | Software Engineer Intern, Undergrad | United States |  | 2026-05-22 | 164 | vanshb03-2026, vanshb03-2027 |
 | [Apple](https://go.vansh.nyc/32) | Software Engineering Intern, Masters | United States |  | 2026-05-22 | 164 | vanshb03-2026, vanshb03-2027 |
 | [Susquehanna](https://go.vansh.nyc/2M) | Trading System Engineering Intern | Bala Cynwyd, PA |  | 2026-05-22 | 164 | vanshb03-2026, vanshb03-2027 |
+| [Apple](https://go.vansh.nyc/19Z) | Machine Learning and Artificial Intelligence Undergrad Intern | United States |  | 2026-05-21 | 165 | vanshb03-2026, vanshb03-2027 |
 | [Trata](https://go.vansh.nyc/2C) | Research Scientist Intern | San Francisco, CA, New York, NY |  | 2026-05-14 | 172 | vanshb03-2026, vanshb03-2027 |
 | [DimeHealth AI](https://go.vansh.nyc/2r) | Forward Deployed Engineering Intern | New York, NY |  | 2026-05-09 | 177 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/2n) | Software Engineer Intern, Maps & Navigation Validation | Palo Alto, CA |  | 2026-05-09 | 177 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/2m) | Embedded Software Engineer Intern, Keys & Authentication | Palo Alto, CA |  | 2026-05-09 | 177 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/2l) | Software Engineer Intern, Vehicle UI Development | Palo Alto, CA |  | 2026-05-09 | 177 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/2k) | Software Developer Intern, Integration Platforms | Palo Alto, CA |  | 2026-05-09 | 177 | vanshb03-2026, vanshb03-2027 |
 | [H&CO](https://go.vansh.nyc/1K) | Software Development Intern | Coral Gables, FL |  | 2026-04-23 | 193 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/1E) | Software Engineer Intern, Vehicle Engineering | Palo Alto, CA, Fremont, CA |  | 2026-04-20 | 196 | vanshb03-2026, vanshb03-2027 |
 | [Pinterest](https://go.vansh.nyc/1C) | Machine Learning Intern, PhD | San Francisco, CA, Palo Alto, CA, Seattle, WA, New York, NY |  | 2026-04-20 | 196 | vanshb03-2026, vanshb03-2027 |
 | [PathAI](https://go.vansh.nyc/1A) | Machine Learning Intern, AI Product and ML Core | Boston, MA, New York, NY, Remote |  | 2026-04-20 | 196 | vanshb03-2026, vanshb03-2027 |
 | [TETRAMEM](https://go.vansh.nyc/1x) | Software Engineer Intern, Embedded | San Jose, CA |  | 2026-04-20 | 196 | vanshb03-2026, vanshb03-2027 |
@@ -1342,29 +1408,9 @@
 | [Ginkgo Bioworks](https://go.vansh.nyc/Qz) | Software Intern, Autonomous Lab | Emeryville, CA |  | 2026-04-01 | 215 | vanshb03-2026, vanshb03-2027 |
 | [Mesh Optical Technologies](https://go.vansh.nyc/BQ) | Associate Software Engineer Co-op | Gardena, CA |  | 2026-02-17 | 258 | vanshb03-2026, vanshb03-2027 |
 | [Amazon](https://go.vansh.nyc/17r) | Software Development Engineer Intern, Robotics | Toronto, Canada |  | 2025-12-03 | 334 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/14) | Software Engineer Intern, Information Security | Bellevue, WA |  | 2025-10-30 | 368 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/13) | Software Engineer Intern, Service Engineering | Palo Alto, CA |  | 2025-10-30 | 368 | vanshb03-2026, vanshb03-2027 |
 | [Pinterest](https://go.vansh.nyc/Y) | Software Engineer Intern | Toronto, Canada |  | 2025-09-24 | 404 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/X) | Fullstack C++ Engineer Intern, Vehicle User Interface | Palo Alto, CA |  | 2025-09-24 | 404 | vanshb03-2026, vanshb03-2027 |
 | [Colgate-Palmolive](https://go.vansh.nyc/U) | Software Development Intern | Piscataway, NJ |  | 2025-09-13 | 415 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/T) | Software Integration Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2025-09-12 | 416 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/S) | Software Engineer Intern, Factory Software | Fremont, CA |  | 2025-08-30 | 429 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/N) | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA |  | 2025-08-21 | 438 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/M) | Commercial UI Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2025-08-21 | 438 | vanshb03-2026, vanshb03-2027 |
 | [Shopify](https://go.vansh.nyc/G) | Engineering and Data Intern | Remote, Canada |  | 2025-08-19 | 440 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/D) | Software Engineer Intern, Linux Update Systems | Palo Alto, CA |  | 2025-08-15 | 444 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/C) | Software Engineer Intern, Update Systems | Palo Alto, CA |  | 2025-08-15 | 444 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/B) | System Software Engineer Intern, System Software | Palo Alto, CA |  | 2025-08-15 | 444 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/A) | Software Engineer Intern, Maps & Self-Driving Navigation | Palo Alto, CA |  | 2025-08-13 | 446 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/z) | Backend Software Engineer Intern, Diagnostics | Palo Alto, CA, Austin, TX |  | 2025-08-13 | 446 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/y) | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2025-08-10 | 449 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/u) | Chassis Integration Engineer Intern, Vehicle Firmware | Palo Alto, CA |  | 2025-08-08 | 451 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/t) | Software Integration Engineer Intern, AI Platforms | Palo Alto, CA |  | 2025-08-08 | 451 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/s) | Software Compiler Engineer Intern, AI Inference | Palo Alto, CA |  | 2025-08-08 | 451 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/r) | C++ Software Engineer Intern, Systems, AI | Palo Alto, CA |  | 2025-08-08 | 451 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/q) | Chassis Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA |  | 2025-08-08 | 451 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/p) | Machine Learning Engineer Intern, Noise Vibration Harshness Engineering | Fremont, CA |  | 2025-08-03 | 456 | vanshb03-2026, vanshb03-2027 |
-| [Tesla](https://go.vansh.nyc/o) | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN, Elgin, IL, Grand Rapids, MI |  | 2025-08-03 | 456 | vanshb03-2026, vanshb03-2027 |
 | [Scientech Research Capital](https://go.vansh.nyc/Qy) | Quantitative Developer Intern | United States |  | 2025-03-04 | 608 | vanshb03-2026, vanshb03-2027 |
 | [QuantCo](https://go.vansh.nyc/Vh) | Data Science Intern | United States |  | 2024-05-01 | 915 | vanshb03-2026, vanshb03-2027 |
 | [Palantir Technologies](https://go.vansh.nyc/OK) | Information Security Engineer Intern | New York, NY |  | 2022-08-03 | 1552 | vanshb03-2026, vanshb03-2027 |
