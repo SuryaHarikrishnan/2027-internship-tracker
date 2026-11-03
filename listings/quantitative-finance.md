@@ -1,4 +1,4 @@
-# Quantitative Finance (219)
+# Quantitative Finance (218)
 
 [← back to index](../README.md)
 
@@ -48,7 +48,6 @@
 | [Mitsubishi UFG](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1) | Summer Analyst Programme: Global Markets Intern - Markets Engineering | London, UK | Summer 2027 | 2026-10-09 | 25 | simplify-2026 |
 | [MUFG](https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD) | Summer Analyst Programme: Global Markets Intern - Markets Engineering | London, UK | Summer 2027 | 2026-10-09 | 25 | simplify-2026 |
 | [PDT Partners](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) | Quantitative Research Intern | NYC | Summer 2027 | 2026-10-07 | 27 | simplify-2026 |
-| [Pretium](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002) | Quantitative Strategies Intern | NYC | Summer 2027 | 2026-10-07 | 27 | simplify-2026 |
 | [Federal Home Loan Bank of Indianapolis](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Long-Term-Model-Risk-Intern_R623) | Model Risk Intern | Indianapolis, IN | N/A | 2026-10-07 | 27 | simplify-2026 |
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) | Quant Modelling Intern | NYC | Summer 2027 | 2026-10-07 | 27 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) | Consumer & Community Banking Internship - Risk Modeling Associate Program | Palo Alto, CA, Plano, TX, Jersey City, NJ, Columbus, OH, Wilmington, DE | Summer 2027 | 2026-10-06 | 28 | simplify-2026 |
