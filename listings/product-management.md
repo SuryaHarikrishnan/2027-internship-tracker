@@ -1,4 +1,4 @@
-# Product Management (249)
+# Product Management (246)
 
 [← back to index](../README.md)
 
@@ -61,7 +61,6 @@
 | [Maple Leaf Sports & Entertainment Partnership (MLSE)](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2) | Business Strategy & Product Management Intern - AI | Toronto, ON, Canada | Winter 2026 | 2026-10-21 | 13 | simplify-2026 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) | Product Analyst Intern - AI & Incubation | San Diego, CA | N/A | 2026-10-20 | 14 | simplify-2026 |
 | [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) | Supplies & Sensors Product Manager Intern - US | Lincolnshire, IL | Summer 2027 | 2026-10-20 | 14 | simplify-2026 |
-| [Westinghouse Electric Company](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors) | Product Engineer Intern | Cranberry Township, PA | Summer 2027 | 2026-10-19 | 15 | simplify-2026 |
 | [Amplify](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Product Management Intern | Remote in USA | Summer 2027 | 2026-10-19 | 15 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 15 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA | Summer 2027 | 2026-10-19 | 15 | simplify-2026 |
@@ -80,7 +79,6 @@
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Product Management Intern | Greater Manchester, UK | Summer 2027 | 2026-10-14 | 20 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) | Product Management Intern - Vehicle Autonomy | Sunnyvale, CA | Summer 2027 | 2026-10-14 | 20 | simplify-2026 |
 | [Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) | AI Product Management Intern | Denver, CO | Summer 2026 | 2026-10-13 | 21 | simplify-2026 |
-| [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | Product Strategy Student Intern | Oakville, ON, Canada | Winter 2027 | 2026-10-13 | 21 | simplify-2026 |
 | [Arcesium](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | Product Management Intern | NYC | N/A | 2026-10-12 | 22 | simplify-2026 |
 | [ADT](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Product Management & Product Operations Intern | Boca Raton, FL | Summer 2027 | 2026-10-12 | 22 | simplify-2026 |
 | [Life Fitness](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280) | Product Management Intern | Rosemont, IL | N/A | 2026-10-12 | 22 | simplify-2026 |
@@ -168,7 +166,6 @@
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | Summer 2027 | 2026-09-08 | 56 | simplify-2026 |
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Product Intern | Mountain View, CA | Summer 2027 | 2026-09-08 | 56 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | Product Management Intern - Product Management | London, UK | Summer 2027 | 2026-09-08 | 56 | simplify-2026 |
-| [Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) | Product Management Intern | Westminster, CO, San Diego, CA | Summer 2027 | 2026-09-08 | 56 | simplify-2026 |
 | [Red Hat](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060) | Product Manager Intern | Boston, MA, Raleigh, NC | Winter 2026 | 2026-09-08 | 56 | simplify-2026 |
 | [Dick's Sporting Goods](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) | Product Management Intern - Corporate Internship | Pittsburgh, PA | Summer 2027 | 2026-09-08 | 56 | simplify-2026 |
 | [BitGo](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002) | Product Management Intern | Toronto, ON, Canada | Winter 2027 | 2026-09-04 | 60 | simplify-2026 |

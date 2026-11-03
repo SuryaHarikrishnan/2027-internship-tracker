@@ -12,9 +12,9 @@ Ranked by freshness + company tier + role category.
 | 2 | **Meta** | Research Scientist Intern - PAR Safety Evals and Red Teaming | Menlo Park, CA, NYC | N/A | 2026-11-02 (1d ago) | [Apply](https://www.metacareers.com/jobs/1272664685039241) |
 | 3 | **Microsoft** | Software Engineer Intern | United States | N/A | 2026-11-02 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557044764) |
 | 4 | **Tesla** | Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 (1d ago) | [Apply](https://go.vansh.nyc/1a1) |
-| 5 | **Qualcomm** | Verification Engineer Intern | Toronto, Canada |  | 2026-11-02 (1d ago) | [Apply](https://go.vansh.nyc/1bu) |
-| 6 | **Samsung** | AI Application Engineer Intern | San Jose, CA | N/A | 2026-11-02 (1d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) |
-| 7 | **Northrop Grumman** | Engineering Intern - Multiple Teams | Chandler, AZ | Summer 2027 | 2026-11-02 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848) |
+| 5 | **Northrop Grumman** | Software Engineer Intern | Linthicum, MD |  | 2026-11-03 (0d ago) | [Apply](https://go.vansh.nyc/1d8) |
+| 6 | **Qualcomm** | Verification Engineer Intern | Toronto, Canada |  | 2026-11-02 (1d ago) | [Apply](https://go.vansh.nyc/1bu) |
+| 7 | **Samsung** | AI Application Engineer Intern | San Jose, CA | N/A | 2026-11-02 (1d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) |
 | 8 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (4d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | 9 | **Amazon** | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10593872/software-development-engineer) |
 | 10 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 (4d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **NOX METALS** | Factory Deployed Intern | Detroit, MI | N/A | 2026-10-21 (13d ago) | [Apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
 
 ---
-*Generated 2026-11-03 02:51 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-03 13:03 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
