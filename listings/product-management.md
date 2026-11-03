@@ -1,9 +1,10 @@
-# Product Management (246)
+# Product Management (248)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Paccar](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Product Planning Intern | Denton, TX | Summer 2027 | 2026-11-03 | 0 | simplify-2026 |
 | [Costco](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) | Costco Data Systems Intern - IT Product Owner | Issaquah, WA | Summer 2027 | 2026-11-02 | 1 | simplify-2026 |
 | [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) | Product Management Intern - Insurance | Alpharetta, GA | Summer 2027 | 2026-11-02 | 1 | simplify-2026 |
 | [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) | Product Manager Intern - Government | Alpharetta, GA | Summer 2027 | 2026-11-02 | 1 | simplify-2026 |
@@ -35,6 +36,7 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | N/A | 2026-10-27 | 7 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | CMBU Product Management Intern | San Jose, CA | N/A | 2026-10-27 | 7 | simplify-2026 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) | Product Line Management Intern - Apparel - Accessories | Beaverton, OR | Summer 2026 | 2026-10-27 | 7 | simplify-2026 |
+| [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378) | Technology Internship | Illinois | Summer 2027 | 2026-10-27 | 7 | simplify-2026 |
 | [Visa](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W) | Product Management Intern - Data and AI Team | Foster City, CA | Summer 2027 | 2026-10-27 | 7 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) | Product Planning Intern | Kirkland, WA | Summer 2027 | 2026-10-26 | 8 | simplify-2026 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 8 | simplify-2026 |

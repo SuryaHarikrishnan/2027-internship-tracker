@@ -1,9 +1,10 @@
-# Hardware Engineering (923)
+# Hardware Engineering (924)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159005) | Electronics Engineer Intern | Leicestershire, UK | N/A | 2026-11-03 | 0 | simplify-2026 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506292) | Device Characterization Intern | San Jose, CA | Summer 2027 | 2026-11-03 | 0 | simplify-2026 |
 | [Shield AI](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply) | Embedded Firmware Intern | Dallas, TX | Summer 2027 | 2026-11-02 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [WSP](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500) | Environmental Innovation Intern | Sherbrooke, QC, Canada | N/A | 2026-11-02 | 1 | simplify-2026 |
@@ -297,7 +298,7 @@
 | [Cambridge Consultants](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971704101) | Software Engineering Intern - Healthcare | United Kingdom | Summer 2027 | 2026-10-08 | 26 | simplify-2026 |
 | [StudyFetch](https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5) | Robotics Intern - Learning Kits & Curriculum | Beverly Hills, CA | N/A | 2026-10-08 | 26 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211) | ASIC Verification/Design Engineering Intern | Roseville, CA | Summer 2026 | 2026-10-08 | 26 | simplify-2026 |
-| [Allegro MicroSystems](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Musselburgh-East-Lothian-UK/XMLNAME-6-Months-Industrial-Placement---Internship_R6960) | Electronic Engineering Intern | Musselburgh, UK | N/A | 2026-10-08 | 26 | simplify-2026 |
+| [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Software-Engineering-Placement-Student_IRC98573) | Software Engineering Intern | Newtownabbey, UK | N/A | 2026-10-08 | 26 | simplify-2026 |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Placement-Student--Aftermarket-_IRC98570) | Placement Student Intern - Aftermarket | Newtownabbey, UK | N/A | 2026-10-08 | 26 | simplify-2026 |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569) | Hardware Engineer Intern | Newtownabbey, UK | N/A | 2026-10-08 | 26 | simplify-2026 |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Electronics-Software-Placement-Student_IRC98575) | Electronics/Software Intern | County Antrim, UK, Newtownabbey, UK | N/A | 2026-10-08 | 26 | simplify-2026 |
