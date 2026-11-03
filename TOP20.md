@@ -12,7 +12,7 @@ Ranked by freshness + company tier + role category.
 | 2 | **Meta** | Research Scientist Intern - FM Quality ML | Menlo Park, CA | N/A | 2026-11-03 (0d ago) | [Apply](https://www.metacareers.com/jobs/1125383989877928) |
 | 3 | **NVIDIA** | Math Libraries Intern, cuEST | Santa Clara, CA |  | 2026-11-03 (0d ago) | [Apply](https://go.vansh.nyc/1bE) |
 | 4 | **Tesla** | Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 (1d ago) | [Apply](https://go.vansh.nyc/1a1) |
-| 5 | **Northrop Grumman** | Flight Software Engineer Intern | Manhattan Beach, CA |  | 2026-11-03 (0d ago) | [Apply](https://go.vansh.nyc/1dV) |
+| 5 | **Northrop Grumman** | Ground Software Engineer Intern | Redondo Beach, CA |  | 2026-11-03 (0d ago) | [Apply](https://go.vansh.nyc/1e5) |
 | 6 | **Mosaic** | Artificial Intelligence Co-op Intern | Lithia, FL | Summer 2027 | 2026-11-03 (0d ago) | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420) |
 | 7 | **Qualcomm** | Verification Engineer Intern | Toronto, Canada |  | 2026-11-02 (1d ago) | [Apply](https://go.vansh.nyc/1bu) |
 | 8 | **Samsung** | AI Application Engineer Intern | San Jose, CA | N/A | 2026-11-02 (1d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (62d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-11-03 19:53 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-03 22:13 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
