@@ -1,9 +1,13 @@
-# Data Science, AI & Machine Learning (1657)
+# Data Science, AI & Machine Learning (1660)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41022) | Wi-Fi Research Co-op | Sunnyvale, CA | Winter 2027 | 2026-11-04 | 0 | simplify-2026 |
+| [Parsons](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194) | AI/ML Engineer Intern | Centreville, VA, United States | Summer 2027 | 2026-11-04 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Intern--Talent-Analytics---Assessment-Science_R000162095) | Talent Analytics & Assessment Science Intern | Cincinnati, OH | N/A | 2026-11-04 | 0 | simplify-2026 |
+| [Great American Insurance Company](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843) | Business Intelligence Intern - Power BI | Cincinnati, OH | Summer 2027 | 2026-11-04 | 0 | simplify-2026 |
 | [Erie Insurance Group](https://jobs.erieinsurance.com/job/Erie-Intern-II-(Claims-Systems-&-AI)-PA-16506/1447480500/?ats=successfactors) | Claims Systems & AI Intern 2 | Erie, PA | Summer 2026 | 2026-11-03 | 1 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7701477754169968901/detail) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Diego, CA | N/A | 2026-11-03 | 1 | simplify-2026 |
 | [Sherwin-Williams](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298) | R&D Data Visualization Intern | Brecksville, OH | Summer 2027 | 2026-11-03 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -101,7 +105,6 @@
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8337719) | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 | 5 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) | AI-Driven Equation Discovery Co-op | Cambridge, MA, SF | N/A | 2026-10-30 | 5 | simplify-2026 |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](https://job-boards.greenhouse.io/fccincinnati/jobs/8107647003) | First Team Sports Science Intern | Milford, OH | Winter 2027, Spring 2027 | 2026-10-30 | 5 | simplify-2026 |
-| [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/36311?icims=1) | Summer Intern - AI Innovation | Raleigh, NC | Summer 2027 | 2026-10-30 | 5 | simplify-2026 |
 | [Stripe](https://stripe.com/jobs/search?gh_jid=8328662) | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 | 5 | simplify-2026 |
 | [Stripe](https://stripe.com/jobs/search?gh_jid=8328664) | PhD Machine Learning Engineer Intern | Toronto, ON, Canada | Summer 2027 | 2026-10-30 | 5 | simplify-2026 |
 | [Stripe](https://stripe.com/jobs/search?gh_jid=8333122) | Machine Learning Engineer Intern | Toronto, ON, Canada | Summer 2027 | 2026-10-30 | 5 | simplify-2026 |
