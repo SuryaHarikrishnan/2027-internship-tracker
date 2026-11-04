@@ -1,4 +1,4 @@
-# Hardware Engineering (929)
+# Hardware Engineering (927)
 
 [← back to index](../README.md)
 
@@ -462,7 +462,6 @@
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437302) | Electronic Systems Intern | Columbus, IN | Summer 2026 | 2026-09-28 | 37 | simplify-2026 |
 | [UL Solutions](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10868) | SAR Laboratory Intern | Basingstoke, UK | Fall 2026 | 2026-09-28 | 37 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646) | AGS Software Engineering Co-op | Cedar Rapids, IA | Summer 2027, Fall 2027 | 2026-09-28 | 37 | simplify-2026 |
-| [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Signal-Integrity_JR112692) | Signal Integrity Intern | Boise, ID | N/A | 2026-09-28 | 37 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524) | Memory Systems Architecture & AI Intern - Research | San Jose, CA | N/A | 2026-09-28 | 37 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) | Technology Architecture Engineer Intern | Malta, NY | Summer 2027 | 2026-09-28 | 37 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755) | Signal Integrity Intern Co-op | Toronto, ON, Canada | Fall 2027, Summer 2028 | 2026-09-28 | 37 | simplify-2026 |
@@ -613,7 +612,6 @@
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493) | Software Engineer Intern | SF | Winter 2026 | 2026-09-15 | 50 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54226?icims=1) | Compound Semiconductor Device Characterization Intern | Santa Rosa, CA | Summer 2027 | 2026-09-14 | 51 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/20165?icims=1) | Software Engineer Intern | Yarmouth, ME | Winter 2026 | 2026-09-14 | 51 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/283274) | Software Engineer Intern - Camera & Robotics | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-14 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283396) | System Integration and Test Automation Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-14 | 51 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Silicon Engineering Intern | Madison, WI, Austin, TX, Sunnyvale, CA | Summer 2027 | 2026-09-14 | 51 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Hardware Engineer Intern - PhD | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-09-14 | 51 | simplify-2026 |
