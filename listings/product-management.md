@@ -1,9 +1,10 @@
-# Product Management (246)
+# Product Management (245)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Tesla](https://www.tesla.com/careers/search/job/288805) | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 | 0 | simplify-2026 |
 | [Kabam](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | Operations Product Manager Co-op | Vancouver, BC, Canada | Winter 2027 | 2026-11-03 | 1 | simplify-2026 |
 | [USAFacts](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) | AI Product Intern | Bellevue, WA | Summer 2026 | 2026-11-03 | 1 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Product Planning Intern | Denton, TX | Summer 2027 | 2026-11-03 | 1 | simplify-2026 |
@@ -37,7 +38,6 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | N/A | 2026-10-27 | 8 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | CMBU Product Management Intern | San Jose, CA | N/A | 2026-10-27 | 8 | simplify-2026 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) | Product Line Management Intern - Apparel - Accessories | Beaverton, OR | Summer 2026 | 2026-10-27 | 8 | simplify-2026 |
-| [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378) | Technology Internship | Illinois | Summer 2027 | 2026-10-27 | 8 | simplify-2026 |
 | [Visa](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W) | Product Management Intern - Data and AI Team | Foster City, CA | Summer 2027 | 2026-10-27 | 8 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) | Product Planning Intern | Kirkland, WA | Summer 2027 | 2026-10-26 | 9 | simplify-2026 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 9 | simplify-2026 |
@@ -115,7 +115,6 @@
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424) | Product Growth Intern - MBA | Palo Alto, CA | Summer 2027 | 2026-10-01 | 34 | simplify-2026 |
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946) | Associate Product Manager | Sunnyvale, CA | N/A | 2026-10-01 | 34 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) | MBA Product Intern | McLean, VA, Richmond, VA, Chicago, IL, NYC | Summer 2027 | 2026-10-01 | 34 | simplify-2026 |
-| [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185) | AI Enablement Intern | Austin, TX | Summer 2027 | 2026-09-30 | 35 | simplify-2026 |
 | [Schneider Electric](https://se.jibeapply.com/jobs/135310?icims=1) | Graduate Product Management Intern | Nashville, TN | Summer 2027 | 2026-09-30 | 35 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) | Product Management Intern - Digital Client | Mequon, WI | Winter 2026 | 2026-09-30 | 35 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Product Management Intern | Cary, NC | Summer 2027 | 2026-09-29 | 36 | simplify-2026 |

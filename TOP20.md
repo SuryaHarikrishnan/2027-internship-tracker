@@ -8,12 +8,12 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Meta** | Research Scientist Intern - Ads Quality - PhD | Menlo Park, CA | N/A | 2026-11-03 (1d ago) | [Apply](https://www.metacareers.com/jobs/1838454487574865) |
-| 2 | **Microsoft** | Software Engineer Intern, Teamwork Experiences | Redmond, WA |  | 2026-11-03 (1d ago) | [Apply](https://go.vansh.nyc/1dY) |
-| 3 | **NVIDIA** | Math Libraries Intern, cuEST | Santa Clara, CA |  | 2026-11-03 (1d ago) | [Apply](https://go.vansh.nyc/1bE) |
-| 4 | **Tesla** | Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA |  | 2026-11-02 (2d ago) | [Apply](https://go.vansh.nyc/1a1) |
-| 5 | **ByteDance** | Research Scientist Intern - Video and Edge - Multimedia Lab | San Diego, CA | N/A | 2026-11-03 (1d ago) | [Apply](https://jobs.bytedance.com/en/position/7701477754169968901/detail) |
-| 6 | **Northrop Grumman** | Flight Software Engineer Intern | Manhattan Beach, CA | Summer 2027 | 2026-11-03 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) |
+| 1 | **Tesla** | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/288805) |
+| 2 | **Meta** | Research Scientist Intern - Ads Quality - PhD | Menlo Park, CA | N/A | 2026-11-03 (1d ago) | [Apply](https://www.metacareers.com/jobs/1838454487574865) |
+| 3 | **Microsoft** | Software Engineer Intern, Teamwork Experiences | Redmond, WA |  | 2026-11-03 (1d ago) | [Apply](https://go.vansh.nyc/1dY) |
+| 4 | **NVIDIA** | Math Libraries Intern, cuEST | Santa Clara, CA |  | 2026-11-03 (1d ago) | [Apply](https://go.vansh.nyc/1bE) |
+| 5 | **Northrop Grumman** | Software Engineering Intern | Roy, UT |  | 2026-11-04 (0d ago) | [Apply](https://go.vansh.nyc/1gn) |
+| 6 | **ByteDance** | Research Scientist Intern - Video and Edge - Multimedia Lab | San Diego, CA | N/A | 2026-11-03 (1d ago) | [Apply](https://jobs.bytedance.com/en/position/7701477754169968901/detail) |
 | 7 | **Moderna** | mRNA Design Engineer Co-op | Cambridge, MA | Winter 2027 | 2026-11-03 (1d ago) | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128) |
 | 8 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (5d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | 9 | **Amazon** | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 (5d ago) | [Apply](https://amazon.jobs/en/jobs/10593872/software-development-engineer) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (4d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-04 01:11 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-04 13:18 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
