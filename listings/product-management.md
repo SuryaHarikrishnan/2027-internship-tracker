@@ -1,4 +1,4 @@
-# Product Management (259)
+# Product Management (260)
 
 [← back to index](../README.md)
 
@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813850819) | R&D Product Development Intern | Montreal, QC, Canada | Winter 2027 | 2026-11-05 | 0 | simplify-2026 |
 | [Equitable Bank](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Product Management Intern - Digital Banking | Toronto, ON, Canada | Winter 2027 | 2026-11-05 | 0 | simplify-2026 |
+| [S&P Global](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1) | Product Management Intern | NYC | N/A | 2026-11-05 | 0 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726452006) | Product Development Co-op | Needham, MA | Spring 2027 | 2026-11-04 | 1 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/288805) | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 | 1 | simplify-2026 |
 | [Clasp](https://jobs.ashbyhq.com/clasp/43f4eb5d-f990-43b9-959f-70e6f0158246/application?embed=true) | Product and Operations Intern | NYC | N/A | 2026-11-04 | 1 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Quantitative Finance (213)
+# Quantitative Finance (212)
 
 [← back to index](../README.md)
 
@@ -44,7 +44,6 @@
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2) | Quant Research Intern | London, UK | Summer 2027 | 2026-10-13 | 23 | simplify-2026 |
 | [American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759) | Systematic Credit Intern | NYC | Summer 2026 | 2026-10-13 | 23 | simplify-2026 |
 | [ExxonMobil](https://jobs.exxonmobil.com/job/London-Placement-Global-Trading-Quantitative-Analyst-London-2027-LND/1439091600/?ats=successfactors) | Global Trading Intern - Quantitative Analyst | London, UK | Spring 2027 | 2026-10-12 | 24 | simplify-2026 |
-| [Aon](https://jobs.aon.com/jobs/107787?icims=1) | Actuarial Consulting Intern - Pensions | London, UK | Summer 2027 | 2026-10-12 | 24 | simplify-2026 |
 | [State of Wisconsin Investment Board](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342) | Systematic Multi-Strategy Intern | Madison, WI | Summer 2027 | 2026-10-09 | 27 | simplify-2026 |
 | [Mitsubishi UFG](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1) | Summer Analyst Programme: Global Markets Intern - Markets Engineering | London, UK | Summer 2027 | 2026-10-09 | 27 | simplify-2026 |
 | [MUFG](https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD) | Summer Analyst Programme: Global Markets Intern - Markets Engineering | London, UK | Summer 2027 | 2026-10-09 | 27 | simplify-2026 |
@@ -107,6 +106,7 @@
 | [Flow Traders](https://job-boards.greenhouse.io/ftsp27co-ops/jobs/8176219) | Trading Operations Engineer Co-op | NYC | N/A | 2026-09-04 | 62 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) | Quantitative Finance Associate Intern - Off Cycle Internship Programme | London, UK | Winter 2026 | 2026-09-04 | 62 | simplify-2026 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/6181069004) | Quantitative Research Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-03 | 63 | simplify-2026 |
+| [InfiniteQuant](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) | Quantitative Developer Intern | Dubai - United Arab Emirates, NYC | Summer 2027 | 2026-09-03 | 63 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-09-03 | 63 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | Summer 2027 | 2026-09-01 | 65 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860) | Quantitative Research Intern - Multiple Teams | London, UK | N/A | 2026-09-01 | 65 | simplify-2026 |
@@ -208,7 +208,6 @@
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | Research and Portfolio Management Engineering Summer Analyst Intern | Greenwich, CT | Summer 2027 | 2026-05-26 | 163 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Research Summer Analyst Intern | Greenwich, CT | Summer 2027 | 2026-05-15 | 174 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Ardmore, PA | Summer 2027 | 2026-04-23 | 196 | simplify-2026 |
-| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) | Trading System Engineering Intern | Ardmore, PA | Summer 2027 | 2026-04-23 | 196 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | Ardmore, PA | Summer 2027 | 2026-04-21 | 198 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA | Summer 2027 | 2026-04-21 | 198 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | Summer 2027 | 2026-04-21 | 198 | simplify-2026 |
