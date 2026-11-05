@@ -1,11 +1,11 @@
-# Software Engineering (1465)
+# Software Engineering (1459)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [RR Donnelley](https://jobs.smartrecruiters.com/RRDonnelley/744000159883639) | Software Developer Intern | Warrenville, IL | Summer 2026 | 2026-11-05 | 0 | simplify-2026 |
-| [RR Donnelley](https://jobs.smartrecruiters.com/RRDonnelley/744000159883479) | IT Software Integration & Automation Intern | Minneapolis, MN | Summer 2026 | 2026-11-05 | 0 | simplify-2026 |
+| [RR Donnelley](https://jobs.smartrecruiters.com/RRDonnelley/744000159883639) | Software Developer Intern | Warrenville, IL | Summer 2026 | 2026-11-05 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [RR Donnelley](https://jobs.smartrecruiters.com/RRDonnelley/744000159883479) | IT Software Integration & Automation Intern | Minneapolis, MN | Summer 2026 | 2026-11-05 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Hearst](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | Software Engineer Intern | Carmel, IN | N/A | 2026-11-05 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [PA Consulting](https://jobs.smartrecruiters.com/PAConsulting/744000159817990) | Digital Apprentice - Software Development | Belfast, UK | Fall 2027 | 2026-11-05 | 0 | simplify-2026 |
 | [PA Consulting](https://jobs.smartrecruiters.com/PAConsulting/744000159818139) | Digital Apprentice - Digital - Software Development | Manchester, UK | Fall 2027 | 2026-11-05 | 0 | simplify-2026 |
@@ -216,8 +216,6 @@
 | [HCSC](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492) | Product Engineer Intern | Chicago, IL, Richardson, TX | N/A | 2026-10-26 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007) | Applied Gen AI/Data Scientist Graduate Intern | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Summer 2027 | 2026-10-26 | 10 | simplify-2026 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845) | Software Engineer Graduate Intern | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Summer 2027 | 2026-10-26 | 10 | simplify-2026 |
-| [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812) | Software Engineer Intern | Pennsylvania | Summer 2027 | 2026-10-26 | 10 | simplify-2026 |
-| [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027) | Software Engineer Undergraduate Intern | Pennsylvania | Summer 2027 | 2026-10-26 | 10 | simplify-2026 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026) | Provider Delivery Software Engineer Intern | Remote in USA | Summer 2027 | 2026-10-26 | 10 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206) | Developer Intern | Montreal, QC, Canada | Summer 2027 | 2026-10-26 | 10 | simplify-2026 |
 | [Nexstar](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/FL-Tampa/Unpaid-Programming-Intern_REQ-43464) | Programming Intern | Tampa, FL | N/A | 2026-10-26 | 10 | simplify-2026 |
@@ -397,7 +395,6 @@
 | [Engramme](https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2/application?embed=true) | Full-Stack Software Engineer Co-op Intern | SF | N/A | 2026-10-15 | 21 | simplify-2026 |
 | [Engramme](https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?embed=true) | Back-End Software Engineer Co-op Intern | SF | N/A | 2026-10-15 | 21 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | Compiler Engineer Intern | Toronto, ON, Canada | N/A | 2026-10-15 | 21 | simplify-2026 |
-| [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) | Performance Enablement AI/ML Intern | Remote in USA | N/A | 2026-10-15 | 21 | simplify-2026 |
 | [Expedia Group](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551) | Software Development Engineer Intern | London, UK | Summer 2027 | 2026-10-15 | 21 | simplify-2026 |
 | [Expedia Group](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545) | Mobile Engineer Intern | London, UK | Summer 2027 | 2026-10-15 | 21 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949) | Developer Technology Engineer Intern - Compute Performance | Bristol, UK, Zürich, Switzerland | N/A | 2026-10-15 | 21 | simplify-2026 |
@@ -493,7 +490,6 @@
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54640?icims=1) | R&D Software Engineer Intern | Calabasas, CA | N/A | 2026-10-08 | 28 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Viget](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) | Software Developer Intern | Boulder, CO | Summer 2027 | 2026-10-08 | 28 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Tesla](https://www.tesla.com/careers/search/job/286127) | Software Integration Engineer Intern - Service Tooling | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-08 | 28 | simplify-2026 |
-| [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000154478885) | Business Digitalisation & AI Automation Intern | Denham, UK | Summer 2027 | 2026-10-08 | 28 | simplify-2026 |
 | [Peraton](https://peraton.jibeapply.com/jobs/172061?icims=1) | Software Developer Intern | Topeka, KS | Summer 2027 | 2026-10-08 | 28 | simplify-2026 |
 | [DoorDash](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) | Software Engineer Intern | SF, Sunnyvale, CA | Summer 2027 | 2026-10-08 | 28 | simplify-2026 |
 | [Modernizing Medicine](https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148) | Software Engineer Intern | Boca Raton, FL | Summer 2027 | 2026-10-08 | 28 | simplify-2026 |
@@ -685,7 +681,6 @@
 | [Ramp](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application?embed=true) | Software Engineer Intern - Backend | NYC | Winter 2026 | 2026-09-24 | 42 | simplify-2026 |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | Software Engineer Intern - Summer 2027 | Plantation, FL | Summer 2027 | 2026-09-24 | 42 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277) | Software Engineer Co-op - Engineering | Danvers, MA | Winter 2026 | 2026-09-24 | 42 | simplify-2026 |
-| [NCR Voyix](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700) | Software Engineer Fellow | Florida | N/A | 2026-09-24 | 42 | simplify-2026 |
 | [Radiance Technologies](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438) | Modeling Engineer Intern - Analytics and Simulation Sciences | Beavercreek, OH | Summer 2027 | 2026-09-24 | 42 | simplify-2026 |
 | [Radiance Technologies](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1) | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | Summer 2027 | 2026-09-24 | 42 | simplify-2026 |
 | [ZipRecruiter](https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455) | Software Engineer Intern | Santa Monica, CA | Summer 2026 | 2026-09-23 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -923,7 +918,6 @@
 | [Domino Data Lab](https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560) | Software Engineer Intern | NYC | Summer 2027 | 2026-09-09 | 57 | simplify-2026 |
 | [Pilot Company](https://jobs.smartrecruiters.com/PilotCompany/744000148575429) | Application Development Intern | Knoxville, TN | Summer 2027 | 2026-09-09 | 57 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Pilot Company](https://jobs.smartrecruiters.com/PilotCompany/744000148576544) | Process Automation Intern - Process Automation | Knoxville, TN | Summer 2027 | 2026-09-09 | 57 | simplify-2026 |
-| [Peraton](https://careers-peraton.icims.com/jobs/170319/job?mobile=true&needsRedirect=false) | Engineer Co-op | Blacksburg, VA, Herndon, VA | Spring 2027 | 2026-09-09 | 57 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400) | Payments AI Engineer Intern | Pensacola, FL, Vienna, VA | Summer 2027 | 2026-09-09 | 57 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359) | Associate Intern - Lending Automation Technology & Solutions | Pensacola, FL, Vienna, VA | Summer 2027 | 2026-09-09 | 57 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) | Security Workflow Engineer Intern | Vienna, VA | Summer 2027 | 2026-09-09 | 57 | simplify-2026, vanshb03-2026, vanshb03-2027 |

@@ -1,4 +1,4 @@
-# Quantitative Finance (212)
+# Quantitative Finance (210)
 
 [← back to index](../README.md)
 
@@ -69,7 +69,6 @@
 | [National Bank of Canada](https://bnc.avature.net/en_CA/careers/JobDetail/35546) | Analyst Intern - Credit Risk Analytics | Canada | N/A | 2026-09-17 | 49 | simplify-2026 |
 | [Rothesay](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002) | Quantitative Strategist Intern | London, UK | Summer 2027 | 2026-09-17 | 49 | simplify-2026 |
 | [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Model-Risk-Management_REQ-4861) | Model Risk Management Intern | Chicago, IL | Summer 2027 | 2026-09-17 | 49 | simplify-2026 |
-| [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4862) | Quantitative Risk Management Intern | Chicago, IL | Summer 2027 | 2026-09-17 | 49 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Quantitative Researcher Post-Doctoral Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-09-16 | 50 | simplify-2026 |
 | [Equitable Bank](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply) | Credit Risk Intern | Toronto, ON, Canada | Winter 2027 | 2026-09-15 | 51 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Quantitative Researcher Intern - US | Miami, FL, NYC | Summer 2026 | 2026-09-15 | 51 | simplify-2026 |
@@ -207,7 +206,6 @@
 | [Base Power](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | Quantitative Developer Intern | Austin, TX | Summer 2026 | 2026-05-27 | 162 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | Research and Portfolio Management Engineering Summer Analyst Intern | Greenwich, CT | Summer 2027 | 2026-05-26 | 163 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Research Summer Analyst Intern | Greenwich, CT | Summer 2027 | 2026-05-15 | 174 | simplify-2026 |
-| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Ardmore, PA | Summer 2027 | 2026-04-23 | 196 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | Ardmore, PA | Summer 2027 | 2026-04-21 | 198 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA | Summer 2027 | 2026-04-21 | 198 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | Summer 2027 | 2026-04-21 | 198 | simplify-2026 |

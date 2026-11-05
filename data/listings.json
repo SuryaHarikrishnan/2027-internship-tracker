@@ -1,5 +1,475 @@
 [
   {
+    "date_updated": 1793909165,
+    "url": "https://go.vansh.nyc/1ja",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "CrowdStrike",
+    "title": "Intelligence Intern",
+    "source": "vanshb03",
+    "id": "a7432e62-9005-487b-95d0-d10e20b54072",
+    "date_posted": 1793908685,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793909165,
+    "url": "https://go.vansh.nyc/1jb",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "BorgWarner",
+    "title": "Software Test Intern",
+    "source": "vanshb03",
+    "id": "effeb0e8-9318-4eef-89a5-aea4d25ca303",
+    "date_posted": 1793908625,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793909165,
+    "url": "https://go.vansh.nyc/1jc",
+    "locations": [
+      "Lawrence, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Fresenius Medical Care",
+    "title": "Embedded Software Co-op",
+    "source": "vanshb03",
+    "id": "e516d0df-032f-440f-8053-d1f2f3fcc684",
+    "date_posted": 1793907845,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793905868,
+    "url": "https://go.vansh.nyc/MF",
+    "locations": [
+      "Oakville, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Geotab",
+    "title": "Embedded Developer Intern, Engine Data Reliability",
+    "source": "vanshb03",
+    "id": "564b3503-3a31-420f-853c-c8568254b838",
+    "date_posted": 1789077910,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793905868,
+    "url": "https://go.vansh.nyc/17F",
+    "locations": [
+      "Oakville, Canada",
+      "Toronto, Canada",
+      "Waterloo, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Geotab",
+    "title": "Software Developer Intern, Geotab Vitality",
+    "source": "vanshb03",
+    "id": "7942598b-60d6-47e6-8f77-83741ba8dc61",
+    "date_posted": 1793115011,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793905868,
+    "url": "https://go.vansh.nyc/1d0",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "IGS Energy",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "0bb24af4-73cf-4429-832b-24ae4c501788",
+    "date_posted": 1793685978,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793905750,
+    "url": "https://go.vansh.nyc/1j1",
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "STARKEY DE M\u00c9XICO S.A. DE C.V.",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "b874d3e7-6f1f-4e8a-b144-3a2fda8545c7",
+    "date_posted": 1793775458,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793905577,
+    "url": "https://go.vansh.nyc/1j0",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Palantir Technologies",
+    "title": "Software Engineer Intern, Sovereign AI Systems",
+    "source": "vanshb03",
+    "id": "15fa9474-f3bf-465f-9aef-20f746c86a5f",
+    "date_posted": 1793903717,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793904409,
+    "url": "https://go.vansh.nyc/1dj",
+    "locations": [
+      "Waterloo, Canada"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "company_name": "Rockwell Automation",
+    "title": "Robotics Research Co-op, Data Engineering",
+    "source": "vanshb03",
+    "id": "ac681f92-6713-4ac9-b4cc-99fc8dac4fab",
+    "date_posted": 1793685978,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793904344,
+    "url": "https://go.vansh.nyc/1iV",
+    "locations": [
+      "Reno, NV"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Legrand",
+    "title": "Firmware Engineering Intern",
+    "source": "vanshb03",
+    "id": "fee92699-7419-4f7d-acb4-4629559de649",
+    "date_posted": 1793836800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793904344,
+    "url": "https://go.vansh.nyc/1iW",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Shield",
+    "title": "Software Engineer Co-op",
+    "source": "vanshb03",
+    "id": "92a01831-232a-4c0b-880e-b5f181d1115d",
+    "date_posted": 1793898163,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793903984,
+    "url": "https://go.vansh.nyc/1iS",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Lumbermen's",
+    "title": "Software Developer Intern",
+    "source": "vanshb03",
+    "id": "f2dee55c-3c81-4b42-8975-75d6aa025ff6",
+    "date_posted": 1793836800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793903984,
+    "url": "https://go.vansh.nyc/1iT",
+    "locations": [
+      "Montreal, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Acumatica",
+    "title": "Developer Intern",
+    "source": "vanshb03",
+    "id": "35841e8c-8ca9-4bb2-9f6e-1d71ab411b7a",
+    "date_posted": 1793894362,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793903984,
+    "url": "https://go.vansh.nyc/1iU",
+    "locations": [
+      "McLean, VA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Booz Allen Hamilton",
+    "title": "Cybersecurity Analyst Intern",
+    "source": "vanshb03",
+    "id": "4e842258-f9c7-4571-908c-607a9eae2fb5",
+    "date_posted": 1793903835,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793903776,
+    "url": "https://go.vansh.nyc/1iR",
+    "locations": [
+      "Sparks, NV"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Sierra Nevada Corporation",
+    "title": "Firmware Engineer Intern",
+    "source": "vanshb03",
+    "id": "dd3318d9-0f13-45aa-8e03-513e841dd120",
+    "date_posted": 1793902636,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793902234,
+    "url": "https://go.vansh.nyc/JU",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "OCC",
+    "title": "Cyber Operations Intern",
+    "source": "vanshb03",
+    "id": "9f037fcf-b8be-4fdd-8942-1a12d8d5d41e",
+    "date_posted": 1789740989,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793900433,
+    "url": "https://go.vansh.nyc/1fb",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "company_name": "Arconic",
+    "title": "Cybersecurity Intern",
+    "source": "vanshb03",
+    "id": "76b4f1eb-159d-4f00-81d0-813400231c21",
+    "date_posted": 1788393600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793900351,
+    "url": "https://go.vansh.nyc/1iO",
+    "locations": [
+      "Mississauga, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nelnet",
+    "title": "Platform Engineer Intern",
+    "source": "vanshb03",
+    "id": "404aa6a5-29c0-4a80-85bd-4daead5821f0",
+    "date_posted": 1793900201,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793900186,
+    "url": "https://go.vansh.nyc/1iN",
+    "locations": [
+      "Dallas, TX",
+      "Washington, DC",
+      "Seattle, WA",
+      "San Diego, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Shield AI",
+    "title": "Software Engineer Co-op",
+    "source": "vanshb03",
+    "id": "1346f02d-6ff9-4c77-965d-5e7067f3e79b",
+    "date_posted": 1793898866,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793898631,
+    "url": "https://go.vansh.nyc/CC",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Leidos",
+    "title": "Performance Enablement AI/ML Intern",
+    "source": "vanshb03",
+    "id": "615914a1-4203-44fb-85a2-c63c18b2232f",
+    "date_posted": 1792022400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793898631,
+    "url": "https://go.vansh.nyc/SR",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Highmark Health",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "95e28595-e7d0-4cde-93ad-3f62be4ce75f",
+    "date_posted": 1793038924,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1793898525,
+    "url": "https://go.vansh.nyc/1iM",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Element Fleet Management",
+    "title": "Forward Deployed Engineer (FDE) Intern",
+    "source": "vanshb03",
+    "id": "74286338-ba79-46ac-9951-98194e3d9789",
+    "date_posted": 1793898378,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1793896835,
     "url": "https://go.vansh.nyc/Sm",
     "locations": [
@@ -428,7 +898,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -456,7 +928,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -9954,27 +10428,6 @@
   },
   {
     "date_updated": 1793745535,
-    "url": "https://go.vansh.nyc/1fb",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Arconic",
-    "title": "Cybersecurity Intern",
-    "source": "vanshb03",
-    "id": "76b4f1eb-159d-4f00-81d0-813400231c21",
-    "date_posted": 1788393600,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793745535,
     "url": "https://go.vansh.nyc/1fe",
     "locations": [
       "Ottawa, Canada"
@@ -13098,28 +13551,6 @@
   },
   {
     "date_updated": 1793686189,
-    "url": "https://go.vansh.nyc/1d0",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "IGS Energy",
-    "title": "Software Engineer Intern",
-    "source": "vanshb03",
-    "id": "0bb24af4-73cf-4429-832b-24ae4c501788",
-    "date_posted": 1793685978,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793686189,
     "url": "https://go.vansh.nyc/1d1",
     "locations": [
       "Winston Salem, NC"
@@ -13304,27 +13735,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Spring",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793686189,
-    "url": "https://go.vansh.nyc/1dj",
-    "locations": [
-      "Waterloo, Canada"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "Rockwell Automation",
-    "title": "Robotics Research Co-op, Data Engineering",
-    "source": "vanshb03",
-    "id": "ac681f92-6713-4ac9-b4cc-99fc8dac4fab",
-    "date_posted": 1793685978,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -16126,7 +16536,7 @@
     "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
     "id": "0fe9f15d-03e4-48d3-b51b-4509e048d44c",
     "title": "Student 2 Intern - BA Enterprise Business Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -20326,7 +20736,7 @@
     "company_name": "CoStar Group",
     "id": "4e5f22da-1551-4dbf-a079-0c987a791f0d",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -21563,29 +21973,6 @@
     "source": "vanshb03",
     "id": "7ddba8db-a933-4940-8e23-465aaeb37517",
     "date_posted": 1793115010,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793526799,
-    "url": "https://go.vansh.nyc/17F",
-    "locations": [
-      "Oakville, Canada",
-      "Toronto, Canada",
-      "Waterloo, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Geotab",
-    "title": "Software Developer Intern, Geotab Vitality",
-    "source": "vanshb03",
-    "id": "7942598b-60d6-47e6-8f77-83741ba8dc61",
-    "date_posted": 1793115011,
     "company_url": "",
     "is_visible": true,
     "season": "Winter",
@@ -42454,7 +42841,7 @@
     "company_name": "Sonos",
     "id": "67c38e84-2904-4f41-b7d9-11a2d287366b",
     "title": "Software Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -51149,7 +51536,7 @@
     "company_name": "Highmark Health",
     "id": "c653bbbf-b416-4571-bf39-8208f6011a49",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -51203,7 +51590,7 @@
     "company_name": "Highmark Health",
     "id": "aac08f60-5598-4676-9fbd-0bb81e77da07",
     "title": "Software Engineer Undergraduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -52683,28 +53070,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Fall",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793039764,
-    "url": "https://go.vansh.nyc/SR",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Highmark Health",
-    "title": "Software Engineer Intern",
-    "source": "vanshb03",
-    "id": "95e28595-e7d0-4cde-93ad-3f62be4ce75f",
-    "date_posted": 1793038924,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -57844,27 +58209,6 @@
   },
   {
     "date_updated": 1793023513,
-    "url": "https://go.vansh.nyc/MF",
-    "locations": [
-      "Oakville, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Geotab",
-    "title": "Embedded Developer Intern, Engine Data Reliability",
-    "source": "vanshb03",
-    "id": "564b3503-3a31-420f-853c-c8568254b838",
-    "date_posted": 1789077910,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793023513,
     "url": "https://go.vansh.nyc/ML",
     "locations": [
       "Parsippany-Troy Hills, NJ"
@@ -58052,27 +58396,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Spring",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793022083,
-    "url": "https://go.vansh.nyc/JU",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "OCC",
-    "title": "Cyber Operations Intern",
-    "source": "vanshb03",
-    "id": "9f037fcf-b8be-4fdd-8942-1a12d8d5d41e",
-    "date_posted": 1789740989,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -61997,28 +62320,6 @@
     "source": "vanshb03",
     "id": "9029d577-f817-463d-b23f-9a1f58283b0e",
     "date_posted": 1792018295,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793013503,
-    "url": "https://go.vansh.nyc/CC",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Leidos",
-    "title": "Performance Enablement AI/ML Intern",
-    "source": "vanshb03",
-    "id": "615914a1-4203-44fb-85a2-c63c18b2232f",
-    "date_posted": 1792022400,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -93484,7 +93785,7 @@
     "company_name": "Signify",
     "id": "6bdd4996-2fe0-4af6-9bb8-86d10bc846c0",
     "title": "Electrical Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -95521,7 +95822,7 @@
     "company_name": "Leidos",
     "id": "d22f3e14-e4d1-4fff-9e8a-373760835d7d",
     "title": "Performance Enablement AI/ML Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -109863,7 +110164,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "e9431d48-77fa-4f21-aada-d15b27d9738c",
     "title": "Business Digitalisation & AI Automation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -140962,7 +141263,7 @@
     "company_name": "NCR Voyix",
     "id": "b02fcae4-ac36-4769-8a28-85242403362c",
     "title": "Software Engineer Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -142484,7 +142785,7 @@
     "company_name": "Semtech",
     "id": "ddca628e-b43b-42c7-9f3a-7aafbed7b688",
     "title": "Validation Engineering Intern - Signal Integrity Products Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -142508,7 +142809,7 @@
     "company_name": "Semtech",
     "id": "d52793a7-e981-4bcd-8ba2-982aa7c315ed",
     "title": "Analog Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -142580,7 +142881,7 @@
     "company_name": "Semtech",
     "id": "8e6446b2-df27-41d9-b055-ed7d81c3cc62",
     "title": "Analog Design Engineer Intern - Signal Integrity Products Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -143769,7 +144070,7 @@
     "company_name": "Johnson & Johnson",
     "id": "75d3af44-afc1-48c6-a0ac-5a69ec3e6694",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -155689,7 +155990,7 @@
     "company_name": "Rockwell Automation",
     "id": "abf124c8-1933-4db2-9f87-cde430c76a3f",
     "title": "Robotics Research Co-op - Data Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -156825,7 +157126,7 @@
     "company_name": "OCC",
     "id": "cddeab16-284b-4b09-b61f-5bdb9dac600d",
     "title": "Data Intern - Data",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -157464,7 +157765,7 @@
     "company_name": "OCC",
     "id": "d042c4df-d400-4412-8a8f-e088dca5e104",
     "title": "Quantitative Risk Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -172798,7 +173099,7 @@
     "company_name": "BDO Canada",
     "id": "49121f69-8abd-4bf4-a1f0-3e903d810e64",
     "title": "Data & Analytics Co-op Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -177751,7 +178052,7 @@
     "company_name": "AMD",
     "id": "5cefc7e6-b923-4f8b-805c-97d558b50afd",
     "title": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -180784,7 +181085,7 @@
     "company_name": "Lightmatter",
     "id": "3286eb4f-5511-4560-ae4e-9d241dca2cda",
     "title": "Photonics Characterization Intern New Grad - New Grad",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -183755,7 +184056,7 @@
     "company_name": "SCOR",
     "id": "08f1e49a-46a6-497b-886c-20ec77b565b4",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -184068,7 +184369,7 @@
     "company_name": "Geotab",
     "id": "e0a4c475-6f3c-4f3e-a7ad-2e4046a608dd",
     "title": "Embedded Developer Intern - Engine Data Reliability",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -189327,7 +189628,7 @@
     "company_name": "Peraton",
     "id": "53214376-dcb6-4b32-99dd-b69bd332ee7e",
     "title": "Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -193979,7 +194280,7 @@
     "company_name": "Medpace",
     "id": "f3052650-6edb-49cf-934d-837770fd0a64",
     "title": "Feasibility Informatics Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -213579,7 +213880,7 @@
     "company_name": "Magna",
     "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
     "title": "Software Engineer Intern - Engineering Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -332956,7 +333257,7 @@
     "company_name": "Medpace",
     "id": "b010cb61-ec8b-4ef7-af0b-f83cdb8fb6fb",
     "title": "Feasibility Informatics Internship/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -378910,7 +379211,7 @@
     "company_name": "Susquehanna International Group (SIG)",
     "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
     "title": "Quantitative Strategy Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],

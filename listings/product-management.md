@@ -1,4 +1,4 @@
-# Product Management (260)
+# Product Management (259)
 
 [← back to index](../README.md)
 
@@ -37,7 +37,6 @@
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) | Product Strategy & Development Co-op | Needham, MA | Spring 2027 | 2026-10-28 | 8 | simplify-2026 |
 | [Tapestry](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) | E-Commerce Intern - E-Commerce | NYC | Summer 2027 | 2026-10-28 | 8 | simplify-2026 |
 | [T-Mobile](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) | Associate Technical Product Manager Intern | Frisco, TX | Summer 2027 | 2026-10-28 | 8 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Sonos](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1) | Software Product Management Intern | Seattle, WA | Summer 2027 | 2026-10-28 | 8 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701069870360627509) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | Summer 2027 | 2026-10-27 | 9 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701072604556642613) | Brand Search Ads Intern | NYC | N/A | 2026-10-27 | 9 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | N/A | 2026-10-27 | 9 | simplify-2026 |
