@@ -8,21 +8,21 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Tesla** | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/288805) |
-| 2 | **Meta** | Research Scientist Intern - Ads Quality - PhD | Menlo Park, CA | N/A | 2026-11-03 (2d ago) | [Apply](https://www.metacareers.com/jobs/1838454487574865) |
-| 3 | **Microsoft** | Software Engineer Intern, Teamwork Experiences | Redmond, WA |  | 2026-11-03 (2d ago) | [Apply](https://go.vansh.nyc/1dY) |
-| 4 | **NVIDIA** | AI Compiler and Kernel Intern | Austin, TX | Summer 2027 | 2026-11-02 (3d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
-| 5 | **Northrop Grumman** | Software Engineer Intern | McClellan, CA |  | 2026-11-04 (1d ago) | [Apply](https://go.vansh.nyc/1h5) |
-| 6 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (6d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
-| 7 | **Amazon** | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 (6d ago) | [Apply](https://amazon.jobs/en/jobs/10593872/software-development-engineer) |
-| 8 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 (6d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
-| 9 | **Salesforce** | AI Labs Intern, Emerging Talent | San Francisco, CA, Seattle, WA |  | 2026-10-30 (6d ago) | [Apply](https://go.vansh.nyc/10J) |
-| 10 | **Apple** | Swift Runtime Engineer Intern - Swift Runtimes | London, UK | N/A | 2026-10-30 (6d ago) | [Apply](https://jobs.apple.com/en-us/details/200692438) |
-| 11 | **Cloudflare** | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 (7d ago) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914) |
-| 12 | **ByteDance** | Research Scientist Intern - Video and Edge - Multimedia Lab | San Diego, CA | N/A | 2026-11-03 (2d ago) | [Apply](https://jobs.bytedance.com/en/position/7701477754169968901/detail) |
-| 13 | **Moderna** | mRNA Design Engineer Co-op | Cambridge, MA | Winter 2027 | 2026-11-03 (2d ago) | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128) |
-| 14 | **Qualcomm** | Verification Engineer Intern | Toronto, Canada |  | 2026-11-02 (3d ago) | [Apply](https://go.vansh.nyc/1bu) |
-| 15 | **Samsung** | AI Application Engineer Intern | San Jose, CA | N/A | 2026-11-02 (3d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) |
+| 1 | **Meta** | Hardware Systems Architecture Intern - Performance & Workload Analysis | Redmond, WA | N/A | 2026-11-05 (0d ago) | [Apply](https://www.metacareers.com/jobs/1296272445973940) |
+| 2 | **Microsoft** | Research Intern - Multiple Teams | Redmond, WA | Summer 2026 | 2026-11-05 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557054069) |
+| 3 | **NVIDIA** | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-11-04 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) |
+| 4 | **Figma** | PhD Intern - Software Engineer - Interaction Design | SF, NYC | Summer 2027 | 2026-11-04 (1d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004) |
+| 5 | **Tesla** | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/288805) |
+| 6 | **TikTok** | Research Scientist Intern - Monetization Technology - Ads Core | San Jose, CA | Summer 2027 | 2026-11-05 (0d ago) | [Apply](https://lifeattiktok.com/search/7703777085291415813) |
+| 7 | **Qualcomm** | Display IP FPGA Emulation Intern | Markham, ON, Canada | Summer 2027 | 2026-11-05 (0d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) |
+| 8 | **AMD** | Senior Systems Design Engineer Intern | Markham, Canada |  | 2026-11-04 (1d ago) | [Apply](https://go.vansh.nyc/1hu) |
+| 9 | **IMC Trading** | Research Analyst Intern | Chicago, IL | Summer 2027 | 2026-11-04 (1d ago) | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) |
+| 10 | **Northrop Grumman** | Software Engineer Co-op Intern | McClellan Park, CA | Spring 2027 | 2026-11-04 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329) |
+| 11 | **Intel** | Robotics PhD Intern | Hillsboro, OR, Phoenix, AZ | N/A | 2026-11-04 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833) |
+| 12 | **Waymo** | Research Scientist Intern | Mountain View, CA | Summer 2027 | 2026-10-30 (6d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
+| 13 | **Amazon** | Software Development Engineer Intern | Cupertino, CA | N/A | 2026-10-30 (6d ago) | [Apply](https://amazon.jobs/en/jobs/10593872/software-development-engineer) |
+| 14 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, SF, NYC | Summer 2027 | 2026-10-30 (6d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
+| 15 | **Salesforce** | AI Labs Intern, Emerging Talent | San Francisco, CA, Seattle, WA |  | 2026-10-30 (6d ago) | [Apply](https://go.vansh.nyc/10J) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (5d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-05 01:24 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-05 13:31 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
