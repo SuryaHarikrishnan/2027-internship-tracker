@@ -1,4 +1,4 @@
-# Quantitative Finance (206)
+# Quantitative Finance (205)
 
 [← back to index](../README.md)
 
@@ -30,7 +30,6 @@
 | [AMA](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | N/A | 2026-10-23 | 14 | simplify-2026 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | PhD Centralized Research Intern | NYC | Summer 2027 | 2026-10-22 | 15 | simplify-2026 |
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/140355?icims=1&lang=en-us) | Structuring & Portfolio Management Intern | San Diego, CA | Summer 2027 | 2026-10-22 | 15 | simplify-2026 |
-| [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8300829) | Sports Trader Intern | Jersey City, NJ | Summer 2027 | 2026-10-20 | 17 | simplify-2026 |
 | [Graviton](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | Quantitative Researcher Intern | London, UK, Amsterdam, Netherlands, NYC, Singapore | Summer 2027 | 2026-10-19 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1) | Quantitative Intern - Portfolio Engineering and Analytics | Boston, MA | Summer 2026 | 2026-10-16 | 21 | simplify-2026 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803) | Quantitative Research Intern | NYC | N/A | 2026-10-16 | 21 | simplify-2026 |

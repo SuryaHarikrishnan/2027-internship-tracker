@@ -1,4 +1,4 @@
-# Hardware Engineering (968)
+# Hardware Engineering (964)
 
 [← back to index](../README.md)
 
@@ -95,7 +95,6 @@
 | [Samsung](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003) | SRAM Design Engineer Intern | San Jose, CA | N/A | 2026-10-30 | 7 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721862542) | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | Summer 2027 | 2026-10-30 | 7 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-PhD-Intern_JR0288749) | TD Memory Quality and Reliability PhD Intern | Santa Clara, CA, Hillsboro, OR, Folsom, CA | N/A | 2026-10-30 | 7 | simplify-2026 |
-| [Altera](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367) | Hardware Design Engineer Intern | Toronto, ON, Canada | N/A | 2026-10-30 | 7 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) | Device Engineering Intern - Silicon Photonics | Malta, NY | Summer 2027 | 2026-10-30 | 7 | simplify-2026 |
 | [Toyota Research Institute](https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3/apply) | Human Interactive Driving Intern - Platform Research Systems Integration | Los Altos, CA | N/A | 2026-10-29 | 8 | simplify-2026 |
 | [Loft Orbital](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) | Test Engineering Intern - Test Engineering | Golden, CO | Summer 2027 | 2026-10-29 | 8 | simplify-2026 |
@@ -140,7 +139,6 @@
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-10-27 | 10 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-10-27 | 10 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106) | Product Test Development Engineer Intern | Boise, ID | N/A | 2026-10-27 | 10 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Rockwall-Intern,-Software-Engineer-TX-75032/1443682400/?ats=successfactors) | Software Engineer Intern | Rockwall, TX | N/A | 2026-10-26 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Meta](https://www.metacareers.com/jobs/938682979075854) | Battery Engineering Intern | Sunnyvale, CA | N/A | 2026-10-26 | 11 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) | Analog Design Engineer Intern | Santa Clara, CA | N/A | 2026-10-26 | 11 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) | Software Engineer Intern - Embedded Systems | United Kingdom | N/A | 2026-10-26 | 11 | simplify-2026 |
@@ -321,7 +319,6 @@
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679) | Electrical Engineer / PCB Designer Intern | Plantation, FL | Summer 2027 | 2026-10-13 | 24 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54715?icims=1) | Tech 2 Intern | Roseville, CA | N/A | 2026-10-12 | 25 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54345?icims=1) | Research and Development Hardware Engineer Intern | Austin, TX | Summer 2026 | 2026-10-12 | 25 | simplify-2026 |
-| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268) | Hardware Development Co-op | New Providence, NJ | Winter 2027, Spring 2027, Summer 2027 | 2026-10-12 | 25 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000155109379) | Recording Electronics Data Analytics & Optimization Co-op | Rochester, MN | Spring 2027 | 2026-10-12 | 25 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Bridge Neurotech](https://jobs.ashbyhq.com/bridgeneurotech/01c03769-b8eb-46c1-b668-469832b99c51/application?embed=true) | Hardware Engineering Intern | Redwood City, CA | N/A | 2026-10-12 | 25 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432) | Systems Engineer Co-op | Cedar Rapids, IA | Spring 2027, Summer 2027 | 2026-10-12 | 25 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -632,7 +629,6 @@
 | [Ensign-Bickford Aerospace & Defense Company](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) | Development Engineer Intern | Simsbury, CT | Summer 2027 | 2026-09-16 | 51 | simplify-2026 |
 | [Ensign-Bickford Industries](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) | Development Engineer Intern | Simsbury, CT | Summer 2027 | 2026-09-16 | 51 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146) | Test Engineer Intern | Wilmington, MA, Durham, NC | Winter 2026 | 2026-09-16 | 51 | simplify-2026 |
-| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721109168) | Sensors Subsystem Engineering Intern - Multiple Teams | Markham, ON, Canada | Summer 2027 | 2026-09-15 | 52 | simplify-2026 |
 | [Lunar Outpost](https://lunaroutpost.bamboohr.com/careers/392/) | Embedded Software Engineer Intern - Summer 2027 | Golden, CO | Summer 2027 | 2026-09-15 | 52 | simplify-2026 |
 | [Gecko Robotics](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true) | Embedded Software Engineer Intern - RoboSPLAT - Field Infra | Pittsburgh, PA | Summer 2027 | 2026-09-15 | 52 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/19948?icims=1) | Electronics Technician Intern | Olathe, KS | N/A | 2026-09-15 | 52 | simplify-2026 |
