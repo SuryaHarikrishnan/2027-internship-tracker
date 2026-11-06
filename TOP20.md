@@ -17,12 +17,12 @@ Ranked by freshness + company tier + role category.
 | 7 | **Microsoft** | Research Intern - Multiple Teams | Redmond, WA | Summer 2026 | 2026-11-05 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557054069) |
 | 8 | **Figma** | PhD Intern - Software Engineer - Interaction Design | SF, NYC | Summer 2027 | 2026-11-04 (2d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004) |
 | 9 | **Tesla** | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 (2d ago) | [Apply](https://www.tesla.com/careers/search/job/288805) |
-| 10 | **Qualcomm** | Software Validation Engineering Intern | Markham, Canada |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1kR) |
-| 11 | **Rivian** | ML AI Motor Controls Algorithm Intern | Champaign, IL |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1kS) |
-| 12 | **TikTok** | POI Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-06 (0d ago) | [Apply](https://lifeattiktok.com/search/7696000179569854725) |
-| 13 | **Zoox** | Software Engineer Intern, Software Platforms & Product | Foster City, CA |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1jV) |
-| 14 | **CrowdStrike** | Intelligence Intern | Arlington County, Arlington, VA | Summer 2027 | 2026-11-05 (1d ago) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605) |
-| 15 | **Intel** | GPU Architecture Intern | Folsom, CA | N/A | 2026-11-05 (1d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529) |
+| 10 | **CrowdStrike** | Professional Services Pathfinder Intern, Red Team | Arlington, VA |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1lc) |
+| 11 | **Samsung** | Care AI Data Analytic Intern | Plano, TX |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1le) |
+| 12 | **Qualcomm** | Software Validation Engineering Intern | Markham, Canada |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1kR) |
+| 13 | **Rivian** | ML AI Motor Controls Algorithm Intern | Champaign, IL |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1kS) |
+| 14 | **TikTok** | POI Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-06 (0d ago) | [Apply](https://lifeattiktok.com/search/7696000179569854725) |
+| 15 | **Zoox** | Software Engineer Intern, Software Platforms & Product | Foster City, CA |  | 2026-11-06 (0d ago) | [Apply](https://go.vansh.nyc/1jV) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (6d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-06 19:45 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-06 21:58 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
