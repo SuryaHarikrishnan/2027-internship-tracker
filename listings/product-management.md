@@ -1,9 +1,10 @@
-# Product Management (260)
+# Product Management (262)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7696000178264361269) | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-07 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) | Product Management Intern - MBA | Atlanta, GA | Summer 2027 | 2026-11-06 | 1 | simplify-2026 |
 | [Docusign](https://careers.docusign.com/jobs/30625?icims=1&lang=en-us) | Product Manager Intern | SF | N/A | 2026-11-06 | 1 | simplify-2026 |
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441495) | Product Manager Intern | Peterborough, UK | Summer 2027 | 2026-11-06 | 1 | simplify-2026 |
@@ -168,6 +169,7 @@
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-09-09 | 59 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361) | Product Strategist Intern - Student Loans | Vienna, VA | Summer 2027 | 2026-09-09 | 59 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305) | Summer Associate Internship - Technical Product Analyst | Vienna, VA | Summer 2027 | 2026-09-09 | 59 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7649673091993454853) | Product Manager Intern | San Jose, CA | Summer 2026 | 2026-09-09 | 59 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168322) | Associate Product Manager Intern - Multiple Teams | SF | Summer 2027 | 2026-09-09 | 59 | simplify-2026 |
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | Summer 2027 | 2026-09-08 | 60 | simplify-2026 |
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Product Intern | Mountain View, CA | Summer 2027 | 2026-09-08 | 60 | simplify-2026 |

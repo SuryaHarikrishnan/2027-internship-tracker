@@ -18,11 +18,11 @@ Ranked by freshness + company tier + role category.
 | 8 | **Palantir** | Software Engineer Intern - Sovereign AI Systems | London, UK | N/A | 2026-11-05 (2d ago) | [Apply](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e/apply) |
 | 9 | **Microsoft** | Research Intern - Multiple Teams | Redmond, WA | Summer 2026 | 2026-11-05 (2d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557054069) |
 | 10 | **Figma** | PhD Intern - Software Engineer - Interaction Design | SF, NYC | Summer 2027 | 2026-11-04 (3d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004) |
-| 11 | **Zoox** | Data Science Intern | Foster City, CA, Boston, MA |  | 2026-11-06 (1d ago) | [Apply](https://go.vansh.nyc/1lQ) |
-| 12 | **Qualcomm** | Digital Design Engineer Intern, Interim Engineering Systems | Toronto, Canada |  | 2026-11-06 (1d ago) | [Apply](https://go.vansh.nyc/1lI) |
-| 13 | **Samsung** | AI Data Analyst Intern | Plano, TX | N/A | 2026-11-06 (1d ago) | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) |
-| 14 | **CrowdStrike** | Professional Services Pathfinder Intern, Red Team | Arlington, VA |  | 2026-11-06 (1d ago) | [Apply](https://go.vansh.nyc/1lc) |
-| 15 | **Rivian** | ML AI Motor Controls Algorithm Intern | Champaign, IL |  | 2026-11-06 (1d ago) | [Apply](https://go.vansh.nyc/1kS) |
+| 11 | **Zoox** | Data Scientist Intern | Boston, MA, Foster City, CA | Summer 2027 | 2026-11-07 (0d ago) | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) |
+| 12 | **TikTok** | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-07 (0d ago) | [Apply](https://lifeattiktok.com/search/7696000178264361269) |
+| 13 | **Qualcomm** | Digital Design Engineer Intern, Interim Engineering Systems | Toronto, Canada |  | 2026-11-06 (1d ago) | [Apply](https://go.vansh.nyc/1lI) |
+| 14 | **Samsung** | AI Data Analyst Intern | Plano, TX | N/A | 2026-11-06 (1d ago) | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) |
+| 15 | **CrowdStrike** | Professional Services Pathfinder Intern, Red Team | Arlington, VA |  | 2026-11-06 (1d ago) | [Apply](https://go.vansh.nyc/1lc) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (7d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-07 00:48 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-07 11:57 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

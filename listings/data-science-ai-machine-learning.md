@@ -1,9 +1,13 @@
-# Data Science, AI & Machine Learning (1764)
+# Data Science, AI & Machine Learning (1754)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Zoox](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) | Data Scientist Intern | Boston, MA, Foster City, CA | Summer 2027 | 2026-11-07 | 0 | simplify-2026 |
+| [Zoox](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply) | Safety Reporting & Benchmarking Intern | Foster City, CA | Summer 2027 | 2026-11-07 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7704981006856145205) | Research Engineer Intern | San Jose, CA | N/A | 2026-11-07 | 0 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7704912455690504453) | Data Operations Intern | LA | Summer 2027 | 2026-11-07 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/289240) | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-06 | 1 | simplify-2026 |
 | [Enovation Controls](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257) | Embedded Machine Learning Engineer Intern | Tulsa, OK | Summer 2027 | 2026-11-06 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Corning](https://corningjobs.corning.com/job/Corning-Intern,-Image-Analysis-Summer-2027-NY-14831/1448762800/?ats=successfactors) | Image Analysis Intern | Corning, NY | Summer 2027 | 2026-11-06 | 1 | simplify-2026 |
@@ -72,8 +76,6 @@
 | [PA Consulting](https://jobs.smartrecruiters.com/PAConsulting/744000159816244) | Data and Decision Intelligence Apprentice | London, UK | Fall 2027 | 2026-11-05 | 2 | simplify-2026 |
 | [Framatome](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) | AI and Software Innovation Intern | Lynchburg, VA | N/A | 2026-11-05 | 2 | simplify-2026 |
 | [Liberty Mutual](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) | Analyst Development Intern | Boston, MA, Seattle, WA, Plano, TX | Summer 2027 | 2026-11-05 | 2 | simplify-2026 |
-| [State Farm](https://jobs.statefarm.com/jobs/46301?icims=1) | Magnet Program Intern | Tempe, AZ | Spring 2027, Summer 2027, Fall 2027 | 2026-11-05 | 2 | simplify-2026 |
-| [State Farm](https://jobs.statefarm.com/jobs/46049?icims=1) | Magnet Program @ University of Illinois Urbana-Champaign Intern | Champaign, IL | Spring 2027, Summer 2027, Fall 2027 | 2026-11-05 | 2 | simplify-2026 |
 | [Novelis](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) | Automotive Engineering Co-op | Kennesaw, GA | Summer 2027 | 2026-11-05 | 2 | simplify-2026 |
 | [Peraton](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false) | Social Media & Marketing Analyst Intern | San Diego, CA | Summer 2027 | 2026-11-05 | 2 | simplify-2026 |
 | [Toyota Research Institute](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply) | Robotics Research Intern - Manipulation | Los Altos, CA | N/A | 2026-11-05 | 2 | simplify-2026 |
@@ -207,7 +209,6 @@
 | [Andreessen Horowitz](https://a16z.com/about/jobs/?gh_jid=8046730003) | Research Intern - Frontier | NYC | Summer 2027 | 2026-10-30 | 8 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557051409) | Research Intern - Office of Applied Research | Redmond, WA, NYC | N/A | 2026-10-30 | 8 | simplify-2026 |
 | [Molina Healthcare](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156) | Electronic Data Interchange Intern | Remote in USA | Summer 2027 | 2026-10-30 | 8 | simplify-2026 |
-| [Molina Healthcare](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160) | Data Analytics Intern | United States | Summer 2027 | 2026-10-30 | 8 | simplify-2026 |
 | [Molina Healthcare](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) | Customer Experience & Analytics Intern - Undergraduate | Remote in USA | Summer 2027 | 2026-10-30 | 8 | simplify-2026 |
 | [Molina Healthcare](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) | Quality Improvement Intern | Michigan | N/A | 2026-10-30 | 8 | simplify-2026 |
 | [AltaLink](https://apply.workable.com/altalink/j/59D87FBB0C/apply) | Project Support Co-op | Calgary, AB, Canada | Fall 2027 | 2026-10-30 | 8 | simplify-2026 |
@@ -293,7 +294,7 @@
 | [Systems Planning and Analysis](https://spa.jibeapply.com/jobs/23698?icims=1) | Data Engineer Intern | Alexandria, VA | Summer 2027 | 2026-10-28 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5278662007) | Library Science Co-op | Santa Ana, CA | Winter 2027 | 2026-10-28 | 10 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006) | Consumer Insights Co-op | Needham, MA | Winter 2027 | 2026-10-28 | 10 | simplify-2026 |
-| [Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | Research Resident | SF, NYC | N/A | 2026-10-28 | 10 | simplify-2026 |
+| [Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5439169008) | Research Resident | London, UK, SF | N/A | 2026-10-28 | 10 | simplify-2026 |
 | [Emory University](https://emory.jibeapply.com/jobs/164710?icims=1) | Postdoctoral Fellow in Machine Learning and Data Science | Flowery Branch, GA | N/A | 2026-10-28 | 10 | simplify-2026 |
 | [Intuitive Surgical](https://jobs.smartrecruiters.com/Intuitive/744000158313717) | Robotics Engineer Intern | Sunnyvale, CA | Summer 2027 | 2026-10-28 | 10 | simplify-2026 |
 | [Intuitive Surgical](https://jobs.smartrecruiters.com/Intuitive/744000158310864) | Reinforcement Learning Intern | Sunnyvale, CA | Summer 2026 | 2026-10-28 | 10 | simplify-2026 |
@@ -350,10 +351,6 @@
 | [Mercor](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application?embed=true) | Research Engineer Intern - Benchmarking | SF | N/A | 2026-10-27 | 11 | simplify-2026 |
 | [Mercor](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application?embed=true) | Research Engineer Intern - Multiple Teams | SF | N/A | 2026-10-27 | 11 | simplify-2026 |
 | [42dot](https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application?embed=true) | Foundation Models Intern | SF, Sunnyvale, CA | N/A | 2026-10-27 | 11 | simplify-2026 |
-| [JM Family](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120) | Data Engineer Intern | Deerfield Beach, FL | Summer 2027 | 2026-10-27 | 11 | simplify-2026 |
-| [JM Family](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Business-Insights-Intern_JR105146) | Business Insights Intern | Deerfield Beach, FL | Summer 2027 | 2026-10-27 | 11 | simplify-2026 |
-| [JM Family](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145) | Sales Reporting & Analysis Intern | Deerfield Beach, FL | Summer 2027 | 2026-10-27 | 11 | simplify-2026 |
-| [JM Family](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133) | Power Platform & Analytics Intern | Mobile, AL | Summer 2027 | 2026-10-27 | 11 | simplify-2026 |
 | [Great American Insurance Company](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) | Data Engineer Intern | Cincinnati, OH | Summer 2027 | 2026-10-27 | 11 | simplify-2026 |
 | [Great American Insurance Company](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) | Cloud Data Platform Intern | Cincinnati, OH | Summer 2027 | 2026-10-27 | 11 | simplify-2026 |
 | [Great American Insurance Company](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801) | Emerging Technology Intern | Cincinnati, OH | Summer 2027 | 2026-10-27 | 11 | simplify-2026 |
@@ -391,7 +388,6 @@
 | [Zillow](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Data Science Intern | Seattle, WA | Summer 2027 | 2026-10-26 | 12 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856) | Enterprise Master Data Management Analyst Graduate Intern | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Summer 2027 | 2026-10-26 | 12 | simplify-2026 |
 | [Generac](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736) | AI Engineering Intern | Waukesha, WI | N/A | 2026-10-26 | 12 | simplify-2026 |
-| [JM Family](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Automation---Analytics-Intern_JR105132) | Automation & Analytics Intern | Deerfield Beach, FL | Summer 2027 | 2026-10-26 | 12 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) | 2027 Summer Games Data Scientist Intern | Lexington, MA | Summer 2027 | 2026-10-26 | 12 | simplify-2026 |
 | [Centerstone](https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-033321) | Bachelor Level Intern | Bradenton, FL | N/A | 2026-10-26 | 12 | simplify-2026 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true) | Autonomy Engineer Intern - Simulation & Robotics | San Mateo, CA | Summer 2027 | 2026-10-26 | 12 | simplify-2026 |
@@ -537,6 +533,7 @@
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | AI and Quantum Scientist Co-op | Toronto, ON, Canada | N/A | 2026-10-21 | 17 | simplify-2026 |
 | [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915) | Computer Science Industrial Placement Student Intern - Data Capability | Welwyn, UK | Summer 2027 | 2026-10-21 | 17 | simplify-2026 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) | Operations Analyst Intern | Pleasant Prairie, WI | Summer 2027 | 2026-10-21 | 17 | simplify-2026 |
+| [DriveWealth](https://boards.greenhouse.io/drivewealth/jobs/8039368003) | AI Consulting Associate Program Brokerage Intern | Chicago, IL | Summer 2027 | 2026-10-20 | 18 | simplify-2026 |
 | [Stand Together](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b/apply) | Policy Data Analyst Intern | NYC | Spring 2027 | 2026-10-20 | 18 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) | Engineering Operations Intern | Kirkland, WA | Summer 2027 | 2026-10-20 | 18 | simplify-2026 |
 | [Picton Mahoney Asset Management](https://pictonmahoney.bamboohr.com/careers/387/) | Data Engineer Intern | Toronto, ON, Canada | N/A | 2026-10-20 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -549,7 +546,6 @@
 | [Graphcore](https://job-boards.greenhouse.io/graphcore/jobs/8894738002) | Research PhD Intern | London, UK, Bristol, UK, Cambridge, UK | N/A | 2026-10-20 | 18 | simplify-2026 |
 | [Graphcore](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8901885002) | AI Technology PhD Research Intern | London, UK, Bristol, UK, Cambridge, UK | N/A | 2026-10-20 | 18 | simplify-2026 |
 | [SpAItial](https://jobs.ashbyhq.com/spaitial/39ab566f-8626-4633-a0ab-504e082032d6/application?embed=true) | Research Intern - 3D World Models | London, UK, Munich, Germany | N/A | 2026-10-20 | 18 | simplify-2026 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557040991) | Data Science – Forward Deployed Engineer: PhD Intern | Redmond, WA | N/A | 2026-10-20 | 18 | simplify-2026 |
 | [The New York Times](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005) | AI Initiatives Fellow | NYC | Summer 2027 | 2026-10-20 | 18 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) | Machine Learning Summer Associate Intern - NLP | Palo Alto, CA, Seattle, WA, NYC | Summer 2027 | 2026-10-20 | 18 | simplify-2026 |
 | [Milwaukee Brewers](https://careers-brewers.icims.com/jobs/2804/job?mobile=true&needsRedirect=false) | Minor League Technology Operations Intern | Phoenix, AZ | N/A | 2026-10-20 | 18 | simplify-2026 |
@@ -603,7 +599,6 @@
 | [Waabi](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | Safety Methodologies Intern Co-op | Toronto, ON, Canada, SF, Pittsburgh, PA | Summer 2027 | 2026-10-16 | 22 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557042145) | Research Intern - Machine Learning | Cambridge, MA, NYC | Summer 2026 | 2026-10-16 | 22 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557042156) | Research Intern - MSR AI Interaction and Learning | Redmond, WA, NYC | N/A | 2026-10-16 | 22 | simplify-2026 |
-| [CenturyLink](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors) | Data Internship - Analytics & Decision Science | Remote in USA | Summer 2027 | 2026-10-16 | 22 | simplify-2026 |
 | [Pattern](https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply) | Operations Intern | Lehi, UT | N/A | 2026-10-16 | 22 | simplify-2026 |
 | [Veeam Software](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) | Data & Analytics Engineering Intern | Alpharetta, GA | Summer 2027 | 2026-10-16 | 22 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Linea Energy](https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01) | GIS Intern | Austin, TX | Fall 2026 | 2026-10-16 | 22 | simplify-2026 |
@@ -694,7 +689,6 @@
 | [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396) | Research Intern - Knowledge Engineering & Generative AI | Santa Clara, CA | Winter 2027 | 2026-10-14 | 24 | simplify-2026 |
 | [J.M. Smucker](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006) | Net Revenue Optimization Intern | Orrville, OH | Summer 2027 | 2026-10-14 | 24 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) | Data Processing Developer Technology Intern | Bristol, UK | N/A | 2026-10-14 | 24 | simplify-2026 |
-| [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697) | AI/ML/Data Science Intern | Boston, MA, Barcelona, Spain, Spring House, PA, New Brunswick, NJ, Madrid, Spain, NYC, High Wycombe, UK | Winter 2027 | 2026-10-14 | 24 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2) | Power System Intern | Bellevue, WA | Summer 2027 | 2026-10-14 | 24 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) | AI Post-Training and Model Alignment Intern | Bellevue, WA | Summer 2027 | 2026-10-14 | 24 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3) | Grid Foundational Models Intern - AGI | Bellevue, WA | Summer 2027 | 2026-10-14 | 24 | simplify-2026 |
@@ -777,7 +771,6 @@
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146) | AI Research Intern - Embodied AI | Sunnyvale, CA | Summer 2027 | 2026-10-09 | 29 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) | Summer Intern - Onboard Autonomy - Embodied AI | Sunnyvale, CA | Summer 2027 | 2026-10-09 | 29 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) | Research Intern - World Models and Synthetic Data for Autonomous Driving | Santa Clara, CA | Summer 2027 | 2026-10-09 | 29 | simplify-2026 |
-| [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640) | Strategic Insight and Analytics Co-op | Horsham, PA | Spring 2027, Summer 2027 | 2026-10-09 | 29 | simplify-2026 |
 | [Papa John's](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) | Data Science Intern | Atlanta, GA | Summer 2027 | 2026-10-09 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8262154) | Summer Intern - Machine Learning - Planning/Prediction | Mountain View, CA | Summer 2027 | 2026-10-08 | 30 | simplify-2026 |
 | [GuidePoint Security](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004) | AI & Data Science Intern - GPSU | Remote in USA | N/A | 2026-10-08 | 30 | simplify-2026 |
@@ -999,13 +992,11 @@
 | [Atlassian](https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) | Data Scientist Intern | Seattle, WA | Summer 2027 | 2026-09-25 | 43 | simplify-2026 |
 | [TRC Companies](https://careers.trccompanies.com/jobs/26961?icims=1) | GIS Intern | Seattle, WA, Houston, TX, Lakewood, CO, Raleigh, NC, Chicago, IL, Phoenix, AZ | Summer 2027 | 2026-09-25 | 43 | simplify-2026 |
 | [Aevex Aerospace](https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008) | Robotics Engineering Co-op | Tampa, FL | Winter 2026 | 2026-09-25 | 43 | simplify-2026 |
-| [Intuitive Surgical](https://jobs.smartrecruiters.com/Intuitive/744000151714759) | AI Research Intern | Sunnyvale, CA | Winter 2027 | 2026-09-25 | 43 | simplify-2026 |
 | [Maricopa Association of Governments](https://azmag.wd108.myworkdayjobs.com/magcareers/job/Phoenix-AZ/Socioeconomic-Data-Intern_JR24) | Socioeconomic Data Intern | Phoenix, AZ | Winter 2026 | 2026-09-25 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Pacific Life](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828) | Data Engineering Intern | Newport Beach, CA | Summer 2027 | 2026-09-25 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Mill](https://job-boards.greenhouse.io/mill/jobs/4737741005) | Computer Vision Intern - Multiple Teams | San Bruno, CA | N/A | 2026-09-24 | 44 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8227640) | Intern - Multiple Teams | Mountain View, CA | Summer 2027 | 2026-09-24 | 44 | simplify-2026 |
 | [Brightstar.AI](https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true) | Applied AI Engineer Intern - Advancing Agent Quality | Miami, FL | Winter 2026 | 2026-09-24 | 44 | simplify-2026 |
-| [State Farm](https://jobs.statefarm.com/jobs/46353?icims=1) | Data Science Intern - Magnet Program | Tempe, AZ | Summer 2027, Spring 2028, Summer 2028, Fall 2028, Spring 2029 | 2026-09-24 | 44 | simplify-2026 |
 | [GM financial](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821) | Data Engineer Intern | Arlington, TX | Summer 2026 | 2026-09-24 | 44 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false) | Machine Learning Engineer Intern | Bala Cynwyd, PA | Winter 2026 | 2026-09-24 | 44 | simplify-2026 |
 | [Enterprise Holdings](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false) | Data Engineer Intern - IT | St. Louis, MO | Summer 2027 | 2026-09-24 | 44 | simplify-2026 |
@@ -1346,10 +1337,10 @@
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors) | Data Analytics Intern - Data Science/Applied Math | Pomona, CA, Rosemead, CA | Summer 2027 | 2026-09-01 | 67 | simplify-2026 |
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA, Rosemead, CA | Summer 2027 | 2026-09-01 | 67 | simplify-2026 |
 | [Pluralis Research](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Research Scientist Intern | Remote in USA, Remote in Australia | Winter 2026 | 2026-09-01 | 67 | simplify-2026 |
-| [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-7591) | AI & Analytics Intern | Minneapolis, MN, Davidson, NC | Summer 2027 | 2026-09-01 | 67 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) | Data Analytics Intern - US Consumer Services | NYC | Summer 2027 | 2026-09-01 | 67 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009657) | Data Analytics Intern | Shakopee, MN | Winter 2026 | 2026-09-01 | 67 | simplify-2026 |
 | [United Parcel Service](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Americas-Region-Business-Analytics-Summer-2027-Intern_R26030513) | Business Analytics Intern - Americas Region | Atlanta, GA | Summer 2027 | 2026-09-01 | 67 | simplify-2026 |
+| [Baird](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2) | Capital Markets Compliance Data & Analytics Intern | Milwaukee, WI | Summer 2027 | 2026-09-01 | 67 | simplify-2026 |
 | [Fenwick & West](https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/Forward-Deployed-Operations-Intern_R2964) | Forward Deployed Operations Intern | Boston, MA, Seattle, WA, Santa Monica, CA, Washington, DC, SF, Silicon Valley, CA, NYC | Fall 2026, Winter 2027 | 2026-09-01 | 67 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Gen-AI-Intern_R12193) | Generative AI Intern | Seattle, WA | Winter 2026 | 2026-09-01 | 67 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Data-Management---Reporting-Intern_R12057) | Data Management & Reporting Intern | Boise, ID | Winter 2026 | 2026-09-01 | 67 | simplify-2026 |
@@ -1390,6 +1381,7 @@
 | [Build AI](https://jobs.ashbyhq.com/build-ai/14e404c4-e189-4e49-9ef7-238da9655caf/application?embed=true) | Research Intern | SF, Shenzhen, Guangdong Province, China | N/A | 2026-08-30 | 69 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632) | Data Science Intern | Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA | N/A | 2026-08-30 | 69 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Lendable](https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true) | Intern | London, UK | Summer 2027 | 2026-08-29 | 70 | simplify-2026 |
+| [Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) | Supply Chain Data & Analytics Intern | LA, Torrance, CA | Summer 2027 | 2026-08-29 | 70 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | Service Technology Research Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-28 | 71 | simplify-2026 |
 | [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | Summer 2027 | 2026-08-28 | 71 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) | Data Scientist Intern - Summer Games | Rome, NY | Summer 2027 | 2026-08-28 | 71 | simplify-2026 |
@@ -1461,7 +1453,6 @@
 | [Clinical Ink](https://jobs.smartrecruiters.com/ClinicalInk/89163444) | Data Management Intern | Horsham, PA | Fall 2026 | 2026-08-18 | 81 | simplify-2026 |
 | [Huck Adventures](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Research Analyst Intern | Boulder, CO | Summer 2026, Fall 2026, Winter 2027 | 2026-08-18 | 81 | simplify-2026 |
 | [Dimensional Fund Advisors](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003) | Global Client Group Intern - Data and Tools - Undergraduate and Master's | Austin, TX | Summer 2027 | 2026-08-18 | 81 | simplify-2026 |
-| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | 2026-08-17 | 82 | simplify-2026 |
 | [Arthur J. Gallagher & Co.](https://jobs.ajg.com/jobs/57701?icims=1) | Data Analytics Intern | Rolling Meadows, IL | Summer 2027 | 2026-08-17 | 82 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | 2026-08-17 | 82 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data Science PhD Intern | London, UK | Summer 2027 | 2026-08-17 | 82 | simplify-2026 |
@@ -1750,7 +1741,6 @@
 | [Centific](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | Speech Intern 4 | Remote in USA | Summer 2026 | 2026-04-14 | 207 | simplify-2026 |
 | [Output Biosciences](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) | Research Intern, Machine Learning | New York, NY, San Francisco, CA | Summer 2026 | 2026-04-14 | 207 | simplify-2026 |
 | [Xterra AI](https://jobs.ashbyhq.com/xterra%20ai/bc481f5a-3365-4048-8533-0c7728db512b/application?embed=true) | Research Scientist Intern | SF | N/A | 2026-04-14 | 207 | simplify-2026 |
-| [Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA, Remote in Canada | N/A | 2026-04-10 | 211 | simplify-2026 |
 | [Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada, Berkeley, CA, United States | N/A | 2026-04-10 | 211 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false) | Machine Learning Intern | Ardmore, PA | Summer 2026 | 2026-04-09 | 212 | simplify-2026 |
 | [Perplexity AI](https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application) | Intern - Search Machine Learning Engineer | London, UK | Summer 2026 | 2026-04-08 | 213 | simplify-2026 |
