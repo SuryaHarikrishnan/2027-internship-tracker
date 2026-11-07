@@ -1,9 +1,20 @@
-# Other (1663)
+# Other (1674)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Blackhawk Network](https://go.vansh.nyc/1m7) | Technology Intern | Coppell, TX |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Blackhawk Network](https://go.vansh.nyc/1m8) | Technology Intern | Pleasanton, CA |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Dayton Freight](https://go.vansh.nyc/1m9) | Software Developer Intern | Dayton, OH |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Dayton Freight](https://go.vansh.nyc/1ma) | Business Intelligence Intern | Dayton, OH |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Kinaxis](https://go.vansh.nyc/1mb) | Developer Co-op, Machine Learning | Remote, United States |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Kinaxis](https://go.vansh.nyc/1mc) | Full Stack Developer Intern, C# | Ottawa, Canada |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Kinaxis](https://go.vansh.nyc/1md) | Developer Intern, Back End Technologies | Ottawa, Canada |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Springs Window Fashions](https://go.vansh.nyc/1me) | Textile Engineering Analytics & Software Intern | Middleton, WI |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Springs Window Fashions](https://go.vansh.nyc/1mf) | Software Engineering Intern | Long Island City, NY |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [empirical](https://go.vansh.nyc/1mg) | Software Engineering Intern | Dakota Dunes, SD |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Riverside Research](https://go.vansh.nyc/1mh) | Formal Methods Research Intern | Lexington, MA |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Corning](https://go.vansh.nyc/1lY) | HPC DevOps Engineer Intern, Science & Technology | Corning, NY |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Barrios](https://go.vansh.nyc/1lZ) | Data and Computer Eng/Sci Intern | Houston, TX |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Highgate](https://go.vansh.nyc/1m0) | Data Services Intern | Irving, TX |  | 2026-11-07 | 0 | vanshb03-2026, vanshb03-2027 |

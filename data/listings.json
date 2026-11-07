@@ -1,5 +1,237 @@
 [
   {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1m7",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Blackhawk Network",
+    "title": "Technology Intern",
+    "source": "vanshb03",
+    "id": "731e348e-ca48-43d2-a1ac-cb69961db395",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1m8",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Blackhawk Network",
+    "title": "Technology Intern",
+    "source": "vanshb03",
+    "id": "fe76d255-ab2a-4855-96db-52e7a888105f",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1m9",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Dayton Freight",
+    "title": "Software Developer Intern",
+    "source": "vanshb03",
+    "id": "5fb0fbdb-db5e-4be8-ba77-c7e1b6122f87",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1ma",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Dayton Freight",
+    "title": "Business Intelligence Intern",
+    "source": "vanshb03",
+    "id": "7308da04-a6dc-4898-8351-b653e226b5a5",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1mb",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Developer Co-op, Machine Learning",
+    "source": "vanshb03",
+    "id": "cac1ab40-c4c3-4bd0-bdaa-b2463771447f",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1mc",
+    "locations": [
+      "Ottawa, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Full Stack Developer Intern, C#",
+    "source": "vanshb03",
+    "id": "a068b5a7-0d48-4b83-8065-b7b88eb4ba41",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1md",
+    "locations": [
+      "Ottawa, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Developer Intern, Back End Technologies",
+    "source": "vanshb03",
+    "id": "fd98838b-2396-42bb-abeb-613143f16f45",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1me",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Springs Window Fashions",
+    "title": "Textile Engineering Analytics & Software Intern",
+    "source": "vanshb03",
+    "id": "6a809ff4-4c16-47ae-afa5-988a08d9c83e",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1mf",
+    "locations": [
+      "Long Island City, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Springs Window Fashions",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "40d4886d-46a0-4351-aab3-90949018dc80",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1mg",
+    "locations": [
+      "Dakota Dunes, SD"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "empirical",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "01b87f50-811e-49de-8736-42da45c82da8",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1mh",
+    "locations": [
+      "Lexington, MA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Riverside Research",
+    "title": "Formal Methods Research Intern",
+    "source": "vanshb03",
+    "id": "aaebd19d-6a34-490f-807a-464d64e10c4d",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1794057321,
     "url": "https://go.vansh.nyc/b0",
     "locations": [
@@ -12071,7 +12303,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -15251,7 +15485,7 @@
     "company_name": "Nutanix",
     "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -165981,7 +166215,7 @@
     "company_name": "Marvell",
     "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
     "title": "Design for Test Intern - MS",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -214932,7 +215166,7 @@
     "company_name": "Goldman Sachs",
     "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
     "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -214959,7 +215193,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -214985,7 +215219,7 @@
     "company_name": "Goldman Sachs",
     "id": "06098497-6840-4802-8838-81e0dbdec164",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215011,7 +215245,7 @@
     "company_name": "Goldman Sachs",
     "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215064,7 +215298,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215090,7 +215324,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215114,7 +215348,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215190,7 +215424,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215243,7 +215477,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -215267,7 +215501,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215293,7 +215527,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215319,7 +215553,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215346,7 +215580,7 @@
     "company_name": "Goldman Sachs",
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215373,7 +215607,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -232727,7 +232961,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -245936,7 +246172,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -246081,7 +246317,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268212,7 +268448,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268238,7 +268474,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268267,7 +268503,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -268322,7 +268558,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268504,7 +268740,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268552,7 +268788,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268607,7 +268843,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -315072,6 +315308,34 @@
       "Cardiff, UK"
     ],
     "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Stanley Black & Decker",
+    "id": "dd5d4222-905c-432a-b066-70d2456051d6",
+    "title": "Engineering Co-op",
+    "active": false,
+    "terms": [
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1783434149,
+    "date_posted": 1783433437,
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering--Co-Op_REQ-1000043149",
+    "locations": [
+      "Strongsville, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
@@ -456792,63 +457056,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Schnucks",
-    "id": "b186af68-c4dc-4916-9a23-72ef818d86c9",
-    "title": "Business Intelligence Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1773328140,
-    "date_posted": 1773328140,
-    "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/Business-Intelligence-Intern---Year-Round-_R-0041791",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "company_url": "https://simplify.jobs/c/Schnucks",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Stanley Black & Decker",
-    "id": "2b41cadf-8a2f-4740-aeb5-4ba4d0c93156",
-    "title": "Engineering Co-Op",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1773328092,
-    "date_posted": 1773328092,
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op-Spring-and-Summer-2025_REQ-1000032122",
-    "locations": [
-      "Strongsville, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"
