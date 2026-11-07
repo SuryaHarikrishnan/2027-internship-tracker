@@ -4,21 +4,18 @@
 
 **A standalone list, not part of the rest of this repo.** It is not fed by the auto-refresh pipeline used for the categories above and does not integrate with the application tracker (`scripts/track.py`). The companies below are checked directly against their own public career-site APIs every ~3 days -- no AI judgment, no aggregators, just a plain scraper like the one used for the rest of this repo.
 
-Last automated check: 2026-11-04 16:43 UTC
+Last automated check: 2026-11-07 15:18 UTC
 
 ## Confirmed open postings (auto-checked every 3 days)
 
 ### Amazon
 
-| Role | Location | Link |
-|---|---|---|
-| Financial Analyst Intern | Bengaluru | [Apply](https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern) |
+*No open internship listings found in this pass.*
 
 ### Adobe
 
 | Role | Location | Link |
 |---|---|---|
-| 2027 Intern - Research Intern | Bangalore | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-Intern_R172424) |
 | 2027 Intern - Research PhD Intern | Bangalore | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016) |
 
 ### Razorpay
