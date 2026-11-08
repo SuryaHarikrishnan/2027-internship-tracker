@@ -1,4 +1,4 @@
-# Hardware Engineering (955)
+# Hardware Engineering (954)
 
 [← back to index](../README.md)
 
@@ -914,7 +914,6 @@
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Engineering Development Program Intern - Hardware | Twinsburg, OH, Waukesha, WI | Summer 2027 | 2026-07-20 | 111 | simplify-2026 |
 | [Nidec](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732) | Test Lab Engineer Co-op | St. Louis, MO | Fall 2026 | 2026-07-17 | 114 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/8070392) | FPGA Intern | London, UK | Summer 2028 | 2026-07-16 | 115 | simplify-2026 |
-| [AMD](https://careers.amd.com/jobs/86868?icims=1) | Analog/Mixed-Signal Serdes Design Engineer | Markham, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | N/A | 2026-07-16 | 115 | simplify-2026 |
 | [Peak Energy](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007) | Systems Integration and Test Engineer Intern - Winter 2027 | Burlingame, CA | Winter 2027 | 2026-07-13 | 118 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Digital Physical Design Intern - P&R | Chandler, AZ | Fall 2026 | 2026-07-13 | 118 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8624440002) | Hardware Engineer - FPGA/Asic | NYC | N/A | 2026-07-10 | 121 | simplify-2026 |

@@ -1,5 +1,68 @@
 [
   {
+    "date_updated": 1794143327,
+    "url": "https://go.vansh.nyc/1mP",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Center for AI Safety (CAIS)",
+    "title": "Research Engineer Intern",
+    "source": "vanshb03",
+    "id": "7bbc3410-3361-4d2b-b865-e7ce146103f7",
+    "date_posted": 1791230497,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794143327,
+    "url": "https://go.vansh.nyc/1mQ",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "DoorDash",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "590f0187-974f-46ce-a63e-aa00578c8907",
+    "date_posted": 1793905182,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794143167,
+    "url": "https://go.vansh.nyc/1mO",
+    "locations": [
+      "North York, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ryan",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "8bb8c0d3-3452-4c57-ad7b-6fdb0385312f",
+    "date_posted": 1793232000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1794114523,
     "url": "https://go.vansh.nyc/1mK",
     "locations": [
@@ -80124,6 +80187,32 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "df86468a-0723-4315-bf56-0803134d3889",
+    "title": "Data Analyst Intern - FMCG",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792749364,
+    "date_posted": 1781503938,
+    "url": "https://lifeattiktok.com/search/7616659899507591477",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
@@ -215572,7 +215661,7 @@
     "company_name": "Goldman Sachs",
     "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
     "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215599,7 +215688,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215625,7 +215714,7 @@
     "company_name": "Goldman Sachs",
     "id": "06098497-6840-4802-8838-81e0dbdec164",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215651,7 +215740,7 @@
     "company_name": "Goldman Sachs",
     "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215704,7 +215793,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215730,7 +215819,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215754,7 +215843,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215830,7 +215919,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215883,7 +215972,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215907,7 +215996,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215933,7 +216022,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215959,7 +216048,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -215986,7 +216075,7 @@
     "company_name": "Goldman Sachs",
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -216013,7 +216102,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -222061,6 +222150,32 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Repsol",
+    "id": "4d7f5496-acc2-4000-91f7-f4a4fbd5a5b8",
+    "title": "Subsurface Engineering Intern",
+    "active": false,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788415026,
+    "date_posted": 1788307200,
+    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_84011-1",
+    "locations": [
+      "Anchorage, AK"
+    ],
+    "company_url": "https://simplify.jobs/c/Repsol",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
@@ -246578,7 +246693,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -246723,7 +246838,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -247137,6 +247252,32 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Repsol",
+    "id": "f60d92c6-dd95-443e-8667-325bd2b1e2b6",
+    "title": "Production Allocation Engineering Intern",
+    "active": false,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787784301,
+    "date_posted": 1787702400,
+    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1",
+    "locations": [
+      "The Woodlands, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Repsol",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
@@ -268854,7 +268995,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268880,7 +269021,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268909,7 +269050,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -268964,7 +269105,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -269146,7 +269287,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -269194,7 +269335,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -269249,7 +269390,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -290889,7 +291030,7 @@
     "company_name": "AMD",
     "id": "4f672998-821f-4318-8e79-68a8b7d4734b",
     "title": "Analog/Mixed-Signal Serdes Design Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -413008,6 +413149,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "262de8fa-292e-4d47-9bd2-bbf3befe8b30",
+    "title": "Data Analyst Project Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775572201,
+    "date_posted": 1775571141,
+    "url": "https://lifeattiktok.com/search/7564337316874848517",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Strategic Education",
     "id": "1e5f8c0d-d2fe-4a7e-ada4-34182af11713",
@@ -421319,6 +421486,30 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Rochester",
+    "id": "e22d201d-8ede-4bc3-beec-71f78185a2df",
+    "title": "Project Assistant 1",
+    "active": false,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1775084863,
+    "date_posted": 1775081265,
+    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/1630-Long-Pond-Road/Project-Assistant-I--H-_R269983",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Primerica",
     "id": "f25b87a3-62a0-4afa-8f6f-1948dfbdf34b",
@@ -427390,31 +427581,6 @@
     "date_posted": 1774262477,
     "company_url": "",
     "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Red Bull Advanced Technologies",
-    "id": "43e6575b-da65-4836-a587-44e3b54bb26b",
-    "title": "Level 3 Metrology Apprentice",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1774844896,
-    "date_posted": 1773411733,
-    "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Quality-Engineering-Apprentice_R0007261-1",
-    "locations": [
-      "Milton Keynes, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Red-Bull-Advanced-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
@@ -455299,295 +455465,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Repsol",
-    "id": "6a114435-21e7-44f4-9c5e-4c8a6bf86d51",
-    "title": "Production Allocation Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773414472,
-    "date_posted": 1773414472,
-    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Asset-Control-Intern_80888-2",
-    "locations": [
-      "The Woodlands, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Repsol",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "MultiCare Health System",
-    "id": "2a7c618f-f52a-4be7-9b1f-8bd1ad03211f",
-    "title": "Data Analyst Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773413966,
-    "date_posted": 1773413966,
-    "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Data-Analytics-Intern_JR71369",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/8cbd871d-4e1b-4472-a51d-63dde4a7094d",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Smith+Nephew",
-    "id": "4c7ebfb9-f755-40cc-a2c9-be8b33bd7cec",
-    "title": "Intern \u2013 AI for Global Clinical and Medical Affairs",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773412929,
-    "date_posted": 1773412929,
-    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern--AI-for-Global-Clinical-and-Medical-Affairs_R87647",
-    "locations": [
-      "Andover, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Smith-Nephew",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "University of Rochester",
-    "id": "09f80cd9-e2b2-4793-afb5-58cf62b81293",
-    "title": "Project Assistant 1",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1773412478,
-    "date_posted": 1773412478,
-    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Project-Assistant-I_R266117",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/University-Of-Rochester",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Associate's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "University of Rochester",
-    "id": "b441f04a-1511-4f00-8da4-f24b26c17f05",
-    "title": "Co-op Research Student 1",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773412413,
-    "date_posted": 1773412413,
-    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-I_R263737",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/University-Of-Rochester",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Repsol",
-    "id": "cde5b7b6-4350-462e-b1e7-b3390ccf6aa2",
-    "title": "Subsurface Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773411762,
-    "date_posted": 1773411762,
-    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_81483-2",
-    "locations": [
-      "Anchorage, AK"
-    ],
-    "company_url": "https://simplify.jobs/c/Repsol",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Rite Hite",
-    "id": "8a10406d-dd75-42f2-91eb-e97a1bb46455",
-    "title": "Service Technician",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1773411753,
-    "date_posted": 1773411753,
-    "url": "https://ritehite.wd12.myworkdayjobs.com/RHH/job/USA-WI-Madison/Apprentice-or-Service-Technician---West-of-Madison--WI_JR102024",
-    "locations": [
-      "Madison, WI"
-    ],
-    "company_url": "https://simplify.jobs/c/Rite-Hite",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Realty Income",
-    "id": "ef9bf69c-f804-4350-aba5-90ae25f51f92",
-    "title": "Operational Excellence Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773411708,
-    "date_posted": 1773411708,
-    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Operational-Excellence-Intern_R-100094",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Realty-Income",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "df86468a-0723-4315-bf56-0803134d3889",
-    "title": "Data Analyst Project Intern",
-    "active": true,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773411495,
-    "date_posted": 1773411495,
-    "url": "https://lifeattiktok.com/search/7616659899507591477",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA",
-      "PhD",
-      "JD",
-      "MD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Savannah River National Laboratory",
-    "id": "7d548449-dfa8-43e9-8ca9-92227ae947e1",
-    "title": "EM University Programs AI and Machine Learning Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773411417,
-    "date_posted": 1773411417,
-    "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1998",
-    "locations": [
-      "North Augusta, SC"
-    ],
-    "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Roku",
-    "id": "a50d6643-55b3-4cd5-a8dc-1983b0fa73f8",
-    "title": "Software Engineer Intern - Streaming Media",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773411105,
-    "date_posted": 1773411105,
-    "url": "https://www.weareroku.com/jobs/7599381?gh_jid=7599381",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Roku",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"
