@@ -1,5 +1,280 @@
 [
   {
+    "date_updated": 1794114523,
+    "url": "https://go.vansh.nyc/1mK",
+    "locations": [
+      "Boston, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Klaviyo",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "2e219007-5a68-4e1f-9e7e-eb3fe131f951",
+    "date_posted": 1793363833,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794114523,
+    "url": "https://go.vansh.nyc/1mM",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Citizens Energy Group",
+    "title": "Meter Services Data Analytics Intern",
+    "source": "vanshb03",
+    "id": "460eb7ba-5f54-4ebe-bf4c-ebee17f09c75",
+    "date_posted": 1794114431,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794100507,
+    "url": "https://go.vansh.nyc/Cc",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Pebl",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "8e94e252-b215-498d-921e-e35e00f7f94c",
+    "date_posted": 1791929907,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794100507,
+    "url": "https://go.vansh.nyc/Gq",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Workday",
+    "title": "Software Development Engineer Intern",
+    "source": "vanshb03",
+    "id": "16715d4d-81d5-40dd-94d6-454fced460f8",
+    "date_posted": 1791504000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794100178,
+    "url": "https://go.vansh.nyc/1mE",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Conifer Health Solutions",
+    "title": "BI Developer Intern",
+    "source": "vanshb03",
+    "id": "a2b57828-6f08-417b-ae3b-c2b5973d93be",
+    "date_posted": 1789948800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794100178,
+    "url": "https://go.vansh.nyc/1mF",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "UMG Contingent Worker Company",
+    "title": "Data Engineer Co-op",
+    "source": "vanshb03",
+    "id": "fffa0e9d-b12c-4ed9-80b3-4f482a856684",
+    "date_posted": 1794100095,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794099938,
+    "url": "https://go.vansh.nyc/1ms",
+    "locations": [
+      "Houston, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Group 1 Automotive",
+    "title": "IT Intern",
+    "source": "vanshb03",
+    "id": "7884b364-1d27-4d36-b443-2256cfbad42a",
+    "date_posted": 1794009600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794099938,
+    "url": "https://go.vansh.nyc/1mt",
+    "locations": [
+      "Johns Creek, GA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Rambus",
+    "title": "Digital Design Intern",
+    "source": "vanshb03",
+    "id": "7d0d7a53-ee53-492a-850f-2ab84b009dfb",
+    "date_posted": 1794009600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794099938,
+    "url": "https://go.vansh.nyc/1mu",
+    "locations": [
+      "Hamilton, NJ"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Rockefeller Capital Management",
+    "title": "Analyst Intern, Core Platforms",
+    "source": "vanshb03",
+    "id": "e53b914d-c0ac-4f28-a527-69f8dcb187f5",
+    "date_posted": 1794009600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794099938,
+    "url": "https://go.vansh.nyc/1mv",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Rockefeller Capital Management",
+    "title": "Analyst Intern, Information Security",
+    "source": "vanshb03",
+    "id": "50a9b8be-8582-41a4-88d8-fda74fd2e31c",
+    "date_posted": 1794009600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794099938,
+    "url": "https://go.vansh.nyc/1mw",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "SDSU Research Foundation",
+    "title": "Undergraduate Student Intern, Port Contamination Project",
+    "source": "vanshb03",
+    "id": "1f15f3de-a1cd-448e-9f91-7b4bf748efeb",
+    "date_posted": 1794009600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794099938,
+    "url": "https://go.vansh.nyc/1mx",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "United Wholesale Mortgage",
+    "title": "Technology Intern Program",
+    "source": "vanshb03",
+    "id": "dca131c1-01e8-49ac-9a62-ad46a501d282",
+    "date_posted": 1794009600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794099938,
+    "url": "https://go.vansh.nyc/1my",
+    "locations": [
+      "West Bend, WI"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "West Bend Insurance",
+    "title": "Data Solution Engineer Intern",
+    "source": "vanshb03",
+    "id": "9b652c99-2bb4-42f9-9d4a-7ecfb2ce925b",
+    "date_posted": 1794009600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1794085710,
     "url": "https://go.vansh.nyc/1mn",
     "locations": [
@@ -1806,7 +2081,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -6960,7 +7237,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -11573,7 +11852,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -12117,7 +12398,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -12143,7 +12426,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -29312,7 +29597,7 @@
     "company_name": "Microsoft",
     "id": "09939e91-4c36-4e3b-ace2-9d0117e05b68",
     "title": "Explore Program Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -69087,27 +69372,6 @@
   },
   {
     "date_updated": 1793015500,
-    "url": "https://go.vansh.nyc/Gq",
-    "locations": [
-      "Vancouver, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Workday",
-    "title": "Software Development Engineer Intern",
-    "source": "vanshb03",
-    "id": "16715d4d-81d5-40dd-94d6-454fced460f8",
-    "date_posted": 1791504000,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793015500,
     "url": "https://go.vansh.nyc/Gv",
     "locations": [
       "New York, NY"
@@ -69629,27 +69893,6 @@
     "source": "vanshb03",
     "id": "04023e67-222f-4a96-97d6-840447b7bdfc",
     "date_posted": 1791929720,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793013503,
-    "url": "https://go.vansh.nyc/Cc",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Pebl",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "8e94e252-b215-498d-921e-e35e00f7f94c",
-    "date_posted": 1791929907,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -102467,7 +102710,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -105618,7 +105863,7 @@
     "company_name": "Meta",
     "id": "89ca1b73-4bb7-4170-8435-a36bee214e34",
     "title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -108215,7 +108460,7 @@
     "company_name": "Pebl",
     "id": "2da5da2b-d4bb-411a-9edc-521c81a36a7a",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -113720,7 +113965,7 @@
     "company_name": "Workday",
     "id": "94a30c63-9e16-4706-b9bb-9713c9b0afd0",
     "title": "Software Development Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -113747,7 +113992,7 @@
     "company_name": "Workday",
     "id": "a2992424-eba5-4abe-a57d-d8c6c12fc0ce",
     "title": "Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -183621,7 +183866,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -197202,7 +197449,7 @@
     "company_name": "Applied Materials",
     "id": "441d92c8-bb63-49f4-94cb-afcd777fa84a",
     "title": "Electrical Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -223313,7 +223560,7 @@
     "company_name": "Stryten",
     "id": "054be3ce-3039-4545-b02e-d2f875075a76",
     "title": "Industrial or Mechanical Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -225207,7 +225454,7 @@
     "company_name": "Edison International",
     "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
     "title": "Computer Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -351887,6 +352134,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Canadian Tire",
+    "id": "0f463052-90cf-461f-8e7e-1212e29e75df",
+    "title": "Data Engineering Student",
+    "active": false,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1779531121,
+    "date_posted": 1779527696,
+    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--4-months----Fall-2026_JR162216-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Canadian-Tire",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "NVIDIA",
     "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
@@ -361175,32 +361448,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Secureframe",
-    "id": "3f94d282-4523-424c-8450-0e34874128ab",
-    "title": "Software Engineer New Grad - Growth",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1778834001,
-    "date_posted": 1773364658,
-    "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Secureframe",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
     "_sources": [
       "simplify-2026"
     ]
@@ -413819,6 +414066,33 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "73620dca-a60d-4b80-a9db-5fce7ed68ad7",
+    "title": "Edge AI Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775516581,
+    "date_posted": 1775513413,
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Orlando-Florida-United-States-of-America/Edge-AI-Intern--Summer-2026_R-0000157134-2",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "SharkNinja",
     "id": "b909c67e-7b13-4aa9-864d-f7bf856adf7a",
     "title": "Analytics & BI Intern",
@@ -455314,424 +455588,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "PHINIA",
-    "id": "eeeeab9f-ebea-4859-9c99-0d4a7fde8ff8",
-    "title": "Yini \u2013 Materials Engineering Student",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1773385462,
-    "date_posted": 1773385462,
-    "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Gillingham---United-Kingdom/YINI---Materials-Engineering-Student-2026-27_R2026-0076",
-    "locations": [
-      "Maidstone, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/PHINIA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PricewaterhouseCoopers (PwC)",
-    "id": "e5f615af-cec6-4cae-8cfd-b77c761ae6a2",
-    "title": "Data Analyst",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1773384564,
-    "date_posted": 1773384564,
-    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/AAC-Azara-CABA/Data-Analyst_707489WD-1",
-    "locations": [
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/PwC",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PricewaterhouseCoopers (PwC)",
-    "id": "27054417-8dae-440a-bcf6-ffa6d833aff3",
-    "title": "Co-op - Data Enablement - CPA",
-    "active": false,
-    "terms": [
-      "Fall 2026",
-      "Winter 2027",
-      "Spring 2027"
-    ],
-    "date_updated": 1773384563,
-    "date_posted": 1773384563,
-    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2026---Data-Enablement--CPA----8-month-Co-op---Vancouver_711231WD",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/PwC",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Royal Bank of Canada",
-    "id": "d309451f-0134-4703-9260-d103e8fbb9ce",
-    "title": "Capital Markets - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773384260,
-    "date_posted": 1773384260,
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000141007-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Royal Bank of Canada",
-    "id": "d8b3a27e-69b5-4842-9f6a-342a3a3d5a8b",
-    "title": "Edge AI Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773384254,
-    "date_posted": 1773384254,
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Orlando-Florida-United-States-of-America/Edge-AI-Intern--Summer-2026_R-0000157134-1",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Royal Bank of Canada",
-    "id": "74a9dbc9-3f12-4092-a1c5-7dfc8040b437",
-    "title": "Wealth Management Data Analyst",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773384217,
-    "date_posted": 1773384217,
-    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Providence-Rhode-Island-United-States-of-America/Wealth-Management-Summer-Data-Analyst_R-0000163166",
-    "locations": [
-      "Providence, RI"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "c73a883d-3e1c-461c-976b-0f4d3851c85c",
-    "title": "Product Engineering Intern - Agentic AI",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773384088,
-    "date_posted": 1773384088,
-    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Product-Engineering-Intern--Agentic-AI--Summer-2026-_R53279",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "PHINIA",
-    "id": "60426796-68ea-4b49-a765-e784ba80965f",
-    "title": "Yini \u2013 Product Inspection Student",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1773382939,
-    "date_posted": 1773382939,
-    "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Gillingham---United-Kingdom/YINI---Product-Inspection-Student-2026-27_R2026-0073-1",
-    "locations": [
-      "Maidstone, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/PHINIA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Canadian Tire",
-    "id": "8aee996d-4f6f-4b82-93ec-910cdf8dc463",
-    "title": "Data Engineering Student",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1773382841,
-    "date_posted": 1773382841,
-    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--8-months----Summer-2026_JR157903-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Canadian-Tire",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "ByteDance",
-    "id": "ad24c16a-de31-4cc3-bb24-873a0e77e6f8",
-    "title": "Student Researcher - Multiple Teams",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1773365370,
-    "date_posted": 1773365370,
-    "url": "https://jobs.bytedance.com/en/position/7614293046868822325/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "F5",
-    "id": "fa706eb7-815e-407f-a2de-a8e87283b5e8",
-    "title": "Software Development Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773365049,
-    "date_posted": 1773365049,
-    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Boulder-Louisville/Software-Development-Engineer-Intern--Boulder-_RP1036944",
-    "locations": [
-      "Lafayette, CO",
-      "Boulder, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/F5",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Sony Pictures Entertainment",
-    "id": "db3e1e9a-e358-4fb9-81d9-83223c1e727f",
-    "title": "Intern \u2013 Data Science - Theatrical Marketing",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773364923,
-    "date_posted": 1773364923,
-    "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Data-Science--Theatrical-Marketing---Summer-2026_JR111734",
-    "locations": [
-      "Culver City, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sony-Pictures-Entertainment",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "VSP Vision",
-    "id": "26825bdf-8880-4197-a81b-bc9b99fdb01b",
-    "title": "Intern - Agentic/Machine Learning Development",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773364811,
-    "date_posted": 1773364811,
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Agentic-Machine-Learning-Development_R-9216-1",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/VSP-Vision",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "StockX",
-    "id": "799b6c63-1dd1-464c-896e-04dba97b1b31",
-    "title": "Software Engineering Intern - DRC Team",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773364700,
-    "date_posted": 1773364700,
-    "url": "https://job-boards.greenhouse.io/stockx/jobs/8456940002",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/StockX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "WSP",
-    "id": "1c59b12a-8090-44fa-8edd-43837cc89378",
-    "title": "Web Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773364159,
-    "date_posted": 1773364159,
-    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/82638",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/WSP",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Notability",
-    "id": "898d61d9-04a3-488d-9b29-1dba8555f65a",
-    "title": "Android Software Engineer Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773364082,
-    "date_posted": 1773364082,
-    "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5129674008",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Notability",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
