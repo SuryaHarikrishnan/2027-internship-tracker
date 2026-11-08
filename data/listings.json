@@ -1,5 +1,91 @@
 [
   {
+    "date_updated": 1794157597,
+    "url": "https://go.vansh.nyc/1mU",
+    "locations": [
+      "Waterloo, IA",
+      "Cary, NC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "John Deere",
+    "title": "Software Engineer Intern, Product Engineering",
+    "source": "vanshb03",
+    "id": "8ef761a5-f3f8-4a85-b411-ccbb028cd05f",
+    "date_posted": 1792795459,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794157597,
+    "url": "https://go.vansh.nyc/1mV",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Booz Allen Hamilton",
+    "title": "Systems Engineer Intern",
+    "source": "vanshb03",
+    "id": "2ea95c5c-8bbf-4fff-b497-844a2040d183",
+    "date_posted": 1792972800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794157597,
+    "url": "https://go.vansh.nyc/1mW",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Qube Research and Technologies",
+    "title": "Technology Intern",
+    "source": "vanshb03",
+    "id": "519709b4-6461-4b25-9ccf-078c826c85cd",
+    "date_posted": 1793012494,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794157597,
+    "url": "https://go.vansh.nyc/1mY",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "ACLU Kentucky",
+    "title": "Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod)",
+    "source": "vanshb03",
+    "id": "7a973823-2752-458d-ab30-14773b10fe25",
+    "date_posted": 1793129801,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1794143327,
     "url": "https://go.vansh.nyc/1mP",
     "locations": [
@@ -34835,7 +34921,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -101072,7 +101160,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -223675,7 +223765,7 @@
     "company_name": "Stryten",
     "id": "054be3ce-3039-4545-b02e-d2f875075a76",
     "title": "Industrial or Mechanical Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -291030,7 +291120,7 @@
     "company_name": "AMD",
     "id": "4f672998-821f-4318-8e79-68a8b7d4734b",
     "title": "Analog/Mixed-Signal Serdes Design Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],

@@ -1,4 +1,4 @@
-# Other (1691)
+# Other (1695)
 
 [← back to index](../README.md)
 
@@ -750,6 +750,7 @@
 | [National Interstate Insurance](https://go.vansh.nyc/Wh) | Emerging Technology Intern | Cincinnati, OH |  | 2026-10-27 | 12 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Wi) | Platform Operations Developer Intern | Cincinnati, OH |  | 2026-10-27 | 12 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Wj) | Data Application Development Intern | Cincinnati, OH |  | 2026-10-27 | 12 | vanshb03-2026, vanshb03-2027 |
+| [ACLU Kentucky](https://go.vansh.nyc/1mY) | Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod) | New York, NY |  | 2026-10-27 | 12 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Wd) | Data Engineering Intern | Cincinnati, OH |  | 2026-10-27 | 12 | vanshb03-2026, vanshb03-2027 |
 | [OpusClip](https://go.vansh.nyc/WR) | Customer Experience Test Automation Intern | Burnaby, Canada |  | 2026-10-27 | 12 | vanshb03-2026, vanshb03-2027 |
 | [Papa John's](https://go.vansh.nyc/W8) | Cyber Security Intern | Atlanta, GA |  | 2026-10-27 | 12 | vanshb03-2026, vanshb03-2027 |
@@ -806,8 +807,10 @@
 | [Skydio](https://go.vansh.nyc/Si) | Autonomy Engineer Intern, Simulation & Robotics | San Mateo, CA |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
 | [Skydio](https://go.vansh.nyc/Sj) | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | San Mateo, CA |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
 | [Analog Devices](https://go.vansh.nyc/Qf) | DevOps Co-op | Boston, MA |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
+| [Qube Research and Technologies](https://go.vansh.nyc/1mW) | Technology Intern | Chicago, IL, New York, NY |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
 | [RTX](https://go.vansh.nyc/BP) | Embedded Software Engineering Intern | East Hartford, CT |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems, Inc.](https://go.vansh.nyc/W0) | Software Test Engineering Intern, Space and Embedded Crypto | Scottsdale, AZ |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
+| [Booz Allen Hamilton](https://go.vansh.nyc/1mV) | Systems Engineer Intern | Dayton, OH |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
 | [ADT](https://go.vansh.nyc/UH) | Cybersecurity & Risk Intern | Boca Raton, FL |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://go.vansh.nyc/T5) | Software Test Engineer Intern | Pittsburgh, PA |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
 | [Peraton](https://go.vansh.nyc/T6) | Solution Architect Co-op | San Diego, CA |  | 2026-10-26 | 13 | vanshb03-2026, vanshb03-2027 |
@@ -829,6 +832,7 @@
 | [Trimble](https://go.vansh.nyc/hX) | Automated Test Engineering Intern | Richmond Hill, Canada |  | 2026-10-24 | 15 | vanshb03-2026, vanshb03-2027 |
 | [ASML](https://go.vansh.nyc/hQ) | Platform Software Engineer In Test Intern | San Jose, CA |  | 2026-10-24 | 15 | vanshb03-2026, vanshb03-2027 |
 | [Figure AI](https://go.vansh.nyc/hT) | Developer Productivity Intern | San Jose, CA |  | 2026-10-24 | 15 | vanshb03-2026, vanshb03-2027 |
+| [John Deere](https://go.vansh.nyc/1mU) | Software Engineer Intern, Product Engineering | Waterloo, IA, Cary, NC |  | 2026-10-23 | 16 | vanshb03-2026, vanshb03-2027 |
 | [Microsoft](https://go.vansh.nyc/hN) | Software Engineer Intern, Security & Identity | United States |  | 2026-10-23 | 16 | vanshb03-2026, vanshb03-2027 |
 | [Siemens](https://go.vansh.nyc/hM) | Python Backend Developer Intern, Energy Flexibility Platform | Princeton, NJ |  | 2026-10-23 | 16 | vanshb03-2026, vanshb03-2027 |
 | [Multiply Labs](https://go.vansh.nyc/hG) | Software Intern | San Francisco, CA |  | 2026-10-23 | 16 | vanshb03-2026, vanshb03-2027 |
