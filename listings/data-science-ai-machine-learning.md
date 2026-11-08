@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1751)
+# Data Science, AI & Machine Learning (1750)
 
 [← back to index](../README.md)
 
@@ -756,7 +756,6 @@
 | [Later](https://job-boards.greenhouse.io/later/jobs/8880737002) | Data & Analytics Co-op | Boston, MA | Winter 2027 | 2026-10-09 | 30 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000154759734) | Artificial Intelligence / Machine Learning: Foundation Models Intern | Sunnyvale, CA | N/A | 2026-10-09 | 30 | simplify-2026 |
 | [ProCogia](https://procogia.com/about-us/careers/?gh_jid=5448685008) | LLM Research Intern | Vancouver, BC, Canada | Fall 2026, Winter 2027 | 2026-10-09 | 30 | simplify-2026 |
-| [Riverlane](https://www.riverlane.com/jobs?gh_jid=5001380101#vacancies) | Research Intern | Cambridge, UK | Summer 2027 | 2026-10-09 | 30 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2211974449401350) | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Burlingame, CA, Redmond, WA | N/A | 2026-10-09 | 30 | simplify-2026 |
 | [Standard Aero](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479) | IT Analyst Intern | Cincinnati, OH | Summer 2026 | 2026-10-09 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://lifeattiktok.com/search/7694354937320868149) | Machine Learning Engineer Intern - E-Commerce User Growth | San Jose, CA | N/A | 2026-10-09 | 30 | simplify-2026 |

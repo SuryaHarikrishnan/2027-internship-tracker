@@ -1,4 +1,4 @@
-# Software Engineering (1443)
+# Software Engineering (1441)
 
 [← back to index](../README.md)
 
@@ -479,7 +479,6 @@
 | [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006) | Software Engineer Intern | Chicago, IL, Jersey City, NJ, Mountain View, CA | N/A | 2026-10-09 | 30 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8175510) | Forward Deployed Engineer Intern - HR Technology | NYC | Summer 2027 | 2026-10-09 | 30 | simplify-2026 |
 | [Capstone Investment Advisors](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002) | Tech Execution Intern | NYC | Summer 2027 | 2026-10-09 | 30 | simplify-2026 |
-| [Riverlane](https://www.riverlane.com/jobs?gh_jid=5001381101#vacancies) | PhD Research Intern | Cambridge, UK | N/A | 2026-10-09 | 30 | simplify-2026 |
 | [Riverlane](https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies) | Software Engineering Intern | Cambridge, UK | Summer 2027 | 2026-10-09 | 30 | simplify-2026 |
 | [ProCogia](https://procogia.com/about-us/careers/?gh_jid=5448664008) | AI Applied & Agentic AI Intern | Vancouver, BC, Canada | Winter 2026 | 2026-10-09 | 30 | simplify-2026 |
 | [WTW](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435) | Software Developer Intern | Reigate, UK | Summer 2027 | 2026-10-09 | 30 | simplify-2026 |
@@ -631,7 +630,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/284925) | Software Engineer Intern - Data Transformations | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-29 | 40 | simplify-2026 |
 | [Enova](https://job-boards.greenhouse.io/enova/jobs/8239619) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-09-29 | 40 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | Software Engineering Co-op | United States | Summer 2027 | 2026-09-29 | 40 | simplify-2026 |
-| [Iridium Communications](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false) | Software Engineering Intern | Tempe, AZ, McLean, VA | Summer 2027 | 2026-09-29 | 40 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors) | Finance AI Engineering Intern | Atlanta, GA | Summer 2027 | 2026-09-29 | 40 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54414?icims=1) | Research and Development Software Engineer Intern | Santa Rosa, CA | Winter 2026 | 2026-09-29 | 40 | simplify-2026 |
 | [Plot Technologies](https://jobs.ashbyhq.com/plot/5f8cfeaa-c368-480f-aaa5-de52452a63d0/application?embed=true) | Applied AI Co-op | NYC | Winter 2026 | 2026-09-29 | 40 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Hardware Engineering (954)
+# Hardware Engineering (953)
 
 [← back to index](../README.md)
 
@@ -335,7 +335,6 @@
 | [Meta](https://www.metacareers.com/jobs/1096213456288397) | ASIC Engineer Intern - Architecture | Austin, TX, Sunnyvale, CA | N/A | 2026-10-09 | 30 | simplify-2026 |
 | [Harbinger Motors](https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007) | Test Engineering Intern | Garden Grove, CA | Winter 2027 | 2026-10-09 | 30 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739767005) | Analog Mixed Signal Engineer Intern | San Jose, CA, Irvine, CA | N/A | 2026-10-09 | 30 | simplify-2026 |
-| [Riverlane](https://www.riverlane.com/jobs?gh_jid=5001377101#vacancies) | Hardware Engineer Intern | Cambridge, UK | Summer 2027 | 2026-10-09 | 30 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378) | Analog IC Design Engineer Intern | Santa Clara, CA | N/A | 2026-10-09 | 30 | simplify-2026 |
 | [Danaher](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719) | Software Engineer Intern | Vista, CA | N/A | 2026-10-09 | 30 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428) | Electrical Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-10-09 | 30 | simplify-2026 |
