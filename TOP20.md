@@ -14,15 +14,15 @@ Ranked by freshness + company tier + role category.
 | 4 | **Meta** | Research Scientist Intern - Synthetic Data for Computer Use Agents | Menlo Park, CA | N/A | 2026-11-06 (3d ago) | [Apply](https://www.metacareers.com/jobs/1667187061776108) |
 | 5 | **Waymo** | Machine Learning Intern - Generative World Models & Controllable Simulation | Mountain View, CA | Summer 2027 | 2026-11-06 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8351210) |
 | 6 | **Amazon** | Data Analyst Apprentice | London, UK | Fall 2027 | 2026-11-06 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10598579/data-analyst-apprentice-42-month-fixed-term-contract) |
-| 7 | **DoorDash** | Software Engineer Intern | Toronto, Canada |  | 2026-11-05 (4d ago) | [Apply](https://go.vansh.nyc/1mQ) |
-| 8 | **NVIDIA** | Research and Engineering Intern - Agentic Systems Intelligence | Austin, TX, Redmond, WA, Santa Clara, CA | Summer 2027 | 2026-11-05 (4d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260) |
-| 9 | **Palantir** | Software Engineer Intern - Sovereign AI Systems | London, UK | N/A | 2026-11-05 (4d ago) | [Apply](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e/apply) |
-| 10 | **Microsoft** | Research Intern - Multiple Teams | Redmond, WA | Summer 2026 | 2026-11-05 (4d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557054069) |
-| 11 | **Figma** | PhD Intern - Software Engineer - Interaction Design | SF, NYC | Summer 2027 | 2026-11-04 (5d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004) |
-| 12 | **Anthropic** | Research Resident | London, UK, SF | N/A | 2026-10-28 (12d ago) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5439169008) |
-| 13 | **Zoox** | Data Scientist Intern | Boston, MA, Foster City, CA | Summer 2027 | 2026-11-07 (2d ago) | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) |
-| 14 | **TikTok** | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-07 (2d ago) | [Apply](https://lifeattiktok.com/search/7696000178264361269) |
-| 15 | **Qualcomm** | Digital Design Engineer Intern, Interim Engineering Systems | Toronto, Canada |  | 2026-11-06 (3d ago) | [Apply](https://go.vansh.nyc/1lI) |
+| 7 | **Samsung** | ePro Business & Data Analyst Intern | Plano, TX | N/A | 2026-11-08 (1d ago) | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
+| 8 | **DoorDash** | Software Engineer Intern | Toronto, Canada |  | 2026-11-05 (4d ago) | [Apply](https://go.vansh.nyc/1mQ) |
+| 9 | **NVIDIA** | Research and Engineering Intern - Agentic Systems Intelligence | Austin, TX, Redmond, WA, Santa Clara, CA | Summer 2027 | 2026-11-05 (4d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260) |
+| 10 | **Palantir** | Software Engineer Intern - Sovereign AI Systems | London, UK | N/A | 2026-11-05 (4d ago) | [Apply](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e/apply) |
+| 11 | **Microsoft** | Research Intern - Multiple Teams | Redmond, WA | Summer 2026 | 2026-11-05 (4d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557054069) |
+| 12 | **Figma** | PhD Intern - Software Engineer - Interaction Design | SF, NYC | Summer 2027 | 2026-11-04 (5d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004) |
+| 13 | **Anthropic** | Research Resident | London, UK, SF | N/A | 2026-10-28 (12d ago) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5439169008) |
+| 14 | **Zoox** | Data Scientist Intern | Boston, MA, Foster City, CA | Summer 2027 | 2026-11-07 (2d ago) | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) |
+| 15 | **TikTok** | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-07 (2d ago) | [Apply](https://lifeattiktok.com/search/7696000178264361269) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (9d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-09 00:41 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-09 14:25 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
