@@ -1,4 +1,4 @@
-# Quantitative Finance (220)
+# Quantitative Finance (218)
 
 [← back to index](../README.md)
 
@@ -64,7 +64,6 @@
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Machine Learning Research Associate Intern | Greenwich, CT | Summer 2027 | 2026-09-23 | 48 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8209424) | Campus Quantitative Researcher Intern - Trading Team PhD/Postdoc | NYC | N/A | 2026-09-22 | 49 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | Summer 2027 | 2026-09-22 | 49 | simplify-2026 |
-| [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | Data Science Intern | NYC | Summer 2027 | 2026-09-21 | 50 | simplify-2026 |
 | [Lazard](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | Quantitative Research Intern | NYC | Summer 2027 | 2026-09-21 | 50 | simplify-2026 |
 | [National Bank of Canada](https://bnc.avature.net/en_CA/careers/JobDetail/35546) | Analyst Intern - Credit Risk Analytics | Canada | N/A | 2026-09-17 | 54 | simplify-2026 |
 | [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Model-Risk-Management_REQ-4861) | Model Risk Management Intern | Chicago, IL | Summer 2027 | 2026-09-17 | 54 | simplify-2026 |
@@ -115,7 +114,6 @@
 | [CCLIM - Quantitative Equity](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383968009) | Quantitative Equity Analyst Intern | Vancouver, BC, Canada | N/A | 2026-08-26 | 76 | simplify-2026 |
 | [CCLIM - Quantitative Equity](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383943009) | Quantitative Equity Developer Intern | Vancouver, BC, Canada | N/A | 2026-08-26 | 76 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | Summer 2027 | 2026-08-26 | 76 | simplify-2026 |
-| [Alberta Investment Management Corporation](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891) | Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | N/A | 2026-08-26 | 76 | simplify-2026 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401) | Model Risk Management Intern - 2027 Internship Program | Jersey City, NJ | Summer 2027 | 2026-08-25 | 77 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | Summer 2027 | 2026-08-25 | 77 | simplify-2026 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) | Quantitative Risk Management Intern | McLean, VA | Summer 2027 | 2026-08-24 | 78 | simplify-2026 |
