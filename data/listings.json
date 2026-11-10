@@ -1,5 +1,194 @@
 [
   {
+    "date_updated": 1794348544,
+    "url": "https://go.vansh.nyc/1je",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "CareSource",
+    "title": "Cybersecurity Intern",
+    "source": "vanshb03",
+    "id": "811dcd4c-21ad-444b-b65a-edc77e4de17a",
+    "date_posted": 1793912780,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794348461,
+    "url": "https://go.vansh.nyc/1s6",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "General Dynamics Information Technology",
+    "title": "AI/ML Business Intelligence Development Intern",
+    "source": "vanshb03",
+    "id": "4c024c65-9552-4f86-bd3a-229863523e99",
+    "date_posted": 1794348355,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026"
+    ]
+  },
+  {
+    "date_updated": 1794348461,
+    "url": "https://go.vansh.nyc/1s7",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "ByteDance",
+    "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
+    "source": "vanshb03",
+    "id": "bafc9090-b9c7-4bef-a0be-926faf866497",
+    "date_posted": 1794348356,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026"
+    ]
+  },
+  {
+    "date_updated": 1794346692,
+    "url": "https://go.vansh.nyc/1s5",
+    "locations": [
+      "Columbus, GA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Global Payments",
+    "title": "CyberSecurity Intern",
+    "source": "vanshb03",
+    "id": "5a76f055-1a11-465f-8f04-89acbb6b621c",
+    "date_posted": 1794346594,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794345126,
+    "url": "https://go.vansh.nyc/1s3",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Addepar",
+    "title": "Product Intern",
+    "source": "vanshb03",
+    "id": "acc518a7-582f-494a-b92b-bae38debd6ae",
+    "date_posted": 1794327530,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794341351,
+    "url": "https://go.vansh.nyc/19l",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "GE Aerospace",
+    "title": "Artificial Intelligence Intern",
+    "source": "vanshb03",
+    "id": "40b2be74-768f-4e16-8a3a-a3c7c3e340b2",
+    "date_posted": 1793577600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794341351,
+    "url": "https://go.vansh.nyc/1hh",
+    "locations": [
+      "Coral Gables, FL"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Ryder System",
+    "title": "IT Intern",
+    "source": "vanshb03",
+    "id": "17fc2074-2bc3-4ef3-8b58-f50570ed9795",
+    "date_posted": 1793750400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794341351,
+    "url": "https://go.vansh.nyc/1rz",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Mason",
+    "title": "AI Engineer Intern",
+    "source": "vanshb03",
+    "id": "abc724f7-1788-4985-87b4-1920f5900f0e",
+    "date_posted": 1794330395,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794341155,
+    "url": "https://go.vansh.nyc/1s2",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Hunt Oil Company",
+    "title": "Application Developer Intern",
+    "source": "vanshb03",
+    "id": "2583a454-d120-4eb2-8aa6-89faa5496700",
+    "date_posted": 1794272755,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1794339465,
     "url": "https://go.vansh.nyc/1rW",
     "locations": [
@@ -1269,27 +1458,6 @@
     "title": "Systems Software Engineer Intern",
     "source": "vanshb03",
     "id": "90e34e1e-6bc6-47bf-bac9-863613fd6256",
-    "date_posted": 1794330395,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794330527,
-    "url": "https://go.vansh.nyc/1rz",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Mason",
-    "title": "AI Engineer Intern",
-    "source": "vanshb03",
-    "id": "abc724f7-1788-4985-87b4-1920f5900f0e",
     "date_posted": 1794330395,
     "company_url": "",
     "is_visible": true,
@@ -19018,28 +19186,6 @@
     ]
   },
   {
-    "date_updated": 1793912951,
-    "url": "https://go.vansh.nyc/1je",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "CareSource",
-    "title": "Cybersecurity Intern",
-    "source": "vanshb03",
-    "id": "811dcd4c-21ad-444b-b65a-edc77e4de17a",
-    "date_posted": 1793912780,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1793912763,
     "url": "https://go.vansh.nyc/1jd",
     "locations": [
@@ -21893,7 +22039,7 @@
     "company_name": "ViaSat",
     "id": "0d220c65-d483-4ced-b1bf-02c913e9a686",
     "title": "Pointing and Tracking Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24793,27 +24939,6 @@
     "source": "vanshb03",
     "id": "4ec648c3-d09a-401f-8150-4960a1b68de9",
     "date_posted": 1793678766,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793837145,
-    "url": "https://go.vansh.nyc/1hh",
-    "locations": [
-      "Coral Gables, FL"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Ryder System",
-    "title": "IT Intern",
-    "source": "vanshb03",
-    "id": "17fc2074-2bc3-4ef3-8b58-f50570ed9795",
-    "date_posted": 1793750400,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -38407,28 +38532,6 @@
     ],
     "_sources": [
       "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1793633723,
-    "url": "https://go.vansh.nyc/19l",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "GE Aerospace",
-    "title": "Artificial Intelligence Intern",
-    "source": "vanshb03",
-    "id": "40b2be74-768f-4e16-8a3a-a3c7c3e340b2",
-    "date_posted": 1793577600,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -55332,7 +55435,7 @@
     "company_name": "Astronics",
     "id": "1411f04b-0318-4e7d-9f6a-3d8abbd29414",
     "title": "Electrical Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -132523,7 +132626,7 @@
     "company_name": "Procter & Gamble",
     "id": "48ff6fa7-bfd0-4c9b-9833-697dc6307130",
     "title": "R&D PhD Imaging Technologies Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -145279,7 +145382,7 @@
     "company_name": "Nordson",
     "id": "2e00548b-f99d-4989-8242-5b661ea5f91b",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -152239,7 +152342,7 @@
     "company_name": "Marvell",
     "id": "05682b26-d33e-4a92-91e9-6790192bf697",
     "title": "AMS Validation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -178885,7 +178988,7 @@
     "company_name": "Intel",
     "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
     "title": "Operations Research Engineering Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -179724,7 +179827,7 @@
     "company_name": "Vusion",
     "id": "5205ce61-1e2e-4829-be7d-0ea7eedb6145",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -208240,7 +208343,7 @@
     "company_name": "Microchip Technology",
     "id": "44a79434-cb49-4a52-8802-c11a233c37b1",
     "title": "Engineering Intern - ASIC Verification",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -224760,7 +224863,7 @@
     "company_name": "AQR Capital Management",
     "id": "45430dd6-d10c-488f-9e97-caa01db1f0b0",
     "title": "Quantitative Prediction Markets Research Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -228776,7 +228879,7 @@
     "company_name": "Tesla",
     "id": "de8cb307-6829-4afa-8e31-0fefe60818e7",
     "title": "Software Engineer Intern - Finance Programs",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],

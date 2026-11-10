@@ -1,4 +1,4 @@
-# Quantitative Finance (200)
+# Quantitative Finance (199)
 
 [← back to index](../README.md)
 
@@ -126,7 +126,6 @@
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 | 88 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8113986) | Quantitative Research Intern - Central Execution Research | London, UK | Fall 2026 | 2026-08-12 | 90 | simplify-2026 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) | Quantitative Researcher Intern | London, UK | Summer 2027 | 2026-08-11 | 91 | simplify-2026 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT | Summer 2027 | 2026-08-11 | 91 | simplify-2026 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | Summer 2027 | 2026-08-11 | 91 | simplify-2026 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Quantitative Researcher Intern | NYC | Summer 2027 | 2026-08-11 | 91 | simplify-2026 |
 | [iSAM](https://job-boards.eu.greenhouse.io/isam/jobs/4949792101) | PhD Quantitative Research Intern | London, UK | Winter 2026, Summer 2027 | 2026-08-10 | 92 | simplify-2026 |

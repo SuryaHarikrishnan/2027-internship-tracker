@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1742)
+# Data Science, AI & Machine Learning (1740)
 
 [← back to index](../README.md)
 
@@ -1110,7 +1110,6 @@
 | [GM financial](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) | Data Science Intern | Fort Worth, TX | Summer 2027 | 2026-09-16 | 55 | simplify-2026 |
 | [Kitware](https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply) | AI Research Intern | Clifton Park, NY | Winter 2026 | 2026-09-16 | 55 | simplify-2026 |
 | [CoVar](https://job-boards.greenhouse.io/covar/jobs/5240360007) | Machine Learning Intern | Durham, NC | Summer 2027 | 2026-09-16 | 55 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Vusion](https://jobs.smartrecruiters.com/VusionGroupSA/744000149935589) | Engineering Intern | Dallas, TX | Winter 2026 | 2026-09-16 | 55 | simplify-2026 |
 | [Cartesian Systems](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Research Assistant Micro-Intern - IAP - Alumni Host | Cambridge, MA | Winter 2027 | 2026-09-16 | 55 | simplify-2026 |
 | [Abundant](https://jobs.ashbyhq.com/abundant/4da99916-c29b-49a2-8e2d-1964b1838e11/application?embed=true) | Research Intern Fellow | SF | N/A | 2026-09-16 | 55 | simplify-2026 |
 | [Gecko Robotics](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true) | AI/Machine Learning Engineer Intern | NYC | Summer 2027 | 2026-09-16 | 55 | simplify-2026 |
@@ -1121,7 +1120,6 @@
 | [City of Virginia Beach](https://wd5.myworkdaysite.com/recruiting/vbgov/City_Of_Virginia_Beach_Careers/job/Municipal-Center-Bldg-21/Virginia-Beach-Fire-Department-GIS-Intern_JR-01061) | GIS Intern - Fire Department | Virginia Beach, VA | Winter 2027 | 2026-09-16 | 55 | simplify-2026 |
 | [Charter Manufacturing](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112) | Automation & Analytics Intern | Milwaukee, WI | Winter 2027, Summer 2027, Fall 2027 | 2026-09-16 | 55 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Louisiana Blue](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151) | Healthcare Data Science Intern - Spring 2027 | Baton Rouge, LA | Spring 2027 | 2026-09-16 | 55 | simplify-2026 |
-| [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) | Operations Research Engineering Analytics Intern | Phoenix, AZ | Winter 2026 | 2026-09-16 | 55 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Toronto, ON, Canada | Summer 2027 | 2026-09-16 | 55 | simplify-2026 |
 | [Altar'd State](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Data-Intern_SOSJ12488-1) | IT Data Intern | Knoxville, TN | Spring 2027 | 2026-09-16 | 55 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1) | Supply Chain Intern - Data Analytics & AI | Hagerstown, MD | Winter 2026 | 2026-09-16 | 55 | simplify-2026 |
