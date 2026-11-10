@@ -8,10 +8,10 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Tesla** | Mobile Application Developer Intern | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-10 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/289480) |
-| 2 | **Meta** | Research Scientist Intern - AI Core Machine Learning | Menlo Park, CA, Sunnyvale, CA | N/A | 2026-11-10 (0d ago) | [Apply](https://www.metacareers.com/jobs/2432079507324778) |
-| 3 | **Waymo** | Software Engineer Intern, Multiverse | San Francisco, CA |  | 2026-11-09 (1d ago) | [Apply](https://go.vansh.nyc/1qh) |
-| 4 | **NVIDIA** | Systems Research Intern - Observability | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-11-09 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644) |
+| 1 | **NVIDIA** | AI Operations Intern - AI Clouds | Santa Clara, CA | Summer 2027 | 2026-11-10 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) |
+| 2 | **Tesla** | Mobile Application Developer Intern | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-10 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/289480) |
+| 3 | **Meta** | Research Scientist Intern - AI Core Machine Learning | Menlo Park, CA, Sunnyvale, CA | N/A | 2026-11-10 (0d ago) | [Apply](https://www.metacareers.com/jobs/2432079507324778) |
+| 4 | **Waymo** | Software Engineer Intern, Multiverse | San Francisco, CA |  | 2026-11-09 (1d ago) | [Apply](https://go.vansh.nyc/1qh) |
 | 5 | **Microsoft** | Research Intern - Next-Generation AI Agents | Redmond, WA | N/A | 2026-11-09 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557070079) |
 | 6 | **Jane Street** | Formal Methods Research and Development Intern | NYC | N/A | 2026-11-09 (1d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) |
 | 7 | **Amazon** | Software Engineer Intern | Boston, MA, Seattle, WA, Austin, TX, Arlington County, Arlington, VA, Denver, CO | Summer 2027, Winter 2027, Fall 2027 | 2026-11-09 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (10d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-10 13:48 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-10 20:06 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

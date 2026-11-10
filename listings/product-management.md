@@ -1,9 +1,10 @@
-# Product Management (257)
+# Product Management (259)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Legrand](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) | Product Management Intern | Syracuse, NY | Summer 2027 | 2026-11-10 | 0 | simplify-2026 |
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) | Advertising & Partnerships: Ad Products Intern | NYC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) | Streaming Platforms – Product Management Intern | NYC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
 | [Scout Motors](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) | Products Intern | Charlotte, NC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
@@ -154,6 +155,7 @@
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Salesforce Product Owner Intern - MBA | LA | Summer 2027 | 2026-09-15 | 56 | simplify-2026 |
 | [Illinois Tool Works](https://careers.itw.com/global/en/job/JR10105) | Product Management Intern | Troy, OH | Summer 2027 | 2026-09-15 | 56 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Summer 2027 | 2026-09-15 | 56 | simplify-2026 |
+| [Tesla](https://www.tesla.com/careers/search/job/283298) | Product Engineer Intern - Applications Engineering | Fremont, CA | Winter 2027, Spring 2027 | 2026-09-14 | 57 | simplify-2026 |
 | [Intuit](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) | Product Manager Intern | Mountain View, CA, San Diego, CA | Summer 2027 | 2026-09-14 | 57 | simplify-2026 |
 | [Lowe's](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845) | Digital Product Management Intern | Charlotte, NC | Summer 2026 | 2026-09-14 | 57 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414) | Product Management Intern | Hagerstown, MD | Winter 2026 | 2026-09-14 | 57 | simplify-2026 |
