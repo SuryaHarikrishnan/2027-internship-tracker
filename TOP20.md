@@ -8,9 +8,9 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Microsoft** | Research Intern - Next-Generation AI Agents | Redmond, WA | N/A | 2026-11-09 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557070079) |
-| 2 | **Meta** | Research Scientist Intern - Computational Photography & Computer Vision | Redmond, WA | N/A | 2026-11-09 (1d ago) | [Apply](https://www.metacareers.com/jobs/1670489511324528) |
-| 3 | **NVIDIA** | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-11-09 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
+| 1 | **NVIDIA** | Systems Research Intern - Observability | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-11-09 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644) |
+| 2 | **Microsoft** | Research Intern - Next-Generation AI Agents | Redmond, WA | N/A | 2026-11-09 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557070079) |
+| 3 | **Meta** | Research Scientist Intern - Computational Photography & Computer Vision | Redmond, WA | N/A | 2026-11-09 (1d ago) | [Apply](https://www.metacareers.com/jobs/1670489511324528) |
 | 4 | **Jane Street** | Formal Methods Research and Development Intern | NYC | N/A | 2026-11-09 (1d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) |
 | 5 | **Amazon** | Software Engineer Intern | Boston, MA, Seattle, WA, Austin, TX, Arlington County, Arlington, VA, Denver, CO | Summer 2027, Winter 2027, Fall 2027 | 2026-11-09 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027) |
 | 6 | **Qualcomm** | Firmware Engineering Intern | Toronto, Canada |  | 2026-11-09 (1d ago) | [Apply](https://go.vansh.nyc/1pw) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (10d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-10 00:34 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-10 03:22 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
