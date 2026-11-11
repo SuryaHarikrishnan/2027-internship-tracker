@@ -1,10 +1,9 @@
-# Quantitative Finance (219)
+# Quantitative Finance (217)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-3) | Capital Markets Quant Summer Associate Intern - Quantitative Technology Services | NYC | Summer 2027 | 2026-11-10 | 1 | simplify-2026 |
 | [Aspect Capital](https://aspectcapital-94a5ce.careers.hibob.com/jobs/4e8b6e36-a8e5-490d-ae8a-622f68c389f9) | Research Intern | London, UK | N/A | 2026-11-09 | 2 | simplify-2026 |
 | [Voya Financial](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Mortgage-Derivatives_JR0033396) | Summer Student Intern - Mortgage Derivatives | Atlanta, GA | N/A | 2026-11-09 | 2 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Research Analyst Intern | Chicago, IL | Summer 2027 | 2026-11-04 | 7 | simplify-2026 |
@@ -65,7 +64,6 @@
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Machine Learning Research Associate Intern | Greenwich, CT | Summer 2027 | 2026-09-23 | 49 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8209424) | Campus Quantitative Researcher Intern - Trading Team PhD/Postdoc | NYC | N/A | 2026-09-22 | 50 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | Summer 2027 | 2026-09-22 | 50 | simplify-2026 |
-| [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | Data Science Intern | NYC | Summer 2027 | 2026-09-21 | 51 | simplify-2026 |
 | [Lazard](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | Quantitative Research Intern | NYC | Summer 2027 | 2026-09-21 | 51 | simplify-2026 |
 | [National Bank of Canada](https://bnc.avature.net/en_CA/careers/JobDetail/35546) | Analyst Intern - Credit Risk Analytics | Canada | N/A | 2026-09-17 | 55 | simplify-2026 |
 | [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Model-Risk-Management_REQ-4861) | Model Risk Management Intern | Chicago, IL | Summer 2027 | 2026-09-17 | 55 | simplify-2026 |

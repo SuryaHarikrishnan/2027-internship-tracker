@@ -1,9 +1,13 @@
-# Product Management (271)
+# Product Management (273)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Bask Health](https://apply.workable.com/bask-health-1/j/62A0C615A5/apply) | Merchant Experience Product Intern | Remote in USA | N/A | 2026-11-11 | 0 | simplify-2026 |
+| [Bask Health](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) | Product Management Intern | Remote in USA | N/A | 2026-11-11 | 0 | simplify-2026 |
+| [Bask Health](https://apply.workable.com/bask-health-1/j/90535FE8AA/apply) | Patient Experience Product Intern | Remote in USA | N/A | 2026-11-11 | 0 | simplify-2026 |
+| [Bask Health](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) | Product Operations Intern | Remote in USA | N/A | 2026-11-11 | 0 | simplify-2026 |
 | [Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) | Digital Product Intern | Detroit, MI | Summer 2027 | 2026-11-10 | 1 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Product Management Customer Management App Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 1 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) | Product Management B2B Broadband Services Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 1 | simplify-2026 |
@@ -85,7 +89,6 @@
 | [GoFundMe](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | MBA Product Management Intern | SF | Summer 2027 | 2026-10-21 | 21 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-10-21 | 21 | simplify-2026 |
 | [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Product Management Advertising Intern | Illinois | Summer 2027 | 2026-10-21 | 21 | simplify-2026 |
-| [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | Product Analyst Co-op | Toronto, ON, Canada | Winter 2027 | 2026-10-21 | 21 | simplify-2026 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) | Product Analyst Intern - AI & Incubation | San Diego, CA | N/A | 2026-10-20 | 22 | simplify-2026 |
 | [Amplify](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Product Management Intern | Remote in USA | Summer 2027 | 2026-10-19 | 23 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 23 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -190,7 +193,6 @@
 | [BitGo](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002) | Product Management Intern | Toronto, ON, Canada | Winter 2027 | 2026-09-04 | 68 | simplify-2026 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/j21FS2VcGwQq6MZcPdNRoQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Tax Technology and Transformation Products Intern - Tax | Dallas, TX, NYC | Summer 2027 | 2026-09-04 | 68 | simplify-2026 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Product Manager Intern - Tax - Other Tax | NYC | Summer 2027 | 2026-09-04 | 68 | simplify-2026 |
-| [OATEY](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) | Product Management Intern | Cleveland, OH | Summer 2027 | 2026-09-04 | 68 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7677493272788683013) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | Summer 2027 | 2026-09-03 | 69 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Global Product Management Intern - Conferencing | Niles, IL | Summer 2027 | 2026-09-03 | 69 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Global Product Management Data Intern | Niles, IL | Summer 2027 | 2026-09-03 | 69 | simplify-2026 |
