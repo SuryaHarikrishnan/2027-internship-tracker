@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [InsCipher](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) | AI Product Intern | Pleasant Grove, UT | N/A | 2026-11-12 | 0 | simplify-2026 |
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Product Manager Intern - Managed Service Provider | Palo Alto, CA | Summer 2027 | 2026-11-11 | 1 | simplify-2026 |
 | [APEX Analytix](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Product Management Intern | Greensboro, NC | Summer 2027 | 2026-11-11 | 1 | simplify-2026 |
 | [Bask Health](https://apply.workable.com/bask-health-1/j/62A0C615A5/apply) | Merchant Experience Product Intern | Remote in USA | N/A | 2026-11-11 | 1 | simplify-2026 |
@@ -73,7 +74,6 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | N/A | 2026-10-27 | 16 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | CMBU Product Management Intern | San Jose, CA | N/A | 2026-10-27 | 16 | simplify-2026 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) | Product Line Management Intern - Apparel - Accessories | Beaverton, OR | Summer 2026 | 2026-10-27 | 16 | simplify-2026 |
-| [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) | Product Planning Intern | Kirkland, WA | Summer 2027 | 2026-10-26 | 17 | simplify-2026 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 17 | simplify-2026 |
 | [Hive Financial Systems](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Product & Program Management Intern | Atlanta, GA | Summer 2027 | 2026-10-26 | 17 | simplify-2026 |
 | [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | Product Management Intern | Lincolnshire, IL | Summer 2027 | 2026-10-26 | 17 | simplify-2026 |

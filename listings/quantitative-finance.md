@@ -1,4 +1,4 @@
-# Quantitative Finance (197)
+# Quantitative Finance (196)
 
 [← back to index](../README.md)
 
@@ -17,7 +17,6 @@
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | DeFi Quant Trader Intern - Credit | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-29 | 14 | simplify-2026 |
 | [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/NatWest-Markets---Quantitative-Analytics--Internship_R-00285741) | Quantitative Analytics Intern | London, UK | N/A | 2026-10-28 | 15 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313/application?embed=true) | DeFi Quant Research Intern - Digital Assets Market Making | London, UK, Brussels, Belgium | Spring 2027 | 2026-10-28 | 15 | simplify-2026 |
-| [Cenovus Energy](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) | Student Risk Analytics Intern | Calgary, AB, Canada | Summer 2027 | 2026-10-28 | 15 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33/application?embed=true) | Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-28 | 15 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | Summer 2027 | 2026-10-27 | 16 | simplify-2026 |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2027_R1557) | Investment Processes Intern | Boston, MA | Summer 2027 | 2026-10-27 | 16 | simplify-2026 |
