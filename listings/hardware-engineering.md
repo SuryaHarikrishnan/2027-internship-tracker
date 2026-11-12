@@ -1,4 +1,4 @@
-# Hardware Engineering (913)
+# Hardware Engineering (911)
 
 [← back to index](../README.md)
 
@@ -746,7 +746,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/282227) | Embedded Software Engineer Intern - High Voltage Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 70 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282241) | Software Integration Engineer Intern - Battery Management Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 70 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282248) | Embedded Software Engineer Intern - Steering - Chassis Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 70 | simplify-2026 |
-| [AMD](https://careers.amd.com/jobs/91207?icims=1) | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | Summer 2027 | 2026-09-03 | 70 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false) | Automated Test Engineer Intern - Hardware | Niles, IL | Summer 2027 | 2026-09-03 | 70 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4957/job?mobile=true&needsRedirect=false) | Digital Signal Processing Intern | Niles, IL | Summer 2027 | 2026-09-03 | 70 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4971/job?mobile=true&needsRedirect=false) | Audio DSP Engineer Intern | Niles, IL | Summer 2027 | 2026-09-03 | 70 | simplify-2026 |
@@ -769,7 +768,6 @@
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740) | Electrical Engineer Intern | Weston, FL | Winter 2026 | 2026-09-02 | 71 | simplify-2026 |
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | Summer 2026 | 2026-09-01 | 72 | simplify-2026 |
 | [K2 Space](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) | Software Engineer Intern - Summer 2027 | LA | Summer 2027 | 2026-09-01 | 72 | simplify-2026 |
-| [K2 Space](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) | Electrical Engineer Intern - Summer 2027 | LA | Summer 2027 | 2026-09-01 | 72 | simplify-2026 |
 | [Freeform](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003) | Electrical Engineer Intern | LA | Spring 2027 | 2026-09-01 | 72 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009762) | Electrical Design Engineer Intern | Shakopee, MN, Eden Prairie, MN | Winter 2026 | 2026-09-01 | 72 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009673) | Software Engineer Intern | Shakopee, MN, Eden Prairie, MN, Chanhassen, MN | Winter 2026 | 2026-09-01 | 72 | simplify-2026 |

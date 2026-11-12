@@ -12,17 +12,17 @@ Ranked by freshness + company tier + role category.
 | 2 | **Meta** | Research Scientist Intern - Audio | Cambridge, UK | N/A | 2026-11-12 (0d ago) | [Apply](https://www.metacareers.com/jobs/1382697917119311) |
 | 3 | **Apple** | Framebuffer Driver Engineer Intern | London, UK | N/A | 2026-11-12 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200694489) |
 | 4 | **Airbnb** | Advanced Analytics Intern | Remote in USA | Summer 2027 | 2026-11-11 (1d ago) | [Apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) |
-| 5 | **Brex** | Software Engineer Intern | SF | Summer 2027 | 2026-11-11 (1d ago) | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
-| 6 | **Amazon** | Data Engineer Intern | London, UK | N/A | 2026-11-11 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10602219/data-engineer-internship) |
-| 7 | **Tesla** | Software Developer Intern - IT Apps | Fremont, CA | Summer 2027 | 2026-11-11 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/289683) |
-| 8 | **NVIDIA** | Performance Engineering Intern - Platform Performance and Power | Canada, Santa Clara, CA, United States | Spring 2027 | 2026-11-10 (2d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541) |
-| 9 | **Palantir** | Software Engineer Intern - Connectivity Platform - Product | Denver, CO | N/A | 2026-11-10 (2d ago) | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) |
-| 10 | **Salesforce** | Engineer Intern | London, UK | N/A | 2026-11-10 (2d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683) |
-| 11 | **Waymo** | Software Engineer Intern, Multiverse | San Francisco, CA |  | 2026-11-09 (3d ago) | [Apply](https://go.vansh.nyc/1qh) |
-| 12 | **Jane Street** | Formal Methods Research and Development Intern | NYC | N/A | 2026-11-09 (3d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) |
-| 13 | **TikTok** | Software Engineer Intern - TikTok Search | San Jose, CA | Summer 2027 | 2026-11-12 (0d ago) | [Apply](https://lifeattiktok.com/search/7704696088079010053) |
-| 14 | **ServiceNow** | Associate Security Engineering & Automation Intern | Santa Clara, CA |  | 2026-11-12 (0d ago) | [Apply](https://go.vansh.nyc/1vX) |
-| 15 | **Genentech** | Summer Intern - Digital, AI, and Clinical Outcome Assessments | South SF | Summer 2027 | 2026-11-11 (1d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) |
+| 5 | **Amazon** | Data Engineer Intern | London, UK | N/A | 2026-11-11 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10602219/data-engineer-internship) |
+| 6 | **Tesla** | Software Developer Intern - IT Apps | Fremont, CA | Summer 2027 | 2026-11-11 (1d ago) | [Apply](https://www.tesla.com/careers/search/job/289683) |
+| 7 | **NVIDIA** | Performance Engineering Intern - Platform Performance and Power | Canada, Santa Clara, CA, United States | Spring 2027 | 2026-11-10 (2d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541) |
+| 8 | **Palantir** | Software Engineer Intern - Connectivity Platform - Product | Denver, CO | N/A | 2026-11-10 (2d ago) | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) |
+| 9 | **Waymo** | Software Engineer Intern, Multiverse | San Francisco, CA |  | 2026-11-09 (3d ago) | [Apply](https://go.vansh.nyc/1qh) |
+| 10 | **Jane Street** | Formal Methods Research and Development Intern | NYC | N/A | 2026-11-09 (3d ago) | [Apply](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) |
+| 11 | **TikTok** | Software Engineer Intern - TikTok Search | San Jose, CA | Summer 2027 | 2026-11-12 (0d ago) | [Apply](https://lifeattiktok.com/search/7704696088079010053) |
+| 12 | **ServiceNow** | Associate Security Engineering & Automation Intern | Santa Clara, CA |  | 2026-11-12 (0d ago) | [Apply](https://go.vansh.nyc/1vX) |
+| 13 | **Genentech** | Summer Intern - Digital, AI, and Clinical Outcome Assessments | South SF | Summer 2027 | 2026-11-11 (1d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) |
+| 14 | **Samsung** | AI System Architecture Research Scientist Intern | San Jose, CA | N/A | 2026-11-11 (1d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) |
+| 15 | **Cisco** | Software Engineer Embedded Systems I Intern | San Jose, CA, Austin, TX, Research Triangle Park, NC |  | 2026-11-11 (1d ago) | [Apply](https://go.vansh.nyc/1sE) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (12d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-12 17:09 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-12 20:33 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
