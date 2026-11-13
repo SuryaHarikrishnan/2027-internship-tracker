@@ -1,4 +1,4 @@
-# Hardware Engineering (900)
+# Hardware Engineering (896)
 
 [← back to index](../README.md)
 
@@ -36,7 +36,6 @@
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413) | Electrical Engineer Co-op | Shakopee, MN | N/A | 2026-11-11 | 2 | simplify-2026 |
 | [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Component-Engineering_R0149585) | Component Engineering Intern | Pittsburgh, PA | Summer 2027 | 2026-11-11 | 2 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1100150399514897) | Research Scientist Intern - Audio Systems | Sunnyvale, CA | N/A | 2026-11-10 | 3 | simplify-2026 |
-| [Renesas Electronics](https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129) | Applications Engineering Intern | San Jose, CA | Summer 2027 | 2026-11-10 | 3 | simplify-2026 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) | Optics/Photonic Engineering Intern | Apopka, FL | Summer 2027 | 2026-11-10 | 3 | simplify-2026 |
 | [HP Inc.](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-1) | Performance Engineering Co-op | Fort Collins, CO | Summer 2027 | 2026-11-10 | 3 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540) | Software Engineer Co-op | Billerica, MA | Spring 2027 | 2026-11-10 | 3 | simplify-2026 |
@@ -90,7 +89,6 @@
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false) | Systems Engineer Intern - FCS Auxiliary and Training Systems | Pittsfield, MA | N/A | 2026-11-05 | 8 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75125/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Manassas, VA | N/A | 2026-11-05 | 8 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75025/job?mobile=true&needsRedirect=false) | Engineer Intern - Infrastructure Hardware/Network | Pittsfield, MA | N/A | 2026-11-05 | 8 | simplify-2026 |
-| [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75141/job?mobile=true&needsRedirect=false) | Systems Engineer Intern | Manassas, VA | N/A | 2026-11-05 | 8 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75142/job?mobile=true&needsRedirect=false) | Electrical Engineer Intern | Manassas, VA | N/A | 2026-11-05 | 8 | simplify-2026 |
 | [East Penn Manufacturing](https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) | Research & Development Intern | Kutztown, PA | Summer 2027 | 2026-11-05 | 8 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019665) | Digital Design Verification Engineer Intern | Santa Clara, CA | N/A | 2026-11-05 | 8 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -741,10 +739,8 @@
 | [Shure](https://careersus-shure.icims.com/jobs/4957/job?mobile=true&needsRedirect=false) | Digital Signal Processing Intern | Niles, IL | Summer 2027 | 2026-09-03 | 71 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4971/job?mobile=true&needsRedirect=false) | Audio DSP Engineer Intern | Niles, IL | Summer 2027 | 2026-09-03 | 71 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4973/job?mobile=true&needsRedirect=false) | Audio Test Engineering Intern | Skokie, IL | Summer 2027 | 2026-09-03 | 71 | simplify-2026 |
-| [Shure](https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false) | Electrical Engineer Intern - Pro Audio Circuitry | Niles, IL | Summer 2027 | 2026-09-03 | 71 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false) | Embedded Software Intern | Niles, IL | Summer 2027 | 2026-09-03 | 71 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Shure](https://careersus-shure.icims.com/jobs/5013/job?mobile=true&needsRedirect=false) | Electrical Engineering Intern - Digital Circuitry | Niles, IL | Summer 2027 | 2026-09-03 | 71 | simplify-2026 |
-| [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415) | ASIC Firmware and Diagnostic Intern | Bloomington, MN, Chippewa Falls, WI | N/A | 2026-09-03 | 71 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) | Pre-Silicon Diagnostics Intern | Fort Collins, CO | Summer 2027 | 2026-09-03 | 71 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY | Summer 2027 | 2026-09-03 | 71 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1) | Electronic Warfare FPGA Engineer Intern | Beavercreek, OH | Summer 2027 | 2026-09-03 | 71 | simplify-2026 |

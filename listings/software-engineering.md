@@ -1,4 +1,4 @@
-# Software Engineering (1443)
+# Software Engineering (1441)
 
 [← back to index](../README.md)
 
@@ -37,7 +37,6 @@
 | [Bask Health](https://apply.workable.com/bask-health-1/j/98DB106D88/apply) | Backend Engineer Intern - Backend Engineering | Remote in USA | N/A | 2026-11-11 | 2 | simplify-2026 |
 | [Bask Health](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/apply) | Software Engineer Intern | Remote in USA | N/A | 2026-11-11 | 2 | simplify-2026 |
 | [Bask Health](https://apply.workable.com/bask-health-1/j/1C108B16E2/apply) | Product Engineering Intern | Remote in USA | N/A | 2026-11-11 | 2 | simplify-2026 |
-| [WEP Clinical](https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2/apply) | IT Intern - AI & Transformation | London, UK | N/A | 2026-11-11 | 2 | simplify-2026 |
 | [NBCUniversal](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529) | Software Engineer Intern | Universal City, LA | Summer 2027 | 2026-11-11 | 2 | simplify-2026 |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) | Technical Game Design Intern - League of Legends and Teamfight Tactics | LA | Summer 2027 | 2026-11-11 | 2 | simplify-2026 |
 | [Arcesium](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) | Technology Operations Intern | NYC | N/A | 2026-11-11 | 2 | simplify-2026 |
@@ -45,7 +44,6 @@
 | [The Marzetti Company](https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us) | AI Solutions Intern - Human Resources | Columbus, OH | Summer 2027 | 2026-11-11 | 2 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200693133) | CAD Virtuoso Engineer Intern | Swindon, UK | N/A | 2026-11-11 | 2 | simplify-2026 |
 | [SHOPLINE](https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern) | AI Skill Developer Intern | United States | N/A | 2026-11-11 | 2 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/289683) | Software Developer Intern - IT Apps | Fremont, CA | Summer 2027 | 2026-11-11 | 2 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728) | Systems Architecture Research Associate Intern - Systems Architecture Lab | Milpitas, CA | N/A | 2026-11-11 | 2 | simplify-2026 |
 | [Bloom Energy](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363) | Remote Monitoring Control Center Systems Engineer Intern | San Jose, CA | Summer 2026 | 2026-11-11 | 2 | simplify-2026 |
 | [Bloom Energy](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361) | AI Solutions Engineer Intern | San Jose, CA | Summer 2026 | 2026-11-11 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |

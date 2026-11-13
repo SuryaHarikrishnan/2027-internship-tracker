@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1790)
+# Data Science, AI & Machine Learning (1788)
 
 [← back to index](../README.md)
 
@@ -402,7 +402,6 @@
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Business-Ops---Co-op_R415029) | Future Talent Program Co-op - Global Supplier Management Group Business Ops | West Point, PA, Rahway, NJ | N/A | 2026-10-28 | 16 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721828828) | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 | 2026-10-28 | 16 | simplify-2026 |
 | [Berkshire Hathaway Energy](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970) | Data Systems Intern | Bridgeport, WV | Summer 2027 | 2026-10-28 | 16 | simplify-2026 |
-| [Amazon](https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) | Robotics Applied Scientist 2 Intern | Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-10-28 | 16 | simplify-2026 |
 | [Systems Planning and Analysis](https://spa.jibeapply.com/jobs/23698?icims=1) | Data Engineer Intern | Alexandria, VA | Summer 2027 | 2026-10-28 | 16 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5278662007) | Library Science Co-op | Santa Ana, CA | Winter 2027 | 2026-10-28 | 16 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006) | Consumer Insights Co-op | Needham, MA | Winter 2027 | 2026-10-28 | 16 | simplify-2026 |
@@ -881,7 +880,6 @@
 | [Sigma Computing](https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003) | AI/ML PhD Intern | SF | Summer 2027 | 2026-10-07 | 37 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Renton-Summer-Internship-Customer-Experience-Analytics-WA-98055/1444982233/?ats=successfactors) | Customer Experience Analytics Intern | Renton, WA | Summer 2026 | 2026-10-07 | 37 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Renton-Summer-Internship-Customer-Experience-Analytics-(Vehicle-Support-Center)-WA-98055/1444983933/?ats=successfactors) | Summer Intern - Customer Experience Analytics - Vehicle Support Center | Renton, WA | Summer 2026 | 2026-10-07 | 37 | simplify-2026 |
-| [Dow Jones](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Subscription-Experimentation-Intern_Job_Req_55879) | Subscription Experimentation Intern | NYC | Summer 2027 | 2026-10-07 | 37 | simplify-2026 |
 | [Axos Bank](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658) | AI Engineer Intern | San Diego, CA | Summer 2026 | 2026-10-07 | 37 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1) | Applications Development Engineer Intern | Milpitas, CA | N/A | 2026-10-07 | 37 | simplify-2026 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) | Tableau Research Intern | Palo Alto, CA, Seattle, WA | Summer 2027 | 2026-10-07 | 37 | simplify-2026 |
