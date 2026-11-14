@@ -1,5 +1,465 @@
 [
   {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/19i",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "company_name": "The Federal Reserve System",
+    "title": "Supervision & Regulation Intern, Cybersecurity",
+    "source": "vanshb03",
+    "id": "d0e5f76e-a4a0-4811-9772-18ac628602ab",
+    "date_posted": 1793631494,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/1cV",
+    "locations": [
+      "New York, NY",
+      "Bethlehem, PA",
+      "Holmdel, NJ"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Guardian Life",
+    "title": "Data Engineering Intern, Digital & Technology",
+    "source": "vanshb03",
+    "id": "052f741e-5ddf-4a92-b485-33b0b55b9e87",
+    "date_posted": 1793685978,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/1cW",
+    "locations": [
+      "New York, NY",
+      "Bethlehem, PA",
+      "Holmdel, NJ"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Guardian Life",
+    "title": "AI & Machine Learning Intern, Digital & Technology",
+    "source": "vanshb03",
+    "id": "7582ef7b-f679-43fb-b03b-3431fb7cde9b",
+    "date_posted": 1793685978,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/1cX",
+    "locations": [
+      "New York, NY",
+      "Bethlehem, PA",
+      "Holmdel, NJ"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Guardian Life",
+    "title": "Application Development Intern, Digital & Technology",
+    "source": "vanshb03",
+    "id": "43486151-ac6b-4962-8b19-7199f8d7e45c",
+    "date_posted": 1793685978,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/1cY",
+    "locations": [
+      "Bethlehem, PA",
+      "Holmdel, NJ"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Guardian Life",
+    "title": "Cloud & DevOps Intern, Digital & Technology",
+    "source": "vanshb03",
+    "id": "44882401-d6b9-4e33-aeb2-aebe5c82b42c",
+    "date_posted": 1793685978,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/1cZ",
+    "locations": [
+      "New York, NY",
+      "Bethlehem, PA",
+      "Holmdel, NJ"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Guardian Life",
+    "title": "Cybersecurity Intern, Digital & Technology",
+    "source": "vanshb03",
+    "id": "90dd84b8-1f79-4f1d-bf8f-f33ce536bab4",
+    "date_posted": 1793685978,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/1lw",
+    "locations": [
+      "Freeport, ME"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Llbean",
+    "title": "Software Developer Intern",
+    "source": "vanshb03",
+    "id": "d01605e5-ffa2-437c-a134-507bb90dc514",
+    "date_posted": 1793923200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676469,
+    "url": "https://go.vansh.nyc/1uQ",
+    "locations": [
+      "Reston, VA",
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "ICF",
+    "title": "Data Analytics Intern",
+    "source": "vanshb03",
+    "id": "1964bb61-143f-4eae-9066-5ee94d65df56",
+    "date_posted": 1794422233,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794676417,
+    "url": "https://go.vansh.nyc/1zF",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Camping World",
+    "title": "AI Security Intern",
+    "source": "vanshb03",
+    "id": "efe1a311-0acf-47e1-84ad-9a434ccc6da3",
+    "date_posted": 1794589873,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794675955,
+    "url": "https://go.vansh.nyc/1zD",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Capital Group",
+    "title": "Global Technology Associate Intern",
+    "source": "vanshb03",
+    "id": "a024fe37-8329-461e-9c5d-57ea242c9909",
+    "date_posted": 1794528000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794675933,
+    "url": "https://go.vansh.nyc/1zC",
+    "locations": [
+      "Cary, NC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "SAS",
+    "title": "Software Developer Intern, Go/Golang",
+    "source": "vanshb03",
+    "id": "aa0151db-14e4-48b2-b31e-250a3964aa1f",
+    "date_posted": 1794614400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Camping World",
+    "id": "aeaf63c9-1187-4be5-b016-70d423a23974",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1794670795,
+    "date_posted": 1794528000,
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Camping-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Martin Marietta",
+    "id": "5a18260c-fdf3-44bc-98d0-a7ec886be759",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1794670786,
+    "date_posted": 1794528000,
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Martin-Marietta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Martin Marietta",
+    "id": "1e57aae0-09f4-42db-80ed-6aee2ff1121a",
+    "title": "Software Data Integration Engineer Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1794670776,
+    "date_posted": 1794528000,
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Martin-Marietta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Camping World",
+    "id": "8e9af166-ff54-453a-b560-244a89a45555",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1794670741,
+    "date_posted": 1794528000,
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+    "locations": [
+      "Chicago, IL",
+      "Lincolnshire, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Camping-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Camping World",
+    "id": "2d609f21-b04d-4102-a341-b7fc2585a162",
+    "title": "Data Analyst Intern - AI & Machine Learning Focus",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1794670741,
+    "date_posted": 1794528000,
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
+    "locations": [
+      "Chicago, IL",
+      "Lincolnshire, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Camping-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Daimler Truck",
+    "id": "66098862-afe2-4865-bede-733cd3a795b7",
+    "title": "IT Developer Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1794670561,
+    "date_posted": 1794528000,
+    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1",
+    "locations": [
+      "Mt Holly, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Daimler-Truck",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SAS",
+    "id": "ae819759-0f9c-4f3f-880f-a57a3b10b824",
+    "title": "Software Developer Intern - Go/Golang Experience",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1794670219,
+    "date_posted": 1794614400,
+    "url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Cary, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/SAS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ciena",
+    "id": "0e303eb4-b2a7-4b14-93a4-89b286202f08",
+    "title": "Technical Solution Engineer Intern - SE&I",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1794669675,
+    "date_posted": 1794528000,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "date_updated": 1794662064,
     "url": "https://go.vansh.nyc/1mW",
     "locations": [
@@ -2269,48 +2729,6 @@
     "source": "vanshb03",
     "id": "d57fdfff-5e23-434a-ab08-5d34a501b4cf",
     "date_posted": 1794528000,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794607763,
-    "url": "https://go.vansh.nyc/1ze",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Martin Marietta",
-    "title": "Data Scientist Intern",
-    "source": "vanshb03",
-    "id": "de7d5f27-81ed-4d4b-9d32-bc3f2dc0aa2b",
-    "date_posted": 1794607614,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794607763,
-    "url": "https://go.vansh.nyc/1zf",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Martin Marietta",
-    "title": "Software Data Integration Engineer Intern",
-    "source": "vanshb03",
-    "id": "8a6adeea-78f6-4c37-9526-ceb325cec2cf",
-    "date_posted": 1794607614,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -14392,29 +14810,6 @@
     "source": "vanshb03",
     "id": "35c38371-5ab5-4b4d-b651-1ee7e7be2571",
     "date_posted": 1794336023,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794422337,
-    "url": "https://go.vansh.nyc/1uQ",
-    "locations": [
-      "Reston, VA",
-      "Remote",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "ICF",
-    "title": "Data Analytics Intern",
-    "source": "vanshb03",
-    "id": "1964bb61-143f-4eae-9066-5ee94d65df56",
-    "date_posted": 1794422233,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -32905,27 +33300,6 @@
   },
   {
     "date_updated": 1794002933,
-    "url": "https://go.vansh.nyc/1lw",
-    "locations": [
-      "Freeport, ME"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Llbean",
-    "title": "Software Developer Intern",
-    "source": "vanshb03",
-    "id": "d01605e5-ffa2-437c-a134-507bb90dc514",
-    "date_posted": 1793923200,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794002933,
     "url": "https://go.vansh.nyc/1lx",
     "locations": [
       "Niles, IL"
@@ -50235,120 +50609,6 @@
   },
   {
     "date_updated": 1793686189,
-    "url": "https://go.vansh.nyc/1cV",
-    "locations": [
-      "New York, NY",
-      "Bethlehem, PA",
-      "Holmdel, NJ"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Guardian Life",
-    "title": "Data Engineering Intern, Digital & Technology",
-    "source": "vanshb03",
-    "id": "052f741e-5ddf-4a92-b485-33b0b55b9e87",
-    "date_posted": 1793685978,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793686189,
-    "url": "https://go.vansh.nyc/1cW",
-    "locations": [
-      "New York, NY",
-      "Bethlehem, PA",
-      "Holmdel, NJ"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Guardian Life",
-    "title": "AI & Machine Learning Intern, Digital & Technology",
-    "source": "vanshb03",
-    "id": "7582ef7b-f679-43fb-b03b-3431fb7cde9b",
-    "date_posted": 1793685978,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793686189,
-    "url": "https://go.vansh.nyc/1cX",
-    "locations": [
-      "New York, NY",
-      "Bethlehem, PA",
-      "Holmdel, NJ"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Guardian Life",
-    "title": "Application Development Intern, Digital & Technology",
-    "source": "vanshb03",
-    "id": "43486151-ac6b-4962-8b19-7199f8d7e45c",
-    "date_posted": 1793685978,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793686189,
-    "url": "https://go.vansh.nyc/1cY",
-    "locations": [
-      "Bethlehem, PA",
-      "Holmdel, NJ"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Guardian Life",
-    "title": "Cloud & DevOps Intern, Digital & Technology",
-    "source": "vanshb03",
-    "id": "44882401-d6b9-4e33-aeb2-aebe5c82b42c",
-    "date_posted": 1793685978,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793686189,
-    "url": "https://go.vansh.nyc/1cZ",
-    "locations": [
-      "New York, NY",
-      "Bethlehem, PA",
-      "Holmdel, NJ"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Guardian Life",
-    "title": "Cybersecurity Intern, Digital & Technology",
-    "source": "vanshb03",
-    "id": "90dd84b8-1f79-4f1d-bf8f-f33ce536bab4",
-    "date_posted": 1793685978,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793686189,
     "url": "https://go.vansh.nyc/1d1",
     "locations": [
       "Winston Salem, NC"
@@ -57200,27 +57460,6 @@
     ],
     "_sources": [
       "simplify-2026"
-    ]
-  },
-  {
-    "date_updated": 1793631974,
-    "url": "https://go.vansh.nyc/19i",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "The Federal Reserve System",
-    "title": "Supervision & Regulation Intern, Cybersecurity",
-    "source": "vanshb03",
-    "id": "d0e5f76e-a4a0-4811-9772-18ac628602ab",
-    "date_posted": 1793631494,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -200526,7 +200765,7 @@
     "company_name": "Oshkosh",
     "id": "1077b180-26c4-40a3-b846-540361c38b08",
     "title": "Autonomy Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -240553,7 +240792,7 @@
     "company_name": "Goldman Sachs",
     "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
     "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240580,7 +240819,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240606,7 +240845,7 @@
     "company_name": "Goldman Sachs",
     "id": "06098497-6840-4802-8838-81e0dbdec164",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240632,7 +240871,7 @@
     "company_name": "Goldman Sachs",
     "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240685,7 +240924,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240711,7 +240950,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240735,7 +240974,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240811,7 +241050,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240864,7 +241103,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240888,7 +241127,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240914,7 +241153,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240940,7 +241179,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240967,7 +241206,7 @@
     "company_name": "Goldman Sachs",
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -240994,7 +241233,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -242306,7 +242545,7 @@
     "company_name": "TikTok",
     "id": "e005d131-f00a-4669-a7e7-1c5f705a7a91",
     "title": "Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -271637,7 +271876,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -271810,7 +272049,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -293876,7 +294115,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -293902,7 +294141,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -293931,7 +294170,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -293986,7 +294225,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -294168,7 +294407,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -294216,7 +294455,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -294271,7 +294510,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
