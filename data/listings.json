@@ -1,5 +1,48 @@
 [
   {
+    "date_updated": 1794662064,
+    "url": "https://go.vansh.nyc/1mW",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Qube Research and Technologies",
+    "title": "Technology Intern",
+    "source": "vanshb03",
+    "id": "519709b4-6461-4b25-9ccf-078c826c85cd",
+    "date_posted": 1793012494,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794661768,
+    "url": "https://go.vansh.nyc/1zB",
+    "locations": [
+      "Plano, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "AI Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "b9987f38-4fc1-4f41-9911-1b211820145a",
+    "date_posted": 1794661628,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Postman",
@@ -29335,28 +29378,6 @@
     "source": "vanshb03",
     "id": "2ea95c5c-8bbf-4fff-b497-844a2040d183",
     "date_posted": 1792972800,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794157597,
-    "url": "https://go.vansh.nyc/1mW",
-    "locations": [
-      "Chicago, IL",
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Qube Research and Technologies",
-    "title": "Technology Intern",
-    "source": "vanshb03",
-    "id": "519709b4-6461-4b25-9ccf-078c826c85cd",
-    "date_posted": 1793012494,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -75634,7 +75655,7 @@
     "company_name": "ASML",
     "id": "3338e211-5030-4319-9e46-aba103ce8cbd",
     "title": "Data Engineer Co-op Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -430981,6 +431002,30 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Carnegie Mellon University",
+    "id": "3f1c00b0-5b7c-45e4-bd76-5a7f597287bb",
+    "title": "LTI Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775860622,
+    "date_posted": 1775858643,
+    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/LTI-Summer-Intern---School-of-Computer-Science---LTI_2024360",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Booz Allen",
     "id": "9e5bd018-9e21-4945-b793-54423feefcd2",
     "title": "AI Data Analyst Intern",
@@ -467699,268 +467744,6 @@
       "King County, WA"
     ],
     "company_url": "https://simplify.jobs/c/SanMar",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Leidos",
-    "id": "d80902bc-b546-4fa0-9273-482c80f84401",
-    "title": "Agentic AI Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773931942,
-    "date_posted": 1773931942,
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Agentic-AI-Engineering-Intern_R-00178430",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Geotab",
-    "id": "93b9e696-bf84-478d-aaf6-b63704f87417",
-    "title": "Vehicle Systems Engineering Intern",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1773930882,
-    "date_posted": 1773930882,
-    "url": "https://job-boards.greenhouse.io/geotab/jobs/5140749008",
-    "locations": [
-      "High Wycombe, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ensemble Health Partners",
-    "id": "53d6f59a-95c8-4057-acc8-ce4bbb0a64a1",
-    "title": "Data Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773930589,
-    "date_posted": 1773930589,
-    "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Engineer-Intern_R040788",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Ensemble-Health-Partners",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cisive",
-    "id": "fd0abe71-c931-4031-bad7-5291b117150b",
-    "title": "Intern/Co-op Software Developer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773930393,
-    "date_posted": 1773930393,
-    "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100237",
-    "locations": [
-      "Maryland"
-    ],
-    "company_url": "https://simplify.jobs/c/Cisive",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Solink",
-    "id": "3afce29e-1aad-424a-8e1e-2ce1e53130bf",
-    "title": "Software Engineer Co-op - AI/ML",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773929831,
-    "date_posted": 1773929831,
-    "url": "https://jobs.ashbyhq.com/solink/4460f7ac-b697-4c9c-946d-16196a8ef58b/application",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Solink",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Carnegie Mellon University",
-    "id": "9b8b5cd9-4d8e-4c4a-8539-56b2ccc3c650",
-    "title": "LTI Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773929826,
-    "date_posted": 1773929826,
-    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/LTI-Summer-Intern---School-of-Computer-Science---Fried_2024303",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Coherent ",
-    "id": "b745c60e-3955-4d72-8acd-3d1d2c37077a",
-    "title": "Intern Opto-Mechanical System Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773929748,
-    "date_posted": 1773929748,
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010693",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/Coherent",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Delinea",
-    "id": "fa5fd2e9-390d-45b8-b747-666c47d23e86",
-    "title": "Product Management Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773929673,
-    "date_posted": 1773929673,
-    "url": "https://jobs.ashbyhq.com/delinea/780ab9f7-096a-4668-9187-65d7e7d91ce5/application",
-    "locations": [
-      "Bellevue, WA",
-      "Lehi, UT"
-    ],
-    "company_url": "https://simplify.jobs/c/Delinea",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Riverside Research",
-    "id": "98284f15-5393-4b81-bdc7-189eda70699a",
-    "title": "Hardware Embedded Research Scientist \u2013 Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1773929353,
-    "date_posted": 1773929353,
-    "url": "https://careers-riversideresearch.icims.com/jobs/4164/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Beavercreek, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Riverside-Research",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Coherent ",
-    "id": "ca5f69e1-9efb-4b7c-ac12-978393224668",
-    "title": "Intern Laser Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773929322,
-    "date_posted": 1773929322,
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010520",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/Coherent",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
