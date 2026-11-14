@@ -13423,7 +13423,7 @@
     "company_name": "RTX",
     "id": "74a583d1-c612-4fb8-85a5-e8ff9a522b4b",
     "title": "Aftermarket & Sustainment Engineering Methods Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -17276,7 +17276,7 @@
     "company_name": "Northrop Grumman",
     "id": "5dc1cb01-b65f-4d85-b792-b235ef4fa95b",
     "title": "Optics/Photonic Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -31784,7 +31784,7 @@
     "company_name": "L.L.Bean",
     "id": "828a4dbb-5797-4e1f-8b81-d5f469169768",
     "title": "Business Analyst/Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -31943,7 +31943,7 @@
     "company_name": "L.L.Bean",
     "id": "669e846d-6122-44e9-a9d6-d58d25ce61f0",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -56945,7 +56945,7 @@
     "company_name": "The Federal Reserve System",
     "id": "1ef0bff3-253a-4f49-b688-0c8e9108fb0c",
     "title": "Supervision & Regulation Intern - Business Relationship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72059,7 +72059,7 @@
     "company_name": "Qube Research & Technologies",
     "id": "956d7e6e-0435-403d-877c-4026d34ea7cc",
     "title": "Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -82161,7 +82161,7 @@
     "company_name": "Micron Technology",
     "id": "0237db49-2c6e-4821-9ef5-4c8214f38c17",
     "title": "HBM Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -116179,7 +116179,7 @@
     "company_name": "Ryan",
     "id": "a83008e3-bd87-4c41-92f2-3a50d3b0bcfc",
     "title": "Application Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -117884,7 +117884,7 @@
     "company_name": "Constellation Brands",
     "id": "82aec07a-0fa9-4cd0-8404-4c493e5561c9",
     "title": "AI Enablement Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -125767,7 +125767,7 @@
     "company_name": "Zoetis Services",
     "id": "cf36f292-d7bf-4d5d-b0c1-deab62925fef",
     "title": "Chemistry Data Science Intern - Digital CMC Workflows",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -125850,7 +125850,7 @@
     "company_name": "Ryan",
     "id": "a34ec36a-bccc-4e43-93a8-36560196de44",
     "title": "Application Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -131858,7 +131858,7 @@
     "company_name": "American University",
     "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
     "title": "Data Quality Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -140773,7 +140773,7 @@
     "company_name": "Johnson Controls",
     "id": "8fc02634-7bf1-4c6c-9d32-78f048f7e7e6",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -144566,7 +144566,7 @@
     "company_name": "ICF International",
     "id": "3d769859-1b78-490a-81be-a7cf9bc054bf",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -146509,7 +146509,7 @@
     "company_name": "NewYork-Presbyterian",
     "id": "157c3d24-c5e0-4535-9ed2-0627c925c4cc",
     "title": "Finance Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -208721,7 +208721,7 @@
     "company_name": "Guardian Life",
     "id": "2e731a5d-c18c-446b-ab15-23f671730a6e",
     "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -208747,7 +208747,7 @@
     "company_name": "Guardian Life",
     "id": "8155c07e-de11-481a-ba23-c42178f1189c",
     "title": "Application Development Intern - Digital & Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -233758,7 +233758,7 @@
     "company_name": "CNA Insurance",
     "id": "1d575d00-562b-41dd-959e-769e6343f0ac",
     "title": "Technology Intern - Agile Product Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -312127,7 +312127,7 @@
     "company_name": "Pentair",
     "id": "9fede417-0d28-4566-ac69-820d4c8e5f90",
     "title": "Product Management Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
