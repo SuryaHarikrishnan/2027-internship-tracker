@@ -1,4 +1,4 @@
-# Product Management (273)
+# Product Management (274)
 
 [← back to index](../README.md)
 
@@ -121,6 +121,7 @@
 | [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006) | Software Product Management Intern | Chicago, IL, Jersey City, NJ, Mountain View, CA | N/A | 2026-10-09 | 37 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) | Energy Storage Product Management Intern | Delaware, OH | Summer 2027 | 2026-10-09 | 37 | simplify-2026 |
 | [Workday](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) | Product Manager Intern | Pleasanton, CA | Summer 2027 | 2026-10-09 | 37 | simplify-2026 |
+| [NCR Atleos](https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Product-Management-Internship_R1154941-1) | Product Management Intern | Dundee, UK | Summer 2027 | 2026-10-08 | 38 | simplify-2026 |
 | [Axos Bank](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5664) | Product Intern | San Diego, CA | Summer 2026 | 2026-10-07 | 39 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270) | Connected Car Business Development Intern | Franklin, TN | Summer 2027 | 2026-10-07 | 39 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) | Product Planning Intern | Franklin, TN | Summer 2027 | 2026-10-07 | 39 | simplify-2026 |
