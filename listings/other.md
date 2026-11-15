@@ -1,4 +1,4 @@
-# Other (1834)
+# Other (1835)
 
 [← back to index](../README.md)
 
@@ -975,6 +975,7 @@
 | [Uber](https://go.vansh.nyc/Wx) | Software Engineering Intern | Toronto, Canada |  | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
 | [CIBC](https://go.vansh.nyc/Wy) | Data Analyst Co-op | Toronto, Canada |  | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
 | [Hitachi](https://go.vansh.nyc/Wz) | Software Analyst Intern | Toronto, Canada |  | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
+| [Cohesity](https://go.vansh.nyc/Tc) | Software Engineering Intern | Santa Clara, CA |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/Th) | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [CIBC](https://go.vansh.nyc/T1) | AI Scientist Co-op | Toronto, Canada |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://go.vansh.nyc/SS) | Enterprise Architecture Software Engineer & Architect Intern | Pittsburgh, PA |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
