@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1788)
+# Data Science, AI & Machine Learning (1787)
 
 [← back to index](../README.md)
 
@@ -1381,7 +1381,6 @@
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Data-Management---Reporting-Intern_R12057) | Data Management & Reporting Intern | Boise, ID | Winter 2026 | 2026-09-01 | 75 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) | Machine Learning Intern | Centreville, VA, Minneapolis, MN | Summer 2027 | 2026-09-01 | 75 | simplify-2026 |
 | [Ingredion](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1) | Artificial Intelligence & Data Scientist Intern | Westchester, IL | Winter 2026 | 2026-09-01 | 75 | simplify-2026 |
-| [Ingredion](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Digital-Innovation-Intern_Req-40180-1) | Digital Innovation Intern | Bridgewater, NJ | Summer 2027 | 2026-09-01 | 75 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [United Parcel Service](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589) | Finance Analytics Intern - Global Finance | Atlanta, GA | Summer 2027 | 2026-09-01 | 75 | simplify-2026 |
 | [Genuine Parts Company](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Enterprise-Intelligence-Intern_R26_0000029138) | Enterprise Intelligence Intern | Birmingham, AL | Summer 2026 | 2026-09-01 | 75 | simplify-2026 |
 | [Clarios](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Forward-Deployed-Engineering-Intern--Summer-2027-_WD49962) | Forward Deployed Engineer Intern - Summer 2027 | Milwaukee, WI | Summer 2027 | 2026-09-01 | 75 | simplify-2026 |

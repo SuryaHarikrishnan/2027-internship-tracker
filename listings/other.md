@@ -1,4 +1,4 @@
-# Other (1835)
+# Other (1841)
 
 [← back to index](../README.md)
 
@@ -7,6 +7,11 @@
 | [Rodriguez Services](https://go.vansh.nyc/1zS) | Software Engineer Intern | San Francisco, CA |  | 2026-11-15 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Optimum (Altice USA)](https://go.vansh.nyc/1zM) | Cybersecurity Operations Intern | Bethpage, NY |  | 2026-11-15 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Ericsson](https://go.vansh.nyc/1zB) | AI Software Engineer Intern | Plano, TX |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
+| [NetApp](https://go.vansh.nyc/1zX) | Data Analyst Intern | Research Triangle Park, NC |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
+| [House of Representatives](https://go.vansh.nyc/1zW) | HIR Cybersecurity Intern | Washington, DC |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Paccar](https://go.vansh.nyc/1zV) | Software Developer Intern | United States |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Midrex Technologies](https://go.vansh.nyc/1zU) | IT Cyber Security Intern | Charlotte, NC |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Pason & IWS Career](https://go.vansh.nyc/1zT) | Software Developer Intern, Datahub | Calgary, Canada |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zx) | Image Processing Software Engineer Intern | Sioux Falls, SD |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zy) | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI, Lexington, MA, Kihei, HI, Beavercreek, OH, Lexington Park, MD, King of Prussia, PA, Colorado Springs, CO, Huntsville, AL, El Segundo, CA, Orlando, FL |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zz) | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI, Lexington, MA, Kihei, HI, Beavercreek, OH, Lexington Park, MD, King of Prussia, PA, Colorado Springs, CO, Huntsville, AL, El Segundo, CA, Orlando, FL |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -66,6 +71,7 @@
 | [Clyde Companies](https://go.vansh.nyc/1xY) | Cyber Security Intern | Orem, UT |  | 2026-11-12 | 3 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems, Inc.](https://go.vansh.nyc/1xR) | Software/Systems Engineering Intern | Middletown, RI |  | 2026-11-12 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Jabil](https://go.vansh.nyc/1xS) | IT Programmer Analyst Co-op | Florence, KY |  | 2026-11-12 | 3 | vanshb03-2026, vanshb03-2027 |
+| [Origin Bank](https://go.vansh.nyc/1zY) | Salesforce Systems Development Intern | Ruston, LA |  | 2026-11-12 | 3 | vanshb03-2026, vanshb03-2027 |
 | [CACI](https://go.vansh.nyc/1xA) | Embedded Software Development Intern | Denver, CO |  | 2026-11-12 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Encore Global](https://go.vansh.nyc/1xN) | IT Data Analyst Intern | Schiller Park, IL |  | 2026-11-12 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Encore Global](https://go.vansh.nyc/1xO) | IT Application Development Intern | Schiller Park, IL |  | 2026-11-12 | 3 | vanshb03-2026, vanshb03-2027 |
