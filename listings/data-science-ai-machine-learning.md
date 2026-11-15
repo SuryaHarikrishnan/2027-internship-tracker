@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (1786)
+# Data Science, AI & Machine Learning (1788)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009) | People Intelligence Intern | NYC | Summer 2027 | 2026-11-15 | 0 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) | Robotics Applied Scientist 2 Intern - Robotics | Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-11-13 | 2 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557073416) | Research Intern - AI Coding Agents | Redmond, WA | N/A | 2026-11-13 | 2 | simplify-2026 |
 | [W.W. Grainger](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2027 | 2026-11-13 | 2 | simplify-2026 |
@@ -20,6 +21,7 @@
 | [TikTok](https://lifeattiktok.com/search/7703925583541979445) | Machine Learning Scientist Intern - Local Services | San Jose, CA | Summer 2027 | 2026-11-13 | 2 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7707222170826623285) | Research Scientist Intern - Content Ecology - Local Services | San Jose, CA | N/A | 2026-11-13 | 2 | simplify-2026 |
 | [Zoox](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply) | Data Scientist Intern | Foster City, CA | Summer 2027 | 2026-11-13 | 2 | simplify-2026 |
+| [Carnegie Mellon University](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1) | Cyber AI Engineering Intern | Pittsburgh, PA | Spring 2027 | 2026-11-13 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Martin Marietta](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1) | Data Scientist Intern | Raleigh, NC | N/A | 2026-11-13 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Camping World](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) | Data Engineering Intern | Chicago, IL, Lincolnshire, IL | Summer 2027 | 2026-11-13 | 2 | simplify-2026 |
 | [Camping World](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) | Data Analyst Intern - AI & Machine Learning Focus | Chicago, IL, Lincolnshire, IL | Summer 2027 | 2026-11-13 | 2 | simplify-2026 |
@@ -409,7 +411,7 @@
 | [Arch Capital Group](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Data-Analytics-Intern_R26_1137-1) | Data Analytics Intern | Greensboro, NC | Summer 2026 | 2026-10-29 | 17 | simplify-2026 |
 | [HNTB](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/GIS-Intern_R-32235-1) | GIS Intern | Tampa, FL, Tallahassee, FL | Summer 2027 | 2026-10-29 | 17 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Image-Processing-Intern_2642159) | Image Processing Intern | Milpitas, CA | N/A | 2026-10-29 | 17 | simplify-2026 |
-| [Sallie Mae](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659) | Data Science and Engineering Intern | Newark, DE, Arlington County, Arlington, VA | Summer 2027 | 2026-10-29 | 17 | simplify-2026 |
+| [Sallie Mae](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659) | Data Science and Engineering Intern | Newark, DE, Arlington County, Arlington, VA | Summer 2027 | 2026-10-29 | 17 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electoral-Reform-Research-Assistant-Part-Time_REQ_0000083798-1) | Electoral Reform Research Assistant Intern | University Park, State College, PA | Fall 2026, Spring 2027 | 2026-10-29 | 17 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557049981) | Research Intern - Machine Learning and Optimization | Redmond, WA | N/A | 2026-10-28 | 18 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557050039) | Research Intern - MSR Systems Research Group | Redmond, WA | N/A | 2026-10-28 | 18 | simplify-2026 |

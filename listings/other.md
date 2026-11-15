@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Rodriguez Services](https://go.vansh.nyc/1zS) | Software Engineer Intern | San Francisco, CA |  | 2026-11-15 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Optimum (Altice USA)](https://go.vansh.nyc/1zM) | Cybersecurity Operations Intern | Bethpage, NY |  | 2026-11-15 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Ericsson](https://go.vansh.nyc/1zB) | AI Software Engineer Intern | Plano, TX |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zx) | Image Processing Software Engineer Intern | Sioux Falls, SD |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -24,7 +25,6 @@
 | [CrowdStrike](https://go.vansh.nyc/1z6) | Insider Risk Engineering Intern | Arlington, VA, Redmond, WA, Sunnyvale, CA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Samsung Semiconductor](https://go.vansh.nyc/1z0) | SSD Firmware Development Intern | San Jose, CA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Carnegie Mellon University](https://go.vansh.nyc/1yU) | Cybersecurity Engineer Intern | Pittsburgh, PA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
-| [Carnegie Mellon University](https://go.vansh.nyc/1yV) | Cyber AI Engineering Intern | Pittsburgh, PA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Canadian Tire Corporation, Limited](https://go.vansh.nyc/1yQ) | Programmer Analyst Intern | Mississauga, Canada |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Manulife Financial](https://go.vansh.nyc/1yR) | Software Engineering Co-op | Boston, MA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Bloomberg Industry Group](https://go.vansh.nyc/1yW) | Engineering Intern | Arlington, VA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |

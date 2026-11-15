@@ -1,9 +1,12 @@
-# Product Management (274)
+# Product Management (277)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) | Product Management Intern | Seattle, WA | Summer 2027 | 2026-11-15 | 0 | simplify-2026 |
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) | Product Intern - Physical Trading Cards | Coppell, TX | Summer 2027 | 2026-11-15 | 0 | simplify-2026 |
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009) | Product Intern | NYC | Summer 2027 | 2026-11-15 | 0 | simplify-2026 |
 | [SAS](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) | IoT Product Strategy Intern | Cary, NC | Summer 2027 | 2026-11-14 | 1 | simplify-2026 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/197821) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Summer 2027 | 2026-11-13 | 2 | simplify-2026 |
 | [FieldPulse](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) | Product Intern | Dallas, TX | N/A | 2026-11-13 | 2 | simplify-2026 |
