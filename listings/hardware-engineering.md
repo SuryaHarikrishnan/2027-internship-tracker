@@ -1,10 +1,11 @@
-# Hardware Engineering (899)
+# Hardware Engineering (898)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Southern States, LLC](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1) | Electrical Engineer Intern | Hampton, GA | Summer 2027 | 2026-11-15 | 1 | simplify-2026 |
+| [Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1) | Software Engineering Co-op | Germantown, MD | N/A | 2026-11-15 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Tesla](https://www.tesla.com/careers/search/job/289951) | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 | 2026-11-14 | 2 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1674297360998408) | Research Scientist Intern - Materials Architecture & Device Integration | Redmond, WA | N/A | 2026-11-13 | 3 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1158829233342350) | Research Scientist Intern - Diffractive Optics | Redmond, WA | N/A | 2026-11-13 | 3 | simplify-2026 |
@@ -75,7 +76,6 @@
 | [Lutron Electronics](https://careers.lutron.com/jobs/5653?icims=1&lang=en-us) | Electronics Technician Work Study Intern | Coopersburg, PA | N/A | 2026-11-09 | 7 | simplify-2026 |
 | [Lutron Electronics](https://careers.lutron.com/jobs/5650?icims=1&lang=en-us) | Electronics Technician Work Study Intern | Boston, MA | N/A | 2026-11-09 | 7 | simplify-2026 |
 | [Lutron Electronics](https://careers.lutron.com/jobs/5648?icims=1&lang=en-us) | Electronics Technician Work Study Intern | Austin, TX | N/A | 2026-11-09 | 7 | simplify-2026 |
-| [Renesas Electronics](https://jobs.smartrecruiters.com/RenesasElectronics/744000160632739) | Validation Intern | San Jose, CA | Summer 2027 | 2026-11-09 | 7 | simplify-2026 |
 | [Carnegie Mellon University](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1) | Advanced Computing Lab Intern | Pittsburgh, PA | Summer 2027 | 2026-11-09 | 7 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) | Wireless Hardware Engineer Intern | San Jose, CA | N/A | 2026-11-09 | 7 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/78722/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Scottsdale, AZ | N/A | 2026-11-09 | 7 | simplify-2026 |
@@ -396,7 +396,6 @@
 | [StudyFetch](https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5) | Robotics Intern - Learning Kits & Curriculum | Beverly Hills, CA | N/A | 2026-10-08 | 39 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211) | ASIC Verification/Design Engineering Intern | Roseville, CA | Summer 2026 | 2026-10-08 | 39 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924) | Analog Design Engineer Intern | Dallas, TX | N/A | 2026-10-07 | 40 | simplify-2026 |
-| [Garmin](https://careers.garmin.com/jobs/19836?icims=1) | FPGA Engineer Intern | Olathe, KS | Summer 2027 | 2026-10-07 | 40 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Schneider Electric](https://se.jibeapply.com/jobs/136319?icims=1) | Electronics Hardware Engineer Co-op | Raleigh, NC, Cedar Rapids, IA | Summer 2027 | 2026-10-07 | 40 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) | Hardware Intern - Architecture - AI HW & System on a Chip | Boston, MA, Austin, TX, Santa Clara, CA, Fort Collins, CO | Winter 2026, Summer 2026, Fall 2026 | 2026-10-07 | 40 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) | RISC-5 CPU Intern | Boston, MA, Austin, TX, Santa Clara, CA, Fort Collins, CO | Winter 2026, Summer 2026, Fall 2026 | 2026-10-07 | 40 | simplify-2026 |

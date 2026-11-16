@@ -1,10 +1,10 @@
-# Quantitative Finance (212)
+# Quantitative Finance (211)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [BMLL Technologies](https://apply.workable.com/bmlltech/j/685458148E/apply) | Junior Quantitative Analyst Intern | London, UK | Summer 2027 | 2026-11-13 | 3 | simplify-2026 |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232) | Quantitative Trading & Research Fellow | London, UK | Spring 2027 | 2026-11-16 | 0 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2028-Internship-_R1417) | Commodities Trading Summer Analyst Intern | Houston, TX, Stamford, CT | Summer 2028 | 2026-11-12 | 4 | simplify-2026 |
 | [StepStone Group](https://boards.greenhouse.io/embed/job_app?token=8368989) | AI Quant Summer Analyst Intern | La Jolla, San Diego, CA | Summer 2027 | 2026-11-11 | 5 | simplify-2026 |
 | [American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Summer-Associate_R0005746) | Quantitative Intern | Santa Clara, CA | N/A | 2026-11-11 | 5 | simplify-2026 |
@@ -17,7 +17,6 @@
 | [SCM](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Quantitative Research Analyst Intern | Radnor, PA | Summer 2026 | 2026-10-29 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | Summer 2027 | 2026-10-29 | 18 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | DeFi Quant Trader Intern - Credit | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-29 | 18 | simplify-2026 |
-| [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/NatWest-Markets---Quantitative-Analytics--Internship_R-00285741) | Quantitative Analytics Intern | London, UK | N/A | 2026-10-28 | 19 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313/application?embed=true) | DeFi Quant Research Intern - Digital Assets Market Making | London, UK, Brussels, Belgium | Spring 2027 | 2026-10-28 | 19 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33/application?embed=true) | Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-28 | 19 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | Summer 2027 | 2026-10-27 | 20 | simplify-2026 |
