@@ -1,4 +1,4 @@
-# Product Management (272)
+# Product Management (270)
 
 [← back to index](../README.md)
 
@@ -38,7 +38,6 @@
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) | Streaming Platforms – Product Management Intern | NYC | Summer 2027 | 2026-11-09 | 7 | simplify-2026 |
 | [Scout Motors](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) | Products Intern | Charlotte, NC | Summer 2027 | 2026-11-09 | 7 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-11-09 | 7 | simplify-2026 |
-| [Warner Bros.](https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Product-Management-Co-op--Needham--MA---January-May-2027_R000109850) | Product Management Co-op | Needham, MA | Spring 2027 | 2026-11-09 | 7 | simplify-2026 |
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678) | IT Intern - Marketing Technology Product Management | Rochester, NY, Chicago, IL | N/A | 2026-11-09 | 7 | simplify-2026 |
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) | Product Management Intern | Milwaukee, WI | Summer 2027 | 2026-11-09 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7696000178264361269) | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-07 | 9 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -149,7 +148,6 @@
 | [Epic Games](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Product Management Intern | Cary, NC | Summer 2027 | 2026-09-29 | 48 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Product Management Technology Intern | Conyers, GA | Summer 2027 | 2026-09-29 | 48 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) | Finance AI Product Management Intern | Atlanta, GA | Summer 2027 | 2026-09-29 | 48 | simplify-2026 |
-| [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Mobile-Device-Product-Management-NY-11714/1434760800/?ats=successfactors) | Mobile Device Product Management Intern | Bethpage, NY | Winter 2026 | 2026-09-29 | 48 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7689010193607051525) | Cross-border E-commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product | Seattle, WA | Summer 2026 | 2026-09-29 | 48 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009816) | Product Marketing Intern | Round Rock, TX | Summer 2026 | 2026-09-28 | 49 | simplify-2026 |
 | [UL Solutions](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625) | Product Management Intern | Northbrook, IL, Chicago, IL | Summer 2027 | 2026-09-28 | 49 | simplify-2026 |
