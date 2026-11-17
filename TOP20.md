@@ -8,15 +8,15 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Meta** | Visiting Researcher Intern - AI Mentorship Program | Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA | Fall 2027 | 2026-11-16 (1d ago) | [Apply](https://www.metacareers.com/jobs/4529244430625751) |
-| 2 | **Tesla** | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 | 2026-11-14 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/289951) |
-| 3 | **ServiceNow** | Inbound Product Manager Intern | San Diego, CA | Summer 2027 | 2026-11-16 (1d ago) | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) |
-| 4 | **LinkedIn** | Systems & Infrastructure Engineer Intern | Mountain View, CA | Summer 2027 | 2026-11-16 (1d ago) | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) |
-| 5 | **TikTok** | Client Security & Data Foundation Machine Learning Engineer Intern | San Jose, CA | Summer 2027 | 2026-11-16 (1d ago) | [Apply](https://lifeattiktok.com/search/7708750900450134325) |
-| 6 | **Shopify** | Software Engineer Intern | Montreal, Canada, Toronto, Canada, Ottawa, Canada |  | 2026-11-16 (1d ago) | [Apply](https://go.vansh.nyc/1Ac) |
-| 7 | **Qualcomm** | GPU Compiler Intern | Cambridge, UK | N/A | 2026-11-16 (1d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446722152489) |
-| 8 | **Pfizer** | Integrated Insights & Strategy Undergraduate Intern | Tadworth, UK | Fall 2027 | 2026-11-16 (1d ago) | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524) |
-| 9 | **Amazon** | Robotics Applied Scientist 2 Intern - Robotics | Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-11-13 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) |
+| 1 | **Amazon** | Software Development Engineer Intern, Artificial General Intelligence | Sunnyvale, CA |  | 2026-11-17 (0d ago) | [Apply](https://go.vansh.nyc/1Bf) |
+| 2 | **Meta** | Visiting Researcher Intern - AI Mentorship Program | Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA | Fall 2027 | 2026-11-16 (1d ago) | [Apply](https://www.metacareers.com/jobs/4529244430625751) |
+| 3 | **Tesla** | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 | 2026-11-14 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/289951) |
+| 4 | **TikTok** | Research Scientist Intern - Privacy Innovation Lab | San Jose, CA | N/A | 2026-11-17 (0d ago) | [Apply](https://lifeattiktok.com/search/7703923326767483141) |
+| 5 | **ServiceNow** | Inbound Product Manager Intern | San Diego, CA | Summer 2027 | 2026-11-16 (1d ago) | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) |
+| 6 | **LinkedIn** | Systems & Infrastructure Engineer Intern | Mountain View, CA | Summer 2027 | 2026-11-16 (1d ago) | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) |
+| 7 | **Shopify** | Software Engineer Intern | Montreal, Canada, Toronto, Canada, Ottawa, Canada |  | 2026-11-16 (1d ago) | [Apply](https://go.vansh.nyc/1Ac) |
+| 8 | **Qualcomm** | GPU Compiler Intern | Cambridge, UK | N/A | 2026-11-16 (1d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446722152489) |
+| 9 | **Pfizer** | Integrated Insights & Strategy Undergraduate Intern | Tadworth, UK | Fall 2027 | 2026-11-16 (1d ago) | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524) |
 | 10 | **Microsoft** | Research Intern - Microsoft Research Software-Hardware Co-design | Redmond, WA | N/A | 2026-11-13 (4d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557073455) |
 | 11 | **Adobe** | Research Scientist Intern | London, UK | Winter 2027 | 2026-11-13 (4d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) |
 | 12 | **Apple** | Framebuffer Driver Engineer Intern | London, UK | N/A | 2026-11-12 (5d ago) | [Apply](https://jobs.apple.com/en-us/details/200694489) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (17d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-17 03:39 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-17 14:56 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

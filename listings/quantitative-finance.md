@@ -1,10 +1,12 @@
-# Quantitative Finance (209)
+# Quantitative Finance (211)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [All Options](https://alloptions.bamboohr.com/careers/85/) | Graduate Quantitative Trader Intern | Austin, TX | Winter 2027, Summer 2027 | 2026-11-17 | 0 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232) | Quantitative Trading & Research Fellow | London, UK | Spring 2027 | 2026-11-16 | 1 | simplify-2026 |
+| [Syntax](https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply) | Index Analyst Intern | NYC | Summer 2027 | 2026-11-14 | 3 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2028-Internship-_R1417) | Commodities Trading Summer Analyst Intern | Houston, TX, Stamford, CT | Summer 2028 | 2026-11-12 | 5 | simplify-2026 |
 | [StepStone Group](https://boards.greenhouse.io/embed/job_app?token=8368989) | AI Quant Summer Analyst Intern | La Jolla, San Diego, CA | Summer 2027 | 2026-11-11 | 6 | simplify-2026 |
 | [American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Summer-Associate_R0005746) | Quantitative Intern | Santa Clara, CA | N/A | 2026-11-11 | 6 | simplify-2026 |
