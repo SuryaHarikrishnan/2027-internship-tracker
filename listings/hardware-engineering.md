@@ -1,4 +1,4 @@
-# Hardware Engineering (883)
+# Hardware Engineering (882)
 
 [← back to index](../README.md)
 
@@ -725,7 +725,6 @@
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application?embed=true) | Flight Software Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application?embed=true) | Embedded Firmware Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Apex](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true) | Software Engineer Intern - Embedded Systems | LA | Spring 2027, Summer 2027 | 2026-09-03 | 75 | simplify-2026 |
-| [General Matter](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | Embedded Software Engineer Intern | LA | Summer 2027 | 2026-09-03 | 75 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547) | Digital IC Design Engineer Intern | Knoxville, TN, Dallas, TX, Tucson, AZ | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017568) | Packaging Engineer Intern | Dallas, TX, United States | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546) | Design Verification Engineer Intern - MS/PhD | Knoxville, TN, Dallas, TX, Phoenix, AZ | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
