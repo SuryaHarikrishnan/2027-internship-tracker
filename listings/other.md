@@ -1,13 +1,14 @@
-# Other (1816)
+# Other (1818)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Lumentum](https://go.vansh.nyc/1BA) | SW Developer Support Intern, Program Management Office | San Jose, CA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [State Street](https://go.vansh.nyc/1Bu) | Full Stack Development Intern | Quincy, MA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Garmin](https://go.vansh.nyc/1Bs) | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/1Bt) | AI/Machine Learning Intern | Markham, Canada |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
-| [Anduril](https://go.vansh.nyc/1Bo) | Machine Learning Engineer Intern | Santa Ana, CA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Cloudflare](https://go.vansh.nyc/1By) | AI & Automation Intern, Communications | Office, IN |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Falcomm](https://go.vansh.nyc/1Bn) | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Warp Sciences](https://go.vansh.nyc/1Br) | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/1Bk) | Robotics Intern, Agentic Robotics | Cambridge, MA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -27,7 +28,6 @@
 | [GlobalFoundries](https://go.vansh.nyc/1Bc) | Tapeout Engineering Business Products & Engineering Intern | Austin, TX |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Lumentum](https://go.vansh.nyc/1AP) | Data Science & Analytics Intern | San Jose, CA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Disney](https://go.vansh.nyc/1AL) | Data Engineering Intern | New York, NY |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
-| [Exowatt](https://go.vansh.nyc/1Bq) | Robotics & Physical AI Intern | Miami, FL |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Idaho National Laboratory](https://go.vansh.nyc/1B6) | Electric Vehicle Charging Data Analysis Intern | Idaho Falls, ID |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Clera](https://go.vansh.nyc/1AN) | Full-Stack Software Engineering Intern | New York, NY |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Leidos](https://go.vansh.nyc/1AO) | Cybersecurity Intern | Fort Belvoir, VA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -35,7 +35,9 @@
 | [Carnegie Mellon University](https://go.vansh.nyc/1Az) | AI Engineer Intern, Mission Innovation Lab | Pittsburgh, PA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/1AE) | Predictive Analytics Intern | Cincinnati, OH |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Bloomberg Industry Group](https://go.vansh.nyc/1AF) | Data Analyst Intern | Arlington, VA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Bread Financial](https://go.vansh.nyc/1Bz) | Software Engineering Intern | Columbus, OH, Chadds Ford, PA, Frisco, TX, Draper, UT, Wilmington, DE |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://go.vansh.nyc/1AK) | Technical Analyst Intern, enGen Undergraduate | Pittsburgh, PA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [T-Mobile](https://go.vansh.nyc/1Bx) | Software Engineering AI Intern | Atlanta, GA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Minitab](https://go.vansh.nyc/1Ax) | Software Engineering Intern | State College, PA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/1Au) | Robotics Intern, World Models, Multimodal Sensing | Cambridge, MA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Pacific Fusion](https://go.vansh.nyc/1Ao) | HPC/DevOps Engineering Intern | San Leandro, CA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |

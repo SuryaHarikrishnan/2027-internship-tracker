@@ -4,10 +4,12 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Lightmatter](https://boards.greenhouse.io/lightmatter/jobs/5474690008) | Product & Test Engineering Intern | Mountain View, CA | Summer 2027 | 2026-11-17 | 0 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) | ASIC Design Verification Engineer Intern | Cambridge, UK | N/A | 2026-11-17 | 0 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/36514?icims=1&lang=en-us) | ADAS HW Systems Validation Intern - ADAS HW Systems Validation | Champaign, IL | Spring 2027 | 2026-11-17 | 0 | simplify-2026 |
 | [Canyon AeroConnect](https://canyonaeroconnect.bamboohr.com/careers/165/) | Electrical Engineer Intern | Prescott, AZ | N/A | 2026-11-17 | 0 | simplify-2026 |
 | [Canyon AeroConnect](https://canyonaeroconnect.bamboohr.com/careers/166/) | Test Engineer Intern | Prescott, AZ | N/A | 2026-11-17 | 0 | simplify-2026 |
+| [Basis Research Institute](https://jobs.ashbyhq.com/basis-research/d3a40705-2e66-4ed0-8bf1-f5fe4bb6dfc3/application?embed=true) | Electronics & Sensing Engineer Intern - Contractor | NYC | N/A | 2026-11-17 | 0 | simplify-2026 |
 | [Ralliant](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491) | Hardware Verification Engineer Co-op | Solon, OH | Summer 2027 | 2026-11-16 | 1 | simplify-2026 |
 | [Lightmatter](https://boards.greenhouse.io/lightmatter/jobs/5478834008) | Optical Packaging Integration Intern | Mountain View, CA | Summer 2027 | 2026-11-16 | 1 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1500136678656794) | Research Scientist Intern - Perception - Displays and Graphics | Sunnyvale, CA | N/A | 2026-11-16 | 1 | simplify-2026 |
@@ -132,7 +134,6 @@
 | [Metalenz](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4/application?embed=true) | Optical Metrology Intern | Boston, MA | Summer 2027 | 2026-11-05 | 12 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/55153?icims=1) | R&D DSP/FPGA Design Automation Intern | Santa Rosa, CA | N/A | 2026-11-04 | 13 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors) | Systems Engineer Intern | Nashville, TN | N/A | 2026-11-04 | 13 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors) | Software Engineer Intern | Nashville, TN | N/A | 2026-11-04 | 13 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) | Project Management / Test Engineer Intern | Plymouth, MI | N/A | 2026-11-04 | 13 | simplify-2026 |
 | [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) | Product Investigations Lab Intern | New Kensington, PA | Summer 2027 | 2026-11-04 | 13 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) | Optics-Physics Sensor Engineer Intern | Cambridge, MA | Summer 2027 | 2026-11-04 | 13 | simplify-2026 |
@@ -208,7 +209,6 @@
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435) | Systems Engineering Co-op | St. Petersburg, FL | N/A | 2026-10-27 | 21 | simplify-2026 |
 | [Boston Dynamics](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315) | Electrical Engineer Co-op | Waltham, MA | N/A | 2026-10-27 | 21 | simplify-2026 |
 | [Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada | N/A | 2026-10-27 | 21 | simplify-2026 |
-| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-10-27 | 21 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-10-27 | 21 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/938682979075854) | Battery Engineering Intern | Sunnyvale, CA | N/A | 2026-10-26 | 22 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) | Analog Design Engineer Intern | Santa Clara, CA | N/A | 2026-10-26 | 22 | simplify-2026 |
@@ -350,7 +350,6 @@
 | [Amazon](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | Hardware Development Engineer Intern | North Reading, MA, Hawthorne, CA, Sunnyvale, CA | Winter 2027, Summer 2027, Fall 2027 | 2026-10-14 | 34 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1) | Test Engineering Intern | Milwaukee, WI | N/A | 2026-10-14 | 34 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1) | Electrical Engineer Co-op | Chelmsford, MA | Summer 2027, Fall 2027 | 2026-10-14 | 34 | simplify-2026 |
-| [Nordson](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Electrical-Engineering-Intern_REQ53355) | Electrical Engineer Intern | Clinton, SC | N/A | 2026-10-14 | 34 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1) | Hardware Development Engineer Co-op | Mayfield Heights, OH | Winter 2027, Summer 2027 | 2026-10-14 | 34 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433) | Electrical Engineer Intern Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-10-14 | 34 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA, Westborough, MA | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-10-13 | 35 | simplify-2026 |
@@ -490,6 +489,7 @@
 | [Aurora Innovation](https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868/application?embed=true) | Embedded Software Engineer Intern - Lidar | Bozeman, MT | N/A | 2026-10-01 | 47 | simplify-2026 |
 | [Aurora Innovation](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1/application?embed=true) | LiDAR Systems Intern | Mountain View, CA | Summer 2027 | 2026-10-01 | 47 | simplify-2026 |
 | [Skyband Systems](https://jobs.ashbyhq.com/skyband%20systems/84c94947-8a35-46a7-86b2-1867b31c92e9/application?embed=true) | Software Engineer Intern | Kirkland, WA | Spring 2027 | 2026-10-01 | 47 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Nordson](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006) | Software Engineer Intern | East Providence, RI | Winter 2026 | 2026-10-01 | 47 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627) | Compute System Compatibility Engineer Intern | Boise, ID | Summer 2026 | 2026-10-01 | 47 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Firmware Engineer Intern - MS - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-10-01 | 47 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada | Winter 2026 | 2026-10-01 | 47 | simplify-2026 |
