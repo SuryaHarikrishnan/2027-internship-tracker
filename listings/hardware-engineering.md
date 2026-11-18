@@ -1,9 +1,11 @@
-# Hardware Engineering (879)
+# Hardware Engineering (872)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Canadian Strategic Missions](https://csmc.bamboohr.com/careers/51/) | Engineering Intern - Labs | Waterloo, ON, Canada | N/A | 2026-11-18 | 0 | simplify-2026 |
+| [Ecliptic Enterprises](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply) | Engineering Intern | San Luis Obispo, CA | N/A | 2026-11-18 | 0 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446722176432) | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 | 2026-11-17 | 1 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319) | Analog IC Design Engineer Intern - AI/ML | Dallas, TX | N/A | 2026-11-17 | 1 | simplify-2026 |
 | [Lightmatter](https://boards.greenhouse.io/lightmatter/jobs/5474690008) | Product & Test Engineering Intern | Mountain View, CA | Summer 2027 | 2026-11-17 | 1 | simplify-2026 |
@@ -49,6 +51,7 @@
 | [AMAX](https://apply.workable.com/amax-1/j/19B39953E1/apply) | R&D Engineer Intern | Fremont, CA | N/A | 2026-11-12 | 6 | simplify-2026 |
 | [SK hynix](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) | Embedded Software Engineer Intern | San Jose, CA | Winter 2027 | 2026-11-12 | 6 | simplify-2026 |
 | [Lightmatter](https://boards.greenhouse.io/lightmatter/jobs/5473740008) | Package Layout Automation Intern | Mountain View, CA | Summer 2027 | 2026-11-12 | 6 | simplify-2026 |
+| [The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) | Lidar Undergraduate Intern | El Segundo, CA | Summer 2027 | 2026-11-12 | 6 | simplify-2026 |
 | [Shield AI](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) | Hardware Test Engineering Co-op | Dallas, TX | Summer 2027 | 2026-11-12 | 6 | simplify-2026 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399) | Engineering Technician – Electrical Ground Support Equipment Intern | Chandler, AZ | N/A | 2026-11-12 | 6 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) | Product Engineer Intern - Product Development | Ottawa, ON, Canada | Summer 2027 | 2026-11-12 | 6 | simplify-2026 |
@@ -122,7 +125,6 @@
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75125/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Manassas, VA | N/A | 2026-11-05 | 13 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75025/job?mobile=true&needsRedirect=false) | Engineer Intern - Infrastructure Hardware/Network | Pittsfield, MA | N/A | 2026-11-05 | 13 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75142/job?mobile=true&needsRedirect=false) | Electrical Engineer Intern | Manassas, VA | N/A | 2026-11-05 | 13 | simplify-2026 |
-| [East Penn Manufacturing](https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) | Research & Development Intern | Kutztown, PA | Summer 2027 | 2026-11-05 | 13 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019665) | Digital Design Verification Engineer Intern | Santa Clara, CA | N/A | 2026-11-05 | 13 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019663) | Analog Design Verification Engineer Intern | Santa Clara, CA | N/A | 2026-11-05 | 13 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721972361) | Display IP FPGA Emulation Intern | Markham, ON, Canada | Summer 2027 | 2026-11-05 | 13 | simplify-2026 |
@@ -178,7 +180,6 @@
 | [Toyota Research Institute](https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3/apply) | Human Interactive Driving Intern - Platform Research Systems Integration | Los Altos, CA | N/A | 2026-10-29 | 20 | simplify-2026 |
 | [Loft Orbital](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) | Test Engineering Intern - Test Engineering | Golden, CO | Summer 2027 | 2026-10-29 | 20 | simplify-2026 |
 | [V2X](https://careers.gov2x.com/jobs/63854?icims=1) | Electrical Engineer Intern | Indianapolis, IN | Summer 2027 | 2026-10-29 | 20 | simplify-2026 |
-| [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813862687) | R&D Software Design Intern | Arden Hills, MN | Summer 2027 | 2026-10-29 | 20 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | VLSI CAD Timing Intern - Applied AI | Santa Clara, CA, United States | Summer 2027 | 2026-10-29 | 20 | simplify-2026 |
 | [Carrier Global](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677) | Lab Assistant Engineer Co-op | Fort Wayne, IN | N/A | 2026-10-29 | 20 | simplify-2026 |
 | [Altera](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749) | FPGA Software Design Engineer Intern | Marlow, UK | N/A | 2026-10-29 | 20 | simplify-2026 |
@@ -194,7 +195,6 @@
 | [ASML](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Optical-Engineer--Internship-_J-00354451) | Optical Engineer Co-op Intern | Wilton, CT | Spring 2026, Fall 2026 | 2026-10-28 | 21 | simplify-2026 |
 | [Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1) | Hardware Engineer Co-op Intern | Germantown, MD | N/A | 2026-10-28 | 21 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electrical-Engineering-Intern--Summer-2027-_01883292) | Electrical Engineer Intern | El Segundo, CA | Summer 2027 | 2026-10-28 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Performance-and-Power-Modeling_JR112542) | Memory Performance and Power Modeling Intern | Austin, TX, San Jose, CA | N/A | 2026-10-28 | 21 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598) | Hardware Electrical Engineering Co-op | Cambridge, MA | Spring 2027 | 2026-10-28 | 21 | simplify-2026 |
 | [Altera](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748) | FPGA Hardware Design Engineer Intern | Marlow, UK | N/A | 2026-10-28 | 21 | simplify-2026 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf/apply) | Formal Verification Engineer Intern | Austin, TX | N/A | 2026-10-27 | 22 | simplify-2026 |
@@ -256,7 +256,6 @@
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721678727) | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-22 | 27 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Tacit](https://jobs.ashbyhq.com/tacit/cadc8b71-ee79-4b44-951b-da7c5a0142eb/application?embed=true) | System Electrical Engineer Intern | SF | N/A | 2026-10-22 | 27 | simplify-2026 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true) | Hardware Test and Reliability Intern - Summer 2027 | San Mateo, CA | Summer 2027 | 2026-10-22 | 27 | simplify-2026 |
-| [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75776/job?mobile=true&needsRedirect=false) | Hardware/Electrical Engineer Intern | Scottsdale, AZ | N/A | 2026-10-22 | 27 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineering-Intern_1213409) | Electrical Hardware Engineer Intern | Chippewa Falls, WI | N/A | 2026-10-22 | 27 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321) | Firmware Engineer Intern | Mequon, WI, Eden Prairie, MN | N/A | 2026-10-22 | 27 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Electronics-Electrical-Engineering-Internship_4633) | Electronics/Electrical Engineering Intern | Milwaukee, WI | Summer 2026 | 2026-10-22 | 27 | simplify-2026 |
@@ -379,7 +378,6 @@
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Logic-Design-Intern_1213412) | VLSI Logic Design Intern | Fort Collins, CO | N/A | 2026-10-12 | 37 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Life Fitness](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276) | Embedded Software Engineer Intern | Schaumburg, IL | N/A | 2026-10-12 | 37 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232) | SSD Hardware Engineering Intern | Longmont, CO | N/A | 2026-10-12 | 37 | simplify-2026 |
-| [Meter](https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true) | Hardware Engineer Intern | SF | N/A | 2026-10-10 | 39 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003) | Firmware Engineer Intern | South SF | Summer 2027 | 2026-10-10 | 39 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1096213456288397) | ASIC Engineer Intern - Architecture | Austin, TX, Sunnyvale, CA | N/A | 2026-10-09 | 40 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739767005) | Analog Mixed Signal Engineer Intern | San Jose, CA, Irvine, CA | N/A | 2026-10-09 | 40 | simplify-2026 |
@@ -524,7 +522,6 @@
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437302) | Electronic Systems Intern | Columbus, IN | Summer 2026 | 2026-09-28 | 51 | simplify-2026 |
 | [UL Solutions](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10868) | SAR Laboratory Intern | Basingstoke, UK | Fall 2026 | 2026-09-28 | 51 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646) | AGS Software Engineering Co-op | Cedar Rapids, IA | Summer 2027, Fall 2027 | 2026-09-28 | 51 | simplify-2026 |
-| [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) | Technology Architecture Engineer Intern | Malta, NY | Summer 2027 | 2026-09-28 | 51 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755) | Signal Integrity Intern Co-op | Toronto, ON, Canada | Fall 2027, Summer 2028 | 2026-09-28 | 51 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089) | Electrical/Software Co-op | Iron Mountain, MI | Winter 2027 | 2026-09-28 | 51 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284821) | Silicon Validation Engineer Intern - AI Hardware | Palo Alto, CA | Spring 2027 | 2026-09-26 | 53 | simplify-2026 |
@@ -536,8 +533,6 @@
 | [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151) | Embedded Hardware Intern | Milwaukee, WI | Summer 2027 | 2026-09-25 | 54 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Acuity](https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors) | Hardware Development Intern - Hardware | Brossard, QC, Canada | N/A | 2026-09-24 | 55 | simplify-2026 |
 | [Arista Networks](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973) | Hardware Engineering Intern | Nashua, NH | Winter 2026 | 2026-09-24 | 55 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716184006) | RF Validation Intern | SF | Winter 2027 | 2026-09-24 | 55 | simplify-2026 |
-| [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716499006) | RF Validation Intern - Summer 2027 | SF | Summer 2027 | 2026-09-24 | 55 | simplify-2026 |
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437584) | Electronic Systems Co-op | Columbus, IN | N/A | 2026-09-24 | 55 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284448) | Software Engineer Industrial Firmware Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-24 | 55 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284489) | Solar Hardware Engineer Intern - PV Cell - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-24 | 55 | simplify-2026 |
@@ -572,6 +567,7 @@
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4707012006) | Hardware Test Intern | SF | Winter 2027 | 2026-09-22 | 57 | simplify-2026 |
 | [Castelion](https://job-boards.greenhouse.io/castelioncorporation/jobs/4417146009) | Electrical Engineer Intern - Avionics | Torrance, CA | Fall 2026 | 2026-09-22 | 57 | simplify-2026 |
 | [SoundOff Signal](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4524444) | Electrical Engineer Intern/Co-op | Hudsonville, MI | Winter 2026 | 2026-09-22 | 57 | simplify-2026 |
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-Project-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432399900/?ats=successfactors) | Project Engineering Co-op | Waterdown, Hamilton, ON, Canada | N/A | 2026-09-22 | 57 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8212703/apply/?gh_jid=8212703) | Build Team Intern | Somerville, MA | Summer 2027 | 2026-09-22 | 57 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284156) | Firmware Integration Engineer Intern - Factory Firmware | Austin, TX | Spring 2027 | 2026-09-22 | 57 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284183) | Power Electronics Electrical Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-22 | 57 | simplify-2026 |
@@ -750,7 +746,6 @@
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | Summer 2026 | 2026-09-01 | 78 | simplify-2026 |
 | [Freeform](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003) | Electrical Engineer Intern | LA | Spring 2027 | 2026-09-01 | 78 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009673) | Software Engineer Intern | Shakopee, MN, Eden Prairie, MN, Chanhassen, MN | Winter 2026 | 2026-09-01 | 78 | simplify-2026 |
-| [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008761) | Firmware Engineer Co-op | Marshalltown, IA | Winter 2026 | 2026-09-01 | 78 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern--Systems-Engineer--Onsite-_01868477) | Systems Engineer Intern | Cedar Rapids, IA | Winter 2026 | 2026-09-01 | 78 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390) | Systems Test Engineer Intern | Germantown, MD, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington County, Arlington, VA, Melbourne, FL, Petaluma, CA, Fairborn, OH, Minneapolis, MN, San Luis Obispo, CA, Herndon, VA, Huntsville, AL, Moorpark, CA, Simi Valley, CA | N/A | 2026-09-01 | 78 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) | Embedded Software Engineer Intern | Dayton, OH, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington County, Arlington, VA, Melbourne, FL, Petaluma, CA, Centreville, VA, Lawrence, KS, Minneapolis, MN, San Luis Obispo, CA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA | Summer 2027 | 2026-09-01 | 78 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -803,7 +798,6 @@
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Analog Design Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-21 | 89 | simplify-2026 |
 | [Avery Dennison](https://jobs.smartrecruiters.com/AveryDennison/744000144595999) | RFID Applications Engineer Co-op - Spring 2027 - Plus one semester | Miamisburg, OH | Spring 2027 | 2026-08-20 | 90 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299) | Mixed Signal Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | 2026-08-20 | 90 | simplify-2026 |
-| [Zipline](https://www.zipline.com/open-roles?gh_jid=7903483003) | Hardware Test Intern - Summer 2027 | South SF | Summer 2027 | 2026-08-19 | 91 | simplify-2026 |
 | [Normal Computing](https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true) | Thermodynamic Hardware Resident | Palo Alto, CA, Silicon Valley, CA, NYC | Fall 2026 | 2026-08-19 | 91 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | Hardware ASIC Design Intern - Hardware | Santa Clara, CA | Summer 2027 | 2026-08-19 | 91 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Hardware Engineering Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 91 | simplify-2026 |
@@ -859,7 +853,6 @@
 | [Human Computer Lab](https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application?embed=true) | Electrical Engineer Intern | Toronto, ON, Canada, SF | Fall 2026 | 2026-07-01 | 140 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426) | Analog Engineer Intern - PhD | Toronto, ON, Canada | Summer 2026 | 2026-06-27 | 144 | simplify-2026 |
 | [PsiQuantum](https://www.psiquantum.com/apply?gh_jid=7695577003) | System Architecture Intern | Palo Alto, CA, Bristol, UK, Remote in USA, Warrington, UK | Summer 2026 | 2026-06-23 | 148 | simplify-2026 |
-| [Figure](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Hardware Reliability Intern | San Jose, CA | Fall 2026 | 2026-06-23 | 148 | simplify-2026 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2) | Analog/Mixed-Signal IC Design Co-Op/Intern | Montreal, QC, Canada | Summer 2026 | 2026-06-13 | 158 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1) | Analog Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-06-13 | 158 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469) | Silicon Photonics Intern - PhD - Fall 2026 Start Date | Ottawa, ON, Canada | Fall 2026 | 2026-06-13 | 158 | simplify-2026 |
