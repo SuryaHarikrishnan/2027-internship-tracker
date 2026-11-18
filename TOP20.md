@@ -15,14 +15,14 @@ Ranked by freshness + company tier + role category.
 | 5 | **Meta** | Visiting Researcher Intern - AI Mentorship Program | Montreal, QC, Canada | Fall 2027 | 2026-11-17 (1d ago) | [Apply](https://www.metacareers.com/jobs/1110284504699535) |
 | 6 | **Cloudflare** | AI & Automation Intern, Communications | Office, IN |  | 2026-11-17 (1d ago) | [Apply](https://go.vansh.nyc/1By) |
 | 7 | **Amazon** | ASIC Design Verification Engineer Intern | Cambridge, UK | N/A | 2026-11-17 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) |
-| 8 | **Qualcomm** | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 | 2026-11-17 (1d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
-| 9 | **CrowdStrike** | AI Research Launch Intern | Sunnyvale, CA |  | 2026-11-17 (1d ago) | [Apply](https://go.vansh.nyc/1BB) |
-| 10 | **Rivian** | ADAS HW Systems Validation Intern - ADAS HW Systems Validation | Champaign, IL | Spring 2027 | 2026-11-17 (1d ago) | [Apply](https://careers.rivian.com/jobs/36514?icims=1&lang=en-us) |
-| 11 | **TikTok** | Research Scientist Intern - Privacy Innovation Lab | San Jose, CA | N/A | 2026-11-17 (1d ago) | [Apply](https://lifeattiktok.com/search/7703923326767483141) |
-| 12 | **Tesla** | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 | 2026-11-14 (4d ago) | [Apply](https://www.tesla.com/careers/search/job/289951) |
-| 13 | **Adobe** | Research Scientist Intern | London, UK | Winter 2027 | 2026-11-13 (5d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) |
-| 14 | **Apple** | Framebuffer Driver Engineer Intern | London, UK | N/A | 2026-11-12 (6d ago) | [Apply](https://jobs.apple.com/en-us/details/200694489) |
-| 15 | **Brex** | Software Engineer Intern | SF | Summer 2027 | 2026-11-11 (7d ago) | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
+| 8 | **Bristol Myers Squibb** | Undergrad Data Science Intern | Remote, United States |  | 2026-11-18 (0d ago) | [Apply](https://go.vansh.nyc/1Ck) |
+| 9 | **Qualcomm** | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 | 2026-11-17 (1d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
+| 10 | **CrowdStrike** | AI Research Launch Intern | Sunnyvale, CA |  | 2026-11-17 (1d ago) | [Apply](https://go.vansh.nyc/1BB) |
+| 11 | **Rivian** | ADAS HW Systems Validation Intern - ADAS HW Systems Validation | Champaign, IL | Spring 2027 | 2026-11-17 (1d ago) | [Apply](https://careers.rivian.com/jobs/36514?icims=1&lang=en-us) |
+| 12 | **TikTok** | Research Scientist Intern - Privacy Innovation Lab | San Jose, CA | N/A | 2026-11-17 (1d ago) | [Apply](https://lifeattiktok.com/search/7703923326767483141) |
+| 13 | **Tesla** | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 | 2026-11-14 (4d ago) | [Apply](https://www.tesla.com/careers/search/job/289951) |
+| 14 | **Adobe** | Research Scientist Intern | London, UK | Winter 2027 | 2026-11-13 (5d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) |
+| 15 | **Apple** | Framebuffer Driver Engineer Intern | London, UK | N/A | 2026-11-12 (6d ago) | [Apply](https://jobs.apple.com/en-us/details/200694489) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (18d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-18 17:37 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-18 21:01 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
