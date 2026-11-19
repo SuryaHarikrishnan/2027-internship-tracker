@@ -8,9 +8,9 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Meta** | Research Scientist Intern - Physics-Grounded Multimodal Robot Learning | Redmond, WA | N/A | 2026-11-19 (0d ago) | [Apply](https://www.metacareers.com/jobs/994911809842621) |
-| 2 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (1d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
-| 3 | **Microsoft** | Research Intern - Model Foundations for Knowledge & Reasoning | Canada, Vancouver, BC, Canada | N/A | 2026-11-18 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075474) |
+| 1 | **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Cambridge, UK | N/A | 2026-11-19 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075448) |
+| 2 | **Meta** | Research Scientist Intern - Physics-Grounded Multimodal Robot Learning | Redmond, WA | N/A | 2026-11-19 (0d ago) | [Apply](https://www.metacareers.com/jobs/994911809842621) |
+| 3 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (1d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
 | 4 | **Airbnb** | Software Engineer Intern | SF | Summer 2027 | 2026-11-18 (1d ago) | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 5 | **Lucid** | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 (1d ago) | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | 6 | **Uber** | Product Management Intern | SF | Summer 2027 | 2026-11-17 (2d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (19d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-19 14:44 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-19 17:45 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

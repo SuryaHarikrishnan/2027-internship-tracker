@@ -1,4 +1,4 @@
-# Product Management (270)
+# Product Management (269)
 
 [← back to index](../README.md)
 
@@ -272,5 +272,4 @@
 | [TikTok](https://lifeattiktok.com/search/7598849238706735365) | AI Product Manager Intern - Tiktok LIVE-Ecosystem Governance | San Jose, CA | Spring 2026, Summer 2026 | 2026-06-15 | 157 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7642122220927584565) | Methodology Product Operations Project Intern | LA | N/A | 2026-06-15 | 157 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7644986569989032197) | Product Manager Shop Ads Creative Project Intern - Ads Interface and Platform - 2026 Start - BS/MS | San Jose, CA | Summer 2026 | 2026-06-15 | 157 | simplify-2026 |
-| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) | Product Manager Intern - Ovip | Kansas City, MO | Summer 2026 | 2026-05-21 | 182 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7634027348048709941) | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Summer 2026 | 2026-04-30 | 203 | simplify-2026 |
