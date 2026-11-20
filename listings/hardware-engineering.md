@@ -1,4 +1,4 @@
-# Hardware Engineering (860)
+# Hardware Engineering (856)
 
 [← back to index](../README.md)
 
@@ -144,7 +144,6 @@
 | [REGENT](https://jobs.ashbyhq.com/regent/ddde6e0f-38ba-4e95-abff-eceb8a79a4d3/application?embed=true) | Energy Storage System Intern | North Kingstown, RI | Summer 2026 | 2026-11-06 | 14 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineering-Intern_R267479) | Design Evaluation Engineering Intern | San Jose, CA, United States | N/A | 2026-11-06 | 14 | simplify-2026 |
 | [Danaher](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509) | Firmware Engineer Co-op | Indianapolis, IN | N/A | 2026-11-06 | 14 | simplify-2026 |
-| [ASML](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102) | Computational Imaging and Metrology Engineer Intern | San Jose, CA | N/A | 2026-11-06 | 14 | simplify-2026 |
 | [Spectrum Control](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101547) | Engineering Co-op | Philadelphia, PA | Spring 2027, Summer 2027 | 2026-11-06 | 14 | simplify-2026 |
 | [Rhoda AI](https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4/application?embed=true) | Optical Sensing Intern - Robot Perception | Mountain View, CA | N/A | 2026-11-06 | 14 | simplify-2026 |
 | [Legrand](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809) | Firmware Engineer Intern | Reno, NV | N/A | 2026-11-05 | 15 | simplify-2026 |
@@ -213,7 +212,6 @@
 | [Altera](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749) | FPGA Software Design Engineer Intern | Marlow, UK | N/A | 2026-10-29 | 22 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391) | Product/Test Engineering Intern | Santa Clara, CA | N/A | 2026-10-28 | 23 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721829439) | Camera Design Engineering Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-28 | 23 | simplify-2026 |
-| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721822125) | Formal Verification Engineering Intern - 6 months | Cambridge, UK | N/A | 2026-10-28 | 23 | simplify-2026 |
 | [RosaicLabs](https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply) | AI Accelerator Design Verification Engineer Intern | Austin, TX, Santa Clara, CA | N/A | 2026-10-28 | 23 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [RosaicLabs](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA | N/A | 2026-10-28 | 23 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [HP Inc.](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1) | Software Engineer Intern - Connectivity | SF | Summer 2027 | 2026-10-28 | 23 | simplify-2026 |
@@ -299,7 +297,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) | Silicon Validation Intern | Santa Clara, CA | Summer 2027 | 2026-10-21 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) | Analog Design Engineer Intern | United Kingdom | N/A | 2026-10-21 | 30 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Industrial-Placement-Detector-IC-Design_R0034267) | Detector IC Design Intern | Southampton, UK | N/A | 2026-10-21 | 30 | simplify-2026 |
-| [Humble Robotics](https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763/apply) | Electrical Engineer Intern | SF | N/A | 2026-10-20 | 31 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/55112?icims=1) | Hardware Engineering Intern | Santa Rosa, CA | N/A | 2026-10-20 | 31 | simplify-2026 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141) | Hardware Engineer 1 Intern | Austin, TX | N/A | 2026-10-20 | 31 | simplify-2026 |
 | [Riverlane](https://www.riverlane.com/jobs?gh_jid=5010275101#vacancies) | PhD Engineering Intern | Cambridge, MA | N/A | 2026-10-20 | 31 | simplify-2026 |
@@ -639,7 +636,6 @@
 | [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dexter-Michigan-USA/Electrical-Engineering-Intern_R0023525) | Electrical Engineering Intern | Dexter, MI | Winter 2026 | 2026-09-15 | 66 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493) | Software Engineer Intern | SF | Winter 2026 | 2026-09-15 | 66 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54226?icims=1) | Compound Semiconductor Device Characterization Intern | Santa Rosa, CA | Summer 2027 | 2026-09-14 | 67 | simplify-2026 |
-| [Garmin](https://careers.garmin.com/jobs/20165?icims=1) | Software Engineer Intern | Yarmouth, ME | Winter 2026 | 2026-09-14 | 67 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283396) | System Integration and Test Automation Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-14 | 67 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Silicon Engineering Intern | Madison, WI, Austin, TX, Sunnyvale, CA | Summer 2027 | 2026-09-14 | 67 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Hardware Engineer Intern - PhD | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-09-14 | 67 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1714)
+# Data Science, AI & Machine Learning (1713)
 
 [← back to index](../README.md)
 
@@ -1220,7 +1220,6 @@
 | [HNTB](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) | GIS Intern | Nashville, TN | Summer 2027 | 2026-09-11 | 70 | simplify-2026 |
 | [HNTB](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) | GIS Intern - Summer 2027 | Nashville, TN | Summer 2027 | 2026-09-11 | 70 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187) | Spatial Data R&D Intern | Bloomington, MN | Summer 2027 | 2026-09-11 | 70 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8189848) | Vehicle Intent and Prediction Intern | Mountain View, CA | Summer 2027 | 2026-09-10 | 71 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003) | Data Analytics Intern | South SF | Summer 2027 | 2026-09-10 | 71 | simplify-2026 |
 | [Zipline](https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003) | Data Analytics Intern - Spring 2027 | South SF | Spring 2027 | 2026-09-10 | 71 | simplify-2026 |
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true) | Onboard Infrastructure Engineer Intern - ML Inference | SF | Summer 2027 | 2026-09-10 | 71 | simplify-2026 |
