@@ -1,4 +1,4 @@
-# Quantitative Finance (205)
+# Quantitative Finance (203)
 
 [← back to index](../README.md)
 
@@ -20,7 +20,6 @@
 | [Man Group](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | Systematic Quant Intern | Massachusetts | Summer 2027 | 2026-11-03 | 17 | simplify-2026 |
 | [Synthesis](https://apply.workable.com/synthesisim/j/C2932F1DE5/apply) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-10-29 | 22 | simplify-2026 |
 | [SCM](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Quantitative Research Analyst Intern | Radnor, PA | Summer 2026 | 2026-10-29 | 22 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | Summer 2027 | 2026-10-29 | 22 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | DeFi Quant Trader Intern - Credit | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-29 | 22 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313/application?embed=true) | DeFi Quant Research Intern - Digital Assets Market Making | London, UK, Brussels, Belgium | Spring 2027 | 2026-10-28 | 23 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33/application?embed=true) | Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-28 | 23 | simplify-2026 |
@@ -70,7 +69,6 @@
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) | Trading Operations Engineer Intern | NYC | Summer 2027 | 2026-09-15 | 66 | simplify-2026 |
 | [New York ISO](https://job-boards.greenhouse.io/nyisointernships/jobs/5236095007) | Market Design Intern | Rensselaer, NY | Summer 2026 | 2026-09-15 | 66 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/Geneva/XMLNAME-3---6-Month-Off-Cycle-Internship_JR101609) | Off Cycle Internship | London, UK, Geneva, Switzerland, Abu Dhabi - United Arab Emirates | N/A | 2026-09-15 | 66 | simplify-2026 |
-| [FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Model-Risk-Management_R2600433) | Model Risk Management Intern | Chicago, IL | Summer 2026 | 2026-09-15 | 66 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) | Quantitative Analyst Intern | London, UK | N/A | 2026-09-15 | 66 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) | Quantitative Master’s Intern - Investments - Global Capital Markets | NYC | Summer 2027 | 2026-09-15 | 66 | simplify-2026 |
 | [ExodusPoint](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) | Quantitative Intern - Credit | Wynnewood, PA | Summer 2026 | 2026-09-14 | 67 | simplify-2026 |
