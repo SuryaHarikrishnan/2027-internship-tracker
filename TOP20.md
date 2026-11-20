@@ -16,13 +16,13 @@ Ranked by freshness + company tier + role category.
 | 6 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (2d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
 | 7 | **Airbnb** | Software Engineer Intern | SF | Summer 2027 | 2026-11-18 (2d ago) | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 8 | **Uber** | Product Management Intern | SF | Summer 2027 | 2026-11-17 (3d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) |
-| 9 | **Cloudflare** | AI & Automation Intern, Communications | Office, IN |  | 2026-11-17 (3d ago) | [Apply](https://go.vansh.nyc/1By) |
-| 10 | **Amazon** | ASIC Design Verification Engineer Intern | Cambridge, UK | N/A | 2026-11-17 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) |
-| 11 | **AMD** | Masters Server Power Management Engineering Co-op | Austin, TX | Winter 2027 | 2026-11-20 (0d ago) | [Apply](https://careers.amd.com/jobs/89816?icims=1&lang=en-us) |
-| 12 | **Cisco** | AI Researcher II Intern | San Francisco, CA |  | 2026-11-20 (0d ago) | [Apply](https://go.vansh.nyc/1Eb) |
-| 13 | **Samsung** | Serdes Analog Design Engineer Intern | San Jose, CA | N/A | 2026-11-20 (0d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
-| 14 | **LinkedIn** | Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems | Mountain View, CA | Summer 2027 | 2026-11-20 (0d ago) | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) |
-| 15 | **Lucid** | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 (2d ago) | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
+| 9 | **Amazon** | ASIC Design Verification Engineer Intern | Cambridge, UK | N/A | 2026-11-17 (3d ago) | [Apply](https://amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) |
+| 10 | **AMD** | Masters Server Power Management Engineering Co-op | Austin, TX | Winter 2027 | 2026-11-20 (0d ago) | [Apply](https://careers.amd.com/jobs/89816?icims=1&lang=en-us) |
+| 11 | **Cisco** | AI Researcher II Intern | San Francisco, CA |  | 2026-11-20 (0d ago) | [Apply](https://go.vansh.nyc/1Eb) |
+| 12 | **Samsung** | Serdes Analog Design Engineer Intern | San Jose, CA | N/A | 2026-11-20 (0d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
+| 13 | **LinkedIn** | Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems | Mountain View, CA | Summer 2027 | 2026-11-20 (0d ago) | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) |
+| 14 | **Lucid** | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 (2d ago) | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
+| 15 | **Lockheed Martin** | Software Engineer Intern | Owego, NY |  | 2026-11-19 (1d ago) | [Apply](https://go.vansh.nyc/1CG) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (20d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-20 17:22 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-20 20:51 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
