@@ -1,4 +1,4 @@
-# Hardware Engineering (872)
+# Hardware Engineering (874)
 
 [← back to index](../README.md)
 
@@ -39,6 +39,7 @@
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving | Newark, CA | Summer 2027 | 2026-11-20 | 1 | simplify-2026 |
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) | ADAS Systems Integration Intern | Newark, CA | Summer 2027 | 2026-11-20 | 1 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990016986011) | Engineering Intern | Livermore, CA | Summer 2027 | 2026-11-20 | 1 | simplify-2026 |
+| [Rolls-Royce](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Glasgow/FPGA-Summer-Internship---Glasgow--UK_JR6163435) | FPGA Engineer Intern | Glasgow, UK | Summer 2026 | 2026-11-20 | 1 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4973-26) | ASIC Verification Engineer Intern | San Jose, CA | N/A | 2026-11-20 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Embedded Software Intern | Newark, CA | Summer 2027 | 2026-11-19 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388) | Systems Engineer Intern - Gan | Dallas, TX | N/A | 2026-11-19 | 2 | simplify-2026 |
@@ -53,6 +54,7 @@
 | [Scout Space](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) | Embedded Firmware Engineer Intern | Reston, VA | Summer 2027 | 2026-11-19 | 2 | simplify-2026 |
 | [MSA Safety](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us) | Electrical Engineering Intern/Co-op | Cranberry Township, PA | Summer 2027 | 2026-11-19 | 2 | simplify-2026 |
 | [Eridu AI](https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f) | ASIC Architecture Intern | Saratoga, CA | N/A | 2026-11-19 | 2 | simplify-2026 |
+| [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714) | Software Work Experience Intern | Stevenage, UK | Spring 2027, Spring 2027, Summer 2027 | 2026-11-19 | 2 | simplify-2026 |
 | [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552) | Electrical Engineering Intern | Flagstaff, AZ | N/A | 2026-11-19 | 2 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Decatur-Intern-Electrical-Engineer-GA-30035/1451786900/?ats=successfactors) | Electrical Engineer Intern | Decatur, GA | Summer 2026 | 2026-11-18 | 3 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446722197770) | Engineering Intern | Farnborough, UK | N/A | 2026-11-18 | 3 | simplify-2026 |
