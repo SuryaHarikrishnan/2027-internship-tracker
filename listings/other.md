@@ -1,4 +1,4 @@
-# Other (1861)
+# Other (1863)
 
 [← back to index](../README.md)
 
@@ -29,6 +29,7 @@
 | [John Deere](https://go.vansh.nyc/1Fb) | Data Analytics Student Intern | Des Moines, IA, Waterloo, IA, Moline, IL |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Rivian](https://go.vansh.nyc/1F3) | Software Engineering Intern, AI Platform, Autonomy | Palo Alto, CA |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Garmin](https://go.vansh.nyc/1Fa) | Software Engineer Intern, Web/Mobile | Yarmouth, ME |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
+| [First PREMIER Bank](https://go.vansh.nyc/1Gg) | Information Security Intern | Sioux Falls, SD |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Method](https://go.vansh.nyc/1Fq) | Engineering Resident Intern | Remote, United States, Canada, Santa Clara, CA, Charlotte, NC, New York, NY |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Gusto](https://go.vansh.nyc/1EO) | Insights Intern | San Francisco, CA |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Renesas Electronics](https://go.vansh.nyc/1ET) | Firmware Engineering Intern | Austin, TX |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -115,6 +116,7 @@
 | [Bread Financial](https://go.vansh.nyc/1CF) | Cybersecurity Intern | Columbus, OH |  | 2026-11-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Workstream](https://go.vansh.nyc/1CE) | Full Stack Engineer Intern | Vancouver, Canada |  | 2026-11-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Trimble](https://go.vansh.nyc/1G2) | QA Engineer Intern | Portsmouth, NH |  | 2026-11-19 | 2 | vanshb03-2026, vanshb03-2027 |
+| [Ribbon](https://go.vansh.nyc/1Gf) | Software Developer Co-op, Common Cloud Services | Canada |  | 2026-11-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Idaho National Laboratory](https://go.vansh.nyc/1Dz) | PSION Development Intern | Idaho Falls, ID |  | 2026-11-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Lucid Motors](https://go.vansh.nyc/1Dw) | Software Engineer Intern, SDET | Newark, CA |  | 2026-11-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Snowflake](https://go.vansh.nyc/1Dq) | Software Engineer Intern, Core Infrastructure & Security | Menlo Park, CA, Bellevue, WA |  | 2026-11-19 | 2 | vanshb03-2026, vanshb03-2027 |

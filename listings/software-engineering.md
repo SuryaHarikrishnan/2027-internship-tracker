@@ -1,4 +1,4 @@
-# Software Engineering (1375)
+# Software Engineering (1374)
 
 [← back to index](../README.md)
 
@@ -1139,7 +1139,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7668650945276168453/detail) | Software Engineer Intern - Global Payment | San Jose, CA | Summer 2027 | 2026-08-17 | 96 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) | Software Engineer Intern | London, UK | Summer 2027 | 2026-08-17 | 96 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Software Engineering or Site Reliability Engineering PhD Intern | London, UK | Summer 2027 | 2026-08-17 | 96 | simplify-2026 |
-| [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | AI and Software Engineer Intern - Automotive MPUs | Glasgow, UK | Summer 2026 | 2026-08-17 | 96 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171553?type=students) | Summer Analyst Intern - Engineering | Dallas, TX | Summer 2027 | 2026-08-15 | 98 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/171565?type=students) | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | Summer 2027 | 2026-08-15 | 98 | simplify-2026 |
 | [Goldman Sachs](https://higher.gs.com/roles/170644?type=students) | Summer Analyst Intern - Engineering | London, UK | Summer 2027 | 2026-08-15 | 98 | simplify-2026 |

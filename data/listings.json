@@ -1,5 +1,47 @@
 [
   {
+    "date_updated": 1795281431,
+    "url": "https://go.vansh.nyc/1Gg",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "First PREMIER Bank",
+    "title": "Information Security Intern",
+    "source": "vanshb03",
+    "id": "4a85bc7c-4c91-49e2-abab-8eda35362286",
+    "date_posted": 1795209034,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795280754,
+    "url": "https://go.vansh.nyc/1Gf",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ribbon",
+    "title": "Software Developer Co-op, Common Cloud Services",
+    "source": "vanshb03",
+    "id": "1c8568f5-b1a8-49f9-bb58-c2ee2766d892",
+    "date_posted": 1795046400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "Ribbon",
@@ -72204,7 +72246,7 @@
     "company_name": "NXP Semiconductors",
     "id": "55649ae4-7427-47dc-b8af-30c29eedf9b9",
     "title": "Hardware/Software System and Application Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -310718,7 +310760,7 @@
     "company_name": "NXP Semiconductors",
     "id": "fd3c39d2-33c3-49a1-9e2c-6c0f99a93001",
     "title": "AI and Software Engineer Intern - Automotive MPUs",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -354477,7 +354519,7 @@
     "company_name": "NXP Semiconductors",
     "id": "e790b9f8-a895-4493-b4b7-acfffcb9b5d7",
     "title": "Digital Physical Design Intern - P&R",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],

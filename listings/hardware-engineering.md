@@ -1,4 +1,4 @@
-# Hardware Engineering (874)
+# Hardware Engineering (872)
 
 [← back to index](../README.md)
 
@@ -220,7 +220,6 @@
 | [ASML](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208) | Electrical Engineer Co-op Intern | Wilton, CT | N/A | 2026-11-02 | 19 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469) | System Engineer Intern | Boise, ID | N/A | 2026-11-02 | 19 | simplify-2026 |
 | [Valmont](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223) | Embedded Systems Engineer Intern | Valley, NE | N/A | 2026-11-02 | 19 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) | Hardware/Software System and Application Engineer Intern | Chandler, AZ | Summer 2027 | 2026-11-02 | 19 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) | Design Verification Engineer Intern | Richardson, TX | Summer 2027 | 2026-11-02 | 19 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Astro Mechanica](https://jobs.ashbyhq.com/astro-mechanica/740cedb6-3c69-49c2-8662-7997799b8c87/application?embed=true) | Software Engineer Intern | SF | Summer 2027 | 2026-11-02 | 19 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721829462) | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-30 | 22 | simplify-2026 |
@@ -847,7 +846,6 @@
 | [Nidec](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732) | Test Lab Engineer Co-op | St. Louis, MO | Fall 2026 | 2026-07-17 | 127 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/86868?icims=1) | Analog/Mixed-Signal Serdes Design Engineer | Markham, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | N/A | 2026-07-16 | 128 | simplify-2026 |
 | [Peak Energy](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007) | Systems Integration and Test Engineer Intern - Winter 2027 | Burlingame, CA | Winter 2027 | 2026-07-13 | 131 | simplify-2026 |
-| [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Digital Physical Design Intern - P&R | Chandler, AZ | Fall 2026 | 2026-07-13 | 131 | simplify-2026 |
 | [Peak Energy](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5178781007&gh_jid=5178781007) | Test Engineer Intern | Burlingame, CA | Winter 2027, Spring 2027 | 2026-07-10 | 134 | simplify-2026 |
 | [Droyd Robotics](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) | Software Engineer Intern | SF | Fall 2026 | 2026-07-04 | 140 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist-Intern_REQ_0000077694-1) | Engineering Support Intern | State College, PA | Summer 2026 | 2026-07-04 | 140 | simplify-2026 |
