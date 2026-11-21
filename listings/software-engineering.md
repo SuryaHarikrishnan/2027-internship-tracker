@@ -1,4 +1,4 @@
-# Software Engineering (1374)
+# Software Engineering (1373)
 
 [← back to index](../README.md)
 
@@ -94,7 +94,6 @@
 | [Sedaro](https://sedarotech.bamboohr.com/careers/95/) | Compiler Intern - Simulator | Arlington County, Arlington, VA | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [Sedaro](https://sedarotech.bamboohr.com/careers/97/) | Software Engineer Intern | Arlington County, Arlington, VA | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [Critical Environment Technologies](https://cetci.bamboohr.com/careers/92/) | Computer Science Co-op | Delta, BC, Canada | N/A | 2026-11-17 | 4 | simplify-2026 |
-| [Angel Host](https://angelhost.bamboohr.com/careers/123/) | AI Product Engineer Intern Co-op | Montreal, QC, Canada | Winter 2026, Winter 2027 | 2026-11-17 | 4 | simplify-2026 |
 | [ECM Tek](https://ecmtek.bamboohr.com/careers/51/) | Developer Intern - Python Development | Nashville, TN | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [Birdseye Security Solutions](https://birdseyeaccount.bamboohr.com/careers/286/) | Software Developer Intern | Mississauga, ON, Canada | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [IPConfigure](https://ipconfigure.bamboohr.com/careers/71/) | Software Development for Video Surveillance Software Intern | Norfolk, VA | N/A | 2026-11-17 | 4 | simplify-2026 |

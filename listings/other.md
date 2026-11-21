@@ -1,9 +1,10 @@
-# Other (1863)
+# Other (1865)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fabri](https://go.vansh.nyc/1Gk) | DevOps, IT & Cybersecurity Intern | Billerica, MA |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Convverge](https://go.vansh.nyc/1Ga) | Junior Developer Co-op | Calgary, Canada |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/1Gd) | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Canadian Solar](https://go.vansh.nyc/1G8) | Data Engineering Intern | Kitchener, Canada |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -20,6 +21,7 @@
 | [Southern Farm Bureau Life Insurance](https://go.vansh.nyc/1G1) | Cyber Security Intern | Jackson, MS |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Daikin Comfort](https://go.vansh.nyc/1FH) | Programmer Analyst Intern | Waller, TX |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Southwest Power Pool](https://go.vansh.nyc/1FI) | Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management | Little Rock, AR |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Advance Auto Parts](https://go.vansh.nyc/1Gi) | Data Science Intern | Raleigh, NC |  | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FQ) | AI Engineer Student Intern | Calgary, Canada |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FR) | AI Orchestrator Student Intern | Calgary, Canada |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Mesirow](https://go.vansh.nyc/1Fw) | Software Developer Intern, IT | Chicago, IL |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -67,6 +69,7 @@
 | [Lucid Motors](https://go.vansh.nyc/1E2) | Infotainment SW Validation Automation Intern | Newark, CA |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Lucid Motors](https://go.vansh.nyc/1DT) | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | Newark, CA |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Altera](https://go.vansh.nyc/1Et) | FPGA Software Engineer Intern | Toronto, Canada |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Worthington Enterprises](https://go.vansh.nyc/1Gj) | AI Intern | Columbus, OH |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Idaho National Laboratory](https://go.vansh.nyc/1G6) | Spatial Computing Intern | Idaho Falls, ID |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Piper Sandler](https://go.vansh.nyc/1G3) | Equities Trading Technology Intern | Greenwich, CT |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Intuitive](https://go.vansh.nyc/1Fo) | Data Engineering Intern | Sunnyvale, CA |  | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -1476,7 +1479,6 @@
 | [Astera Labs](https://go.vansh.nyc/Fd) | Applied AI Engineer Intern, Silicon Engineering | San Jose, CA |  | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Astera Labs](https://go.vansh.nyc/Fc) | Applied AI Intern, Non-Silicon | San Jose, CA |  | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Mayo Clinic](https://go.vansh.nyc/Fa) | AI/ML Intern, Radiation Oncology | Rochester, MN |  | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
-| [Moment Energy](https://go.vansh.nyc/F8) | Software Engineering Co-op | Surrey, Canada |  | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Tevora](https://go.vansh.nyc/Va) | Cybersecurity Intern, Threat | Irvine, CA, Fairfax, VA |  | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Tevora](https://go.vansh.nyc/V9) | Cybersecurity Intern, Solutions | Irvine, CA, Fairfax, VA |  | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Tevora](https://go.vansh.nyc/H9) | Cybersecurity Intern, Systems and Organizations Controls (SOC) | Irvine, CA, Fairfax, VA |  | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |

@@ -1,5 +1,89 @@
 [
   {
+    "date_updated": 1795296017,
+    "url": "https://go.vansh.nyc/F8",
+    "locations": [
+      "Surrey, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Moment Energy",
+    "title": "Software Engineering Co-op",
+    "source": "vanshb03",
+    "id": "80e8d181-59b6-4275-b73c-b6d29a99eaac",
+    "date_posted": 1791248928,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795295744,
+    "url": "https://go.vansh.nyc/1Gj",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Worthington Enterprises",
+    "title": "AI Intern",
+    "source": "vanshb03",
+    "id": "4a73ca56-3032-4c7b-99f3-022d2be17002",
+    "date_posted": 1795132800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795295744,
+    "url": "https://go.vansh.nyc/1Gk",
+    "locations": [
+      "Billerica, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Fabri",
+    "title": "DevOps, IT & Cybersecurity Intern",
+    "source": "vanshb03",
+    "id": "fadad925-c66c-40aa-831f-1d5f69e7849b",
+    "date_posted": 1795295451,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795295126,
+    "url": "https://go.vansh.nyc/1Gi",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Advance Auto Parts",
+    "title": "Data Science Intern",
+    "source": "vanshb03",
+    "id": "0ce3f152-436a-4475-9d9f-80b776d65eb0",
+    "date_posted": 1795219200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1795281431,
     "url": "https://go.vansh.nyc/1Gg",
     "locations": [
@@ -17095,7 +17179,7 @@
     "company_name": "Angel Host",
     "id": "77f0d4c4-57a5-49b8-81ed-085e150c6551",
     "title": "AI Product Engineer Intern Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Winter 2027"
@@ -113185,27 +113269,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793015500,
-    "url": "https://go.vansh.nyc/F8",
-    "locations": [
-      "Surrey, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Moment Energy",
-    "title": "Software Engineering Co-op",
-    "source": "vanshb03",
-    "id": "80e8d181-59b6-4275-b73c-b6d29a99eaac",
-    "date_posted": 1791248928,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -238562,7 +238625,7 @@
     "company_name": "Varian",
     "id": "2df4621a-ca36-4f82-a281-3f14c7d2930a",
     "title": "Embedded Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
