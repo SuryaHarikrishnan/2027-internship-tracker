@@ -1,4 +1,4 @@
-# Other (1863)
+# Other (1860)
 
 [← back to index](../README.md)
 
@@ -796,7 +796,6 @@
 | [Lila Sciences](https://go.vansh.nyc/19d) | Agentic and Generative Protein Design Co-op | Cambridge, MA, San Francisco, CA |  | 2026-11-02 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Tecsys](https://go.vansh.nyc/19b) | Developer Intern | Montreal, Canada |  | 2026-11-02 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Microsoft](https://go.vansh.nyc/199) | First-Year Explore Program Engineering Intern | Redmond, WA |  | 2026-11-02 | 20 | vanshb03-2026, vanshb03-2027 |
-| [KLA](https://go.vansh.nyc/1b9) | Software Engineer Intern | Austin, TX |  | 2026-11-02 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Astro Mechanica](https://go.vansh.nyc/1bg) | Software Engineer Intern | San Francisco, CA |  | 2026-11-02 | 20 | vanshb03-2026, vanshb03-2027 |
 | [KLA](https://go.vansh.nyc/19L) | Software Engineer Intern | Totowa, NJ |  | 2026-11-02 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Plexus](https://go.vansh.nyc/19m) | Software Engineer Intern | Neenah, WI |  | 2026-11-02 | 20 | vanshb03-2026, vanshb03-2027 |
@@ -1216,7 +1215,6 @@
 | [DP World](https://go.vansh.nyc/ef) | Information Security Intern | Charlotte, NC |  | 2026-10-21 | 32 | vanshb03-2026, vanshb03-2027 |
 | [Aptiv](https://go.vansh.nyc/dC) | AI Product Analyst Intern | San Diego, CA |  | 2026-10-21 | 32 | vanshb03-2026, vanshb03-2027 |
 | [AeroVironment](https://go.vansh.nyc/dk) | Software Engineering Intern | San Diego, CA |  | 2026-10-21 | 32 | vanshb03-2026, vanshb03-2027 |
-| [Toyota](https://go.vansh.nyc/dm) | Data Science Intern, TFS | Plano, TX |  | 2026-10-21 | 32 | vanshb03-2026, vanshb03-2027 |
 | [Rhoda AI](https://go.vansh.nyc/dj) | Software Engineer Intern, Inference | Mountain View, CA |  | 2026-10-21 | 32 | vanshb03-2026, vanshb03-2027 |
 | [DriveWealth](https://go.vansh.nyc/df) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL, NYC |  | 2026-10-20 | 33 | vanshb03-2026, vanshb03-2027 |
 | [DriveWealth](https://go.vansh.nyc/de) | AI Engineer Intern, AI Consulting Associate Program | Chicago, IL, NYC |  | 2026-10-20 | 33 | vanshb03-2026, vanshb03-2027 |
@@ -1326,7 +1324,6 @@
 | [AiDASH](https://go.vansh.nyc/gk) | Software Engineering Intern, Backend | Palo Alto, CA |  | 2026-10-16 | 37 | vanshb03-2026, vanshb03-2027 |
 | [Inter Miami CF](https://go.vansh.nyc/gl) | Business Intelligence Intern, Software Development | Miami, FL |  | 2026-10-16 | 37 | vanshb03-2026, vanshb03-2027 |
 | [Mastercard](https://go.vansh.nyc/gm) | Platform Engineering Intern | O'Fallon, MO |  | 2026-10-16 | 37 | vanshb03-2026, vanshb03-2027 |
-| [Wikimedia Foundation](https://go.vansh.nyc/CK) | Software Engineering Intern | Remote, United States |  | 2026-10-15 | 38 | vanshb03-2026, vanshb03-2027 |
 | [Nokia](https://go.vansh.nyc/CI) | Embedded Software Developer Co-op, C/C++ | Ottawa, Canada |  | 2026-10-15 | 38 | vanshb03-2026, vanshb03-2027 |
 | [Capital de Recherche Tower](https://go.vansh.nyc/1te) | Machine Learning Intern | Montreal, Canada |  | 2026-10-15 | 38 | vanshb03-2026, vanshb03-2027 |
 | [Quest Analytics](https://go.vansh.nyc/1Al) | Software Engineer Intern, C#, ASP.NET | Overland Park, KS |  | 2026-10-15 | 38 | vanshb03-2026, vanshb03-2027 |

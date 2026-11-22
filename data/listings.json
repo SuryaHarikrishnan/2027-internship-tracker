@@ -1,5 +1,69 @@
 [
   {
+    "date_updated": 1795368039,
+    "url": "https://go.vansh.nyc/dm",
+    "locations": [
+      "Plano, TX"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Toyota",
+    "title": "Data Science Intern, TFS",
+    "source": "vanshb03",
+    "id": "871bd3f5-fd4d-4777-a3a1-4560447ca316",
+    "date_posted": 1792566000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795368039,
+    "url": "https://go.vansh.nyc/CK",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Wikimedia Foundation",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "e528c404-2b2f-4e00-a35b-96e41596c961",
+    "date_posted": 1792102307,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795368039,
+    "url": "https://go.vansh.nyc/1b9",
+    "locations": [
+      "Austin, TX"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "KLA",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "34b73d2c-0547-4ae6-b1bb-6b5508c561cd",
+    "date_posted": 1793577600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Allegion",
@@ -183,7 +247,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -272,7 +338,7 @@
     "company_name": "AMD",
     "id": "090826fc-fc8c-443f-8302-02afa9826799",
     "title": "BIOS Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -73376,27 +73442,6 @@
   },
   {
     "date_updated": 1793662521,
-    "url": "https://go.vansh.nyc/1b9",
-    "locations": [
-      "Austin, TX"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "KLA",
-    "title": "Software Engineer Intern",
-    "source": "vanshb03",
-    "id": "34b73d2c-0547-4ae6-b1bb-6b5508c561cd",
-    "date_posted": 1793577600,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793662521,
     "url": "https://go.vansh.nyc/1bg",
     "locations": [
       "San Francisco, CA"
@@ -115278,28 +115323,6 @@
     ]
   },
   {
-    "date_updated": 1793013503,
-    "url": "https://go.vansh.nyc/CK",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Wikimedia Foundation",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "e528c404-2b2f-4e00-a35b-96e41596c961",
-    "date_posted": 1792102307,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Spring",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1793009169,
     "url": "https://go.vansh.nyc/BQ",
     "locations": [
@@ -121100,7 +121123,7 @@
     "company_name": "Trimble",
     "id": "09a35e15-6e69-4542-afbf-97e4a30f4562",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -133186,27 +133209,6 @@
     "title": "Software Engineering Intern",
     "source": "vanshb03",
     "id": "1182a84a-1005-491e-b88d-451db385adb1",
-    "date_posted": 1792566000,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1792602840,
-    "url": "https://go.vansh.nyc/dm",
-    "locations": [
-      "Plano, TX"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Toyota",
-    "title": "Data Science Intern, TFS",
-    "source": "vanshb03",
-    "id": "871bd3f5-fd4d-4777-a3a1-4560447ca316",
     "date_posted": 1792566000,
     "company_url": "",
     "is_visible": true,
@@ -201598,7 +201600,7 @@
     "company_name": "Tesla",
     "id": "070fe1b9-0837-4ba9-aaad-ed124634f867",
     "title": "Firmware Integration Engineer Intern - Factory Firmware",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],

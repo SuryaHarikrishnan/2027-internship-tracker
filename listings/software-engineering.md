@@ -1,10 +1,9 @@
-# Software Engineering (1376)
+# Software Engineering (1375)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [AMD](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) | BIOS Engineering Co-op | Austin, TX | Winter 2027, Spring 2027, Summer 2027 | 2026-11-22 | 0 | simplify-2026 |
 | [Convverge](https://convverge.bamboohr.com/careers/31/) | Junior Developer Co-op | Calgary, AB, Canada | N/A | 2026-11-21 | 1 | simplify-2026 |
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | ADAS Platform Tools Intern | Newark, CA | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |
 | [Acuity Insurance](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Software Engineer Intern | Remote in USA, Sheboygan, WI | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |

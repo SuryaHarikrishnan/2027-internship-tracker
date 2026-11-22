@@ -16,13 +16,13 @@ Ranked by freshness + company tier + role category.
 | 6 | **Meta** | Research Scientist Intern - AI Agents for Autonomous Laboratories | Redmond, WA | N/A | 2026-11-19 (3d ago) | [Apply](https://www.metacareers.com/jobs/29481973694788756) |
 | 7 | **Snowflake** | Software Engineer Intern - AI / ML | Menlo Park, CA, Bellevue, WA | Summer 2027 | 2026-11-19 (3d ago) | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true) |
 | 8 | **Waymo** | Agentic AI Intern | Mountain View, CA | Summer 2027 | 2026-11-19 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) |
-| 9 | **AMD** | BIOS Engineering Co-op | Austin, TX | Winter 2027, Spring 2027, Summer 2027 | 2026-11-22 (0d ago) | [Apply](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) |
-| 10 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
-| 11 | **Airbnb** | Software Engineer Intern | SF | Summer 2027 | 2026-11-18 (4d ago) | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
-| 12 | **Uber** | Product Management Intern | SF | Summer 2027 | 2026-11-17 (5d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) |
-| 13 | **Cisco** | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC |  | 2026-11-20 (2d ago) | [Apply](https://go.vansh.nyc/1G5) |
-| 14 | **ServiceNow** | Security Software Engineer Intern | Kirkland, WA | Summer 2027, Fall 2027 | 2026-11-20 (2d ago) | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
-| 15 | **Qualcomm** | Software Systems Engineer Intern - Systems Engineering Team - Data Center Group | Cambridge, UK | N/A | 2026-11-20 (2d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446722247294) |
+| 9 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
+| 10 | **Airbnb** | Software Engineer Intern | SF | Summer 2027 | 2026-11-18 (4d ago) | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
+| 11 | **Uber** | Product Management Intern | SF | Summer 2027 | 2026-11-17 (5d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) |
+| 12 | **Cisco** | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC |  | 2026-11-20 (2d ago) | [Apply](https://go.vansh.nyc/1G5) |
+| 13 | **ServiceNow** | Security Software Engineer Intern | Kirkland, WA | Summer 2027, Fall 2027 | 2026-11-20 (2d ago) | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
+| 14 | **Qualcomm** | Software Systems Engineer Intern - Systems Engineering Team - Data Center Group | Cambridge, UK | N/A | 2026-11-20 (2d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446722247294) |
+| 15 | **Rivian** | Software Engineering Intern, AI Platform, Autonomy | Palo Alto, CA |  | 2026-11-20 (2d ago) | [Apply](https://go.vansh.nyc/1F3) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (22d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-22 16:43 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-22 20:03 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

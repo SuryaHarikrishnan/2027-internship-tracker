@@ -1,10 +1,10 @@
-# Hardware Engineering (878)
+# Hardware Engineering (876)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Neogen](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064) | Embedded Systems Engineer Intern | Oakdale, MN | N/A | 2026-11-22 | 0 | simplify-2026 |
+| [Neogen](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064) | Embedded Systems Engineer Intern | Oakdale, MN | N/A | 2026-11-22 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Firmware/Embedded Software Engineer Intern | Torrance, CA | Summer 2027 | 2026-11-22 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) | Electrical Engineer Intern | Torrance, CA | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |
 | [iA](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) | Industrial Engineer Intern | Johnson City, NY | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |
@@ -296,7 +296,6 @@
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923) | Tapeout Engineer Intern - Tapeout Operations | Essex Junction, VT | Summer 2027 | 2026-10-23 | 30 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957) | New Product Development Test Engineer Intern | Richardson, TX | Summer 2027 | 2026-10-23 | 30 | simplify-2026 |
 | [KLA Corporation](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277) | Engineer Intern | Milpitas, CA | N/A | 2026-10-23 | 30 | simplify-2026 |
-| [Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | Software Engineer Intern | Richmond Hill, ON, Canada | Summer 2027 | 2026-10-23 | 30 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Engineering-Intern_2642277-1) | Engineer Intern | Milpitas, CA | N/A | 2026-10-23 | 30 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Design-Verification-Engineering-Intern_R267098) | Design Verification Engineer Intern | Newbury, UK | N/A | 2026-10-23 | 30 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097) | Design Verification Intern | United Kingdom | N/A | 2026-10-23 | 30 | simplify-2026 |
@@ -605,7 +604,6 @@
 | [Castelion](https://job-boards.greenhouse.io/castelioncorporation/jobs/4417146009) | Electrical Engineer Intern - Avionics | Torrance, CA | Fall 2026 | 2026-09-22 | 61 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-Project-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432399900/?ats=successfactors) | Project Engineering Co-op | Waterdown, Hamilton, ON, Canada | N/A | 2026-09-22 | 61 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8212703/apply/?gh_jid=8212703) | Build Team Intern | Somerville, MA | Summer 2027 | 2026-09-22 | 61 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/284156) | Firmware Integration Engineer Intern - Factory Firmware | Austin, TX | Spring 2027 | 2026-09-22 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284183) | Power Electronics Electrical Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-22 | 61 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284278) | Reliability Test Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-22 | 61 | simplify-2026 |
 | [Danaher](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537) | Hardware Engineer Co-op | Concord, Vaughan, ON, Canada | Winter 2026 | 2026-09-22 | 61 | simplify-2026 |
