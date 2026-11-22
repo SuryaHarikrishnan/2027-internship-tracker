@@ -2,6 +2,246 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Allegion",
+    "id": "4ff108bb-7aa5-46ee-ba47-689ea522977e",
+    "title": "Product Data Intern - Product Data",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1795363233,
+    "date_posted": 1792368000,
+    "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448",
+    "locations": [
+      "Indianapolis, IN",
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Allegion",
+    "id": "829f073a-df9b-4448-a870-7d6bc38f0d7d",
+    "title": "Software Engineer Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795363227,
+    "date_posted": 1790294400,
+    "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795",
+    "locations": [
+      "Golden, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Viavi Solutions",
+    "id": "d71c5ba9-0935-4cef-bd4c-21f2c50b2e47",
+    "title": "Robotics Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795361941,
+    "date_posted": 1794960000,
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
+    "locations": [
+      "Bothell, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Fiskars Group",
+    "id": "de5b84ef-da26-41b7-a59d-1dd83d33491c",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1795361238,
+    "date_posted": 1795046400,
+    "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Fiskars-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Constellation Brands",
+    "id": "3bddb066-3054-4a0c-9cc7-b0ba4e388c00",
+    "title": "Data and AI Enablement Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795360900,
+    "date_posted": 1794787200,
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721",
+    "locations": [
+      "Rochester, NY",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Constellation-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Constellation Brands",
+    "id": "ef8562a4-25a5-4d0e-9199-0322e26692b1",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795360891,
+    "date_posted": 1794787200,
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Constellation-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Neogen",
+    "id": "9c9115ad-7e10-4ed2-9f6d-b00d4a2c8f1c",
+    "title": "Embedded Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795360696,
+    "date_posted": 1795360645,
+    "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
+    "locations": [
+      "Oakdale, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Neogen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Western Governors University",
+    "id": "cbbfc481-5c2f-4875-a3ae-53fd2183c75f",
+    "title": "Technical Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795360358,
+    "date_posted": 1795132800,
+    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Governors-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "First Bank & Trust",
+    "id": "c19ddb09-a366-491b-8f74-c4e088f343a8",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795359962,
+    "date_posted": 1795132800,
+    "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
+    "locations": [
+      "Brookings, SD",
+      "Sioux Falls, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/First-Bank-And-Trust",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Johns Manville",
     "id": "e4edff5e-f411-4f18-af6c-d380593b8540",
     "title": "Business Analytics & Strategy Intern",
@@ -84,7 +324,7 @@
     "company_name": "NBCUniversal",
     "id": "c670d7e9-977a-470d-8a6c-8b9abe9099ad",
     "title": "Business Data Intern - Film IT",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -8668,27 +8908,6 @@
     ]
   },
   {
-    "date_updated": 1795148073,
-    "url": "https://go.vansh.nyc/1DX",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Constellation Brands",
-    "title": "Data Science Intern",
-    "source": "vanshb03",
-    "id": "aef6dd3f-4b5e-4a39-a0f8-85a0f0067e89",
-    "date_posted": 1795147849,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1795144685,
     "url": "https://go.vansh.nyc/10n",
     "locations": [
@@ -13894,27 +14113,6 @@
     ]
   },
   {
-    "date_updated": 1795027246,
-    "url": "https://go.vansh.nyc/1Ci",
-    "locations": [
-      "Bothell, WA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Viavi Solutions",
-    "title": "Robotics Intern",
-    "source": "vanshb03",
-    "id": "eb792e8f-34e4-45f8-8688-fa38d4cae7e7",
-    "date_posted": 1795026406,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "date_updated": 1795025726,
     "url": "https://go.vansh.nyc/1eS",
     "locations": [
@@ -16170,28 +16368,6 @@
     "source": "vanshb03",
     "id": "3b433358-9858-4aef-a78d-e1ea00e5ff32",
     "date_posted": 1794949724,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794948070,
-    "url": "https://go.vansh.nyc/1Bp",
-    "locations": [
-      "Rochester, NY",
-      "Chicago, IL"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Constellation Brands",
-    "title": "Data and AI Enablement Intern",
-    "source": "vanshb03",
-    "id": "2a0f537f-c20f-4091-902f-215160d18b04",
-    "date_posted": 1794843817,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -65958,6 +66134,32 @@
     ]
   },
   {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Roku",
+    "id": "2a48b4e4-b815-484d-ba1f-6a52419c38d8",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1793804828,
+    "date_posted": 1793793490,
+    "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Roku",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "date_updated": 1793803195,
     "url": "https://go.vansh.nyc/1gu",
     "locations": [
@@ -94024,7 +94226,7 @@
     "company_name": "WGU",
     "id": "0c948dc9-1eb1-44a6-86f9-c0695549d3b4",
     "title": "Data Governance Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -201154,7 +201356,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -432549,6 +432751,34 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Leidos",
+    "id": "8153edd6-2a20-4010-bf9d-5b341ee8688c",
+    "title": "Data Science / Decision Science Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776897412,
+    "date_posted": 1776895853,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Data-Science---Decision-Science-Intern_R-00181464",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "Royal Bank of Canada",
     "id": "d46e1fdf-916e-4bec-a994-94faf8a29609",
     "title": "Data Analyst Developer Intern - Grm",
@@ -472823,164 +473053,6 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Allegheny County",
-    "id": "e99a66de-3b1c-4cbe-8a1a-8f61d3ecdd68",
-    "title": "Data Analytics Intern - Data Analytics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774627457,
-    "date_posted": 1774620560,
-    "url": "https://alleghenycounty.bamboohr.com/careers/605/",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Allegheny-County",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "United Parcel Service (UPS)",
-    "id": "2cee4259-420e-407a-8d4e-530a3210a353",
-    "title": "Co-op Web Development",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774627014,
-    "date_posted": 1774620545,
-    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/Co-Op-Web-Development_R26009532",
-    "locations": [
-      "Parsippany-Troy Hills, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Leidos",
-    "id": "5fd83f6a-a041-434a-b1b0-254c3e83cb8b",
-    "title": "Data Science / Decision Science Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774625792,
-    "date_posted": 1774620520,
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Data-Science---Decision-Science-Intern_R-00179438-1",
-    "locations": [
-      "Reston, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Roku",
-    "id": "4fdc4164-7b6f-4027-bce7-3ce9366af878",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1774621235,
-    "date_posted": 1774621235,
-    "url": "https://www.weareroku.com/jobs/7626224?gh_jid=7626224",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Roku",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Socure",
-    "id": "f926c3eb-b1ea-4028-b59a-bc891b3e6b9f",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774620571,
-    "date_posted": 1774620571,
-    "url": "https://jobs.ashbyhq.com/socure/a6b602d8-9091-4f19-8f09-dfd60b9ac340/application",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Socure",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Elekta",
-    "id": "459bb927-ae37-4264-a562-2ea17d90c0ce",
-    "title": "Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774620532,
-    "date_posted": 1774620532,
-    "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Software-Engineering-Intern_R2026-0496",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Elekta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"

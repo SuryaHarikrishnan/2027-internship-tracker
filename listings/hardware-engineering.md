@@ -1,9 +1,10 @@
-# Hardware Engineering (877)
+# Hardware Engineering (878)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Neogen](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064) | Embedded Systems Engineer Intern | Oakdale, MN | N/A | 2026-11-22 | 0 | simplify-2026 |
 | [Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Firmware/Embedded Software Engineer Intern | Torrance, CA | Summer 2027 | 2026-11-22 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) | Electrical Engineer Intern | Torrance, CA | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |
 | [iA](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) | Industrial Engineer Intern | Johnson City, NY | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |

@@ -1,4 +1,4 @@
-# Software Engineering (1372)
+# Software Engineering (1376)
 
 [← back to index](../README.md)
 
@@ -54,6 +54,7 @@
 | [Pathlabs](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern) | Software and AI Engineer Intern | Missoula, MT | N/A | 2026-11-20 | 2 | simplify-2026 |
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) | Infotainment Software Intern | Newark, CA | Summer 2027, Fall 2027 | 2026-11-20 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Formlabs](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) | API & Automation Intern | Somerville, MA | Summer 2027 | 2026-11-20 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Western Governors University](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525) | Technical Intern | Salt Lake City, UT | N/A | 2026-11-20 | 2 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) | Technical Marketing Engineer Intern - Digital Biology and Scientific Computing | Santa Clara, CA | Summer 2027 | 2026-11-20 | 2 | simplify-2026 |
 | [Woodward Governor](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) | AI Intern | Niles, IL, Fort Collins, CO | Summer 2027 | 2026-11-20 | 2 | simplify-2026 |
 | [Gorbel](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) | Front-End Web Developer Co-op | Victor, NY | N/A | 2026-11-20 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -259,6 +260,7 @@
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) | Renewable Energy Intern | Houston, TX | Summer 2027 | 2026-11-04 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Figma](https://boards.greenhouse.io/figma/jobs/6241542004) | PhD Intern - Software Engineer - Interaction Design | SF, NYC | Summer 2027 | 2026-11-04 | 18 | simplify-2026 |
 | [Roku](https://www.weareroku.com/jobs/8345967?gh_jid=8345967) | Software Engineer Intern | Manchester, UK | Summer 2027 | 2026-11-04 | 18 | simplify-2026 |
+| [Roku](https://www.weareroku.com/jobs/8345963?gh_jid=8345963) | Software Engineer Intern | Cambridge, UK | Summer 2027 | 2026-11-04 | 18 | simplify-2026 |
 | [Roku](https://www.weareroku.com/jobs/8345954?gh_jid=8345954) | AI Engineering Intern | Manchester, UK | Summer 2027 | 2026-11-04 | 18 | simplify-2026 |
 | [Roku](https://www.weareroku.com/jobs/8345947?gh_jid=8345947) | AI Engineering Intern | Cambridge, UK | Summer 2027 | 2026-11-04 | 18 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/78349/job?mobile=true&needsRedirect=false) | Software Engineer Intern | Port Orchard, WA | N/A | 2026-11-04 | 18 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -708,6 +710,7 @@
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8234161) | Software Engineering Intern - MS/PhD - Sys Intel & ML | Mountain View, CA | Summer 2027 | 2026-09-25 | 58 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8231711) | Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics | Mountain View, CA | Summer 2027 | 2026-09-25 | 58 | simplify-2026 |
 | [Barrios](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false) | Data and Computer Engineering/Computer Science Intern | Houston, TX | Summer 2027 | 2026-09-25 | 58 | simplify-2026 |
+| [Allegion](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795) | Software Engineer Intern - Software Engineering | Golden, CO | N/A | 2026-09-25 | 58 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1) | Software Engineering Intern | Golden, CO | Summer 2026 | 2026-09-25 | 58 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Software Research Intern - PhD | Hillsboro, OR | Summer 2027 | 2026-09-25 | 58 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980) | AI Software Engineer Intern | Mayfield Heights, OH, Milwaukee, WI | Summer 2027 | 2026-09-25 | 58 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -756,6 +759,7 @@
 | [Charter Manufacturing](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129) | Digital Integration Intern | Mequon, WI | Summer 2027 | 2026-09-22 | 61 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) | R&D Intern - AI Research Engineer | Mason, OH | Summer 2027, Summer 2026 | 2026-09-22 | 61 | simplify-2026 |
 | [Geneva Trading](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) | C++ Developer Intern | Chicago, IL | Summer 2026 | 2026-09-21 | 62 | simplify-2026 |
+| [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Yarmouth, ME, Orono, ME, Falmouth, ME | Summer 2027 | 2026-09-21 | 62 | simplify-2026 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Plano, TX | Summer 2027 | 2026-09-21 | 62 | simplify-2026 |
 | [Rodan Energy Solutions](https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027) | AI Solutions Co-op | Mississauga, ON, Canada | Winter 2027 | 2026-09-21 | 62 | simplify-2026 |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293) | Summer Internship - Technology | Johns Creek, GA | Summer 2027 | 2026-09-21 | 62 | simplify-2026 |

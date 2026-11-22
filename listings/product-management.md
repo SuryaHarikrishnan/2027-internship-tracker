@@ -1,4 +1,4 @@
-# Product Management (271)
+# Product Management (272)
 
 [← back to index](../README.md)
 
@@ -14,6 +14,7 @@
 | [Walmart](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) | MBA Product Manager Intern - MBA | Bentonville, AR | Summer 2027 | 2026-11-20 | 2 | simplify-2026 |
 | [AriensCo](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) | Product Management Intern | Brillion, WI | Summer 2027 | 2026-11-20 | 2 | simplify-2026 |
 | [First PREMIER Bank](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Digital-Innovation---Strategy-Internship_R-551-1) | Digital Innovation & Strategy Intern | Sioux Falls, SD | N/A | 2026-11-20 | 2 | simplify-2026 |
+| [Fiskars Group](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) | Product Management Intern | Middleton, WI | Summer 2026 | 2026-11-19 | 3 | simplify-2026 |
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 | 4 | simplify-2026 |
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Product Management Intern | Raleigh, NC | Summer 2027 | 2026-11-18 | 4 | simplify-2026 |
 | [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009) | Product Intern | London, UK | Summer 2027 | 2026-11-18 | 4 | simplify-2026 |
