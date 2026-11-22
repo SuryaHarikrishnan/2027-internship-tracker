@@ -1,4 +1,4 @@
-# Other (1864)
+# Other (1866)
 
 [← back to index](../README.md)
 
@@ -21,6 +21,8 @@
 | [Southern Farm Bureau Life Insurance](https://go.vansh.nyc/1G1) | Cyber Security Intern | Jackson, MS |  | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Daikin Comfort](https://go.vansh.nyc/1FH) | Programmer Analyst Intern | Waller, TX |  | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Southwest Power Pool](https://go.vansh.nyc/1FI) | Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management | Little Rock, AR |  | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
+| [WGU](https://go.vansh.nyc/1Gm) | Technical Intern | Salt Lake City, UT |  | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Lumentum](https://go.vansh.nyc/1Gn) | AI Engineer Co-op | Ottawa, Canada |  | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FQ) | AI Engineer Student Intern | Calgary, Canada |  | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FR) | AI Orchestrator Student Intern | Calgary, Canada |  | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Mesirow](https://go.vansh.nyc/1Fw) | Software Developer Intern, IT | Chicago, IL |  | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |

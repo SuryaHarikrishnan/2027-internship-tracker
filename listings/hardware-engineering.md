@@ -1,9 +1,10 @@
-# Hardware Engineering (876)
+# Hardware Engineering (877)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Firmware/Embedded Software Engineer Intern | Torrance, CA | Summer 2027 | 2026-11-22 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) | Electrical Engineer Intern | Torrance, CA | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |
 | [iA](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) | Industrial Engineer Intern | Johnson City, NY | Summer 2027 | 2026-11-21 | 1 | simplify-2026 |
 | [Nottingham Spirk](https://nottinghamspirk.applytojob.com/apply/udpROpEzBV/Firmware-Spring-2027-CoOp) | Firmware Co-op | Cleveland, OH | Spring 2027 | 2026-11-21 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -40,7 +41,6 @@
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving | Newark, CA | Summer 2027 | 2026-11-20 | 2 | simplify-2026 |
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) | ADAS Systems Integration Intern | Newark, CA | Summer 2027 | 2026-11-20 | 2 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990016986011) | Engineering Intern | Livermore, CA | Summer 2027 | 2026-11-20 | 2 | simplify-2026 |
-| [Blackberry](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313) | Hardware Engineering Student Intern - Radar | Waterloo, ON, Canada | N/A | 2026-11-20 | 2 | simplify-2026 |
 | [Rolls-Royce](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Glasgow/FPGA-Summer-Internship---Glasgow--UK_JR6163435) | FPGA Engineer Intern | Glasgow, UK | Summer 2026 | 2026-11-20 | 2 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4973-26) | ASIC Verification Engineer Intern | San Jose, CA | N/A | 2026-11-20 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Embedded Software Intern | Newark, CA | Summer 2027 | 2026-11-19 | 3 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -681,6 +681,7 @@
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000149106240) | Channel Integration Engineer Co-op | Rochester, MN | Summer 2027, Fall 2027 | 2026-09-11 | 72 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/20135?icims=1) | Software Engineer Intern | Tulsa, OK | Summer 2027 | 2026-09-11 | 72 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true) | Hardware Engineer Intern | SF | Summer 2027 | 2026-09-11 | 72 | simplify-2026 |
+| [Allegion](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467) | Hardware Engineering Intern - Product Lifecycle Engineering | Indianapolis, IN | N/A | 2026-09-11 | 72 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) | Systems Engineering Co-op - Spring 2027 | Cambridge, MA | Spring 2027 | 2026-09-11 | 72 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1) | Hardware Engineer Intern - Product Lifecycle Engineering | Indianapolis, IN | Summer 2026 | 2026-09-11 | 72 | simplify-2026 |
 | [Vishay Intertechnology](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-20288) | R&D Engineer Intern | Yankton, SD | Winter 2026 | 2026-09-11 | 72 | simplify-2026 |
