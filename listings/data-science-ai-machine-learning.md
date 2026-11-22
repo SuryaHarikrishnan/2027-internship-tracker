@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1764)
+# Data Science, AI & Machine Learning (1763)
 
 [← back to index](../README.md)
 
@@ -802,7 +802,6 @@
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1) | R&D Engineer Intern | University Park, State College, PA | Summer 2027 | 2026-10-16 | 37 | simplify-2026 |
 | [Alliaxis](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | Winter 2027 | 2026-10-16 | 37 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782) | Client Data and Engineering Group Internship | London, UK | Summer 2027 | 2026-10-16 | 37 | simplify-2026 |
-| [Thomson Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560) | Applied Science Intern | London, UK | N/A | 2026-10-16 | 37 | simplify-2026 |
 | [Hilb Group](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) | Benefits Analytics Intern | Hunt Valley, Cockeysville, MD | Summer 2027 | 2026-10-16 | 37 | simplify-2026 |
 | [Royal Caribbean Group](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern,-Guest-Travel-Services-(Summer-2027)-FL-33132/1440504600/?ats=successfactors) | Guest Travel Services Intern | Miramar, FL | Summer 2027 | 2026-10-15 | 38 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8244128) | Semantics Intern | Mountain View, CA | Summer 2027 | 2026-10-15 | 38 | simplify-2026 |

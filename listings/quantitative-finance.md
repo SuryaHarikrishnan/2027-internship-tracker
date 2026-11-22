@@ -1,4 +1,4 @@
-# Quantitative Finance (207)
+# Quantitative Finance (206)
 
 [← back to index](../README.md)
 
@@ -20,7 +20,6 @@
 | [Voya Financial](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Mortgage-Derivatives_JR0033396) | Summer Student Intern - Mortgage Derivatives | Atlanta, GA | N/A | 2026-11-09 | 13 | simplify-2026 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Research Analyst Intern | Chicago, IL | Summer 2027 | 2026-11-04 | 18 | simplify-2026 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/xWQKe37zpsstpmjqs1whHw) | PhD Research Intern | London, UK | Summer 2027 | 2026-11-03 | 19 | simplify-2026 |
-| [Man Group](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | Systematic Quant Intern | Massachusetts | Summer 2027 | 2026-11-03 | 19 | simplify-2026 |
 | [Synthesis](https://apply.workable.com/synthesisim/j/C2932F1DE5/apply) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-10-29 | 24 | simplify-2026 |
 | [SCM](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Quantitative Research Analyst Intern | Radnor, PA | Summer 2026 | 2026-10-29 | 24 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | DeFi Quant Trader Intern - Credit | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-29 | 24 | simplify-2026 |
