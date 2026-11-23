@@ -1,4 +1,4 @@
-# Quantitative Finance (202)
+# Quantitative Finance (201)
 
 [← back to index](../README.md)
 
@@ -64,7 +64,6 @@
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | Summer 2027 | 2026-09-22 | 62 | simplify-2026 |
 | [Lazard](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | Quantitative Research Intern | NYC | Summer 2027 | 2026-09-21 | 63 | simplify-2026 |
 | [National Bank of Canada](https://bnc.avature.net/en_CA/careers/JobDetail/35546) | Analyst Intern - Credit Risk Analytics | Canada | N/A | 2026-09-17 | 67 | simplify-2026 |
-| [OCC](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Model-Risk-Management_REQ-4861) | Model Risk Management Intern | Chicago, IL | Summer 2027 | 2026-09-17 | 67 | simplify-2026 |
 | [Citadel](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Quantitative Researcher Post-Doctoral Intern | Greenwich, CT, Houston, TX, Miami, FL, NYC | Summer 2026 | 2026-09-16 | 68 | simplify-2026 |
 | [Equitable Bank](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply) | Credit Risk Intern | Toronto, ON, Canada | Winter 2027 | 2026-09-15 | 69 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Quantitative Researcher Intern - US | Miami, FL, NYC | Summer 2026 | 2026-09-15 | 69 | simplify-2026 |

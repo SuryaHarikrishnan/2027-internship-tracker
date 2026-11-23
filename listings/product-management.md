@@ -1,4 +1,4 @@
-# Product Management (275)
+# Product Management (274)
 
 [← back to index](../README.md)
 
@@ -100,7 +100,6 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | CMBU Product Management Intern | San Jose, CA | N/A | 2026-10-27 | 27 | simplify-2026 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 28 | simplify-2026 |
 | [Hive Financial Systems](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Product & Program Management Intern | Atlanta, GA | Summer 2027 | 2026-10-26 | 28 | simplify-2026 |
-| [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | Product Management Intern | Lincolnshire, IL | Summer 2027 | 2026-10-26 | 28 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Technical Product Manager Intern | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | 2026-10-23 | 31 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Product Manager Intern - ALA | Seattle, WA | Summer 2027 | 2026-10-23 | 31 | simplify-2026 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-Merchandising-Graduate-Internship_R-96257) | Merchandising Graduate Intern | Boston, MA | N/A | 2026-10-23 | 31 | simplify-2026 |
