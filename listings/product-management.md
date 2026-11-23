@@ -1,9 +1,10 @@
-# Product Management (273)
+# Product Management (275)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [First Resonance](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true) | Product Management Intern | El Segundo, CA | Summer 2027 | 2026-11-23 | 0 | simplify-2026 |
 | [First Merchants Bank](https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029) | Treasury Management Product Intern | Columbus, OH | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
 | [VanEck](https://vaneck.rec.pro.ukg.net/VAN1502VEAC/JobBoard/9158c56d-61c9-447f-98b1-4ba0b04ca31d/OpportunityDetail?opportunityId=185d986f-8f9f-40ac-bf05-a26e3aa02f9e) | ETF Product Intern | NYC | Summer 2026 | 2026-11-20 | 3 | simplify-2026 |
 | [Method](https://job-boards.greenhouse.io/method/jobs/8207585003) | Product Management Intern | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
@@ -11,6 +12,7 @@
 | [iCapital Network](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002) | Product Management Intern | NYC | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
 | [CAS](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1) | Product Management in AI for Chemistry Fellow | Columbus, OH | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
 | [CAS](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) | Product Management Intern | Columbus, OH | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
+| [CSAA Insurance Group](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004) | Product Strategy & Development Intern | Arizona | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
 | [Walmart](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) | MBA Product Manager Intern - MBA | Bentonville, AR | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
 | [AriensCo](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) | Product Management Intern | Brillion, WI | Summer 2027 | 2026-11-20 | 3 | simplify-2026 |
 | [First PREMIER Bank](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Digital-Innovation---Strategy-Internship_R-551-1) | Digital Innovation & Strategy Intern | Sioux Falls, SD | N/A | 2026-11-20 | 3 | simplify-2026 |
