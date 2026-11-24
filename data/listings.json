@@ -1,5 +1,26 @@
 [
   {
+    "date_updated": 1795493652,
+    "url": "https://go.vansh.nyc/1HO",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "RTX",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "747a3660-5e45-4f41-8d34-8c1641bef2fa",
+    "date_posted": 1795493383,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "Illumio",
@@ -13642,7 +13663,7 @@
     "company_name": "Lucid Motors",
     "id": "f057ac78-d4d1-4443-8a91-99ef6b3ee471",
     "title": "Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -22402,7 +22423,7 @@
     "company_name": "Research Innovations",
     "id": "e36780ca-625f-4558-8501-fa2649791b6c",
     "title": "Department of War SkillBridge Operations SME Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -28648,7 +28669,7 @@
     "company_name": "Vertex Pharmaceuticals",
     "id": "df6c12ef-a435-45fc-8594-45f85f0d3ec8",
     "title": "Data Analytics Intern - OSD Process Data Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -124811,7 +124832,7 @@
     "company_name": "Citi",
     "id": "dc4fde37-ff4b-4326-ad59-9a80cfc0019f",
     "title": "Technology Placement Analyst Intern - Application Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -173046,7 +173067,7 @@
     "company_name": "Astera Labs",
     "id": "e74e980e-faf5-426c-a5cf-798bb67b7ab6",
     "title": "System Validation Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -228534,7 +228555,7 @@
     "company_name": "CACI",
     "id": "e772b664-062b-4315-9007-69460c23019c",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],

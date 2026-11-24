@@ -1,4 +1,4 @@
-# Hardware Engineering (860)
+# Hardware Engineering (858)
 
 [← back to index](../README.md)
 
@@ -42,7 +42,6 @@
 | [Honeywell Aerospace](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | Electrical Engineer Intern | Kanata, Ottawa, ON, Canada | N/A | 2026-11-20 | 4 | simplify-2026 |
 | [Tarana Wireless](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) | Hardware Test Engineer Intern | Milpitas, CA | N/A | 2026-11-20 | 4 | simplify-2026 |
 | [Samsung](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) | Serdes Analog Design Engineer Intern | San Jose, CA | N/A | 2026-11-20 | 4 | simplify-2026 |
-| [Lucid Motors](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving | Newark, CA | Summer 2027 | 2026-11-20 | 4 | simplify-2026 |
 | [Lucid Motors](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) | ADAS Systems Integration Intern | Newark, CA | Summer 2027 | 2026-11-20 | 4 | simplify-2026 |
 | [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990016986011) | Engineering Intern | Livermore, CA | Summer 2027 | 2026-11-20 | 4 | simplify-2026 |
 | [Sierra Space](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1) | Electrical Engineering Intern - Electrical Engineering | Madison, WI, Centennial, CO, Durham, NC, Louisville, CO, Broomfield, CO | Summer 2027 | 2026-11-20 | 4 | simplify-2026 |
@@ -451,7 +450,6 @@
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724492005) | Platform Software Diagnostics Intern | San Jose, CA | N/A | 2026-10-06 | 49 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) | Physical Design Engineer Intern | Toronto, ON, Canada | N/A | 2026-10-06 | 49 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005) | Physical Design Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 49 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724488005) | System Validation Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 49 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) | System Validation Engineer Intern | Vancouver, BC, Canada | N/A | 2026-10-06 | 49 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728560005) | Hardware Design Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 49 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729020005) | Hardware Lab Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 49 | simplify-2026 |

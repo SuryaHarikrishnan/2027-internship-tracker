@@ -1,9 +1,10 @@
-# Other (1844)
+# Other (1845)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [RTX](https://go.vansh.nyc/1HO) | Software Engineering Intern | Indianapolis, IN |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Boston Scientific](https://go.vansh.nyc/1HM) | Software Test Engineer Co-op | Waltham, MA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://go.vansh.nyc/1HI) | Engineering Intern, Architecture Platform | Sunnyvale, CA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [SharkNinja](https://go.vansh.nyc/1HJ) | Firmware Engineering Intern, Advanced Development | Needham, MA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |

@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1755)
+# Data Science, AI & Machine Learning (1754)
 
 [← back to index](../README.md)
 
@@ -235,7 +235,6 @@
 | [Carnegie Mellon University](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) | Cyber AI Engineer Intern | Pittsburgh, PA | Spring 2027 | 2026-11-13 | 11 | simplify-2026 |
 | [Horizon3.ai](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) | Research Intern - Adversarial Intelligence | Chicago, IL, West Lafayette, IN | Summer 2027 | 2026-11-13 | 11 | simplify-2026 |
 | [Nexus Cognitive Technologies](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true) | Data Engineer Intern | Atlanta, GA | Summer 2027 | 2026-11-13 | 11 | simplify-2026 |
-| [Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312) | Data Analytics Intern - OSD Process Data Analytics | Boston, MA | Summer 2027 | 2026-11-13 | 11 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1) | Energy Savings Program Intern | University Park, State College, PA | Spring 2027, Summer 2027 | 2026-11-13 | 11 | simplify-2026 |
 | [ASML](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) | EUV Data Science and Analytics Intern | Austin, TX | N/A | 2026-11-13 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote in USA | Summer 2027 | 2026-11-13 | 11 | simplify-2026 |
