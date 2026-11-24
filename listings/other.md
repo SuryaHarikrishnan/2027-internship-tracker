@@ -1,12 +1,14 @@
-# Other (1850)
+# Other (1842)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Apex Technology, Inc.](https://go.vansh.nyc/1It) | Software Engineer Intern, Test Automation | Los Angeles, CA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Kiewit](https://go.vansh.nyc/1Il) | Cloud Security Intern, Technology Group | Omaha, NE |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/1Im) | Developer Technology Intern, AI | Santa Clara, CA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [PCL Construction](https://go.vansh.nyc/1In) | Cybersecurity Intern | Edmonton, Canada |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [General Motors](https://go.vansh.nyc/1Ir) | Software Verification Engineer Intern, AV/AI Platform | Warren, MI |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [QuEra Computing](https://go.vansh.nyc/1If) | Site Reliability Engineer Co-op | Boston, MA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Draper](https://go.vansh.nyc/1Ib) | HWIL & Real Time Simulation Intern | Cambridge, MA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Hitachi](https://go.vansh.nyc/1Ia) | Data and Business Intelligence Analyst Intern | Toronto, Canada |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -26,6 +28,7 @@
 | [SharkNinja](https://go.vansh.nyc/1HJ) | Firmware Engineering Intern, Advanced Development | Needham, MA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [SharkNinja](https://go.vansh.nyc/1HH) | Software Development Test Engineering Co-op | Needham, MA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://go.vansh.nyc/1HK) | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, CA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Aptima Inc. (All Jobs)](https://go.vansh.nyc/1Is) | Software Engineer Intern | Fairborn, OH |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [QinetiQ](https://go.vansh.nyc/1Ip) | Software Engineer Intern | Remote, United States |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Impulse Space](https://go.vansh.nyc/1HR) | Information Security Intern | Redondo Beach, CA |  | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://go.vansh.nyc/1HB) | Engineering Intern, Security Platforms | Sunnyvale, CA |  | 2026-11-23 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -415,7 +418,6 @@
 | [Cisco](https://go.vansh.nyc/1sE) | Software Engineer Embedded Systems I Intern | San Jose, CA, Austin, TX, Research Triangle Park, NC |  | 2026-11-11 | 13 | vanshb03-2026, vanshb03-2027 |
 | [Zotec Partners](https://go.vansh.nyc/1vo) | Software Engineer Intern, RCI | Carmel, IN |  | 2026-11-11 | 13 | vanshb03-2026, vanshb03-2027 |
 | [DwyerOmega](https://go.vansh.nyc/1sB) | Applied AI Intern | Remote, United States |  | 2026-11-10 | 14 | vanshb03-2026, vanshb03-2027 |
-| [Altice USA](https://go.vansh.nyc/1sl) | Developer Intern, Financial & People Systems | Bethpage, NY |  | 2026-11-10 | 14 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/1sd) | Performance Engineering Intern, Platform Performance and Power | Santa Clara, CA |  | 2026-11-10 | 14 | vanshb03-2026, vanshb03-2027 |
 | [Hook Music](https://go.vansh.nyc/1sf) | Machine Learning Engineering Intern, Recommendation Systems | Remote, United States |  | 2026-11-10 | 14 | vanshb03-2026, vanshb03-2027 |
 | [Western Digital](https://go.vansh.nyc/1sa) | Hardware Engineering Intern | San Jose, CA |  | 2026-11-10 | 14 | vanshb03-2026, vanshb03-2027 |
@@ -847,7 +849,6 @@
 | [TikTok](https://go.vansh.nyc/189) | Machine Learning Engineer Intern, TikTok-Data-Search-Local Service | San Jose, CA |  | 2026-11-01 | 23 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/18a) | Data Engineer Intern, Data Platform TikTok BP | San Jose, CA |  | 2026-11-01 | 23 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/18b) | Data Scientist Project Intern, TikTok Integrity and Safety | San Jose, CA |  | 2026-11-01 | 23 | vanshb03-2026, vanshb03-2027 |
-| [TikTok](https://go.vansh.nyc/18c) | Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking | San Jose, CA |  | 2026-11-01 | 23 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/18d) | Data Engineer Intern, Data Platform Global Live | San Jose, CA |  | 2026-11-01 | 23 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/18e) | Software Engineer Intern, TikTok Search Data Infra | San Jose, CA |  | 2026-11-01 | 23 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/18f) | Data Engineer Intern, Monetization Data | San Jose, CA |  | 2026-11-01 | 23 | vanshb03-2026, vanshb03-2027 |
@@ -1244,7 +1245,6 @@
 | [Palantir](https://go.vansh.nyc/bJ) | Software Engineer Intern, Query Engines | New York, NY |  | 2026-10-20 | 35 | vanshb03-2026, vanshb03-2027 |
 | [Netflix](https://go.vansh.nyc/BN) | Software Engineer Intern | Los Gatos, CA |  | 2026-10-20 | 35 | vanshb03-2026, vanshb03-2027 |
 | [DocuSign](https://go.vansh.nyc/D2) | Security Intern | San Francisco, CA |  | 2026-10-20 | 35 | vanshb03-2026, vanshb03-2027 |
-| [Amazon.com Services LLC](https://go.vansh.nyc/cT) | Hardware Development Engineer Intern | Bellevue, WA |  | 2026-10-20 | 35 | vanshb03-2026, vanshb03-2027 |
 | [Hitachi](https://go.vansh.nyc/d0) | AI Intern, Supply Chain | Toronto, ON, Canada |  | 2026-10-20 | 35 | vanshb03-2026, vanshb03-2027 |
 | [Micron Technology](https://go.vansh.nyc/d7) | Design Engineer Intern, Pathfinding | San Jose, CA, Folsom, CA |  | 2026-10-20 | 35 | vanshb03-2026, vanshb03-2027 |
 | [Ciena](https://go.vansh.nyc/cp) | Software Engineer Intern, Security | Atlanta, GA |  | 2026-10-20 | 35 | vanshb03-2026, vanshb03-2027 |
@@ -1312,7 +1312,6 @@
 | [Susquehanna International Group](https://go.vansh.nyc/RM) | Machine Learning Engineering Intern | Bala Cynwyd, PA |  | 2026-10-18 | 37 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/RN) | Security Software Engineer Project Intern, Product Security | San Jose, CA |  | 2026-10-18 | 37 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/RO) | Software Development Engineer in Test Intern, Testing | San Jose, CA |  | 2026-10-18 | 37 | vanshb03-2026, vanshb03-2027 |
-| [TikTok](https://go.vansh.nyc/RP) | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | San Jose, CA |  | 2026-10-18 | 37 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/RR) | Site Reliability Engineer Intern, Global SRE | San Jose, CA |  | 2026-10-18 | 37 | vanshb03-2026, vanshb03-2027 |
 | [Two Sigma](https://go.vansh.nyc/RS) | Software Engineering Intern | New York, NY |  | 2026-10-18 | 37 | vanshb03-2026, vanshb03-2027 |
 | [Physical Reasoning](https://go.vansh.nyc/aC) | Software Engineering Intern | San Francisco, CA, New York, NY, Toronto, Canada, Remote |  | 2026-10-17 | 38 | vanshb03-2026, vanshb03-2027 |
@@ -1399,7 +1398,6 @@
 | [WTW](https://go.vansh.nyc/8U) | Risk & Analytics Enterprise Risk Consulting Intern | New York, NY |  | 2026-10-13 | 42 | vanshb03-2026, vanshb03-2027 |
 | [Zoox](https://go.vansh.nyc/8X) | AI Validation and Benchmarking Engineer Intern | Foster City, CA |  | 2026-10-13 | 42 | vanshb03-2026, vanshb03-2027 |
 | [Wing](https://go.vansh.nyc/1tD) | Data Infrastructure Software Engineering Intern | Palo Alto, CA |  | 2026-10-13 | 42 | vanshb03-2026, vanshb03-2027 |
-| [Wing](https://go.vansh.nyc/1tF) | Execution & Topology Software Engineering Intern | Palo Alto, CA |  | 2026-10-13 | 42 | vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard Enterprise](https://go.vansh.nyc/C3) | HPC AI Networking Intern, Network Transport | Chippewa Falls, WI, Fort Collins, CO |  | 2026-10-13 | 42 | vanshb03-2026, vanshb03-2027 |
 | [Unity](https://go.vansh.nyc/C5) | Machine Learning Engineer Intern | Mountain View, CA |  | 2026-10-13 | 42 | vanshb03-2026, vanshb03-2027 |
 | [Cryptic Vector](https://go.vansh.nyc/gf) | Full Stack Developer Intern | Liberty Township, OH |  | 2026-10-13 | 42 | vanshb03-2026, vanshb03-2027 |
@@ -1461,7 +1459,6 @@
 | [Tenstorrent](https://go.vansh.nyc/g7) | AI Software Intern, Cloud, Infrastructure & Data Centre Deployment | Austin, TX, Santa Clara, CA |  | 2026-10-07 | 48 | vanshb03-2026, vanshb03-2027 |
 | [Courier Health](https://go.vansh.nyc/FG) | Software Engineer Intern | New York, NY |  | 2026-10-06 | 49 | vanshb03-2026, vanshb03-2027 |
 | [Keysight Technologies](https://go.vansh.nyc/FA) | Software Development Engineer Intern, 6G Digital Twin and Visualization Platform | Santa Rosa, CA |  | 2026-10-06 | 49 | vanshb03-2026, vanshb03-2027 |
-| [Revel](https://go.vansh.nyc/1eT) | Forward Deployed Engineer Intern, Software | Los Angeles, CA, San Francisco, CA |  | 2026-10-06 | 49 | vanshb03-2026, vanshb03-2027 |
 | [Coveo](https://go.vansh.nyc/1nB) | Software Developer Intern, Solutions Engineering Core Team | Montreal, Canada |  | 2026-10-06 | 49 | vanshb03-2026, vanshb03-2027 |
 | [Tradeweb](https://go.vansh.nyc/Fy) | Data Management Intern | New York, NY |  | 2026-10-06 | 49 | vanshb03-2026, vanshb03-2027 |
 | [Tenstorrent](https://go.vansh.nyc/Fx) | Hardware Intern, AI HW & System on a Chip | Toronto, Canada, Ottawa, Canada |  | 2026-10-06 | 49 | vanshb03-2026, vanshb03-2027 |
@@ -1544,7 +1541,6 @@
 | [Qualcomm](https://go.vansh.nyc/DT) | Silicon Engineering Intern | Toronto, Canada |  | 2026-09-28 | 57 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/DS) | Soft IP ASIC Engineer Intern | Ottawa, Canada |  | 2026-09-28 | 57 | vanshb03-2026, vanshb03-2027 |
 | [Bedrock Robotics](https://go.vansh.nyc/1eO) | Simulation Engineer Intern, Neural Rendering | San Francisco, CA |  | 2026-09-28 | 57 | vanshb03-2026, vanshb03-2027 |
-| [Wellmark](https://go.vansh.nyc/1tx) | Software Engineer Intern - Marketing and Digital Team | Des Moines, IA |  | 2026-09-28 | 57 | vanshb03-2026, vanshb03-2027 |
 | [LG AI Research](https://go.vansh.nyc/1q2) | AI Scientist/Engineer Intern | Ann Arbor, MI |  | 2026-09-28 | 57 | vanshb03-2026, vanshb03-2027 |
 | [AVARINT](https://go.vansh.nyc/fN) | Software Engineer Intern, DIADS | United States |  | 2026-09-28 | 57 | vanshb03-2026, vanshb03-2027 |
 | [Voyager Technologies](https://go.vansh.nyc/fP) | Software Engineering Intern | Long Beach, CA |  | 2026-09-28 | 57 | vanshb03-2026, vanshb03-2027 |
@@ -1658,7 +1654,6 @@
 | [Navy Federal](https://go.vansh.nyc/1ur) | Associate Product Security Engineer Intern | Vienna, VA |  | 2026-09-09 | 76 | vanshb03-2026, vanshb03-2027 |
 | [Navy Federal](https://go.vansh.nyc/1us) | Associate Information Security Analyst Intern | Vienna, VA |  | 2026-09-09 | 76 | vanshb03-2026, vanshb03-2027 |
 | [Navy Federal](https://go.vansh.nyc/QD) | Associate Intern, Identity & Access Management | Vienna, VA |  | 2026-09-09 | 76 | vanshb03-2026, vanshb03-2027 |
-| [Navy Federal](https://go.vansh.nyc/QE) | Associate Intern, Penetration Testing | Pensacola, FL |  | 2026-09-09 | 76 | vanshb03-2026, vanshb03-2027 |
 | [Aramco Americas](https://go.vansh.nyc/Mp) | Research and Development Intern | Cambridge, MA |  | 2026-09-08 | 77 | vanshb03-2026, vanshb03-2027 |
 | [Aramco Americas](https://go.vansh.nyc/Mo) | AI/ML Engineering Intern | Houston, TX |  | 2026-09-08 | 77 | vanshb03-2026, vanshb03-2027 |
 | [AArete](https://go.vansh.nyc/Mn) | Data Architecture and Engineering Intern | Chicago, IL |  | 2026-09-08 | 77 | vanshb03-2026, vanshb03-2027 |
@@ -1736,7 +1731,6 @@
 | [TikTok](https://go.vansh.nyc/6t) | Frontend Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6r) | Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6q) | Software Engineer Intern, Creative Intelligence and Brand Innovation | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
-| [TikTok](https://go.vansh.nyc/6p) | Software Engineer Intern, Business Integrity | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6o) | Software Engineer Intern, Agentic Creation-Effect Platform | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6n) | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6k) | Frontend Engineer Intern, TikTok-Open Platform | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
@@ -1745,7 +1739,6 @@
 | [TikTok](https://go.vansh.nyc/6g) | Software Engineer Intern, TikTok-Social-Friending | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6f) | Backend Software Engineer Intern, PGC-Digital Content Center | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6e) | Software Engineer Intern, Growth Innovation | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
-| [TikTok](https://go.vansh.nyc/6c) | Software Engineer Intern, Trust and Safety-Engineering | Seattle, WA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/6a) | Software Engineer Intern, Global CRM | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/69) | Software Engineer Intern, Shoot Experience Optimization | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/68) | Software Engineer Intern, Ads Interface | San Jose, CA |  | 2026-08-04 | 112 | vanshb03-2026, vanshb03-2027 |
@@ -1773,7 +1766,6 @@
 | [DRW](https://go.vansh.nyc/5s) | Software Developer Intern | Montréal |  | 2026-07-31 | 116 | vanshb03-2026, vanshb03-2027 |
 | [DRW](https://go.vansh.nyc/5p) | Platform Engineer Intern | Chicago, IL |  | 2026-07-31 | 116 | vanshb03-2026, vanshb03-2027 |
 | [DRW](https://go.vansh.nyc/5o) | AI/ML Research Intern | Montréal |  | 2026-07-31 | 116 | vanshb03-2026, vanshb03-2027 |
-| [Rendezvous Robotics](https://go.vansh.nyc/5h) | Software Engineering Intern, Spring 2027 | Golden, CO |  | 2026-07-28 | 119 | vanshb03-2026, vanshb03-2027 |
 | [Touchdown Labs](https://go.vansh.nyc/5c) | Member of Technical Staff Intern | San Francisco, CA |  | 2026-07-28 | 119 | vanshb03-2026, vanshb03-2027 |
 | [Appian](https://go.vansh.nyc/56) | Information Security Engineer Intern | McLean, VA |  | 2026-07-27 | 120 | vanshb03-2026, vanshb03-2027 |
 | [GRITT ROBOTICS INC](https://go.vansh.nyc/54) | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA |  | 2026-07-27 | 120 | vanshb03-2026, vanshb03-2027 |
