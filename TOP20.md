@@ -22,7 +22,7 @@ Ranked by freshness + company tier + role category.
 | 12 | **Lucid** | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 (6d ago) | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | 13 | **Adobe** | Research Scientist Intern | London, UK | Winter 2027 | 2026-11-13 (11d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) |
 | 14 | **Palantir** | Software Engineer Intern - Connectivity Platform - Product | Denver, CO | N/A | 2026-11-10 (14d ago) | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) |
-| 15 | **Google** | People Analytics Intern | SF, Chicago, IL, NYC, Mountain View, CA, Atlanta, GA | Summer 2027 | 2026-10-12 (43d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246) |
+| 15 | **Illumio** | Engineering Intern - Architecture Platform | Sunnyvale, CA | Summer 2027 | 2026-11-24 (0d ago) | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (24d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-24 00:29 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-24 03:11 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
