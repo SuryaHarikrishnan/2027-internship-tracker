@@ -1,4 +1,4 @@
-# Quantitative Finance (199)
+# Quantitative Finance (200)
 
 [← back to index](../README.md)
 
@@ -90,6 +90,7 @@
 | [Flow Traders](https://job-boards.greenhouse.io/ftsp27co-ops/jobs/8176219) | Trading Operations Engineer Co-op | NYC | N/A | 2026-09-04 | 81 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) | Quantitative Finance Associate Intern - Off Cycle Internship Programme | London, UK | Winter 2026 | 2026-09-04 | 81 | simplify-2026 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/6181069004) | Quantitative Research Intern - Summer 2027 | NYC | Summer 2027 | 2026-09-03 | 82 | simplify-2026 |
+| [AQR Capital Management](https://job-boards.greenhouse.io/joblinks/jobs/8176978) | Micro-Intern - IAP | Greenwich, CT | N/A | 2026-09-03 | 82 | simplify-2026 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-09-03 | 82 | simplify-2026 |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | Summer 2027 | 2026-09-01 | 84 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860) | Quantitative Research Intern - Multiple Teams | London, UK | N/A | 2026-09-01 | 84 | simplify-2026 |

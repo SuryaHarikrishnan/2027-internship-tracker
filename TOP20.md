@@ -12,17 +12,17 @@ Ranked by freshness + company tier + role category.
 | 2 | **Meta** | Research Scientist Intern - Spatial-temporal Consistent 4D Generation | Redmond, WA | N/A | 2026-11-23 (1d ago) | [Apply](https://www.metacareers.com/jobs/2357948038329505) |
 | 3 | **NVIDIA** | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA |  | 2026-11-21 (3d ago) | [Apply](https://go.vansh.nyc/1Gd) |
 | 4 | **Microsoft** | Research Intern - AI System Architecture Modeling and Performance | Hillsboro, OR | Summer 2026 | 2026-11-21 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557077583) |
-| 5 | **TikTok** | Client Security & Data Foundation Software Engineer Intern - BRIC | San Jose, CA | N/A | 2026-11-23 (1d ago) | [Apply](https://lifeattiktok.com/search/7705023349533346101) |
-| 6 | **Tesla** | Software Engineer Intern - SI Hardware Architecture Simulation | Palo Alto, CA | Spring 2027 | 2026-11-20 (4d ago) | [Apply](https://www.tesla.com/careers/search/job/290756) |
-| 7 | **Apple** | Software Engineer Intern - App Intelligence Experience | Cambridge, UK | N/A | 2026-11-20 (4d ago) | [Apply](https://jobs.apple.com/en-us/details/200696199) |
-| 8 | **Waymo** | Agentic AI Intern | Mountain View, CA | Summer 2027 | 2026-11-19 (5d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) |
-| 9 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (6d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
-| 10 | **Airbnb** | Software Engineer Intern | SF | Summer 2027 | 2026-11-18 (6d ago) | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
-| 11 | **Uber** | Product Management Intern | SF | Summer 2027 | 2026-11-17 (7d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) |
-| 12 | **Lucid** | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 (6d ago) | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
-| 13 | **Adobe** | Research Scientist Intern | London, UK | Winter 2027 | 2026-11-13 (11d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) |
-| 14 | **Palantir** | Software Engineer Intern - Connectivity Platform - Product | Denver, CO | N/A | 2026-11-10 (14d ago) | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) |
-| 15 | **RTX** | Software Engineering Intern | Indianapolis, IN |  | 2026-11-24 (0d ago) | [Apply](https://go.vansh.nyc/1HO) |
+| 5 | **AMD** | Masters AI Rack/Cluster Design Engineering Co-op | Austin, TX | Winter 2027, Summer 2027 | 2026-11-24 (0d ago) | [Apply](https://careers.amd.com/jobs/89564?icims=1&lang=en-us) |
+| 6 | **TikTok** | Client Security & Data Foundation Software Engineer Intern - BRIC | San Jose, CA | N/A | 2026-11-23 (1d ago) | [Apply](https://lifeattiktok.com/search/7705023349533346101) |
+| 7 | **Tesla** | Software Engineer Intern - SI Hardware Architecture Simulation | Palo Alto, CA | Spring 2027 | 2026-11-20 (4d ago) | [Apply](https://www.tesla.com/careers/search/job/290756) |
+| 8 | **Apple** | Software Engineer Intern - App Intelligence Experience | Cambridge, UK | N/A | 2026-11-20 (4d ago) | [Apply](https://jobs.apple.com/en-us/details/200696199) |
+| 9 | **Waymo** | Agentic AI Intern | Mountain View, CA | Summer 2027 | 2026-11-19 (5d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) |
+| 10 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (6d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
+| 11 | **Airbnb** | Software Engineer Intern | SF | Summer 2027 | 2026-11-18 (6d ago) | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
+| 12 | **Uber** | Product Management Intern | SF | Summer 2027 | 2026-11-17 (7d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) |
+| 13 | **Lucid** | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 (6d ago) | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
+| 14 | **Adobe** | Research Scientist Intern | London, UK | Winter 2027 | 2026-11-13 (11d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) |
+| 15 | **Palantir** | Software Engineer Intern - Connectivity Platform - Product | Denver, CO | N/A | 2026-11-10 (14d ago) | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (24d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-24 05:13 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-24 16:31 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

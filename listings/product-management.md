@@ -1,9 +1,10 @@
-# Product Management (275)
+# Product Management (276)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) | Product Management Intern - Card Tech | NYC | Summer 2027 | 2026-11-24 | 0 | simplify-2026 |
 | [Illumio](https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true) | Product Manager Intern | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true) | Product Management Intern - Solution Economics | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026 |
 | [Illumio](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true) | Technical Product Management Intern | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -75,7 +76,6 @@
 | [DwyerOmega](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) | Product Management Intern - Pressure & Force | Michigan City, IN, Sunbury, OH | Summer 2027 | 2026-11-06 | 18 | simplify-2026 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) | Product Management Intern - Product Management | SF, NYC | Summer 2027 | 2026-11-06 | 18 | simplify-2026 |
 | [Equitable Bank](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Product Management Intern - Digital Banking | Toronto, ON, Canada | Winter 2027 | 2026-11-05 | 19 | simplify-2026 |
-| [Invesco](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) | Digital Product Management Intern | Atlanta, GA | Summer 2027 | 2026-11-05 | 19 | simplify-2026 |
 | [Vizient](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) | Product Operations Intern | Irving, TX | Summer 2027 | 2026-11-05 | 19 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726452006) | Product Development Co-op | Needham, MA | Spring 2027 | 2026-11-04 | 20 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/288805) | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 | 20 | simplify-2026 |
@@ -157,6 +157,7 @@
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) | Product Management Intern | Lake Mary, FL | Summer 2027 | 2026-10-01 | 54 | simplify-2026 |
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424) | Product Growth Intern - MBA | Palo Alto, CA | Summer 2027 | 2026-10-01 | 54 | simplify-2026 |
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946) | Associate Product Manager | Sunnyvale, CA | N/A | 2026-10-01 | 54 | simplify-2026 |
+| [CarGurus](https://job-boards.greenhouse.io/ecjobb/jobs/8230686) | Product Management Intern | Boston, MA | Summer 2027 | 2026-09-30 | 55 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Rochester-Product-Management-Intern-(Rochester,-NY)-NY-14610-1839/1433689700/?ats=successfactors) | Product Management Intern | Rochester, NY | Winter 2026 | 2026-09-30 | 55 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Product Management Intern | Cary, NC | Summer 2027 | 2026-09-29 | 56 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Product Management Technology Intern | Conyers, GA | Summer 2027 | 2026-09-29 | 56 | simplify-2026 |
