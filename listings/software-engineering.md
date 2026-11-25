@@ -1,4 +1,4 @@
-# Software Engineering (1355)
+# Software Engineering (1352)
 
 [← back to index](../README.md)
 
@@ -30,7 +30,6 @@
 | [Shield AI](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true) | Software Engineering Intern | Dallas, TX | Summer 2027 | 2026-11-23 | 2 | simplify-2026 |
 | [Runna](https://jobs.ashbyhq.com/runna/3639d900-9433-4e57-b9f8-ad74340c4bad/application?embed=true) | Full Stack Engineer Intern - Core App | London, UK | N/A | 2026-11-23 | 2 | simplify-2026 |
 | [Runna](https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1/application?embed=true) | Full Stack Engineer Intern - Growth | London, UK | N/A | 2026-11-23 | 2 | simplify-2026 |
-| [Runna](https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true) | AI Engineer Intern | London, UK | N/A | 2026-11-23 | 2 | simplify-2026 |
 | [Lifeway](https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false) | Software Engineer Intern - Full Stack - Back-End | Remote in USA | Summer 2027 | 2026-11-23 | 2 | simplify-2026 |
 | [Lifeway](https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false) | Front-End Engineer Intern | Nashville, TN, Remote in USA | Summer 2027 | 2026-11-23 | 2 | simplify-2026 |
 | [Benchling](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true) | Software Engineer Intern | SF | Summer 2027 | 2026-11-23 | 2 | simplify-2026 |
@@ -282,7 +281,6 @@
 | [Baird](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) | Automation & AI Solutions Intern | Milwaukee, WI | Summer 2027 | 2026-11-04 | 21 | simplify-2026 |
 | [Logiqal](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f/application?embed=true) | Quantum Error Correction and Architecture Intern | Princeton, NJ | N/A | 2026-11-04 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Etched](https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true) | IA Research Engineer Intern - Kernels | San Jose, CA | Fall 2027 | 2026-11-04 | 21 | simplify-2026 |
-| [Staples](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133) | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | Summer 2027 | 2026-11-03 | 22 | simplify-2026 |
 | [Nex](https://job-boards.greenhouse.io/nex/jobs/5421056008) | Software Engineer Intern - Sports & Fitness - Game Development | San Jose, CA | Summer 2027 | 2026-11-03 | 22 | simplify-2026 |
 | [Two Six Technologies](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004) | Research Intern | Arlington County, Arlington, VA | N/A | 2026-11-03 | 22 | simplify-2026 |
 | [Terranova](https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true) | AI Intern | Berkeley, CA | N/A | 2026-11-03 | 22 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -759,7 +757,6 @@
 | [Charter Manufacturing](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129) | Digital Integration Intern | Mequon, WI | Summer 2027 | 2026-09-22 | 64 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) | R&D Intern - AI Research Engineer | Mason, OH | Summer 2027, Summer 2026 | 2026-09-22 | 64 | simplify-2026 |
 | [Geneva Trading](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) | C++ Developer Intern | Chicago, IL | Summer 2026 | 2026-09-21 | 65 | simplify-2026 |
-| [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Yarmouth, ME, Orono, ME, Falmouth, ME | Summer 2027 | 2026-09-21 | 65 | simplify-2026 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Plano, TX | Summer 2027 | 2026-09-21 | 65 | simplify-2026 |
 | [Rodan Energy Solutions](https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027) | AI Solutions Co-op | Mississauga, ON, Canada | Winter 2027 | 2026-09-21 | 65 | simplify-2026 |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293) | Summer Internship - Technology | Johns Creek, GA | Summer 2027 | 2026-09-21 | 65 | simplify-2026 |
