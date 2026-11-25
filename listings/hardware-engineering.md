@@ -1,4 +1,4 @@
-# Hardware Engineering (851)
+# Hardware Engineering (848)
 
 [← back to index](../README.md)
 
@@ -307,7 +307,6 @@
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214234) | ASIC Engineering Intern | Durham, NC | N/A | 2026-10-22 | 34 | simplify-2026 |
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393) | Physical Design Engineer Intern | United States | N/A | 2026-10-22 | 34 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) | Software Development Intern | Troy, MI | N/A | 2026-10-22 | 34 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721661830) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 | 2026-10-21 | 35 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1445807477756644) | Research Intern - Audio Hardware | Redmond, WA | N/A | 2026-10-21 | 35 | simplify-2026 |
 | [QuEra Computing](https://job-boards.greenhouse.io/queracomputinginc/jobs/5460294008) | Optical Engineer Co-op | Boston, MA | N/A | 2026-10-21 | 35 | simplify-2026 |
 | [Safran](https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors) | Software Engineering Intern | Bedford, NH | N/A | 2026-10-21 | 35 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -378,7 +377,6 @@
 | [Meta](https://www.metacareers.com/jobs/2773227806411499) | Display Array Modeling Engineer Intern | Sunnyvale, CA | N/A | 2026-10-14 | 42 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) | Hardware Systems Integration Intern | Somerville, MA | Summer 2027 | 2026-10-14 | 42 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623) | Validation/Characterization Engineer Intern | Santa Clara, CA | N/A | 2026-10-14 | 42 | simplify-2026 |
-| [Indie](https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007) | Design Verification Engineer Intern | Aliso Viejo, CA | N/A | 2026-10-14 | 42 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Apple](https://jobs.apple.com/en-us/details/200688723) | Formal Verification Framework for Hardware IPs Validation Intern | London, UK | N/A | 2026-10-14 | 42 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada | N/A | 2026-10-14 | 42 | simplify-2026 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) | Firmware Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-10-14 | 42 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -534,7 +532,6 @@
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1) | Product Development Engineer Intern | Milpitas, CA, Ann Arbor, MI | Winter 2026 | 2026-09-30 | 56 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285088) | AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI | Palo Alto, CA, Austin, TX | Winter 2027, Spring 2027 | 2026-09-29 | 57 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285089) | AI Hardware RTL Design Engineer Intern - AI Hardware | Palo Alto, CA, Austin, TX | Winter 2027, Spring 2027 | 2026-09-29 | 57 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/277009) | Software Integration Engineer Intern - AI Platforms | Palo Alto, CA | Spring 2027 | 2026-09-29 | 57 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285120) | AI Hardware Signal & Power Integrity Engineer Intern - AI Hardware | Palo Alto, CA, Austin, TX | Winter 2027, Spring 2027 | 2026-09-29 | 57 | simplify-2026 |
 | [AMCA](https://job-boards.greenhouse.io/amca/jobs/4396690009) | Electrical Engineering Internship - Summer 2027 | El Segundo, CA | Summer 2027 | 2026-09-29 | 57 | simplify-2026 |
 | [Société Générale de Surveillance](https://jobs.smartrecruiters.com/SGS/744000152533359) | Project Engineer Intern | Suwanee, GA | Winter 2026 | 2026-09-29 | 57 | simplify-2026 |

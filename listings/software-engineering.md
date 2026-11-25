@@ -1,4 +1,4 @@
-# Software Engineering (1352)
+# Software Engineering (1349)
 
 [← back to index](../README.md)
 
@@ -92,7 +92,6 @@
 | [EUNA Solutions](https://euna.bamboohr.com/careers/822/) | Associate AI-Enablement Developer Co-op | Oakville, ON, Canada | Winter 2027 | 2026-11-19 | 6 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/29481973694788756) | Research Scientist Intern - AI Agents for Autonomous Laboratories | Redmond, WA | N/A | 2026-11-19 | 6 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) | AI Intern | Westerville, OH, Fort Lauderdale, FL, Huntsville, AL | Summer 2027 | 2026-11-19 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [ManTech](https://mantech.avature.net/en_US/careers/JobDetail/67182) | Computer Network Operations Developer Intern | Aurora, CO, San Antonio, TX, Hanover, MD, Herndon, VA | Summer 2026 | 2026-11-19 | 6 | simplify-2026 |
 | [Uplinq](https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c) | Software Engineer Intern - ASU | Scottsdale, AZ | Winter 2027 | 2026-11-19 | 6 | simplify-2026 |
 | [Ralliant](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) | Software Engineer Intern | Beaverton, OR | Summer 2027 | 2026-11-19 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Deliveroo](https://job-boards.greenhouse.io/deliveroo/jobs/8398982) | Software Engineer Intern | London, UK | Summer 2027 | 2026-11-19 | 6 | simplify-2026 |
@@ -522,7 +521,6 @@
 | [Expedia Group](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545) | Mobile Engineer Intern | London, UK | Summer 2027 | 2026-10-15 | 41 | simplify-2026 |
 | [Atoms](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002) | Software Engineer Intern | Seattle, WA | Winter 2027 | 2026-10-14 | 42 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) | Manufacturing AI Engineering Intern | Hopewell Junction, NY | Summer 2027 | 2026-10-14 | 42 | simplify-2026 |
-| [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) | Research Engineer Co-op | Santa Ana, CA | Winter 2027 | 2026-10-14 | 42 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780) | Software Engineer Intern | Johns Creek, GA | Summer 2027 | 2026-10-14 | 42 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true) | Manufacturing Software Engineer Intern | San Mateo, CA | Winter 2027 | 2026-10-14 | 42 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Peraton](https://peraton.jibeapply.com/jobs/172378?icims=1) | Mission Systems Software and Edge Computing Intern | Oklahoma | N/A | 2026-10-14 | 42 | simplify-2026 |
@@ -1244,7 +1242,6 @@
 | [Serval](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application?embed=true) | Software Engineer Intern | SF | N/A | 2026-07-13 | 135 | simplify-2026 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Software Engineer Intern - Python | Chicago, IL | Summer 2027 | 2026-07-13 | 135 | simplify-2026 |
 | [Huawei](https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1) | Engineer Distributed Agent System Co-op | Markham, ON, Canada | N/A | 2026-07-13 | 135 | simplify-2026 |
-| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7974943) | Campus UI Software Engineer Intern | London, UK | Fall 2026 | 2026-07-13 | 135 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7942281) | Software Developer Intern | London, UK | Summer 2026 | 2026-07-13 | 135 | simplify-2026 |
 | [Pylon](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | Software Engineer Intern | SF | Summer 2027 | 2026-07-09 | 139 | simplify-2026 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8003019) | Campus UI Software Engineer Intern | Chicago, IL | Fall 2026 | 2026-07-08 | 140 | simplify-2026 |
