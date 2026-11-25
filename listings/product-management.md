@@ -1,9 +1,10 @@
-# Product Management (278)
+# Product Management (279)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Nikkiso](https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false) | Product Management Intern | Huntington Beach, CA | N/A | 2026-11-25 | 0 | simplify-2026 |
 | [Intuitive Surgical](https://jobs.smartrecruiters.com/Intuitive/744000163546809) | Product Management MBA Intern | Sunnyvale, CA | Summer 2027 | 2026-11-24 | 1 | simplify-2026 |
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Product Management Intern - Managed Service Provider | Palo Alto, CA | Winter 2027 | 2026-11-24 | 1 | simplify-2026 |
 | [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) | Product Management Intern - Card Tech | NYC | Summer 2027 | 2026-11-24 | 1 | simplify-2026 |

@@ -1,11 +1,17 @@
-# Hardware Engineering (848)
+# Hardware Engineering (854)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [X Development](https://x.company/careers/8472640002?gh_jid=8472640002) | PhD / Master's Resident - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project | Mountain View, CA | Winter 2027 | 2026-11-25 | 0 | simplify-2026 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557079445) | Research Intern - CXL Memory | Mountain View, CA | N/A | 2026-11-25 | 0 | simplify-2026 |
+| [Ralliant](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451) | Hardware Engineering Co-op | Solon, OH | Spring 2026 | 2026-11-25 | 0 | simplify-2026 |
+| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/8197808003) | Electrical Test Engineer Intern | South SF | Winter 2027 | 2026-11-24 | 1 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1165674205921515) | Battery Engineer Intern - Battery Systems Engineering | Sunnyvale, CA | N/A | 2026-11-24 | 1 | simplify-2026 |
 | [Reach Labs](https://jobs.lever.co/reachpower/01124bcd-9d13-498d-85ef-4a0fb2389168/apply) | Hardware Prototyping Intern | Redwood City, CA | N/A | 2026-11-24 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Lightmatter](https://boards.greenhouse.io/lightmatter/jobs/5493962008) | Design Verification Intern | Boston, MA | Summer 2027 | 2026-11-24 | 1 | simplify-2026 |
+| [Lightmatter](https://boards.greenhouse.io/lightmatter/jobs/5474684008) | Design Verification Intern | Mountain View, CA | Summer 2027 | 2026-11-24 | 1 | simplify-2026 |
 | [Indie](https://www.indie.inc/careers/job-opportunities/?gh_jid=5291418007) | Camera Host Tools Intern | San Jose, CA | N/A | 2026-11-24 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [AMD](https://careers.amd.com/jobs/89564?icims=1&lang=en-us) | Masters AI Rack/Cluster Design Engineering Co-op | Austin, TX | Winter 2027, Summer 2027 | 2026-11-24 | 1 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) | Firmware Engineer Intern - Advanced Development | Needham, MA | Summer 2027 | 2026-11-24 | 1 | simplify-2026 |

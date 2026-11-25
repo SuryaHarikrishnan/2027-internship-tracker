@@ -1,10 +1,14 @@
-# Other (1839)
+# Other (1842)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Hewlett Packard Enterprise](https://go.vansh.nyc/1IP) | Cloud Security Engagement Intern | Spring, TX |  | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Bandwidth Inc.](https://go.vansh.nyc/1IS) | Software Engineer Intern | Raleigh, NC |  | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Samsung Semiconductor](https://go.vansh.nyc/1IH) | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | San Jose, CA |  | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [SambaNova](https://go.vansh.nyc/1IR) | Runtime Engineer Intern | Austin, TX |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Super](https://go.vansh.nyc/1IL) | Data Engineering Intern | Toronto, Canada |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Apex Technology, Inc.](https://go.vansh.nyc/1It) | Software Engineer Intern, Test Automation | Los Angeles, CA |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Ameren](https://go.vansh.nyc/1Iz) | Robotics, AI, OT, Software Development Intern | St. Louis, MO |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/1Iy) | Quality Assurance Intern | Cincinnati, OH |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -31,6 +35,8 @@
 | [SharkNinja](https://go.vansh.nyc/1HJ) | Firmware Engineering Intern, Advanced Development | Needham, MA |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [SharkNinja](https://go.vansh.nyc/1HH) | Software Development Test Engineering Co-op | Needham, MA |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://go.vansh.nyc/1HK) | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, CA |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Idaho National Laboratory](https://go.vansh.nyc/1IQ) | NSUF Agentic Workflow Development Intern | Idaho Falls, ID |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Kinaxis](https://go.vansh.nyc/1IM) | Data Foundations Intern, Data & Analytics | Ottawa, Canada, Remote, Canada |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Aptima Inc. (All Jobs)](https://go.vansh.nyc/1Is) | Software Engineer Intern | Fairborn, OH |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [QinetiQ](https://go.vansh.nyc/1Ip) | Software Engineer Intern | Remote, United States |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Impulse Space](https://go.vansh.nyc/1HR) | Information Security Intern | Redondo Beach, CA |  | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -534,6 +540,7 @@
 | [Springs Window Fashions](https://go.vansh.nyc/1me) | Textile Engineering Analytics & Software Intern | Middleton, WI |  | 2026-11-07 | 18 | vanshb03-2026, vanshb03-2027 |
 | [Corning](https://go.vansh.nyc/1lY) | HPC DevOps Engineer Intern, Science & Technology | Corning, NY |  | 2026-11-07 | 18 | vanshb03-2026, vanshb03-2027 |
 | [Moss](https://go.vansh.nyc/1ut) | Intern, ML / Perception / Robotics | San Francisco, CA |  | 2026-11-07 | 18 | vanshb03-2026, vanshb03-2027 |
+| [Shield](https://go.vansh.nyc/1IK) | Software Test Automation Intern | Dallas, TX |  | 2026-11-07 | 18 | vanshb03-2026, vanshb03-2027 |
 | [Group 1 Automotive](https://go.vansh.nyc/1ms) | IT Intern | Houston, TX |  | 2026-11-07 | 18 | vanshb03-2026, vanshb03-2027 |
 | [Rockefeller Capital Management](https://go.vansh.nyc/1mv) | Analyst Intern, Information Security | New York, NY |  | 2026-11-07 | 18 | vanshb03-2026, vanshb03-2027 |
 | [SDSU Research Foundation](https://go.vansh.nyc/1mw) | Undergraduate Student Intern, Port Contamination Project | San Diego, CA |  | 2026-11-07 | 18 | vanshb03-2026, vanshb03-2027 |
@@ -685,7 +692,6 @@
 | [DriveTime](https://go.vansh.nyc/1cr) | Software Engineering Intern | Tempe, AZ |  | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [DriveTime](https://go.vansh.nyc/1ct) | Data Science Intern | Tempe, AZ, Dallas, TX |  | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [Graco](https://go.vansh.nyc/1cx) | AI Intern | Dayton, MN |  | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
-| [Graco](https://go.vansh.nyc/1cy) | Cybersecurity Intern | Dayton, MN |  | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [Johnson & Johnson](https://go.vansh.nyc/1cz) | Software Engineering Co-op | Cincinnati, OH |  | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [Momentive](https://go.vansh.nyc/1cF) | Data Science Intern, Enterprise Reporting & Analytics | Niskayuna, NY |  | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [SouthState Bank](https://go.vansh.nyc/1cH) | Quantitative Intern | Remote, United States |  | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
@@ -1022,7 +1028,6 @@
 | [Philips](https://go.vansh.nyc/ZZ) | Data Engineer Co-op, Biocompatibility | Murrysville, PA |  | 2026-10-29 | 27 | vanshb03-2026, vanshb03-2027 |
 | [Vestmark Internship Program](https://go.vansh.nyc/100) | Cloud Engineer Co-op | Wakefield, MA |  | 2026-10-29 | 27 | vanshb03-2026, vanshb03-2027 |
 | [Altera](https://go.vansh.nyc/ZA) | Software Engineer Intern, Factory Apps | Toronto, Canada |  | 2026-10-29 | 27 | vanshb03-2026, vanshb03-2027 |
-| [Ciena](https://go.vansh.nyc/ZC) | Embedded Software Engineer Co-op | Ottawa, Canada |  | 2026-10-29 | 27 | vanshb03-2026, vanshb03-2027 |
 | [Ciena](https://go.vansh.nyc/ZD) | Hardware Characterization Automation Co-op | Ottawa, Canada |  | 2026-10-29 | 27 | vanshb03-2026, vanshb03-2027 |
 | [Danaher Corporation](https://go.vansh.nyc/ZF) | Application Integration Developer Intern | Brea, CA |  | 2026-10-29 | 27 | vanshb03-2026, vanshb03-2027 |
 | [General Motors](https://go.vansh.nyc/ZG) | AI/ML Engineer Intern, Autonomous Vehicles | Seattle, WA, Sunnyvale, CA |  | 2026-10-29 | 27 | vanshb03-2026, vanshb03-2027 |
@@ -1620,7 +1625,6 @@
 | [Google](https://go.vansh.nyc/18X) | Student Researcher Intern | Mountain View, CA, Ann Arbor, MI, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Princeton, NJ, Pittsburgh, PA, Raleigh, NC, Durham, NC, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Sunnyvale, CA, Washington, DC |  | 2026-09-14 | 72 | vanshb03-2026, vanshb03-2027 |
 | [Google](https://go.vansh.nyc/18W) | Student Researcher Intern | Montreal, Canada |  | 2026-09-14 | 72 | vanshb03-2026, vanshb03-2027 |
 | [CACI](https://go.vansh.nyc/MU) | Software Engineer Intern | Remote, United States, Sterling, VA, Denver, CO |  | 2026-09-14 | 72 | vanshb03-2026, vanshb03-2027 |
-| [AnaVation](https://go.vansh.nyc/1eJ) | Computer Science Intern | Chantilly, VA |  | 2026-09-12 | 74 | vanshb03-2026, vanshb03-2027 |
 | [AfterQuery](https://go.vansh.nyc/1lt) | AI/ML Research Intern | San Francisco, CA |  | 2026-09-12 | 74 | vanshb03-2026, vanshb03-2027 |
 | [Amazon](https://go.vansh.nyc/MP) | Machine Learning Systems Software Development Engineer Intern, Annapurna Labs | Toronto, Canada |  | 2026-09-11 | 75 | vanshb03-2026, vanshb03-2027 |
 | [Lyft](https://go.vansh.nyc/Qm) | Software Engineer Intern, Backend | San Francisco, CA |  | 2026-09-11 | 75 | vanshb03-2026, vanshb03-2027 |
@@ -1654,7 +1658,6 @@
 | [Aramco Americas](https://go.vansh.nyc/Mp) | Research and Development Intern | Cambridge, MA |  | 2026-09-08 | 78 | vanshb03-2026, vanshb03-2027 |
 | [Aramco Americas](https://go.vansh.nyc/Mo) | AI/ML Engineering Intern | Houston, TX |  | 2026-09-08 | 78 | vanshb03-2026, vanshb03-2027 |
 | [AArete](https://go.vansh.nyc/Mn) | Data Architecture and Engineering Intern | Chicago, IL |  | 2026-09-08 | 78 | vanshb03-2026, vanshb03-2027 |
-| [AnaVation](https://go.vansh.nyc/1eE) | Computer Science Intern | San Antonio, TX |  | 2026-09-08 | 78 | vanshb03-2026, vanshb03-2027 |
 | [M3 USA](https://go.vansh.nyc/1tm) | AI Engineering Intern (Remote) | Remote, United States |  | 2026-09-08 | 78 | vanshb03-2026, vanshb03-2027 |
 | [M3USA](https://go.vansh.nyc/1eD) | AI Engineering Intern | Remote, United States |  | 2026-09-08 | 78 | vanshb03-2026, vanshb03-2027 |
 | [fab2](https://go.vansh.nyc/1lr) | Embedded Software Engineering Intern | Austin, TX, San Francisco, CA |  | 2026-09-05 | 81 | vanshb03-2026, vanshb03-2027 |
