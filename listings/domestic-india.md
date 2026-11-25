@@ -4,7 +4,7 @@
 
 **A standalone list, not part of the rest of this repo.** It is not fed by the auto-refresh pipeline used for the categories above and does not integrate with the application tracker (`scripts/track.py`). The companies below are checked directly against their own public career-site APIs every ~3 days -- no AI judgment, no aggregators, just a plain scraper like the one used for the rest of this repo.
 
-Last automated check: 2026-11-22 16:49 UTC
+Last automated check: 2026-11-25 18:55 UTC
 
 ## Confirmed open postings (auto-checked every 3 days)
 
@@ -12,6 +12,7 @@ Last automated check: 2026-11-22 16:49 UTC
 
 | Role | Location | Link |
 |---|---|---|
+| Software Dev Engineer I, Amazon University Talent Acquisition | Bengaluru | [Apply](https://www.amazon.jobs/en/jobs/10611128/software-dev-engineer-i-amazon-university-talent-acquisition) |
 | Financial Analyst Intern | Bengaluru | [Apply](https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern) |
 
 ### Adobe
