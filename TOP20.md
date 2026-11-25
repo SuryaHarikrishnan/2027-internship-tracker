@@ -8,9 +8,9 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Microsoft** | Research Intern - AI Systems Architecture - Efficient LLM Inference | Redmond, WA | Summer 2026 | 2026-11-25 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557079428) |
-| 2 | **Meta** | Battery Engineer Intern - Battery Systems Engineering | Sunnyvale, CA | N/A | 2026-11-24 (1d ago) | [Apply](https://www.metacareers.com/jobs/1165674205921515) |
-| 3 | **NVIDIA** | Developer Technology Intern, AI | Santa Clara, CA |  | 2026-11-24 (1d ago) | [Apply](https://go.vansh.nyc/1Im) |
+| 1 | **NVIDIA** | Software Engineering Intern, Simulation Technology | Santa Clara, CA |  | 2026-11-25 (0d ago) | [Apply](https://go.vansh.nyc/1J0) |
+| 2 | **Microsoft** | Research Intern - AI Systems Architecture - Efficient LLM Inference | Redmond, WA | Summer 2026 | 2026-11-25 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557079428) |
+| 3 | **Meta** | Battery Engineer Intern - Battery Systems Engineering | Sunnyvale, CA | N/A | 2026-11-24 (1d ago) | [Apply](https://www.metacareers.com/jobs/1165674205921515) |
 | 4 | **Amazon** | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | Summer 2027 | 2026-11-23 (2d ago) | [Apply](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) |
 | 5 | **Samsung** | LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation | San Jose, CA | N/A | 2026-11-25 (0d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) |
 | 6 | **KPMG** | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | N/A | 2026-11-24 (1d ago) | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (25d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-25 04:03 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-25 16:11 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
