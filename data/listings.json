@@ -1,5 +1,214 @@
 [
   {
+    "date_updated": 1795663139,
+    "url": "https://go.vansh.nyc/1dn",
+    "locations": [
+      "Westchester, IL"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Ingredion",
+    "title": "AI & Data Scientist Intern",
+    "source": "vanshb03",
+    "id": "24a438a2-801b-4e57-9472-cd8eb3e524da",
+    "date_posted": 1793689544,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795662322,
+    "url": "https://go.vansh.nyc/1K5",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "OpenSesame",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "d32951fa-233c-40c3-baf5-edc4cb5afdb0",
+    "date_posted": 1795651200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795662322,
+    "url": "https://go.vansh.nyc/1K6",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "ManTech",
+    "title": "Developer Intern, C++",
+    "source": "vanshb03",
+    "id": "9c2e390a-3b9f-4dc9-bdc8-473c4ddf6612",
+    "date_posted": 1795651200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "QuEra Computing",
+    "id": "7fe3a334-d820-4526-b73b-f72bcf8288ee",
+    "title": "Technical Product Management Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1795660056,
+    "date_posted": 1795650285,
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/QuEra-Computing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "fbf4266e-b848-473e-8302-c9828621276d",
+    "title": "Machine Learning Engineer Intern - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1795660021,
+    "date_posted": 1795659939,
+    "url": "https://lifeattiktok.com/search/7712192759532357893",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1795659457,
+    "url": "https://go.vansh.nyc/1K2",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Cantor Fitzgerald",
+    "title": "Technology Infrastructure & Automation Intern",
+    "source": "vanshb03",
+    "id": "c6ebf4e3-3e14-46f6-85d6-9543217bd847",
+    "date_posted": 1795564800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "OpenSesame",
+    "id": "04493088-dacd-4059-920a-cf86ac5d3a7e",
+    "title": "Product Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1795659333,
+    "date_posted": 1795650473,
+    "url": "https://boards.greenhouse.io/opensesame/jobs/8418204",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/OpenSesame",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "OpenSesame",
+    "id": "c4e37c25-c2af-42ad-a27a-13daa426ddf8",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1795659323,
+    "date_posted": 1795650391,
+    "url": "https://boards.greenhouse.io/opensesame/jobs/8418272",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/OpenSesame",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1795655676,
+    "url": "https://go.vansh.nyc/1K1",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "FormFactor",
+    "title": "AI/ML Engineering Intern",
+    "source": "vanshb03",
+    "id": "ac3afb09-800e-4402-9414-a9981946e8c8",
+    "date_posted": 1795493383,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1795653916,
     "url": "https://go.vansh.nyc/1K0",
     "locations": [
@@ -12,27 +221,6 @@
     "source": "vanshb03",
     "id": "eb0b75f5-d298-4b25-9b49-032e114c4492",
     "date_posted": 1795653560,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1795653543,
-    "url": "https://go.vansh.nyc/1JY",
-    "locations": [
-      "Boston, MA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "QuEra Computing",
-    "title": "Technical Product Management Intern",
-    "source": "vanshb03",
-    "id": "bf15ce68-0414-4ee9-89de-085cf96c786d",
-    "date_posted": 1795650843,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -12930,7 +13118,7 @@
     "company_name": "Mawer Investment Management",
     "id": "9c2fdf55-0def-44f9-99a4-da99bea4e316",
     "title": "AI Engineer Student Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -18226,7 +18414,7 @@
     "company_name": "CAS",
     "id": "a3321497-bc73-4221-b04b-32490b84a5f3",
     "title": "Business Data Analytics Intern - AI/ML Focus",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -24893,7 +25081,7 @@
     "company_name": "Ecliptic Enterprises",
     "id": "9ebeb8b0-e1e7-483c-8646-705fcf78e1f5",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27833,7 +28021,7 @@
     "company_name": "Angel Host",
     "id": "77f0d4c4-57a5-49b8-81ed-085e150c6551",
     "title": "AI Product Engineer Intern Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Winter 2027"
@@ -79618,27 +79806,6 @@
   },
   {
     "date_updated": 1793689722,
-    "url": "https://go.vansh.nyc/1dn",
-    "locations": [
-      "Westchester, IL"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Ingredion",
-    "title": "AI & Data Scientist Intern",
-    "source": "vanshb03",
-    "id": "24a438a2-801b-4e57-9472-cd8eb3e524da",
-    "date_posted": 1793689544,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793689722,
     "url": "https://go.vansh.nyc/1do",
     "locations": [
       "Westchester, IL"
@@ -99837,7 +100004,7 @@
     "company_name": "Meta",
     "id": "14fe6917-aa52-43f8-b938-83b67d70feaa",
     "title": "Research Scientist Intern - AI Infra",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -103724,7 +103891,7 @@
     "company_name": "Indie",
     "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
     "title": "Design Verification Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -103753,7 +103920,7 @@
     "company_name": "Indie",
     "id": "07aad510-60aa-4f59-a810-1efbb9d74d6f",
     "title": "Applications Software Developer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -209035,7 +209202,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -344144,7 +344311,7 @@
     "company_name": "Susquehanna International Group (SIG)",
     "id": "249582ff-82d0-4883-adda-90d4315e8a98",
     "title": "Trading System Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -369137,7 +369304,7 @@
     "company_name": "Susquehanna International Group (SIG)",
     "id": "5e40a228-3721-4f88-96d5-3f59b73be6c4",
     "title": "Quantitative Strategy Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -473326,6 +473493,32 @@
   },
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "RR Donnelley",
+    "id": "f2db2a06-e967-4715-b18f-6310475b6485",
+    "title": "Application Developer Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1775084222,
+    "date_posted": 1775081004,
+    "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000118179454",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/RR-Donnelley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Taylor Corporation",
     "id": "f201c497-c19f-4727-9663-f17f05fcb19b",
@@ -476702,391 +476895,6 @@
     "degrees": [
       "PhD"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GoDaddy",
-    "id": "1de82141-d20a-4e12-8b80-a08b04c261fc",
-    "title": "Trainee \u2013 Engineering",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1774921141,
-    "date_posted": 1774919952,
-    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7672252003",
-    "locations": [
-      "Kirkland, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/GoDaddy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GoDaddy",
-    "id": "4fc80120-9b7a-40aa-a85c-03ffb8651c9b",
-    "title": "Engineering Intern",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1774921032,
-    "date_posted": 1774919952,
-    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7672242003",
-    "locations": [
-      "Kirkland, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/GoDaddy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "GoDaddy",
-    "id": "921b28fb-70ac-42e6-a6ae-4be2681b4c58",
-    "title": "Trainee Data Storytelling and Analytics",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1774921000,
-    "date_posted": 1774919952,
-    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7672230003",
-    "locations": [
-      "Kirkland, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/GoDaddy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Point72",
-    "id": "bb8619dc-9ece-472c-ba31-1325f586291c",
-    "title": "AI Intern - Long/Short Equities",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774920951,
-    "date_posted": 1774919917,
-    "url": "https://boards.greenhouse.io/point72/jobs/8486146002",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Point72",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GoDaddy",
-    "id": "10c67a70-3879-4890-90f2-60b3d9e4e148",
-    "title": "Trainee \u2013 Product Operations",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1774920781,
-    "date_posted": 1774919953,
-    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7680693003",
-    "locations": [
-      "Kirkland, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/GoDaddy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Samsung",
-    "id": "452961c3-a79d-476b-bb50-e206123ec063",
-    "title": "Software Engineer Backend Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774919952,
-    "date_posted": 1774919290,
-    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Engineer--Backend-Internship_R115950",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Samsung",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "87c4798f-208e-4f29-895a-37bcfe8f6e0f",
-    "title": "Machine Learning Engineer - Search Ads",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1774919894,
-    "date_posted": 1774919590,
-    "url": "https://lifeattiktok.com/search/7623166667125508357",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Myriad Genetics",
-    "id": "bb027426-0ba1-43aa-8038-f73bc6bcf086",
-    "title": "Software Engineer Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1774919819,
-    "date_posted": 1774919355,
-    "url": "https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6020",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Myriad-Genetics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "X Development",
-    "id": "b13cef48-3596-4cff-9044-ddb5dfb0853d",
-    "title": "PhD Residency - Machine Learning for Waste Characterization",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2027"
-    ],
-    "date_updated": 1774919810,
-    "date_posted": 1774919313,
-    "url": "https://x.company/careers/8486140002?gh_jid=8486140002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/X-Development",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Accenture",
-    "id": "1a5e2252-f2cb-450b-8782-563753e360d1",
-    "title": "Youth Apprenticeship 2 - Technology NAELFY26",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774919801,
-    "date_posted": 1774919461,
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/CareerWise-Youth-Apprenticeship-2---Technology-NAELFY26_R00321766",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Accenture-FS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "RR Donnelley",
-    "id": "a81cf77b-dded-4170-83bd-72e0867ff648",
-    "title": "Application Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774919800,
-    "date_posted": 1774919024,
-    "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000117759513",
-    "locations": [
-      "Logan, UT"
-    ],
-    "company_url": "https://simplify.jobs/c/RR-Donnelley",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Myriad Genetics",
-    "id": "0a453355-5ded-48dc-b1dc-22662e9ebe38",
-    "title": "Software Engineer Architect \u2013 Technology Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774919779,
-    "date_posted": 1774919351,
-    "url": "https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6018",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Myriad-Genetics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "411b3542-fea3-4d69-9491-dea180fbc135",
-    "title": "Machine Learning Engineer Intern - App Ads",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1774919701,
-    "date_posted": 1774919590,
-    "url": "https://lifeattiktok.com/search/7623166673809770757",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Solenis",
-    "id": "6252672a-b599-4b72-80ea-70eac36db79b",
-    "title": "Undergraduate Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774919521,
-    "date_posted": 1774919193,
-    "url": "https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/United-States-of-America-Georgia-Remote/Undergraduate-Intern_R0028796",
-    "locations": [
-      "Georgia"
-    ],
-    "company_url": "https://simplify.jobs/c/1bf9da30-deb4-4682-adb3-3ceae6896981",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Toyota Research Institute",
-    "id": "8ff9b4c4-05af-4f81-9617-cbdc968a6737",
-    "title": "AI Research Intern - Wellbeing - Communities & Organizations",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1774919521,
-    "date_posted": 1774919149,
-    "url": "https://jobs.lever.co/tri/b7a8b8fd-4825-48be-b478-f39fbe846011/apply",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]

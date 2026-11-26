@@ -1,4 +1,4 @@
-# Product Management (284)
+# Product Management (286)
 
 [← back to index](../README.md)
 
@@ -6,6 +6,8 @@
 |---|---|---|---|---|---|---|
 | [Total Quality Logistics](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765) | Product Management Intern | Cincinnati, OH | Summer 2027 | 2026-11-25 | 1 | simplify-2026 |
 | [Total Quality Logistics](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757) | AI Product Intern | Cincinnati, OH | Summer 2027 | 2026-11-25 | 1 | simplify-2026 |
+| [OpenSesame](https://boards.greenhouse.io/opensesame/jobs/8418204) | Product Intern | Remote in USA | Summer 2027 | 2026-11-25 | 1 | simplify-2026 |
+| [QuEra Computing](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) | Technical Product Management Intern | Boston, MA | N/A | 2026-11-25 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Docusign](https://careers.docusign.com/jobs/32541?icims=1&lang=en-us) | Product Manager Intern | Seattle, WA, SF | N/A | 2026-11-25 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Docusign](https://careers.docusign.com/jobs/32212?icims=1&lang=en-us) | Product Manager Intern - Abuse Protection | Seattle, WA, SF | N/A | 2026-11-25 | 1 | simplify-2026 |
 | [Ancestry](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505) | Product Manager Co-op - DNA to Family History - Bridges | Remote in USA | N/A | 2026-11-25 | 1 | simplify-2026 |

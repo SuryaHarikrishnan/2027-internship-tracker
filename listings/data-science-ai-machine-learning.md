@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (1755)
+# Data Science, AI & Machine Learning (1753)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [TikTok](https://lifeattiktok.com/search/7712192759532357893) | Machine Learning Engineer Intern - PhD | Seattle, WA | Summer 2027 | 2026-11-26 | 0 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557097217) | Research Intern - Machine Learning for Biology and Healthcare | Redmond, WA | N/A | 2026-11-26 | 0 | simplify-2026 |
 | [Total Quality Logistics](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) | Data Science & Analytics Intern | Cincinnati, OH | Summer 2027 | 2026-11-25 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Jack Henry](https://jackhenry.avature.net/careers/JobDetail/17682) | Enterprise Pricing & Data Analytics Intern | Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfield, MO, Overland Park, KS | Summer 2027 | 2026-11-25 | 1 | simplify-2026 |
@@ -62,7 +63,6 @@
 | [Acuity Insurance](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) | Data Analytics Intern - Data Science | Sheboygan, WI | Summer 2027 | 2026-11-21 | 5 | simplify-2026 |
 | [Blue Bird](https://recruiting.ultipro.com/BLU1004BBBC/JobBoard/1dfd3da7-cc1c-4f67-a1ca-2de669150f8c/OpportunityDetail?opportunityId=040f49cf-a6dd-406f-958c-bd411122159a) | Data Analytics Intern | Macon, GA | Summer 2026 | 2026-11-20 | 6 | simplify-2026 |
 | [Fidelity Bank](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) | Digital Operations Analyst Intern | Wichita, KS | N/A | 2026-11-20 | 6 | simplify-2026 |
-| [Mawer Investment Management](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) | AI Engineer Student Intern | Calgary, AB, Canada | Winter 2027 | 2026-11-20 | 6 | simplify-2026 |
 | [Great Southern Wood Preserving](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1) | Engineering Intern - Data Analyst | Abbeville, AL | Summer 2027 | 2026-11-20 | 6 | simplify-2026 |
 | [Trimont](https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=d8a1f727-d49d-4e7c-b75b-cc27c1f105e8) | Research Intern | Atlanta, GA | N/A | 2026-11-20 | 6 | simplify-2026 |
 | [Mom's Meals](https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply) | Data Analytics Intern | Ankeny, IA | Summer 2027 | 2026-11-20 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -117,7 +117,6 @@
 | [Park National Bank](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) | Business Intelligence Intern | Newark, OH | N/A | 2026-11-20 | 6 | simplify-2026 |
 | [Centralized Supply Chain Services](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=a2ce0cf6-5514-4817-976f-974dcc0ca215) | Data Quality Intern | Lenexa, KS | N/A | 2026-11-20 | 6 | simplify-2026 |
 | [Centralized Supply Chain Services](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=37bcf213-e2be-4f42-9935-303281746ec0) | Engineering Intern | Lenexa, KS | N/A | 2026-11-20 | 6 | simplify-2026 |
-| [CAS](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a) | Business Data Analytics Intern - AI/ML Focus | Columbus, OH | Summer 2027 | 2026-11-20 | 6 | simplify-2026 |
 | [CAS](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527) | CAS 2027 Technology Summer Intern - Business Data Governance | Columbus, OH | Summer 2027 | 2026-11-20 | 6 | simplify-2026 |
 | [CAS](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) | Chemist Intern - Content Operations | Columbus, OH | Summer 2027 | 2026-11-20 | 6 | simplify-2026 |
 | [CAS](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=6d8660ff-54d8-4ade-9efe-56e99689b4dd) | AI Research for Science Intern | Columbus, OH | N/A | 2026-11-20 | 6 | simplify-2026 |
@@ -551,7 +550,6 @@
 | [Meta](https://www.metacareers.com/jobs/1105933535765181) | Research Scientist Intern - Multiple Teams | Seattle, WA, Bellevue, WA | N/A | 2026-10-29 | 28 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2082008865811696) | Research Scientist Intern - Muse RL and Agents Team - PhD | London, UK, Zürich, Switzerland | N/A | 2026-10-29 | 28 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1847186939636437) | Research Scientist Intern - AI Core Machine Learning | London, UK | N/A | 2026-10-29 | 28 | simplify-2026 |
-| [Meta](https://www.metacareers.com/jobs/4603165899971826) | Research Scientist Intern - AI Infra | Menlo Park, CA | N/A | 2026-10-29 | 28 | simplify-2026 |
 | [FreshCut Paper](https://apply.workable.com/freshcutpaper/j/15253B7DD4/apply) | Business Insights & Analytics Co-op Intern | Concord, NH | Winter 2027 | 2026-10-29 | 28 | simplify-2026 |
 | [AXA](https://careers.axa.com/jobs/25498?icims=1) | Underwriting Data & Analytics Intern | NYC | Summer 2027 | 2026-10-29 | 28 | simplify-2026 |
 | [Huawei](https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1) | Intern Researcher - AI Agents | Montreal, QC, Canada | N/A | 2026-10-29 | 28 | simplify-2026 |

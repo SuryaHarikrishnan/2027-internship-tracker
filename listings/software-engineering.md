@@ -1,10 +1,11 @@
-# Software Engineering (1366)
+# Software Engineering (1367)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Total Quality Logistics](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763) | Software Development Intern | Cincinnati, OH | Summer 2027 | 2026-11-25 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [OpenSesame](https://boards.greenhouse.io/opensesame/jobs/8418272) | Software Engineer Intern | Remote in USA | Summer 2027 | 2026-11-25 | 1 | simplify-2026 |
 | [Veeva Systems](https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply) | Software Engineer Intern | Pleasanton, CA | Summer 2027 | 2026-11-25 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Veeva Systems](https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply) | Software Engineer Intern | Boston, MA | Summer 2027 | 2026-11-25 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [ManTech](https://mantech.avature.net/en_US/careers/JobDetail/67268) | C++ Developer Intern | Lexington Park, MD | Summer 2027 | 2026-11-25 | 1 | simplify-2026 |
@@ -131,6 +132,7 @@
 | [Sedaro](https://sedarotech.bamboohr.com/careers/95/) | Compiler Intern - Simulator | Arlington County, Arlington, VA | N/A | 2026-11-17 | 9 | simplify-2026 |
 | [Sedaro](https://sedarotech.bamboohr.com/careers/97/) | Software Engineer Intern | Arlington County, Arlington, VA | N/A | 2026-11-17 | 9 | simplify-2026 |
 | [Critical Environment Technologies](https://cetci.bamboohr.com/careers/92/) | Computer Science Co-op | Delta, BC, Canada | N/A | 2026-11-17 | 9 | simplify-2026 |
+| [Angel Host](https://angelhost.bamboohr.com/careers/123/) | AI Product Engineer Intern Co-op | Montreal, QC, Canada | Winter 2026, Winter 2027 | 2026-11-17 | 9 | simplify-2026 |
 | [ECM Tek](https://ecmtek.bamboohr.com/careers/51/) | Developer Intern - Python Development | Nashville, TN | N/A | 2026-11-17 | 9 | simplify-2026 |
 | [Birdseye Security Solutions](https://birdseyeaccount.bamboohr.com/careers/286/) | Software Developer Intern | Mississauga, ON, Canada | N/A | 2026-11-17 | 9 | simplify-2026 |
 | [IPConfigure](https://ipconfigure.bamboohr.com/careers/71/) | Software Development for Video Surveillance Software Intern | Norfolk, VA | N/A | 2026-11-17 | 9 | simplify-2026 |
@@ -770,7 +772,6 @@
 | [Charter Manufacturing](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129) | Digital Integration Intern | Mequon, WI | Summer 2027 | 2026-09-22 | 65 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) | R&D Intern - AI Research Engineer | Mason, OH | Summer 2027, Summer 2026 | 2026-09-22 | 65 | simplify-2026 |
 | [Geneva Trading](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) | C++ Developer Intern | Chicago, IL | Summer 2026 | 2026-09-21 | 66 | simplify-2026 |
-| [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Yarmouth, ME, Orono, ME, Falmouth, ME | Summer 2027 | 2026-09-21 | 66 | simplify-2026 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Plano, TX | Summer 2027 | 2026-09-21 | 66 | simplify-2026 |
 | [Rodan Energy Solutions](https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027) | AI Solutions Co-op | Mississauga, ON, Canada | Winter 2027 | 2026-09-21 | 66 | simplify-2026 |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293) | Summer Internship - Technology | Johns Creek, GA | Summer 2027 | 2026-09-21 | 66 | simplify-2026 |
