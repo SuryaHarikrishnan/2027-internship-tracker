@@ -1,5 +1,47 @@
 [
   {
+    "date_updated": 1795717038,
+    "url": "https://go.vansh.nyc/h6",
+    "locations": [
+      "Richmond Hill, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Trimble",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "f74f172a-ca58-493f-b5b4-de835edd606c",
+    "date_posted": 1792738800,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795711693,
+    "url": "https://go.vansh.nyc/93",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Atoms",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "fd0a610d-af0e-4d87-ae0a-60f8896e3173",
+    "date_posted": 1791961200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "Hardware",
     "company_name": "AMD",
@@ -4011,7 +4053,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "5c4ff4e4-2ba8-4244-9b38-08135d57623f",
     "title": "Robotics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -104177,7 +104219,7 @@
     "company_name": "Indie",
     "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
     "title": "Design Verification Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -126615,48 +126657,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1792898314,
-    "url": "https://go.vansh.nyc/93",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Atoms",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "fd0a610d-af0e-4d87-ae0a-60f8896e3173",
-    "date_posted": 1791961200,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1792898314,
-    "url": "https://go.vansh.nyc/h6",
-    "locations": [
-      "Richmond Hill, Canada"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Trimble",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "f74f172a-ca58-493f-b5b4-de835edd606c",
-    "date_posted": 1792738800,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Spring",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -209514,7 +209514,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -226100,7 +226100,7 @@
     "company_name": "Citadel Securities",
     "id": "25dd4ce6-5b41-41fb-9f9c-dabce0749a16",
     "title": "Quantitative Researcher Intern - US",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -369498,7 +369498,7 @@
     "company_name": "Citadel Securities",
     "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
     "title": "Quantitative Trader Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -369556,7 +369556,7 @@
     "company_name": "Citadel Securities",
     "id": "c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -373126,7 +373126,7 @@
     "company_name": "Citadel Securities",
     "id": "8f8172aa-6806-412b-b161-9e3f526a849c",
     "title": "Quantitative Researcher PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -373206,7 +373206,7 @@
     "company_name": "Citadel Securities",
     "id": "40090818-c9a2-4104-9627-111a5b9cd079",
     "title": "Quantitative Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

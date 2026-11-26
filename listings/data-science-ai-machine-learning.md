@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1751)
+# Data Science, AI & Machine Learning (1750)
 
 [← back to index](../README.md)
 
@@ -32,7 +32,6 @@
 | [WSP](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) | Geographic Information Systems Science Intern | Denver, CO | Summer 2027 | 2026-11-24 | 2 | simplify-2026 |
 | [City of Campbell River](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | Winter 2027 | 2026-11-24 | 2 | simplify-2026 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) | Artificial Intelligence and Complex Systems Intern | Laurel, MD | Summer 2027 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us) | Robotics Intern | Laurel, MD | N/A | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [PatientPoint](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) | Data Engineer Intern | Cincinnati, OH | Summer 2026 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Sparksoft](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007) | Business / Data Analyst Intern | Maryland | N/A | 2026-11-24 | 2 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) | Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 | 2026-11-24 | 2 | simplify-2026 |

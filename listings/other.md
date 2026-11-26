@@ -1,4 +1,4 @@
-# Other (1859)
+# Other (1857)
 
 [← back to index](../README.md)
 
@@ -1181,7 +1181,6 @@
 | [ETC](https://go.vansh.nyc/Qj) | Software Engineer Intern | Middleton, WI |  | 2026-10-23 | 34 | vanshb03-2026, vanshb03-2027 |
 | [Americo Financial Life and Annuity](https://go.vansh.nyc/Qh) | Artificial Intelligence Intern | Kansas City, MO |  | 2026-10-23 | 34 | vanshb03-2026, vanshb03-2027 |
 | [Americo Financial Life and Annuity](https://go.vansh.nyc/Qi) | Software Development Intern | Kansas City, MO |  | 2026-10-23 | 34 | vanshb03-2026, vanshb03-2027 |
-| [Trimble](https://go.vansh.nyc/h6) | Software Engineering Intern | Richmond Hill, Canada |  | 2026-10-23 | 34 | vanshb03-2026, vanshb03-2027 |
 | [ASML](https://go.vansh.nyc/gY) | Application Software QA Engineer Intern | San Jose, CA |  | 2026-10-23 | 34 | vanshb03-2026, vanshb03-2027 |
 | [TELUS Digital](https://go.vansh.nyc/hb) | Software Engineering Co-op | Vancouver, Canada |  | 2026-10-23 | 34 | vanshb03-2026, vanshb03-2027 |
 | [CVS Health](https://go.vansh.nyc/gu) | Software Engineering Intern, Data & Intelligence | New York, NY |  | 2026-10-23 | 34 | vanshb03-2026, vanshb03-2027 |
@@ -1387,7 +1386,6 @@
 | [Figure](https://go.vansh.nyc/Cq) | Embedded Software Engineer Intern, Platform | San Jose, CA |  | 2026-10-14 | 43 | vanshb03-2026, vanshb03-2027 |
 | [Interstates](https://go.vansh.nyc/1tI) | Cyber Security Intern | Sioux Falls, SD |  | 2026-10-14 | 43 | vanshb03-2026, vanshb03-2027 |
 | [Tenstorrent](https://go.vansh.nyc/1np) | Systems Intern, Multiple Teams | Toronto, Canada, Vancouver, Canada |  | 2026-10-14 | 43 | vanshb03-2026, vanshb03-2027 |
-| [Atoms](https://go.vansh.nyc/93) | Software Engineering Intern | Seattle, WA |  | 2026-10-14 | 43 | vanshb03-2026, vanshb03-2027 |
 | [Cboe Global Markets](https://go.vansh.nyc/94) | Data Pipeline Engineer Intern | Kansas City, MO |  | 2026-10-14 | 43 | vanshb03-2026, vanshb03-2027 |
 | [GE Vernova](https://go.vansh.nyc/96) | Grid Foundational Models Intern, AGI | Bellevue, WA |  | 2026-10-14 | 43 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://go.vansh.nyc/98) | Software Engineer Intern, Crypto & Cross Domain Solutions | Scottsdale, AZ |  | 2026-10-14 | 43 | vanshb03-2026, vanshb03-2027 |
