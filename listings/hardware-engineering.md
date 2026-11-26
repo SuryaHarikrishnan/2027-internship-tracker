@@ -1,4 +1,4 @@
-# Hardware Engineering (854)
+# Hardware Engineering (852)
 
 [← back to index](../README.md)
 
@@ -244,7 +244,6 @@
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721862542) | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | Summer 2027 | 2026-10-30 | 27 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) | Device Engineering Intern - Silicon Photonics | Malta, NY | Summer 2027 | 2026-10-30 | 27 | simplify-2026 |
 | [Toyota Research Institute](https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3/apply) | Human Interactive Driving Intern - Platform Research Systems Integration | Los Altos, CA | N/A | 2026-10-29 | 28 | simplify-2026 |
-| [Loft Orbital](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) | Test Engineering Intern - Test Engineering | Golden, CO | Summer 2027 | 2026-10-29 | 28 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | VLSI CAD Timing Intern - Applied AI | Santa Clara, CA, United States | Summer 2027 | 2026-10-29 | 28 | simplify-2026 |
 | [Carrier Global](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677) | Lab Assistant Engineer Co-op | Fort Wayne, IN | N/A | 2026-10-29 | 28 | simplify-2026 |
 | [Altera](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749) | FPGA Software Design Engineer Intern | Marlow, UK | N/A | 2026-10-29 | 28 | simplify-2026 |
@@ -382,7 +381,6 @@
 | [Meta](https://www.metacareers.com/jobs/2773227806411499) | Display Array Modeling Engineer Intern | Sunnyvale, CA | N/A | 2026-10-14 | 43 | simplify-2026 |
 | [Formlabs](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) | Hardware Systems Integration Intern | Somerville, MA | Summer 2027 | 2026-10-14 | 43 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623) | Validation/Characterization Engineer Intern | Santa Clara, CA | N/A | 2026-10-14 | 43 | simplify-2026 |
-| [Indie](https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007) | Design Verification Engineer Intern | Aliso Viejo, CA | N/A | 2026-10-14 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Apple](https://jobs.apple.com/en-us/details/200688723) | Formal Verification Framework for Hardware IPs Validation Intern | London, UK | N/A | 2026-10-14 | 43 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada | N/A | 2026-10-14 | 43 | simplify-2026 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) | Firmware Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-10-14 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |

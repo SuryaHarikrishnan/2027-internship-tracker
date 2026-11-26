@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1750)
+# Data Science, AI & Machine Learning (1749)
 
 [← back to index](../README.md)
 
@@ -31,10 +31,9 @@
 | [Kimley-Horn](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) | Data Science Intern | Mesa, AZ | Summer 2027 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [WSP](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) | Geographic Information Systems Science Intern | Denver, CO | Summer 2027 | 2026-11-24 | 2 | simplify-2026 |
 | [City of Campbell River](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | Winter 2027 | 2026-11-24 | 2 | simplify-2026 |
-| [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) | Artificial Intelligence and Complex Systems Intern | Laurel, MD | Summer 2027 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [PatientPoint](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) | Data Engineer Intern | Cincinnati, OH | Summer 2026 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Sparksoft](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007) | Business / Data Analyst Intern | Maryland | N/A | 2026-11-24 | 2 | simplify-2026 |
-| [Medpace](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) | Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 | 2026-11-24 | 2 | simplify-2026 |
+| [Medpace](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) | Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4731948006) | Finance Data Analyst Intern - Finance | NYC | N/A | 2026-11-24 | 2 | simplify-2026 |
 | [KPMG](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | N/A | 2026-11-24 | 2 | simplify-2026 |
 | [Synopsys](https://synopsys.avature.net/careers/JobDetail/19801) | Materials Data Intern | Cambridge, UK | Summer 2026 | 2026-11-24 | 2 | simplify-2026 |

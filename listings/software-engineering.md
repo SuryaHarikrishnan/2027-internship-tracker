@@ -1,4 +1,4 @@
-# Software Engineering (1366)
+# Software Engineering (1364)
 
 [← back to index](../README.md)
 
@@ -534,7 +534,6 @@
 | [Engramme](https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?embed=true) | Back-End Software Engineer Co-op Intern | SF | N/A | 2026-10-15 | 42 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | Compiler Engineer Intern | Toronto, ON, Canada | N/A | 2026-10-15 | 42 | simplify-2026 |
 | [Expedia Group](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545) | Mobile Engineer Intern | London, UK | Summer 2027 | 2026-10-15 | 42 | simplify-2026 |
-| [Atoms](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002) | Software Engineer Intern | Seattle, WA | Winter 2027 | 2026-10-14 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) | Manufacturing AI Engineering Intern | Hopewell Junction, NY | Summer 2027 | 2026-10-14 | 43 | simplify-2026 |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780) | Software Engineer Intern | Johns Creek, GA | Summer 2027 | 2026-10-14 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true) | Manufacturing Software Engineer Intern | San Mateo, CA | Winter 2027 | 2026-10-14 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -616,7 +615,6 @@
 | [Dryft](https://jobs.ashbyhq.com/dryft/d4c7d1cd-a4e3-440e-ad53-4dab3391d883/application?embed=true) | Member of Technical Staff Intern | SF, Munich, Germany | N/A | 2026-10-06 | 51 | simplify-2026 |
 | [Pure Storage](https://job-boards.greenhouse.io/purestorage/jobs/8249749) | Software Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-10-06 | 51 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Meta](https://www.metacareers.com/jobs/1952991802037374) | Software Engineer Intern | Seattle, WA, Menlo Park, CA, NYC, Bellevue, WA | N/A | 2026-10-06 | 51 | simplify-2026 |
-| [Meta](https://www.metacareers.com/jobs/2180490782513668) | Software Engineer Intern - Machine Learning | Seattle, WA, Burlingame, CA, Redmond, WA, Menlo Park, CA, NYC, Bellevue, WA, Sunnyvale, CA | Summer 2026 | 2026-10-06 | 51 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/945520495299801) | Software Engineer Intern - Systems and Infrastructure - PhD | Seattle, WA, Burlingame, CA, Redmond, WA, Menlo Park, CA, NYC, Bellevue, WA, Sunnyvale, CA | Winter 2026, Spring 2026, Summer 2026, Fall 2026 | 2026-10-06 | 51 | simplify-2026 |
 | [DocuSign](https://careers.docusign.com/jobs/30480?icims=1) | Software Engineer Intern | Seattle, WA | N/A | 2026-10-06 | 51 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54319?icims=1) | Software Development Engineer Intern - 6G Digital Twin and Visualization Platform | Santa Rosa, CA | N/A | 2026-10-06 | 51 | simplify-2026 |
