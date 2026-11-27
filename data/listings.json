@@ -1,5 +1,68 @@
 [
   {
+    "date_updated": 1795801889,
+    "url": "https://go.vansh.nyc/Ne",
+    "locations": [
+      "Acton, MA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "company_name": "Insulet Corporation",
+    "title": "Embedded Software Test Engineering Co-op",
+    "source": "vanshb03",
+    "id": "9cb0afa6-139a-4ff6-a4d6-d766805037d9",
+    "date_posted": 1789511848,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Spring",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795801889,
+    "url": "https://go.vansh.nyc/190",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "TikTok",
+    "title": "Software Engineer Project Intern, Platform Efficiency",
+    "source": "vanshb03",
+    "id": "3aecf07f-7524-4261-a4ab-e44b72f0abfc",
+    "date_posted": 1793525855,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795800117,
+    "url": "https://go.vansh.nyc/MC",
+    "locations": [
+      "Acton, MA"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "Insulet Corporation",
+    "title": "Embedded Software Engineering Co-op",
+    "source": "vanshb03",
+    "id": "dd278132-7eee-4d71-8807-c59ac1bf7ac9",
+    "date_posted": 1788998400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1795789323,
     "url": "https://go.vansh.nyc/1JD",
     "locations": [
@@ -10713,7 +10776,7 @@
     "company_name": "JP Morgan Chase",
     "id": "3b853022-5629-46f0-9410-31a4e4d1518e",
     "title": "Applied AI Intern - HR CDAO",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -11143,7 +11206,7 @@
     "company_name": "Milliman",
     "id": "fcb08f49-b9ed-4c1d-87f3-7191ff497a33",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -42412,7 +42475,7 @@
     "company_name": "Capital Power",
     "id": "51b7a000-c0de-4e4b-9552-970634b7d2e7",
     "title": "Student Intern - Data Science",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -77767,7 +77830,7 @@
     "company_name": "Roku",
     "id": "2a48b4e4-b815-484d-ba1f-6a52419c38d8",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -77882,7 +77945,7 @@
     "company_name": "Roku",
     "id": "3c3b3366-cadb-4c09-be76-10099a6168e7",
     "title": "AI Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -89954,27 +90017,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793554900,
-    "url": "https://go.vansh.nyc/190",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TikTok",
-    "title": "Software Engineer Project Intern, Platform Efficiency",
-    "source": "vanshb03",
-    "id": "3aecf07f-7524-4261-a4ab-e44b72f0abfc",
-    "date_posted": 1793525855,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -121781,27 +121823,6 @@
     ]
   },
   {
-    "date_updated": 1793024036,
-    "url": "https://go.vansh.nyc/Ne",
-    "locations": [
-      "Acton, MA"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "Insulet Corporation",
-    "title": "Embedded Software Test Engineering Co-op",
-    "source": "vanshb03",
-    "id": "9cb0afa6-139a-4ff6-a4d6-d766805037d9",
-    "date_posted": 1789511848,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Spring",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "Tencent",
@@ -122338,27 +122359,6 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793023513,
-    "url": "https://go.vansh.nyc/MC",
-    "locations": [
-      "Acton, MA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Insulet Corporation",
-    "title": "Embedded Software Engineering Co-op",
-    "source": "vanshb03",
-    "id": "dd278132-7eee-4d71-8807-c59ac1bf7ac9",
-    "date_posted": 1788998400,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Winter",
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
@@ -211187,7 +211187,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -242607,7 +242607,7 @@
     "company_name": "Citizens Financial Group",
     "id": "3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
     "title": "Data Engineer Intern - Enterprise Technology & Security",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -293946,7 +293946,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "6def32a2-38d9-47cf-8a10-2e7a23785b01",
     "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027"

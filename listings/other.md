@@ -1,4 +1,4 @@
-# Other (1839)
+# Other (1836)
 
 [← back to index](../README.md)
 
@@ -871,7 +871,6 @@
 | [ParetoHealth](https://go.vansh.nyc/19e) | Software Engineering Intern | Philadelphia, PA |  | 2026-11-02 | 25 | vanshb03-2026, vanshb03-2027 |
 | [Siemens Digital Industries Software](https://go.vansh.nyc/18U) | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI |  | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [Siemens Digital Industries Software](https://go.vansh.nyc/18V) | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL |  | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
-| [TikTok](https://go.vansh.nyc/190) | Software Engineer Project Intern, Platform Efficiency | San Jose, CA |  | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17N) | Machine Learning Engineer Intern, Brand Ads | San Jose, CA |  | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17Q) | Machine Learning Engineer Intern, Ads Signal & Measurement | San Jose, CA |  | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17R) | Data Science Intern, TikTok Integrity and Safety | San Jose, CA |  | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
@@ -1608,7 +1607,6 @@
 | [Bedrock Robotics](https://go.vansh.nyc/1eL) | Software Engineer Intern, Fleet Platform | New York, NY |  | 2026-09-16 | 72 | vanshb03-2026, vanshb03-2027 |
 | [Antares](https://go.vansh.nyc/17A) | Multiphysics Software Intern | Los Angeles, CA |  | 2026-09-16 | 72 | vanshb03-2026, vanshb03-2027 |
 | [LLNL](https://go.vansh.nyc/1tp) | Data Science Institute Undergraduate Intern | Livermore, CA |  | 2026-09-16 | 72 | vanshb03-2026, vanshb03-2027 |
-| [Insulet Corporation](https://go.vansh.nyc/Ne) | Embedded Software Test Engineering Co-op | Acton, MA |  | 2026-09-15 | 73 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/Iw) | Sensors Subsystem Engineering Intern, Multiple Teams | Markham, Canada |  | 2026-09-15 | 73 | vanshb03-2026, vanshb03-2027 |
 | [Lunar Outpost](https://go.vansh.nyc/Iv) | Embedded Software Engineer Intern | Golden, CO |  | 2026-09-15 | 73 | vanshb03-2026, vanshb03-2027 |
 | [AfterQuery](https://go.vansh.nyc/Iu) | Research Scholar Intern | San Francisco, CA |  | 2026-09-15 | 73 | vanshb03-2026, vanshb03-2027 |
@@ -1640,7 +1638,6 @@
 | [Viam](https://go.vansh.nyc/1fY) | Software Engineering Intern | New York, NY |  | 2026-09-10 | 78 | vanshb03-2026, vanshb03-2027 |
 | [Danaher Corporation](https://go.vansh.nyc/N9) | IT Security Intern | Coralville, IA |  | 2026-09-10 | 78 | vanshb03-2026, vanshb03-2027 |
 | [Silabs](https://go.vansh.nyc/JM) | Design Engineering Intern | Austin, TX |  | 2026-09-10 | 78 | vanshb03-2026, vanshb03-2027 |
-| [Insulet Corporation](https://go.vansh.nyc/MC) | Embedded Software Engineering Co-op | Acton, MA |  | 2026-09-10 | 78 | vanshb03-2026, vanshb03-2027 |
 | [Domino Data Lab](https://go.vansh.nyc/Qk) | Forward Deployed Engineer Intern | New York, NY |  | 2026-09-09 | 79 | vanshb03-2026, vanshb03-2027 |
 | [Barnes & Thornburg](https://go.vansh.nyc/N8) | Information Security Intern | Indianapolis, IN |  | 2026-09-09 | 79 | vanshb03-2026, vanshb03-2027 |
 | [Navy Federal](https://go.vansh.nyc/Mx) | Business Intelligence Analyst Associate Intern | Vienna, VA |  | 2026-09-09 | 79 | vanshb03-2026, vanshb03-2027 |
