@@ -1,4 +1,4 @@
-# Hardware Engineering (854)
+# Hardware Engineering (852)
 
 [← back to index](../README.md)
 
@@ -544,8 +544,6 @@
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213421) | Electrical Hardware Engineer Intern | Spring, TX | N/A | 2026-09-29 | 59 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1) | PhD Research Intern - AI Accelerator Design and VLSI | Santa Clara, CA | Winter 2026 | 2026-09-29 | 59 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917) | Display Systems Engineering Co-op | Cedar Rapids, IA | Summer 2027, Fall 2027 | 2026-09-29 | 59 | simplify-2026 |
-| [The Focusrite Group](https://apply.workable.com/focusrite/j/6520BBBFF1/apply) | Embedded Software Placement Intern | High Wycombe, UK | N/A | 2026-09-28 | 60 | simplify-2026 |
-| [The Focusrite Group](https://apply.workable.com/focusrite/j/4296FAD493/apply) | Hardware – Electronics and Firmware Intern | High Wycombe, UK | N/A | 2026-09-28 | 60 | simplify-2026 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546) | Integrated Circuit Design Engineer Intern | Allen, TX | Summer 2027 | 2026-09-28 | 60 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-NJ-07014/1413358200/?ats=successfactors) | Software Engineer Intern | Clinton, MD, Clifton, NJ | N/A | 2026-09-28 | 60 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/744000152261929) | Development Engineer Co-op Intern | Rochester, MN | Winter 2027 | 2026-09-28 | 60 | simplify-2026 |

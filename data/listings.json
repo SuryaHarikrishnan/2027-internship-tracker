@@ -1,5 +1,153 @@
 [
   {
+    "date_updated": 1795814261,
+    "url": "https://go.vansh.nyc/1Lv",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "The Home Depot",
+    "title": "Full Stack Software Developer Intern",
+    "source": "vanshb03",
+    "id": "bdf1ad33-cb3a-41ed-b13e-32f21e4d2b59",
+    "date_posted": 1795813771,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795812679,
+    "url": "https://go.vansh.nyc/1os",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": false,
+    "company_name": "NBCUniversal",
+    "title": "Technology Intern, NBC News Group",
+    "source": "vanshb03",
+    "id": "52f5760e-dae5-458d-bfa8-e641f56ab637",
+    "date_posted": 1794182400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795812469,
+    "url": "https://go.vansh.nyc/1Ls",
+    "locations": [
+      "Jasper, IN",
+      "Evansville, IN"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "German American Bank",
+    "title": "Information Security Intern",
+    "source": "vanshb03",
+    "id": "6898716b-12fe-4306-b978-9d09af5b6e8e",
+    "date_posted": 1795113150,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795812469,
+    "url": "https://go.vansh.nyc/1Lt",
+    "locations": [
+      "Whitehall, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "German American Bank",
+    "title": "Information Security Intern",
+    "source": "vanshb03",
+    "id": "994031ef-825a-43ec-87f1-15d69e3430cf",
+    "date_posted": 1795113310,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795812469,
+    "url": "https://go.vansh.nyc/1Lu",
+    "locations": [
+      "Glen Allen, VA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Richmond National",
+    "title": "Cyber Security Intern",
+    "source": "vanshb03",
+    "id": "bb62ad09-070a-47b9-a726-80e19dd3dcb3",
+    "date_posted": 1795684820,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795810902,
+    "url": "https://go.vansh.nyc/189",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "company_name": "TikTok",
+    "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service",
+    "source": "vanshb03",
+    "id": "73f3f4cf-7bb8-4171-a50f-6201f97987d8",
+    "date_posted": 1793525855,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1795810671,
+    "url": "https://go.vansh.nyc/1Lq",
+    "locations": [
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "T-Mobile",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "47283f97-656f-4d99-ac71-8cede4bc1766",
+    "date_posted": 1795619123,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1795801889,
     "url": "https://go.vansh.nyc/Ne",
     "locations": [
@@ -15158,7 +15306,7 @@
     "company_name": "Convverge",
     "id": "fbb75aa4-661e-464a-988f-c30cfd40ddb5",
     "title": "Junior Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -23975,7 +24123,7 @@
     "company_name": "HERE Technologies",
     "id": "5d5eab3c-e51f-4838-9594-8b80a78973ba",
     "title": "Applied AI Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -40561,7 +40709,7 @@
     "company_name": "Huawei",
     "id": "f285604b-c7e7-4333-9901-870a103aaca1",
     "title": "Engineer Co-op - Intelligent Real-Time Operating System",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -61848,27 +61996,6 @@
     "source": "vanshb03",
     "id": "f90cee08-366b-4306-a755-32cbd02a1bd3",
     "date_posted": 1794239453,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1794240330,
-    "url": "https://go.vansh.nyc/1os",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NBCUniversal",
-    "title": "Technology Intern, NBC News Group",
-    "source": "vanshb03",
-    "id": "52f5760e-dae5-458d-bfa8-e641f56ab637",
-    "date_posted": 1794182400,
     "company_url": "",
     "is_visible": true,
     "season": "Summer",
@@ -90775,27 +90902,6 @@
     "title": "Research Engineer Intern, Monetization Technology - Business Integrity",
     "source": "vanshb03",
     "id": "433bc58d-1ee0-4ead-98af-d08dae367cbb",
-    "date_posted": 1793525855,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer",
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "date_updated": 1793526799,
-    "url": "https://go.vansh.nyc/189",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "TikTok",
-    "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service",
-    "source": "vanshb03",
-    "id": "73f3f4cf-7bb8-4171-a50f-6201f97987d8",
     "date_posted": 1793525855,
     "company_url": "",
     "is_visible": true,
@@ -153428,7 +153534,7 @@
     "company_name": "The Focusrite Group",
     "id": "ff723fb0-8021-476f-94d8-a14675f7883f",
     "title": "Production Systems Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -153454,7 +153560,7 @@
     "company_name": "The Focusrite Group",
     "id": "f940f70a-cfb4-4dbb-bb7a-154fb8d11427",
     "title": "Hardware \u2013 Electronics and Firmware Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -153478,7 +153584,7 @@
     "company_name": "The Focusrite Group",
     "id": "b0fb54b5-eefe-4969-b998-22da93d6c774",
     "title": "Software Developer Placement Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -178706,7 +178812,7 @@
     "company_name": "The Focusrite Group",
     "id": "8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
     "title": "Embedded Software Placement Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -242339,7 +242445,7 @@
     "company_name": "Citizens Financial Group",
     "id": "df13ab5f-9eb4-4357-86df-afc457026297",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
