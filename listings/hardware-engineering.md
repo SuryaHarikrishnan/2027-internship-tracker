@@ -1,9 +1,10 @@
-# Hardware Engineering (852)
+# Hardware Engineering (854)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [PQShield](https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101) | Hardware Engineer Intern - Placement Year | Oxford, UK | Summer 2027 | 2026-11-26 | 1 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/102333?icims=1&lang=en-us) | Hardware Engineering Intern | Belfast, UK | Summer 2027 | 2026-11-26 | 1 | simplify-2026 |
 | [Digital Control](https://apply.workable.com/digital-control/j/AB9A181560/apply) | Software Engineer Intern | Kent, WA | Summer 2027 | 2026-11-25 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Acuity](https://careers.acuityinc.com/job/Decatur-Engineering-Intern-Labs-GA-30035/1453809400/?ats=successfactors) | Engineering Intern - Labs | Decatur, GA | Summer 2026 | 2026-11-25 | 2 | simplify-2026 |
@@ -712,6 +713,7 @@
 | [Solidigm](https://jobs.smartrecruiters.com/Solidigm/744000147613779) | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA | Summer 2027 | 2026-09-05 | 83 | simplify-2026 |
 | [Solidigm](https://jobs.smartrecruiters.com/Solidigm/744000147613629) | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA, Longmont, CO, Sacramento, CA | Summer 2027 | 2026-09-05 | 83 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/279743) | Electrical Engineer Intern - Energy Engineering | Palo Alto, CA, Austin, TX | Spring 2027 | 2026-09-04 | 84 | simplify-2026 |
+| [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113) | Optical Test Co-op Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-04 | 84 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) | Firmware Engineer Intern | Santa Clara, CA | Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028 | 2026-09-04 | 84 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515) | IC Validation Engineer Intern - MS - Multiple Teams | Irvine, CA, Santa Clara, CA, Westlake Village, CA | Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028 | 2026-09-04 | 84 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Analog--Mixed-Signal---Circuit-Design_2604142) | Analog Design Intern | Irvine, CA, Santa Clara, CA, Westlake Village, CA | Winter 2026 | 2026-09-04 | 84 | simplify-2026 |

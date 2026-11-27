@@ -18,11 +18,11 @@ Ranked by freshness + company tier + role category.
 | 8 | **TikTok** | Machine Learning Engineer Intern - PhD | Seattle, WA | Summer 2027 | 2026-11-26 (1d ago) | [Apply](https://lifeattiktok.com/search/7712192759532357893) |
 | 9 | **Amazon** | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | Summer 2027 | 2026-11-23 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) |
 | 10 | **Apple** | Software Engineer Intern - App Intelligence Experience | Cambridge, UK | N/A | 2026-11-20 (7d ago) | [Apply](https://jobs.apple.com/en-us/details/200696199) |
-| 11 | **Lockheed Martin** | FPGA Engineer Intern, Security Focus | Owego, NY |  | 2026-11-25 (2d ago) | [Apply](https://go.vansh.nyc/1Ke) |
-| 12 | **Cisco** | Security Engineer I Intern | Research Triangle Park, NC |  | 2026-11-25 (2d ago) | [Apply](https://go.vansh.nyc/1JA) |
-| 13 | **Samsung** | LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation | San Jose, CA | N/A | 2026-11-25 (2d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) |
-| 14 | **KPMG** | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | N/A | 2026-11-24 (3d ago) | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) |
-| 15 | **Anduril** | Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | 2026-11-18 (9d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) |
+| 11 | **Samsung** | Data Engineer Intern | Plano, TX |  | 2026-11-24 (3d ago) | [Apply](https://go.vansh.nyc/1L3) |
+| 12 | **Northrop Grumman** | Cybersecurity Intern | Linthicum, MD |  | 2026-11-25 (2d ago) | [Apply](https://go.vansh.nyc/1KT) |
+| 13 | **Genentech** | Software Engineer Intern, Robotics Lab Automation | South San Francisco, CA |  | 2026-11-24 (3d ago) | [Apply](https://go.vansh.nyc/1KV) |
+| 14 | **Lockheed Martin** | FPGA Engineer Intern, Security Focus | Owego, NY |  | 2026-11-25 (2d ago) | [Apply](https://go.vansh.nyc/1Ke) |
+| 15 | **Cisco** | Security Engineer I Intern | Research Triangle Park, NC |  | 2026-11-25 (2d ago) | [Apply](https://go.vansh.nyc/1JA) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (27d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-27 00:57 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-27 03:34 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

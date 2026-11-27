@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (1749)
+# Data Science, AI & Machine Learning (1752)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Encepta](https://encepta.bamboohr.com/careers/181/) | GIS Data Technician Intern | Victoria, BC, Canada, Burnaby, BC, Canada | Winter 2026 | 2026-11-27 | 0 | simplify-2026 |
 | [DEPT](https://job-boards.greenhouse.io/dept/jobs/8414501) | AI Engineer Trainee - AI Engineer Traineeship | Netherlands, United Kingdom | Winter 2027 | 2026-11-26 | 1 | simplify-2026 |
 | [Verisk](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213) | Integration Analyst Intern | London, UK | Summer 2027 | 2026-11-26 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7712192759532357893) | Machine Learning Engineer Intern - PhD | Seattle, WA | Summer 2027 | 2026-11-26 | 1 | simplify-2026 |
@@ -227,6 +228,8 @@
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000161844052) | Research Intern: Multimodal Foundation Models for Healthcare | Pittsburgh, PA | N/A | 2026-11-16 | 11 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000161841434) | Research Intern: Multimodal Sensor Foundation Models | Pittsburgh, PA | N/A | 2026-11-16 | 11 | simplify-2026 |
 | [Octaura](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | Data Engineer Intern | NYC | Summer 2027 | 2026-11-16 | 11 | simplify-2026 |
+| [ICONIQ Capital](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973) | Data & Analytics Intern | NYC | Summer 2027 | 2026-11-16 | 11 | simplify-2026 |
+| [ICONIQ Capital](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972) | Data Science Intern - Science | SF | Summer 2027 | 2026-11-16 | 11 | simplify-2026 |
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) | Data Analyst Intern | Chicago, IL | Summer 2027 | 2026-11-16 | 11 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771) | Data Science & Analytics Intern | San Jose, CA | N/A | 2026-11-16 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [CME Group](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Data-Analytics-Summer-Internship_35048-1) | Data Analytics Intern | London, UK | N/A | 2026-11-16 | 11 | simplify-2026 |
