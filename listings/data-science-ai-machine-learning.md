@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1752)
+# Data Science, AI & Machine Learning (1748)
 
 [← back to index](../README.md)
 
@@ -40,7 +40,6 @@
 | [Synopsys](https://synopsys.avature.net/careers/JobDetail/19801) | Materials Data Intern | Cambridge, UK | Summer 2026 | 2026-11-24 | 3 | simplify-2026 |
 | [Fervo Energy](https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009) | GIS Intern | Salt Lake City, UT | Summer 2026 | 2026-11-24 | 3 | simplify-2026 |
 | [Culver's](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79) | Business Analytics Intern | Prairie du Sac, WI | Summer 2027 | 2026-11-23 | 4 | simplify-2026 |
-| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549) | Applied AI Intern - HR CDAO | NYC | Summer 2027 | 2026-11-23 | 4 | simplify-2026 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367) | Energy and Utilities Software Product Design and AI Development Intern | Raleigh, NC | N/A | 2026-11-23 | 4 | simplify-2026 |
 | [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420) | Data Scientist Intern | Indianapolis, IN | N/A | 2026-11-23 | 4 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/2357948038329505) | Research Scientist Intern - Spatial-temporal Consistent 4D Generation | Redmond, WA | N/A | 2026-11-23 | 4 | simplify-2026 |
@@ -1121,7 +1120,7 @@
 | [Pacific Life](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828) | Data Engineering Intern | Newport Beach, CA | Summer 2027 | 2026-09-25 | 63 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Mill](https://job-boards.greenhouse.io/mill/jobs/4737741005) | Computer Vision Intern - Multiple Teams | San Bruno, CA | N/A | 2026-09-24 | 64 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8227640) | Intern - Multiple Teams | Mountain View, CA | Summer 2027 | 2026-09-24 | 64 | simplify-2026 |
-| [Brightstar.AI](https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true) | Applied AI Engineer Intern - Advancing Agent Quality | Miami, FL | Winter 2026 | 2026-09-24 | 64 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7623541709721307445/detail) | Student Researcher - Seed Model - LLM | San Jose, CA | N/A | 2026-09-24 | 64 | simplify-2026 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false) | Machine Learning Engineer Intern | Bala Cynwyd, PA | Winter 2026 | 2026-09-24 | 64 | simplify-2026 |
 | [Enterprise Holdings](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false) | Data Engineer Intern - IT | St. Louis, MO | Summer 2027 | 2026-09-24 | 64 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7688841262493485365/detail) | Student Researcher Intern - Seed Model - Seed Responsible AI | San Jose, CA | N/A | 2026-09-24 | 64 | simplify-2026 |
@@ -1508,7 +1507,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK | Seattle, WA | Summer 2027 | 2026-08-11 | 108 | simplify-2026 |
 | [Red Rabbit Robotics](https://apply.workable.com/red-rabbit-robotics/j/5B8938477D/apply) | Mechatronics Engineer Intern | Chicago, IL | Winter 2026 | 2026-08-11 | 108 | simplify-2026 |
 | [OpenMind](https://jobs.ashbyhq.com/openmind/7367a37a-37d9-42d8-91d4-f4d3e42f3e29/application?embed=true) | Engineering Intern | SF | N/A | 2026-08-11 | 108 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | Sector Data Scientist Intern | NYC | Summer 2027 | 2026-08-10 | 109 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/12921?icims=1) | Data Engineer Intern - Spring 2027 | Cincinnati, OH | Spring 2027 | 2026-08-10 | 109 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7671105026009925893/detail) | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark | San Jose, CA | Summer 2027 | 2026-08-10 | 109 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7671096345243535669/detail) | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | San Jose, CA | Summer 2027 | 2026-08-10 | 109 | simplify-2026 |
@@ -1691,8 +1689,13 @@
 | [Huawei](https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms) | Engineer Intern - RL Post-Training for LLMs | Vancouver, BC, Canada | N/A | 2026-06-08 | 172 | simplify-2026 |
 | [XPENG Motors](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) | AI Infrastructure Onboard Performance Intern | Santa Clara, CA | Summer 2026 | 2026-06-06 | 174 | simplify-2026 |
 | [Rippling](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) | Machine Learning Software Engineer Intern | SF | Winter 2027 | 2026-06-05 | 175 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7623552847531493685/detail) | Student Researcher Intern - Seed Model - AI Foundation Model Infrastructure | Seattle, WA | Summer 2027 | 2026-06-04 | 176 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7623547506849679621/detail) | Student Researcher Intern - Seed Model - Multimodal Interaction & World Model | San Jose, CA | N/A | 2026-06-04 | 176 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | Research Scientist Intern - Security for AI | San Jose, CA | Summer 2026 | 2026-06-04 | 176 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7629161683395889413/detail) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA | Summer 2026 | 2026-06-04 | 176 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7623552947364317445/detail) | Student Researcher Intern | Seattle, WA | Summer 2027 | 2026-06-04 | 176 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7623543230203939077/detail) | Student Researcher - Seed Model - Vision | San Jose, CA | N/A | 2026-06-04 | 176 | simplify-2026 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7623551375612627253/detail) | Student Researcher - Seed Model - Speech | San Jose, CA | N/A | 2026-06-04 | 176 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) | Electricity + Natural Gas Analyst Intern | Ardmore, PA | Summer 2027 | 2026-06-04 | 176 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7645070235035044101/detail) | Applied Research Intern - AI Safety Security - Global Tech Research Program | San Jose, CA | Summer 2026 | 2026-06-03 | 177 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7538943251756910856/detail) | Student Researcher Intern | San Jose, CA | Summer 2026 | 2026-06-03 | 177 | simplify-2026 |
@@ -1749,10 +1752,3 @@
 | [Cloudforce](https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4) | AI Agent Builder Intern | National Harbor, MD | Summer 2026 | 2026-04-08 | 233 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7564337316874848517) | Data Analyst Project Intern | London, UK | Summer 2026 | 2026-04-07 | 234 | simplify-2026 |
 | [Huawei](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | N/A | 2026-04-01 | 240 | simplify-2026 |
-| [HEXAWARE](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) | Intern Data Engineer | United States | Summer 2026 | 2026-04-01 | 240 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7623547506849679621/detail) | Student Researcher - Multimodal Interaction and World Model | San Jose, CA | N/A | 2026-04-01 | 240 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7623548747208739077/detail) | Student Researcher | San Jose, CA | N/A | 2026-04-01 | 240 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7623541709721307445/detail) | Student Researcher - Large Language Model | San Jose, CA | N/A | 2026-04-01 | 240 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7623543230203939077/detail) | Student Researcher - Vision Foundation Model | San Jose, CA | N/A | 2026-04-01 | 240 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7623551375612627253/detail) | Student Researcher - Speech Foundation Model | San Jose, CA | N/A | 2026-04-01 | 240 | simplify-2026 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7623539152655632693/detail) | Student Researcher - Large Language Model - Seed | San Jose, CA | N/A | 2026-04-01 | 240 | simplify-2026 |
