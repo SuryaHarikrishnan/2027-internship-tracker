@@ -1,4 +1,4 @@
-# Quantitative Finance (198)
+# Quantitative Finance (197)
 
 [← back to index](../README.md)
 
@@ -6,7 +6,6 @@
 |---|---|---|---|---|---|---|
 | [Citi](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747) | Markets Analyst Intern - Quantitative Analysis | NYC | Summer 2027 | 2026-11-28 | 0 | simplify-2026 |
 | [Charles Schwab](https://career-schwab.icims.com/jobs/126255/job?mobile=true&needsRedirect=false) | Treasury Modeling Intern | Lone Tree, CO | Summer 2027 | 2026-11-24 | 4 | simplify-2026 |
-| [First PREMIER Bank](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/Customer-Care-Intern_R-514-1) | Customer Care Intern | Sioux Falls, SD | N/A | 2026-11-24 | 4 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049) | Markets Quantitative Analyst Intern | NYC | Summer 2028 | 2026-11-23 | 5 | simplify-2026 |
 | [Southwest Power Pool](https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=053a469a-5814-43e3-aff9-af40031df83d) | Market Monitoring Intern | Little Rock, AR | Summer 2027 | 2026-11-20 | 8 | simplify-2026 |
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us) | Powerfolio Data Analyst Intern | Houston, TX | Summer 2027 | 2026-11-20 | 8 | simplify-2026 |
@@ -19,7 +18,6 @@
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232) | Quantitative Trading & Research Fellow | London, UK | Spring 2027 | 2026-11-16 | 12 | simplify-2026 |
 | [Syntax](https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply) | Index Analyst Intern | NYC | Summer 2027 | 2026-11-14 | 14 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2028-Internship-_R1417) | Commodities Trading Summer Analyst Intern | Houston, TX, Stamford, CT | Summer 2028 | 2026-11-12 | 16 | simplify-2026 |
-| [StepStone Group](https://boards.greenhouse.io/embed/job_app?token=8368989) | AI Quant Summer Analyst Intern | La Jolla, San Diego, CA | Summer 2027 | 2026-11-11 | 17 | simplify-2026 |
 | [American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Summer-Associate_R0005746) | Quantitative Intern | Santa Clara, CA | N/A | 2026-11-11 | 17 | simplify-2026 |
 | [Aspect Capital](https://aspectcapital-94a5ce.careers.hibob.com/jobs/4e8b6e36-a8e5-490d-ae8a-622f68c389f9) | Research Intern | London, UK | N/A | 2026-11-09 | 19 | simplify-2026 |
 | [Voya Financial](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Mortgage-Derivatives_JR0033396) | Summer Student Intern - Mortgage Derivatives | Atlanta, GA | N/A | 2026-11-09 | 19 | simplify-2026 |
@@ -165,6 +163,7 @@
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | Quantitative Trader Intern - Quantitative Trader | NYC | Summer 2027 | 2026-07-14 | 137 | simplify-2026 |
 | [Voloridge](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Quantitative Research Intern | Jupiter, FL | Summer 2027 | 2026-07-14 | 137 | simplify-2026 |
 | [Center for Strategic and International Studies](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009) | Research Intern - Economics Program | Washington, DC | Fall 2026 | 2026-07-14 | 137 | simplify-2026 |
+| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Algorithm Developer Intern - Quant Research & Trading | London, UK, NYC, Singapore | N/A | 2026-07-13 | 138 | simplify-2026 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7818540) | Quantitative Research Intern | Chicago, IL, NYC | Winter 2028, Spring 2028, Summer 2028 | 2026-07-13 | 138 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [DRW](https://job-boards.greenhouse.io/drweng/jobs/7668776) | Quantitative Trading Analyst Intern | Chicago, IL | Summer 2026 | 2026-07-13 | 138 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Quantitative Research Intern | Chicago, IL | Summer 2027 | 2026-07-13 | 138 | simplify-2026 |

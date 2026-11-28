@@ -1,10 +1,12 @@
-# Other (1823)
+# Other (1824)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Citi](https://go.vansh.nyc/1LL) | Markets Analyst Intern, Quantitative Analysis | New York, NY |  | 2026-11-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Amazon](https://go.vansh.nyc/1M0) | Associate Delivery Consultant Intern, AIML, AWS Professional Services | Toronto, Canada |  | 2026-11-28 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Amazon](https://go.vansh.nyc/1M1) | Associate Delivery Consultant Intern, AIML, AWS Professional Services | Montreal, Canada |  | 2026-11-28 | 0 | vanshb03-2026, vanshb03-2027 |
 | [CARFAX Canada](https://go.vansh.nyc/1Ly) | Developer Co-op | London, Canada |  | 2026-11-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [The Home Depot](https://go.vansh.nyc/1Lv) | Full Stack Software Developer Intern | Canada |  | 2026-11-27 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Ciena](https://go.vansh.nyc/1LK) | Automation Engineer Intern, Global Technical Support | Ottawa, Canada |  | 2026-11-27 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -457,7 +459,6 @@
 | [AeroVironment](https://go.vansh.nyc/1vd) | Software Engineering Intern | Lawrence, KS |  | 2026-11-11 | 17 | vanshb03-2026, vanshb03-2027 |
 | [EP Wealth Advisors](https://go.vansh.nyc/1F5) | Cybersecurity Intern | Torrance, CA |  | 2026-11-11 | 17 | vanshb03-2026, vanshb03-2027 |
 | [EP Wealth Advisors](https://go.vansh.nyc/1F4) | Data AI Engineering Intern | Torrance, CA, Austin, TX |  | 2026-11-11 | 17 | vanshb03-2026, vanshb03-2027 |
-| [StepStone Group](https://go.vansh.nyc/1vT) | AI Quant Analyst Intern | La Jolla, CA, San Diego, CA |  | 2026-11-11 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Paccar](https://go.vansh.nyc/1x9) | Data Engineering Intern | United States |  | 2026-11-11 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Lynco Products](https://go.vansh.nyc/1x8) | Front End Development Intern | West Milan, IL |  | 2026-11-11 | 17 | vanshb03-2026, vanshb03-2027 |
 | [Koniag Cyber Solutions](https://go.vansh.nyc/1x7) | AI Operations Intern | Minneapolis, MN |  | 2026-11-11 | 17 | vanshb03-2026, vanshb03-2027 |
