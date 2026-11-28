@@ -10,19 +10,19 @@ Ranked by freshness + company tier + role category.
 |---|---|---|---|---|---|---|
 | 1 | **Microsoft** | Research Intern - Distributed AI systems for agentic workflows | Cambridge, UK | N/A | 2026-11-27 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557106762) |
 | 2 | **Apple** | Software Engineer Interview Intern - Apple Services | London, UK | N/A | 2026-11-27 (1d ago) | [Apply](https://jobs.apple.com/en-us/details/200696753) |
-| 3 | **Waymo** | Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation | Mountain View, CA | Summer 2027 | 2026-11-25 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8415223) |
-| 4 | **Tesla** | Robotics Audio DSP Engineer Intern | Palo Alto, CA | Summer 2027 | 2026-11-25 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/291227) |
-| 5 | **Coinbase** | Security Engineer Intern | New York, NY |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1Ju) |
-| 6 | **NVIDIA** | Software Engineering Intern, Simulation Technology | Santa Clara, CA |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1J0) |
+| 3 | **NVIDIA** | Software Engineer Intern, Simulation Technology | Santa Clara, CA, Canada, United States |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1LG) |
+| 4 | **Waymo** | Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation | Mountain View, CA | Summer 2027 | 2026-11-25 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8415223) |
+| 5 | **Tesla** | Robotics Audio DSP Engineer Intern | Palo Alto, CA | Summer 2027 | 2026-11-25 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/291227) |
+| 6 | **Coinbase** | Security Engineer Intern | New York, NY |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1Ju) |
 | 7 | **Meta** | Battery Engineer Intern - Battery Systems Engineering | Sunnyvale, CA | N/A | 2026-11-24 (4d ago) | [Apply](https://www.metacareers.com/jobs/1165674205921515) |
 | 8 | **Amazon** | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | Summer 2027 | 2026-11-23 (5d ago) | [Apply](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) |
-| 9 | **Siemens** | Software Engineer Intern | United States |  | 2026-11-26 (2d ago) | [Apply](https://go.vansh.nyc/1Lk) |
-| 10 | **Northrop Grumman** | Cybersecurity Intern | Linthicum, MD |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1KT) |
-| 11 | **AMD** | Hardware Engineering Intern | Belfast, UK | Summer 2027 | 2026-11-26 (2d ago) | [Apply](https://careers.amd.com/jobs/102333?icims=1&lang=en-us) |
-| 12 | **Lockheed Martin** | FPGA Engineer Intern, Security Focus | Owego, NY |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1Ke) |
-| 13 | **TikTok** | Machine Learning Engineer Intern - PhD | Seattle, WA | Summer 2027 | 2026-11-26 (2d ago) | [Apply](https://lifeattiktok.com/search/7712192759532357893) |
-| 14 | **Cisco** | Security Engineer I Intern | Research Triangle Park, NC |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1JA) |
-| 15 | **Samsung** | LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation | San Jose, CA | N/A | 2026-11-25 (3d ago) | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) |
+| 9 | **Genentech** | Clinical Pharmacology Intern | South SF | Summer 2027 | 2026-11-25 (3d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Clinical-Pharmacology_202611-129678) |
+| 10 | **Siemens** | Software Engineer Intern | United States |  | 2026-11-26 (2d ago) | [Apply](https://go.vansh.nyc/1Lk) |
+| 11 | **Northrop Grumman** | Cybersecurity Intern | Linthicum, MD |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1KT) |
+| 12 | **AMD** | Hardware Engineering Intern | Belfast, UK | Summer 2027 | 2026-11-26 (2d ago) | [Apply](https://careers.amd.com/jobs/102333?icims=1&lang=en-us) |
+| 13 | **Lockheed Martin** | FPGA Engineer Intern, Security Focus | Owego, NY |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1Ke) |
+| 14 | **TikTok** | Machine Learning Engineer Intern - PhD | Seattle, WA | Summer 2027 | 2026-11-26 (2d ago) | [Apply](https://lifeattiktok.com/search/7712192759532357893) |
+| 15 | **Cisco** | Security Engineer I Intern | Research Triangle Park, NC |  | 2026-11-25 (3d ago) | [Apply](https://go.vansh.nyc/1JA) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (28d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-28 00:22 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-28 03:11 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
